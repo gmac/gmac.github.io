@@ -1,0 +1,558 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[woods]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лес]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[lights]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[свет]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[raft]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[плот]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[puddle of mud]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лужа грязи]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[eerie swamp]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мрачное болото]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[campfire remains]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[кострище]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="woods">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="woods">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="woods">
+      <en><![CDATA[Enter]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войти:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="lights">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="lights">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="lights">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="raft">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="raft">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="raft">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="puddle of mud">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="puddle of mud">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="puddle of mud">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="eerie swamp">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="eerie swamp">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="eerie swamp">
+      <en><![CDATA[Enter]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войти:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="campfire remains">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="campfire remains">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="campfire remains">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c33 noun="campfire remains" item="torches">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c33>
+    <c34 noun="campfire remains" item="torches_oil">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c34>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="campfire30000.mp3">
+      <en><![CDATA[It’s dark in there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Темно тут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="campfire30001.mp3">
+      <en><![CDATA[I should use the path.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо идти по тропинке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="campfire30002.mp3">
+      <en><![CDATA[It’s a log raft that I can use to venture into the swamp with.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Деревянный плот. Можно рискнуть перебраться через болото.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="campfire30003.mp3">
+      <en><![CDATA[A puddle of mud.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лужа грязи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="campfire30004.mp3">
+      <en><![CDATA[I’m not in the mood to eat dirt.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет никакого настроения лопать грязь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="campfire30005.mp3">
+      <en><![CDATA[This is not the time for mud baths.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не время сейчас для грязевых ванн.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="campfire30006.mp3">
+      <en><![CDATA[It’s kinda creepy how the water seems to glow with an energy of its own.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Жуть какая, вода как-будто бы сама по себе светится...]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="campfire30007.mp3">
+      <en><![CDATA[I’ll need to use the raft.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо воспользоваться плотом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="campfire30008.mp3">
+      <en><![CDATA[Seems like this fire has been doused only a short time ago. The logs are still glowing hot.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, костер погас совсем недавно. Угли все еще тлеют.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="campfire30009.mp3">
+      <en><![CDATA[Knowing my luck, I’d probably burn myself if I messed with it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[При моем везении я точно обожгусь, если туда полезу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="campfire30010.mp3">
+      <en><![CDATA[Good idea, but these torches will need to be soaked in some kind of lamp oil before their wicks will burn.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идея неплохая, но чтобы факелы нормально горели, нужно окунуть их во что-нибудь типа масла для ламп.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="campfire30011.mp3">
+      <en><![CDATA[Alright, the embers lit the torches on fire!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ага, факелы занялись от угольков!]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+  </d>
+</localize>

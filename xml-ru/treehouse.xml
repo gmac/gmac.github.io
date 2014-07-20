@@ -1,0 +1,2782 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[entrance]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[вход]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[boarded up doggy door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[заколоченная дверь для собаки]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[doggy door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь для собаки]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[doggy door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь для собаки]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[tire swing]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[качели]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[Turtle Lane street sign]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[указатель &quot;Тертл-лейн&quot;]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[Castle Road street sign]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[указатель &quot;Касл-роуд&quot;]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[treehouse]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дом на дереве]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[window]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[окно]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[window]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[окно]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[turtle fountain]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[черепаха-фонтан]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[clogged drain]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[забитый сток]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[clogged drain]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[забитый сток]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[fountain plaque]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[фонтанная табличка]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+    <n31>
+      <en><![CDATA[glowing gecko]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[светящийся геккон]]></ru>
+      <es><![CDATA[]]></es>
+    </n31>
+    <n32>
+      <en><![CDATA[glowing gecko]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[светящийся геккон]]></ru>
+      <es><![CDATA[]]></es>
+    </n32>
+    <n33>
+      <en><![CDATA[kids]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дети]]></ru>
+      <es><![CDATA[]]></es>
+    </n33>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="entrance">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="entrance">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="entrance">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="boarded up doggy door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="boarded up doggy door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="boarded up doggy door">
+      <en><![CDATA[Remove boards from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Убрать доски]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v17 noun="doggy door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="doggy door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="doggy door">
+      <en><![CDATA[Enter house through]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войти в дом]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="doggy door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="doggy door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="doggy door">
+      <en><![CDATA[Enter house through]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войти в дом]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="tire swing">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="tire swing">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="tire swing">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="Turtle Lane street sign">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="Turtle Lane street sign">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="Turtle Lane street sign">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="Castle Road street sign">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="Castle Road street sign">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="Castle Road street sign">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="treehouse">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="treehouse">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="treehouse">
+      <en><![CDATA[Climb up into]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Залезать на]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="window">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="window">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="window">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="window">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="window">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="window">
+      <en><![CDATA[Knock at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Постучать]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="turtle fountain">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="turtle fountain">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="turtle fountain">
+      <en><![CDATA[Pet]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приласкать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v69 noun="clogged drain">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="clogged drain">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="clogged drain">
+      <en><![CDATA[Unclog]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Расчистить]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v78 noun="clogged drain">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v79 noun="clogged drain">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v79>
+    <v80 noun="clogged drain">
+      <en><![CDATA[Unclog]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Расчистить]]></ru>
+      <es><![CDATA[]]></es>
+    </v80>
+    <v84 noun="fountain plaque">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v84>
+    <v85 noun="fountain plaque">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v85>
+    <v86 noun="fountain plaque">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v86>
+    <v87 noun="glowing gecko">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v87>
+    <v88 noun="glowing gecko">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v88>
+    <v89 noun="glowing gecko">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v89>
+    <v94 noun="glowing gecko">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v94>
+    <v95 noun="glowing gecko">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v95>
+    <v96 noun="glowing gecko">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v96>
+    <v104 noun="kids">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v104>
+    <v105 noun="kids">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v105>
+    <v106 noun="kids">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v106>
+    <v107 noun="kids">
+      <en><![CDATA[NewAction]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[NewAction]]></ru>
+      <es><![CDATA[]]></es>
+    </v107>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c9 noun="boarded up doggy door" item="crowbar">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c9>
+    <c10 noun="boarded up doggy door" item="metal_hook">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c10>
+    <c11 noun="boarded up doggy door" item="slingshot_rock">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c11>
+    <c12 noun="boarded up doggy door" item="bomb_cherry">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c12>
+    <c13 noun="boarded up doggy door" item="bomb_sticky">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c13>
+    <c14 noun="boarded up doggy door" item="slingshot_cherry">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c14>
+    <c15 noun="boarded up doggy door" item="slingshot_sticky">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c15>
+    <c16 noun="boarded up doggy door" item="rod">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c16>
+    <c65 noun="turtle fountain" item="kettle">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c65>
+    <c66 noun="turtle fountain" item="kettle2">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c66>
+    <c67 noun="turtle fountain" item="kettle3">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c67>
+    <c68 noun="turtle fountain" item="fishing_hook">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c68>
+    <c72 noun="clogged drain" item="fishing_hook">
+      <en><![CDATA[Clear #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот #noun#, вот #item# - очистить]]></ru>
+      <es><![CDATA[]]></es>
+    </c72>
+    <c73 noun="clogged drain" item="tweezers">
+      <en><![CDATA[Clear #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот #noun#, вот #item# - очистить]]></ru>
+      <es><![CDATA[]]></es>
+    </c73>
+    <c74 noun="clogged drain" item="metal_hook">
+      <en><![CDATA[Clear #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот #noun#, вот #item# - очистить]]></ru>
+      <es><![CDATA[]]></es>
+    </c74>
+    <c75 noun="clogged drain" item="kettle">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c75>
+    <c76 noun="clogged drain" item="kettle2">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c76>
+    <c77 noun="clogged drain" item="kettle3">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c77>
+    <c81 noun="clogged drain" item="kettle">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c81>
+    <c82 noun="clogged drain" item="kettle2">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c82>
+    <c83 noun="clogged drain" item="kettle3">
+      <en><![CDATA[Fill #item# with water from #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: использовать, чтобы наполнить водой емкость (#item# )]]></ru>
+      <es><![CDATA[]]></es>
+    </c83>
+    <c90 noun="glowing gecko" item="net">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c90>
+    <c91 noun="glowing gecko" item="firefly_jar1">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c91>
+    <c92 noun="glowing gecko" item="firefly_jar2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c92>
+    <c93 noun="glowing gecko" item="tar_bucket">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c93>
+    <c97 noun="glowing gecko" item="jar1">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c97>
+    <c98 noun="glowing gecko" item="jar2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c98>
+    <c99 noun="glowing gecko" item="jar3">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c99>
+    <c100 noun="glowing gecko" item="windsock">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c100>
+    <c101 noun="glowing gecko" item="net">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c101>
+    <c102 noun="glowing gecko" item="firefly_jar2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c102>
+    <c103 noun="glowing gecko" item="firefly_jar1">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c103>
+    <c108 noun="kids" item="trophy_kids">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c108>
+    <c109 noun="kids" item="whiskey">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c109>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="treehouse0000.mp3">
+      <en><![CDATA[Turtle Lane 27.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тертл-лейн, 27.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="treehouse0001.mp3">
+      <en><![CDATA[This is it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это он.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="treehouse0002.mp3">
+      <en><![CDATA[This is my father’s house ... my heritage.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это дом моего отца... Мое наследство.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="treehouse0003.mp3">
+      <en><![CDATA[Is anyone there!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть тут кто?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="treehouse0004.mp3">
+      <en><![CDATA[...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не-а.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="treehouse0005.mp3">
+      <en><![CDATA[No answer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никого.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="treehouse0006.mp3">
+      <en><![CDATA[The door is locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь заперта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="treehouse0007.mp3">
+      <en><![CDATA[Maybe I can find a way inside ... this is my house after all.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возможно, я смогу пробраться внутрь... В конце концов, это мой дом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="treehouse0008.mp3">
+      <en><![CDATA[Almost.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="treehouse0009.mp3">
+      <en><![CDATA[Mh ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м...]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="treehouse0010.mp3">
+      <en><![CDATA[I won’t be able to pry these boards off the door with my bare hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Голыми руками я эти доски от двери не отдеру.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="treehouse0011.mp3">
+      <en><![CDATA[Darn, all that prying snapped my crowbar. At least it got the boards off ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Черт, теперь у меня сломался ломик. Ну, хотя бы доски отошли...]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="treehouse0012.mp3">
+      <en><![CDATA[Now I just need a trained monkey that can go through that door and unlock it from the inside ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь мне нужна лишь обученная обезьянка, которая проберется через дверь и отопрет ее изнутри.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="treehouse0013.mp3">
+      <en><![CDATA[Or a dwarf.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или гном.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="treehouse0014.mp3">
+      <en><![CDATA[Or ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или...]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="treehouse0015.mp3">
+      <en><![CDATA[The Ravenhollow Youngster Squad.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодежный отряд Рэйвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="treehouse0016.mp3">
+      <en><![CDATA[Not a bad idea, but this small hook won’t provide the leverage I need to pry the boards off.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идея неплохая, но этим маленьким крючком отодрать доски не получится. Нет нужного рычага.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="treehouse0017.mp3">
+      <en><![CDATA[Shooting rocks at those boards will not be enough to remove them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бросая камни в эти доски, отбить их от двери не получится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="treehouse0018.mp3">
+      <en><![CDATA[I’d better not. I’d watch my inheritance go up in smoke if I were to catch the house on fire.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше не надо. Если подожгу свой дом, мое наследство обратится в дым.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="treehouse0019.mp3">
+      <en><![CDATA[I’d better not. I’d watch my inheritance go up in smoke if I were to catch the house on fire.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше не надо. Если подожгу свой дом, мое наследство обратится в дым.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="treehouse0020.mp3">
+      <en><![CDATA[I’d better not. I’d watch my inheritance go up in smoke if I were to catch the house on fire.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше не надо. Если подожгу свой дом, мое наследство обратится в дым.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="treehouse0021.mp3">
+      <en><![CDATA[I’d better not. I’d watch my inheritance go up in smoke if I were to catch the house on fire.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше не надо. Если подожгу свой дом, мое наследство обратится в дым.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="treehouse0022.mp3">
+      <en><![CDATA[You know, this metal rod would be the perfect tool for this job ... if only it were straight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Знаете, для этого отлично подошел бы металлический прут. Но только ровный.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="treehouse0023.mp3">
+      <en><![CDATA[I removed the boards from the doggy door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я снял доски с двери для собаки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="treehouse0024.mp3">
+      <en><![CDATA[Unfortunately, I’m a bit too big to fit through the doggy door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К несчастью, я слишком велик, чтобы пролезть через собачью дверь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="treehouse0025.mp3">
+      <en><![CDATA[I removed the boards from the doggy door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я снял доски с двери для собаки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="treehouse0026.mp3">
+      <en><![CDATA[Unfortunately, I’m a bit too big to fit through the doggy door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К несчастью, я слишком велик, чтобы пролезть через собачью дверь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="treehouse0027.mp3">
+      <en><![CDATA[Mh, this tire swing reminds me ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кстати, эта покрышка мне напомнила...]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="treehouse0028.mp3">
+      <en><![CDATA[... I haven’t seen any motor vehicles since I came to Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...что в Рэйвенхоллоу я еще не видел ни одной машины.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="treehouse0029.mp3">
+      <en><![CDATA[It’s like time stopped in Ravenhollow back in the days when things were ... a bit too quaint.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, будто время здесь остановилось, когда все было... немного старомодно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="treehouse0030.mp3">
+      <en><![CDATA[Not as long as someone might see me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, только не там, где меня могут увидеть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="treehouse0031.mp3">
+      <en><![CDATA[Once you reach a certain age it just becomes impossible for you not to look stupid sitting in a tire swing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Когда достигаешь определенного возраста, на качели уже невозможно сесть, не выглядя при этом глупо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="treehouse0032.mp3">
+      <en><![CDATA[Which is very unfortunate... I always loved tire swings.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И очень жаль... Я всегда любил такие качели.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="treehouse0033.mp3">
+      <en><![CDATA[This here is &quot;Turtle Lane&quot;. I wonder what came first ... the street name or that turtle fountain over there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это Тертл-лейн, Черепаший переулок. Интересно, что появилось первым - название улицы или вон тот фонтан с черепахой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="treehouse0034.mp3">
+      <en><![CDATA[The stairs lead down to &quot;Castle Road&quot;. And I bet that road leads directly to Castle Northwest.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ступеньки спускаются к улице Касл-роуд. А дорога эта, держу пари, ведет прямо к замку Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="treehouse0035.mp3">
+      <en><![CDATA[Look at that ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы посмотрите...]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="treehouse0036.mp3">
+      <en><![CDATA[It’s a treehouse castle. With cardboard towers and all.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это же замок на дереве. Тут башни картонные и все такое прочее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="treehouse0037.mp3">
+      <en><![CDATA[I really shouldn’t do that ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не надо бы мне этого делать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="_avatar" sound="treehouse0038.mp3">
+      <en><![CDATA[I’ll either smash that nice treehouse apart because I’m too big ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я либо раздавлю этот домик, потому что слишком велик...]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="treehouse0039.mp3">
+      <en><![CDATA[... or I’ll end up getting stuck in there as a prisoner of the treehouse castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...либо застряну здесь, и стану пленником замка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="treehouse0040.mp3">
+      <en><![CDATA[... doomed to wear an iron mask made from paper.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И буду человеком в железной маске из бумаги.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="treehouse0041.mp3">
+      <en><![CDATA[The window is nailed shut ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Окно закрыто и заколочено.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="treehouse0042.mp3">
+      <en><![CDATA[I don’t think I will fit through that window even if I could open it somehow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если бы я открыл это окно, пролезть в него все равно бы не смог.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="treehouse0043.mp3">
+      <en><![CDATA[I guess I should find another way in.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Полагаю, надо найти другой путь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="treehouse0044.mp3">
+      <en><![CDATA[It’s too dark in there to look inside.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там слишком темно, чтобы что-нибудь разглядеть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="treehouse0045.mp3">
+      <en><![CDATA[... but it seems like someone lives there. The curtains look quite clean.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но, кажется, тут кто-то живет. Занавески довольно чистые.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="treehouse0046.mp3">
+      <en><![CDATA[Hello?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй!]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="treehouse0047.mp3">
+      <en><![CDATA[No reply ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет ответа...]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="treehouse0048.mp3">
+      <en><![CDATA[Well, I’m not surprised. I wouldn’t talk to strangers who were staring through my window.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что ж, я не удивлен. Я бы тоже не разговаривал с незнакомцами, которые пялятся мне в окна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="treehouse0049.mp3">
+      <en><![CDATA[That would be rude ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это будет грубо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="treehouse0050.mp3">
+      <en><![CDATA[A turtle-shaped fountain ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Фонтан в форме черепахи...]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="treehouse0051.mp3">
+      <en><![CDATA[Hey! How did you get here so fast?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй! Как ты так быстро туда попал?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="treehouse0052.mp3">
+      <en><![CDATA[... just kidding.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Шучу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="_avatar" sound="treehouse0053.mp3">
+      <en><![CDATA[Nice turtle ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Славная черепаха...]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="treehouse0054.mp3">
+      <en><![CDATA[The kettle is already full.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник уже полон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="_avatar" sound="treehouse0055.mp3">
+      <en><![CDATA[The kettle is already full.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник уже полон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="treehouse0056.mp3">
+      <en><![CDATA[The drain is overflowing ... I think something got stuck in there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сток переполняется. Кажется, там что-то застряло.]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="treehouse0057.mp3">
+      <en><![CDATA[I need some kind of tool to get out whatever is stuck in that drain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне нужен какой-нибудь инструмент, чтобы очистить засорившийся сток.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="treehouse0058.mp3">
+      <en><![CDATA[This long fishing hook should do the job ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот этот крючок должен подойти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="_avatar" sound="treehouse0059.mp3">
+      <en><![CDATA[Wow! I pulled a handful of old coins from the drain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ух ты! Я вытянул из стока пригоршню старых монет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="treehouse0060.mp3">
+      <en><![CDATA[Maybe there’s more money down there? Bills even? I’ll try to poke a little deeper with my fishing hook.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, там есть еще деньги? Купюры? Попробую опустить крючок поглубже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="treehouse0061.mp3">
+      <en><![CDATA[Oh great, I lost the fishing hook down the drain. Well, at least I have a handful of old coins.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Замечательно. Я потерял крючок. Ну, хотя бы пригоршню старых монет выудил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="treehouse0062.mp3">
+      <en><![CDATA[Whatever is stuck in there ... I can’t get a hold of it with these tweezers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что бы там ни застряло, этим пинцетом его не выудить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="treehouse0063.mp3">
+      <en><![CDATA[This hook is too bulky to reach down into the drain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Этот крючок слишком большой, чтобы туда пролезть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="treehouse0064.mp3">
+      <en><![CDATA[I’ll fill the kettle with water.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наполню-ка я котелок водой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="treehouse0065.mp3">
+      <en><![CDATA[The kettle is already full.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник уже полон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="treehouse0066.mp3">
+      <en><![CDATA[The kettle is already full.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник уже полон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="treehouse0067.mp3">
+      <en><![CDATA[The drain is still overflowing ... I guess it didn’t help much that I dropped that fishing hook in there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слив все еще переполняется. От того, что я бросил туда крючок, толку нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="treehouse0068.mp3">
+      <en><![CDATA[I think I did all I could.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я думаю, что сделал все возможное.]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="treehouse0069.mp3">
+      <en><![CDATA[I’ll fill the kettle with water.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наполню-ка я котелок водой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="treehouse0070.mp3">
+      <en><![CDATA[The kettle is already full.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник уже полон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="treehouse0071.mp3">
+      <en><![CDATA[The kettle is already full.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник уже полон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="treehouse0072.mp3">
+      <en><![CDATA[&quot;Sea Turtle Fountain. Dedicated to all similarly slow, gentle and peaceful minded creatures.&quot;]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[&quot;Фонтан морской черепахи. Посвящается всем столь же медлительным, тихим и мирным созданиям&quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="treehouse0073.mp3">
+      <en><![CDATA[What creature is as peaceful minded as a sea turtle? A snail perhaps? Why should you dedicate a fountain to snails?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И какое же создание мирное, как черепаха? Улитка, может? А зачем посвящать фонтан улиткам?]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="treehouse0074.mp3">
+      <en><![CDATA[Well ... perhaps I am not getting the meaning. Maybe they are talking about sponges ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... Может, я просто не уловил смысл. Может, они имели в виду губок...]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="treehouse0075.mp3">
+      <en><![CDATA[Now, a sponge IS a gentle creature. They should erect sponge statues, I say.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Губка - точно тихое создание. Губки достойны не то что фонтанов, статуй.]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="treehouse0076.mp3">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="treehouse0077.mp3">
+      <en><![CDATA[Oh! There’s a small gecko sitting on the brick wall!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О! На кирпичной стене маленький геккон!]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="treehouse0078.mp3">
+      <en><![CDATA[... he seems to be glowing a little.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И он, кажется, светится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="treehouse0079.mp3">
+      <en><![CDATA[Fascinating.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Потрясающе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="treehouse0080.mp3">
+      <en><![CDATA[Hey, little guy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Привет, малыш.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="treehouse0081.mp3">
+      <en><![CDATA[I’m sure I won’t be able to catch the gecko with my bare hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Голыми руками мне геккона точно не поймать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="treehouse0082.mp3">
+      <en><![CDATA[While I could probably catch it with this net, I’ll need a jar to put it in.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сеткой поймать можно, но сначала надо найти для нее банку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="treehouse0083.mp3">
+      <en><![CDATA[No, that gecko wouldn’t fit through the bottle’s narrow neck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, геккон не пролезет через узкое горлышко бутылки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="treehouse0084.mp3">
+      <en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry gecko.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не хочу рисковать светлячками из-за голодного геккона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="treehouse0085.mp3">
+      <en><![CDATA[No, I don’t endorse animal cruelty.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не одобряю жестокое обращение с животными.]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="treehouse0086.mp3">
+      <en><![CDATA[I think this gecko will be too fast for me to try and coax it directly into this small jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сдается мне, этот геккон слишком быстрый, чтобы ловить его в маленькую баночку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="_avatar" sound="treehouse0087.mp3">
+      <en><![CDATA[This isn’t the right jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не та банка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="_avatar" sound="treehouse0088.mp3">
+      <en><![CDATA[This isn’t the right jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не та банка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="treehouse0089.mp3">
+      <en><![CDATA[Good idea. I could use this windsock as a net if I find a way to close the opening at the end.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отличная идея. Ветроуказатель можно использовать как сачок, если придумать, как закрыть дырку на другом конце.]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="_avatar" sound="treehouse0090.mp3">
+      <en><![CDATA[I caught the gecko!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я поймал геккона!]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="treehouse0091.mp3">
+      <en><![CDATA[The little guy is running around inside this net like crazy... I’ll just put him into his specimen jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Малыш мечется там, как угорелый. Посажу его в банку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="treehouse0092.mp3">
+      <en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry gecko.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не хочу рисковать светлячками из-за голодного геккона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="_avatar" sound="treehouse0093.mp3">
+      <en><![CDATA[No, the gecko wouldn’t fit through that narrow bottleneck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, геккон не пролезет через узкое горлышко бутылки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="_avatar" sound="treehouse0094.mp3">
+      <en><![CDATA[The kids look like they’re up to something.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, детишки что-то задумали.]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="treehouse0095.mp3">
+      <en><![CDATA[Hey! Do you have a minute for me, kids?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй! Ребята, с вами можно поговорить?]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="kid1" sound="treehouse0096.mp3">
+      <en><![CDATA[Attention Ravenhollow Youngster Squad!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодежный отряд Рэйвенхоллоу, внимание!]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="kid2" sound="treehouse0097.mp3">
+      <en><![CDATA[Yes, Sir!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, сэр!]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="kid2" sound="treehouse0098.mp3">
+      <en><![CDATA[Here we go, Sir!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слушаем, сэр!]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="kid3" sound="treehouse0099.mp3">
+      <en><![CDATA[Lieutenants Georgy ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лейтенанты Джорджи...]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="kid2" sound="treehouse0100.mp3">
+      <en><![CDATA[and Toby ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...и Тоби...]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="kid3" sound="treehouse0101.mp3">
+      <en><![CDATA[At your service!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...к вашим услугам!]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="kid1" sound="treehouse0102.mp3">
+      <en><![CDATA[Very well, men!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Превосходно, друзья!]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="kid1" sound="treehouse0103.mp3">
+      <en><![CDATA[How can we help, Sir?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чем можем помочь, сэр?]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="treehouse0104.mp3">
+      <en><![CDATA[Hey!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй!]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="kid3" sound="treehouse0105.mp3">
+      <en><![CDATA[We didn’t do anything wrong! We just play here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы ничего такого не делали! Мы тут просто играем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="_avatar" sound="treehouse0106.mp3">
+      <en><![CDATA[Don’t worry. I just have some questions …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не волнуйтесь. Я просто хочу кое-что спросить...]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="kid1" sound="treehouse0107.mp3">
+      <en><![CDATA[Don’t tell him anything, Lieutenant Toby! And you neither, Lieutenant Georgy!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего ему не говори, лейтенант Тоби! И ты тоже, лейтенант Джорджи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="kid2" sound="treehouse0108.mp3">
+      <en><![CDATA[Yes Captain!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, капитан!]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="kid3" sound="treehouse0109.mp3">
+      <en><![CDATA[No Captain!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, капитан!]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="kid1" sound="treehouse0110.mp3">
+      <en><![CDATA[The Ravenhollow Youngster Squad, R.Y.S., is working everyday to overthrow those meanies up at the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодежный отряд Рэйвенхоллоу, МОР, каждый день работает, чтобы свергнуть злодеев в замке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="kid2" sound="treehouse0111.mp3">
+      <en><![CDATA[Everyday … until supper.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Каждый день... до ужина.]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="kid1" sound="treehouse0112.mp3">
+      <en><![CDATA[And to keep our plans secret, we won’t tell nothin’ to no one except one of our own members ... and our moms.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И чтобы сохранить наши планы в тайне, мы не расскажем их никому, кроме наших бойцов... и мам.]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="_avatar" sound="treehouse0113.mp3">
+      <en><![CDATA[Okay, then how can I join your club?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, а можно мне тоже к вам?]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="kid1" sound="treehouse0114.mp3">
+      <en><![CDATA[Well ... I dare you to pass … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тогда вы должны будете пройти...]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="kid1" sound="treehouse0115.mp3">
+      <en><![CDATA[The Ravenhollow Youngster Squad test!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...испытание Молодежного отряда Рэйвенхоллоу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="kid2" sound="treehouse0116.mp3">
+      <en><![CDATA[Yeah, the Ravenhollow Youngster Squad test!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ага, испытание Молодежного отряда Рэйвенхоллоу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="kid3" sound="treehouse0117.mp3">
+      <en><![CDATA[Uhhh ... what was the Ravenhollow Youngster Squad test again?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э... а что там у вас за испытание Молодежного отряда Рэйвенхоллоу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="kid1" sound="treehouse0118.mp3">
+      <en><![CDATA[You need to go the Castle gate and get our trophy back from under the wing of that scary stone eagle ... to prove your worthiness!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вам нужно будет дойти до ворот замка и взять наш трофей из-под крыла страшного каменного орла, чтобы доказать свою храбрость!]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="kid3" sound="treehouse0119.mp3">
+      <en><![CDATA[But ... but no one has passed the test since you threw our trophy up there and got chased away by the Castle guard!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но с тех пор, как вы выбросили наш трофей и вас прогнала охрана замка, испытание никто не прошел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="kid1" sound="treehouse0120.mp3">
+      <en><![CDATA[Of course, Lieutenant. This is not an easy task.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разумеется, лейтенант. Это непростое задание.]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="kid1" sound="treehouse0121.mp3">
+      <en><![CDATA[But becoming an honorary member of the Ravenhollow Youngster Squad is a title that must be earned! And besides ... we really need that trophy back.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но титул почетного члена Молодежного отряда Рэйвенхоллоу просто так не дается! И, к тому же... нам очень нужен этот трофей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="_avatar" sound="treehouse0122.mp3">
+      <en><![CDATA[A golden ring!? Well then … I’ll be off to retrieve your trophy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Золотое кольцо?! Ну, что ж... пойду искать ваш трофей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="_avatar" sound="treehouse0123.mp3">
+      <en><![CDATA[What did I have to do again to become a member of your club?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Напомните, что мне надо сделать, чтобы стать членом вашего клуба?]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="_avatar" sound="treehouse0124.mp3">
+      <en><![CDATA[What does your trophy look like?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что у вас за трофей?]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="kid1" sound="treehouse0125.mp3">
+      <en><![CDATA[It’s a keyring filled with valuable tokens that we’ve collected ... and you’ll get to choose one of those tokens to keep as your membership badge!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это кольцо для ключей, на нем висят наши ценные значки. И вам надо выбрать себе один из этих значков как символ отряда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="kid2" sound="treehouse0126.mp3">
+      <en><![CDATA[I would choose the rabbit foot if I were you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На вашем месте я бы выбрал кроличью лапку!]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="kid3" sound="treehouse0127.mp3">
+      <en><![CDATA[No way, choose the golden ring that we found in the river near near that creepy old institute building!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, возьмите лучше золотое кольцо, которое мы нашли в реке у старого страшного здания института!]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="treehouse0128.mp3">
+      <en><![CDATA[I’m not a bully.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не хулиган.]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="_avatar" sound="treehouse0129.mp3">
+      <en><![CDATA[Hey kids … look what I found.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, ребята, смотрите, что я нашел.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="kid1" sound="treehouse0130.mp3">
+      <en><![CDATA[Hurray! You have returned the trophy ring to its rightful owners!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ура! Вы вернули трофей его владельцам!]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="kid1" sound="treehouse0131.mp3">
+      <en><![CDATA[You have earned our respect and trust! Hereby I declare you to be an honorary member of the Ravenhollow Youngster Squad.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы заслужили наше уважение и доверие! Настоящим объявляю вас почетным членом Молодежного отряда Рэйвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="kid1" sound="treehouse0132.mp3">
+      <en><![CDATA[You may take one item from our trophy ring ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы можете взять одну вещь с нашего кольца с трофеями.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="treehouse0133.mp3">
+      <en><![CDATA[Let’s see … the kids want me to choose my reward ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Посмотрим... детишки хотят, чтобы я выбрал себе награду.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="_avatar" sound="treehouse0134.mp3">
+      <en><![CDATA[Shall I take the rabbit foot? The lock, the blue bouncy ball on a string ... no ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, взять кроличью лапку? Замок, синий мячик на веревке... Нет...]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="treehouse0135.mp3">
+      <en><![CDATA[I choose this golden ring! According to Lionstone’s notes this must be Sebastian Zygmunt’s insignia ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возьму вот это золотое кольцо! Судя по запискам Лайонстоуна, это, должно быть, перстень Себастьяна Зигмунта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="kid1" sound="treehouse0136.mp3">
+      <en><![CDATA[You have chosen ... wisely. My brother saw an old man throw that ring into the river some years ago while waiting for a bus out of Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы выбрали... мудро. Мой брат видел, как старик несколько лет назад выбросил это кольцо в реку, ожидая автобус из Рэйвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="kid2" sound="treehouse0137.mp3">
+      <en><![CDATA[Keep that golden ring as proof and reminder that you are a trusted honorary member of our political organization.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сохраните это золотое кольцо как доказательство того, что вы - почетный член нашей политической организации.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="kid3" sound="treehouse0138.mp3">
+      <en><![CDATA[The Ravenhollow Youngster Squad!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодежного отряда Рэйвенхоллоу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="kid1" sound="treehouse0139.mp3">
+      <en><![CDATA[If you run into a problem around here, just come to us!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если у вас тут возникнут проблемы, сразу обращайтесь к нам!]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="_avatar" sound="treehouse0140.mp3">
+      <en><![CDATA[Even fake beards could not disguise the fact that these kids are under age.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже накладным бородам не скрыть того факта, что это маленькие дети.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="_avatar" sound="treehouse0141.mp3">
+      <en><![CDATA[What do you know about the house over there? Number 27.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что вы знаете вон о том доме? Номер 27.]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="kid3" sound="treehouse0142.mp3">
+      <en><![CDATA[The old Trelawney house …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Старый дом Трелони...]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="kid2" sound="treehouse0143.mp3">
+      <en><![CDATA[It’s haunted.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там живут привидения.]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="kid3" sound="treehouse0144.mp3">
+      <en><![CDATA[No it’s not.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот и неправда.]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="kid2" sound="treehouse0145.mp3">
+      <en><![CDATA[Oh. It is SO haunted.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще как живут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="_avatar" sound="treehouse0146.mp3">
+      <en><![CDATA[Do you know who lived in this house here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы знаете, кто жил в этом доме?]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="kid1" sound="treehouse0147.mp3">
+      <en><![CDATA[Old Trelawney the scientist used to live there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там жил ученый, старый Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="kid1" sound="treehouse0148.mp3">
+      <en><![CDATA[But not anymore. He died in the mountains …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но теперь уже не живет. Он погиб в горах.]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="kid3" sound="treehouse0149.mp3">
+      <en><![CDATA[Yeah. They say his ghost hikes down from the mountains each night because he forgot something …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да. Говорят, его призрак каждую ночь спускается с гор, потому что он что-то забыл.]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="kid1" sound="treehouse0150.mp3">
+      <en><![CDATA[His spirit can’t rest because old Trelawney forgot to water his plants.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Его душа не может обрести покой, потому что старый Трелони забыл полить свои цветы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="kid2" sound="treehouse0151.mp3">
+      <en><![CDATA[No! He forgot to feed his cat.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! Он кошку покормить забыл.]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="kid1" sound="treehouse0152.mp3">
+      <en><![CDATA[He didn’t have a cat!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не было у него кошки!]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="kid2" sound="treehouse0153.mp3">
+      <en><![CDATA[Had!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Была!]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="kid3" sound="treehouse0154.mp3">
+      <en><![CDATA[It’s not haunted … there’s no such thing as ghosts.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не живут там привидения... Привидений не существует.]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="_avatar" sound="treehouse0155.mp3">
+      <en><![CDATA[Do you kids have an idea how to get into this house?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ребята, а вы знаете, как пробраться в этот дом?]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="kid1" sound="treehouse0156.mp3">
+      <en><![CDATA[Well, we used to spook old Trelawney by sneaking in through his doggy door …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы раньше пугали старика Трелони, залезая внутрь через дверь для собаки...]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="kid2" sound="treehouse0157.mp3">
+      <en><![CDATA[Yeah, but he got tired of us, so nailed it shut.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но ему это надоело, и он заколотил ее досками.]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="_avatar" sound="treehouse0158.mp3">
+      <en><![CDATA[Could one of you guys go in and open the door for me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ребята, а может кто-нибудь из вас залезть туда и открыть мне дверь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="kid1" sound="treehouse0159.mp3">
+      <en><![CDATA[If you find a way to remove those boards from the doggy door we will see what we can do for you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если сумеете отодрать доски от собачьей двери, мы посмотрим, что можно сделать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="_avatar" sound="treehouse0160.mp3">
+      <en><![CDATA[The doggy door is open now ... could one of you guys go in and open the door for me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Собачья дверь теперь открыта. Может кто-нибудь пролезть туда и впустить меня в дом?]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="kid1" sound="treehouse0161.mp3">
+      <en><![CDATA[Lieutenant Georgy, this is a job for you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лейтенанты Джорджи, это работа для тебя!]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="kid3" sound="treehouse0162.mp3">
+      <en><![CDATA[Yes sir!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть, сэр!]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="kid3" sound="treehouse0163.mp3">
+      <en><![CDATA[I’m going in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Залезаю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="_avatar" sound="treehouse0164.mp3">
+      <en><![CDATA[Why is this taking so long?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чего он так долго?]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="_avatar" sound="treehouse0165.mp3">
+      <en><![CDATA[What was that sound?! I hope the boy is alright ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что это было?! Надеюсь, с парнем все в порядке...]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="kid3" sound="treehouse0166.mp3">
+      <en><![CDATA[Guys! I made it! I unlocked the door!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пацаны! Получилось! Я открыл дверь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="kid1" sound="treehouse0167.mp3">
+      <en><![CDATA[Did you see the dead cat?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты видишь там дохлую кошку?]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="kid2" sound="treehouse0168.mp3">
+      <en><![CDATA[Or the withered plants?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или засохшие растения?]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="kid3" sound="treehouse0169.mp3">
+      <en><![CDATA[I had my eyes closed … but I think I heard the cat!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я глаза закрыл... Но кошку, кажется, слышу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="kid1" sound="treehouse0170.mp3">
+      <en><![CDATA[Wow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ух ты.]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="kid2" sound="treehouse0171.mp3">
+      <en><![CDATA[You see? Told you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видишь? Я тебе говорил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="_avatar" sound="treehouse0172.mp3">
+      <en><![CDATA[Thanks for helping me out kids!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, ребята, за помощь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="kid1" sound="treehouse0173.mp3">
+      <en><![CDATA[Don’t mention it! It’s our duty to help honorary members in trouble!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не стоит благодарности! Помогать почетным членам отряда - наш долг!]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="_avatar" sound="treehouse0174.mp3">
+      <en><![CDATA[Or a pile of insignia rings?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или кучку перстней?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="_avatar" sound="treehouse0175.mp3">
+      <en><![CDATA[What are you kids playing?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ребята, во что вы играете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="kid1" sound="treehouse0176.mp3">
+      <en><![CDATA[The Ravenhollow Youngster Squad, R.Y.S., is convening every day to find a way to defeat the Castle!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодежный отряд Рэйвенхоллоу, МОР, каждый день держит совет и думает, как победить замок!]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="kid2" sound="treehouse0177.mp3">
+      <en><![CDATA[The Castle must fall!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Замок должен пасть!]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="kid3" sound="treehouse0178.mp3">
+      <en><![CDATA[The Castle is stupid!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дурацкий замок!]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="_avatar" sound="treehouse0179.mp3">
+      <en><![CDATA[Why don’t you like the Castle?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чем вам не угодил замок?]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="kid1" sound="treehouse0180.mp3">
+      <en><![CDATA[My dad owns the clock shop, but he’s not allowed to work anymore because of Lowell Cain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мой папа держит часовую мастерскую, но из-за Лоуэлла Кейна ему не разрешают работать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="kid2" sound="treehouse0181.mp3">
+      <en><![CDATA[My parents just stay at home and never go outside, because they are afraid of the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мои родители сидят дома и никуда не выходят, потому что боятся замка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="kid3" sound="treehouse0182.mp3">
+      <en><![CDATA[My sister says the Castle took the packages my aunt sent me for my birthday!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Моя сестра говорит, что замок украл подарки, которые тетя прислала мне ко дню рождения!]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="_avatar" sound="treehouse0183.mp3">
+      <en><![CDATA[How do you want to defeat the Castle?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как же вы хотите победить замок?]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="kid1" sound="treehouse0184.mp3">
+      <en><![CDATA[Well, if Lowell Cain tries to get us we’ll just hit him with sticks!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если Лоуэлл Кейн на нас нападет, мы его палками побьем!]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="kid2" sound="treehouse0185.mp3">
+      <en><![CDATA[No! We should pretend like the castle guards are not there, so then they’ll get bored and just go away!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! Мы притворимся, будто не замечаем охранников, и тогда им станет скучно и они уйдут!]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+    <d186 puppet="kid3" sound="treehouse0186.mp3">
+      <en><![CDATA[I think we should just tell them how stupid they are and then they’ll cry and stop being mean. That’ll teach them ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я думаю, надо сказать им, как глупо они выглядят, и тогда они заплачут и не будут злыми. А нечего тут!]]></ru>
+      <es><![CDATA[]]></es>
+    </d186>
+    <d187 puppet="_avatar" sound="treehouse0187.mp3">
+      <en><![CDATA[Well, don’t get into trouble.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Только в беду не попадите.]]></ru>
+      <es><![CDATA[]]></es>
+    </d187>
+    <d188 puppet="kid1" sound="treehouse0188.mp3">
+      <en><![CDATA[No, sir!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, сэр!]]></ru>
+      <es><![CDATA[]]></es>
+    </d188>
+    <d189 puppet="_avatar" sound="treehouse0189.mp3">
+      <en><![CDATA[Where do you go to school, kids?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А где вы учитесь, ребята?]]></ru>
+      <es><![CDATA[]]></es>
+    </d189>
+    <d190 puppet="kid1" sound="treehouse0190.mp3">
+      <en><![CDATA[We used to go to the neighbor village …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы раньше ходили в соседнюю деревню...]]></ru>
+      <es><![CDATA[]]></es>
+    </d190>
+    <d191 puppet="kid2" sound="treehouse0191.mp3">
+      <en><![CDATA[But not anymore … our parents don’t want us to leave Ravenhollow now. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но теперь не ходим... Родители не хотят, чтобы мы покидали Рэйвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d191>
+    <d192 puppet="kid3" sound="treehouse0192.mp3">
+      <en><![CDATA[They are afraid that Lowell Cain won’t let us come back home in the evening.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Они боятся, что Лоуэлл Кейн вечером не пустит нас обратно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d192>
+    <d193 puppet="kid1" sound="treehouse0193.mp3">
+      <en><![CDATA[Yeah. Most of our friends aren’t even allowed to play outside anymore, so they have to stay at home all day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да. Почти всем нашим друзьям уже не разрешают играть на улице, они весь день дома сидят.]]></ru>
+      <es><![CDATA[]]></es>
+    </d193>
+    <d194 puppet="_avatar" sound="treehouse0194.mp3">
+      <en><![CDATA[Okay, I gotta go. Have fun!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну ладно, мне пора. Всего доброго!]]></ru>
+      <es><![CDATA[]]></es>
+    </d194>
+    <d195 puppet="kid1" sound="treehouse0195.mp3">
+      <en><![CDATA[RYS! At ease!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[МОР, вольно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d195>
+    <d196 puppet="kid2" sound="treehouse0196.mp3">
+      <en><![CDATA[Does anyone of you guys know the time?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пацаны, а время кто-нибудь знает?]]></ru>
+      <es><![CDATA[]]></es>
+    </d196>
+    <d197 puppet="kid1" sound="treehouse0197.mp3">
+      <en><![CDATA[It’s not lunch time yet, Toby!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обедать еще рано, Тоби.]]></ru>
+      <es><![CDATA[]]></es>
+    </d197>
+    <d198 puppet="kid3" sound="treehouse0198.mp3">
+      <en><![CDATA[I’m getting hungry, too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я уже тоже есть хочу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d198>
+    <d199 puppet="kid1" sound="treehouse0199.mp3">
+      <en><![CDATA[Sigh ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эх...]]></ru>
+      <es><![CDATA[]]></es>
+    </d199>
+  </d>
+</localize>

@@ -1,0 +1,710 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[telescope]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[телескоп]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[slide projector]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[проектор]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[open safe]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[открыть сейф]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[stairs]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лестница]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[chairs]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[кресла]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[bust]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[бюст]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[observation seat]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[кресло]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[strange device]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странное устройство]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[LC1983 device]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[устройство LC1983]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[safe]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[сейф]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="telescope">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="telescope">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="telescope">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="slide projector">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="slide projector">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="slide projector">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="open safe">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="open safe">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="open safe">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="stairs">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="stairs">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="stairs">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="chairs">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="chairs">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="chairs">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="bust">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="bust">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="bust">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="observation seat">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="observation seat">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="observation seat">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="strange device">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="strange device">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="strange device">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v32 noun="LC1983 device">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="LC1983 device">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="LC1983 device">
+      <en><![CDATA[Push button on]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать кнопку ВКЛ]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v36 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="safe">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="safe">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="safe">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c30 noun="strange device" item="module">
+      <en><![CDATA[Plug #item# into #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подключить устройство #item# к устройству noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c30>
+    <c31 noun="strange device" item="remote4">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c31>
+    <c35 noun="LC1983 device" item="remote4">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c35>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="smith30000.mp3">
+      <en><![CDATA[That’s either a toaster with a cannon function or a slide projector.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это либо тостер со встроенной пушкой, либо проектор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="smith30001.mp3">
+      <en><![CDATA[I don’t have any slides on me ... and even if I had some: there’s absolutely no time for slide shows now!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слайдов у меня нет... а если б и были, сейчас решительно некогда их просматривать!]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="smith30002.mp3">
+      <en><![CDATA[These stairs lead up to the telescope.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта лестница ведет к телескопу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="smith30003.mp3">
+      <en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне некогда тут лазать. Найджел и профессор Смит в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="smith30004.mp3">
+      <en><![CDATA[It looks like someone didn’t tidy up after playing chair-Jenga.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, кто-то поиграл в дженгу и не убрал за собой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="smith30005.mp3">
+      <en><![CDATA[I really don’t have time for this.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет у меня на это времени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="smith30006.mp3">
+      <en><![CDATA[I’m too lazy to read the plaques on these things, so I’ll just make something up ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне слишком лениво читать таблички, так что я просто что-нибудь сочиню...]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="smith30007.mp3">
+      <en><![CDATA[Therefore this is obviously Burt Broomstick, the local beard-grooming champion.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это явно Берт Метла, местный чемпион по уходу за бородой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="smith30008.mp3">
+      <en><![CDATA[I’m sure Bert wouldn’t like that.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Берту бы это не понравилось.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="smith30009.mp3">
+      <en><![CDATA[That seat doesn’t look very comfy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С виду кресло не очень удобное.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="smith30010.mp3">
+      <en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне некогда тут лазать. Найджел и профессор Смит в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="smith30011.mp3">
+      <en><![CDATA[It’s a strange device that towers out of this hole in the wall.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Странное устройство, вылезающее из дыры в стене.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="smith30012.mp3">
+      <en><![CDATA[There’s a socket in the base, above which is labeled &quot;LC 1983&quot;]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В основании имеется разъем, над которым написано LC 1983.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="smith30013.mp3">
+      <en><![CDATA[How?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как?]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="smith30014.mp3">
+      <en><![CDATA[The module fits perfectly into the socket on this device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Модуль идеально подходит к разъему на устройстве.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="smith30015.mp3">
+      <en><![CDATA[It looks like the machine has been powered up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, что машина включилась!]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="smith30016.mp3">
+      <en><![CDATA[This device will need to be powered up before it even has a chance of responding to controls.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Для того, чтобы машина хоть как-то прореагировала на мои манипуляции, ее надо включить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="smith30017.mp3">
+      <en><![CDATA[The module fits.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Модуль подходит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="smith30018.mp3">
+      <en><![CDATA[Holy moly!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Е-мое!]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="smith30019.mp3">
+      <en><![CDATA[This device must somehow create or attracting lighting! No wonder this tree smashed through the side of the building!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это устройство каким-то образом испускает привлекающее к себе свечение! Неудивительно, что дерево проломило целую стену здания!]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="smith30020.mp3">
+      <en><![CDATA[Neat! I can trigger the device with this remote!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Славно! С помощью пульта я могу активировать устройство!]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="smith30021.mp3">
+      <en><![CDATA[What a mysterious device ... it seems to attract lighting to itself.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой загадочный девайс... Он как будто притягивает к себе свет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="smith30022.mp3">
+      <en><![CDATA[Someone forced this safe open.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто-то вскрыл этот сейф.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="smith30023.mp3">
+      <en><![CDATA[I bet Lowell Cain is responsible for that too!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверняка и это тоже дело рук Лоуэлла Кейна!]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="smith30024.mp3">
+      <en><![CDATA[It’s empty.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пусто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+  </d>
+</localize>

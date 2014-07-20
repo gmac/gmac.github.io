@@ -1,0 +1,1390 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[zeppelin]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дирижабль]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[old mill]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[старая мельница]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[windsock]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ветроуказатель]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[hole in lightning-struck tree]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дупло в пораженном молнией дереве]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[noisy locust in tree hole]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[шумная саранча в дупле]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[noisy locust in tree hole]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[шумная саранча в дупле]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[propeller]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[пропеллер]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[way back]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[назад]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[house with water wheel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дом с водяным колесом]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[far away ferry stop]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дальний паромный причал]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[twisted metal rod]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Изогнутый металлический стержень]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[propeller duck]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[утка с пропеллером]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[small rusty propeller]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маленький ржавый пропеллер]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[old weather vane]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[старый флюгер]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="zeppelin">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="zeppelin">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="zeppelin">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="old mill">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="old mill">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="old mill">
+      <en><![CDATA[Enter]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войти:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="windsock">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="windsock">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="windsock">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="hole in lightning-struck tree">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="hole in lightning-struck tree">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="hole in lightning-struck tree">
+      <en><![CDATA[Crawl into]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заползти в]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="noisy locust in tree hole">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="noisy locust in tree hole">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="noisy locust in tree hole">
+      <en><![CDATA[Catch]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поймать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v18 noun="noisy locust in tree hole">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="noisy locust in tree hole">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="noisy locust in tree hole">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v28 noun="propeller">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="propeller">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="propeller">
+      <en><![CDATA[Climb down and take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спуститься вниз и взять]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v32 noun="way back">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="way back">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="way back">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="house with water wheel">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="house with water wheel">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="house with water wheel">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="far away ferry stop">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="far away ferry stop">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="far away ferry stop">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="twisted metal rod">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="twisted metal rod">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="twisted metal rod">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="propeller duck">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="propeller duck">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="propeller duck">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="small rusty propeller">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="small rusty propeller">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="small rusty propeller">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="old weather vane">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="old weather vane">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="old weather vane">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="door">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="door">
+      <en><![CDATA[Knock on]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Постучать по]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c15 noun="noisy locust in tree hole" item="net">
+      <en><![CDATA[Catch #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c15>
+    <c16 noun="noisy locust in tree hole" item="firefly_jar1">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c16>
+    <c17 noun="noisy locust in tree hole" item="firefly_jar2">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c17>
+    <c21 noun="noisy locust in tree hole" item="jar1">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c21>
+    <c22 noun="noisy locust in tree hole" item="jar2">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c22>
+    <c23 noun="noisy locust in tree hole" item="jar3">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c23>
+    <c24 noun="noisy locust in tree hole" item="firefly_jar2">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c24>
+    <c25 noun="noisy locust in tree hole" item="windsock">
+      <en><![CDATA[Catch #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c25>
+    <c26 noun="noisy locust in tree hole" item="net">
+      <en><![CDATA[Catch #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c26>
+    <c27 noun="noisy locust in tree hole" item="firefly_jar1">
+      <en><![CDATA[Trap #item# in #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать при помощи предмета ( #noun#)@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </c27>
+    <c31 noun="propeller" item="magnet">
+      <en><![CDATA[Attract #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: привлечь при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c31>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="cliff0000.mp3">
+      <en><![CDATA[Wow! What a zeppelin!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ух ты! Ну и дирижабль!]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="cliff0001.mp3">
+      <en><![CDATA[See how it’s floating on the updraft?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как он парит на восходящих потоках !]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="cliff0002.mp3">
+      <en><![CDATA[Amazing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поразительно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="cliff0003.mp3">
+      <en><![CDATA[Now THAT really doesn’t fit into my pocket.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот это точно в карман не влезет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="cliff0004.mp3">
+      <en><![CDATA[Nice windmill... looks a bit worn out though.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Симпатичная мельница... только немного обветшалая.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="cliff0005.mp3">
+      <en><![CDATA[Sounds worn out, too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И на слух тоже обветшалая.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="cliff0006.mp3">
+      <en><![CDATA[The owner should consider investing in a can of oil.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Владельцу бы не помешало потратиться на масленку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="cliff0007.mp3">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="cliff0008.mp3">
+      <en><![CDATA[Look at that, a conical textile tube designed to indicate wind direction and relative wind speed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо же, коническая трубка из ткани, предназначенная указывать направление и относительную скорость ветра.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="cliff0009.mp3">
+      <en><![CDATA[... oh boy. I probably shouldn’t have memorized the W-Z volume of our encyclopedia when I was a child.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... м-да. Наверное, зря я в детстве заучил первый том энциклопедии.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="cliff0010.mp3">
+      <en><![CDATA[This windsock looks pretty useful ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ветроуказатель может и пригодиться...]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="cliff0011.mp3">
+      <en><![CDATA[If I were a small furry animal I’d consider moving in there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Будь я маленьким пушистым зверьком, я бы, наверное, там поселился.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="cliff0012.mp3">
+      <en><![CDATA[Especially since lightning never strikes twice in the same place.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Особенно учитывая, что молния не бьет дважды в одно место.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="cliff0013.mp3">
+      <en><![CDATA[Anyone home?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть кто дома?]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="cliff0014.mp3">
+      <en><![CDATA[... the hole seems to be empty.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... в дупле пусто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="cliff0015.mp3">
+      <en><![CDATA[I am NOT a small furry animal.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А я не маленький пушистый зверек.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="cliff0016.mp3">
+      <en><![CDATA[What a noisy locust!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какая шумная саранча!]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="cliff0017.mp3">
+      <en><![CDATA[I think the hollow tree is amplifying his sound! Clever locust, I bet he’s driving the locust girls wild for miles around.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должно быть, пустой ствол усиливает звук! Умная саранча, небось все самки в округе без ума от этого парня.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="cliff0018.mp3">
+      <en><![CDATA[I won’t be able to catch it with my bare hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Голыми руками ее не поймать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="cliff0019.mp3">
+      <en><![CDATA[While I could probably catch it with this net, I’ll need a jar to put it in.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сеткой поймать можно, но сначала надо найти для нее банку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="cliff0020.mp3">
+      <en><![CDATA[No, that fat locust wouldn’t fit through the bottle’s narrow neck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, в бутылочное горлышко такая толстая саранча не пролезет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="cliff0021.mp3">
+      <en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry locust.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не хочу, чтобы моих светлячков сожрала голодная саранча.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="cliff0022.mp3">
+      <en><![CDATA[This isn’t the right jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не та банка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="cliff0023.mp3">
+      <en><![CDATA[This isn’t the right jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не та банка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="cliff0024.mp3">
+      <en><![CDATA[I think this locust will be too fast for me to try and coax it directly into this small jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она слишком быстрая, чтобы просто взять и загнать ее в банку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="cliff0025.mp3">
+      <en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry locust.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не хочу, чтобы моих светлячков сожрала голодная саранча.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="cliff0026.mp3">
+      <en><![CDATA[Good idea. I could use this windsock as a net if I find a way to close the opening at the end.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отличная идея. Ветроуказатель можно использовать как сачок, если придумать, как закрыть дырку на другом конце.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="cliff0027.mp3">
+      <en><![CDATA[And... Got him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И... попалась!]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="cliff0028.mp3">
+      <en><![CDATA[He’s so quiet all of a sudden ... I’ll put him in his specimen jar and show him to Mr. Caro.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что-то она сразу затихла... положу ее в банку для образцов и покажу мистеру Каро.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="cliff0029.mp3">
+      <en><![CDATA[No, that fat locust wouldn’t fit through the bottle’s narrow neck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, в бутылочное горлышко такая толстая саранча не пролезет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="cliff0030.mp3">
+      <en><![CDATA[There is a metal propeller lying on this small edge of the cliff.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На уступе скалы лежит металлический пропеллер.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="cliff0031.mp3">
+      <en><![CDATA[I guess it must have broken off that twisted metal rod when it was struck by lightning.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, отломался от того погнутого стержня, когда в него ударила молния.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="cliff0032.mp3">
+      <en><![CDATA[I won’t risk my life and climb around the cliffside just for a stupid metal propeller.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не буду я рисковать жизнью и лазить по утесам ради какого-то дурацкого пропеллера.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="cliff0033.mp3">
+      <en><![CDATA[The magnet isn’t strong enough to attract something so far away.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Магнит слишком слаб и на таком расстоянии не сработает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="cliff0034.mp3">
+      <en><![CDATA[There’s a house with a blue roof and a water wheel located on the cliff on the other side of the bay.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На утесе с другой стороны залива стоит дом с синей крышей и водяным колесом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="cliff0035.mp3">
+      <en><![CDATA[It’s probably nothing interesting and completely unconnected to this story.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там, наверное, нет ничего интересно и важного для сюжета.]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="cliff0036.mp3">
+      <en><![CDATA[It’s too far away. If anyone lived there they wouldn’t hear me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он слишком далеко. Если там кто и живет, они меня не услышат.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="cliff0037.mp3">
+      <en><![CDATA[How am I supposed to do that? It’s located on the other side of the bay.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И как прикажете это сделать? Он на другой стороне залива.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="_avatar" sound="cliff0038.mp3">
+      <en><![CDATA[Is that another ferry stop down there?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это еще один паромный причал?]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="cliff0039.mp3">
+      <en><![CDATA[I can’t just swim over there ... besides the ferry sign down at Ravennhollow Harbor said that the ferry service was stopped quite some time ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вплавь туда не добраться... кроме того, на вывеске в бухте Рэйвенхоллоу говорилось, что паромная переправа уже давно не работает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="cliff0040.mp3">
+      <en><![CDATA[That’s one twisted rod, alright.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот уж покореженный стержень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="cliff0041.mp3">
+      <en><![CDATA[Looks like it was struck by lightning.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, в него ударила молния.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="cliff0042.mp3">
+      <en><![CDATA[Well ... it looks pretty useless, but I have the uncanny feeling that this metal rod might come in handy sooner or later.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... на вид он бесполезен, но меня не покидает предчувствие, что рано или поздно он мне понадобится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="cliff0043.mp3">
+      <en><![CDATA[There are no unique qualities to be observed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никаких особых качеств у него нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="cliff0044.mp3">
+      <en><![CDATA[Oh!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ой!]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="cliff0045.mp3">
+      <en><![CDATA[Now that you are pointing it out to me ... the wind turns the ducks propeller wings and it looks like it’s flying!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот теперь я вижу ... ветер крутит уткин пропеллер, и она как-будто летит!]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="cliff0046.mp3">
+      <en><![CDATA[Funny.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Забавно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="cliff0047.mp3">
+      <en><![CDATA[I find it amusing to look at, but I don’t think I want one for my balcony.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Смешно, конечно, но себе на балкон я бы такую не поставил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="cliff0048.mp3">
+      <en><![CDATA[Round and round it goes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Крутится и крутится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="cliff0049.mp3">
+      <en><![CDATA[Oh no ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, нет...]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="cliff0050.mp3">
+      <en><![CDATA[I’m getting dizzy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Голова кружится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="cliff0051.mp3">
+      <en><![CDATA[It won’t move ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не движется...]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="cliff0052.mp3">
+      <en><![CDATA[This weather vane is so rusty it stopped moving.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Флюгер заржавел и не движется.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="_avatar" sound="cliff0053.mp3">
+      <en><![CDATA[It doesn’t move ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не движется...]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="cliff0054.mp3">
+      <en><![CDATA[The windmill door is closed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь мельницы заперта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="_avatar" sound="cliff0055.mp3">
+      <en><![CDATA[Hello!? Is anyone home?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй!? Кто-нибудь дома?]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="cliff0056.mp3">
+      <en><![CDATA[No answer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никого.]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="cliff0057.mp3">
+      <en><![CDATA[The door is locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь заперта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="cliff0058.mp3">
+      <en><![CDATA[The windmill door is closed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь мельницы заперта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="_avatar" sound="cliff0059.mp3">
+      <en><![CDATA[Hello? Is anyone home?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй? Кто-нибудь дома?]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="exit_mill" sound="cliff0060.mp3">
+      <en><![CDATA[Who is it? What do you want?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто здесь? Чего надо?]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="cliff0061.mp3">
+      <en><![CDATA[IRS. Open your door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Налоговая инспекция. Откройте дверь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="exit_mill" sound="cliff0062.mp3">
+      <en><![CDATA[Never! You won’t get me alive!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никогда! Живым не возьмете!]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="cliff0063.mp3">
+      <en><![CDATA[Mhh … I guess his reaction really isn’t all that surprising.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м... если подумать, реакция вполне естественная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="cliff0064.mp3">
+      <en><![CDATA[May I ask, what’s your relationship with god?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Можно спросить, в каких вы отношениях с Богом?]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="exit_mill" sound="cliff0065.mp3">
+      <en><![CDATA[No, you may not!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, нельзя!]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="cliff0066.mp3">
+      <en><![CDATA[What a rude man…]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот, хам...]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="cliff0067.mp3">
+      <en><![CDATA[My name is Nigel Trelawney, I’ve come to Ravenhollow to settle my father’s estate!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня зовут Найджел Трелони. Я приехал в Рейвенхоллоу, чтобы вступить во владением имением отца.]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="exit_mill" sound="cliff0068.mp3">
+      <en><![CDATA[Nigel Trelawney?? … Anthony Trelawney’s son!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел Трелони? ... Сын Энтони Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="cliff0069.mp3">
+      <en><![CDATA[None other.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он самый.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="exit_mill" sound="cliff0070.mp3">
+      <en><![CDATA[Anthony Trelawney is dead and his son is long gone, so we have nothing to talk about kid. So like I said: go away!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони Трелони мертв, а его сын давным-давно исчез, и говорить нам не о чем. Повторяю: проваливай!]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="cliff0071.mp3">
+      <en><![CDATA[Okay then, how can I prove to you that I’m Anthony Trelawney’s son?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, как мне вас убедить что я действительно сын Энтони Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="exit_mill" sound="cliff0072.mp3">
+      <en><![CDATA[Hmmm… okay then &quot;Nigel&quot;, what’s the square root of 753421?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хм-м... хорошо, &quot;Найджел&quot;, назови квадратный корень из 753421.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="cliff0073.mp3">
+      <en><![CDATA[867,9982718876 …. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[867,9982718876 ... . ]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="exit_mill" sound="cliff0074.mp3">
+      <en><![CDATA[I don’t believe it … Nigel!! Come in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... Найджел!!! Заходи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="cliff0075.mp3">
+      <en><![CDATA[867,9982718876 …. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[867,9982718876 ... . ]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="exit_mill" sound="cliff0076.mp3">
+      <en><![CDATA[I don’t believe it … Nigel!! Come in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... Найджел!!! Заходи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="cliff0077.mp3">
+      <en><![CDATA[867,9982718876 …. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[867,9982718876 ... . ]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="exit_mill" sound="cliff0078.mp3">
+      <en><![CDATA[I don’t believe it … Nigel!! Come in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... Найджел!!! Заходи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="cliff0079.mp3">
+      <en><![CDATA[Sorry! Wrong mill!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Извините, я ошибся мельницей!]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+  </d>
+</localize>

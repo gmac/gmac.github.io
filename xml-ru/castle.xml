@@ -1,0 +1,3486 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[statue of sleeping lion]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя спящего льва]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[statue of sleeping lion]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя спящего льва]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[statue of roaring lion]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя ревущего льва]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[statue of roaring lion]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя ревущего льва]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[red butterfly]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[красная бабочка]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[red butterfly]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[красная бабочка]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[the castle]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[замок]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[eagle statues]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[изваяния орлов]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[castle gate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ворота замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[castle gate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ворота замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[peculiar looking object]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странный предмет]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[peculiar looking object]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странный предмет]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[castle guard]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[охранник замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[castle guard]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[охранник замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[castle guard]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[охранник замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[castle guard]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[охранник замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+    <n31>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n31>
+    <n32>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n32>
+    <n33>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n33>
+    <n34>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n34>
+    <n35>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n35>
+    <n36>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n36>
+    <n37>
+      <en><![CDATA[the woods]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лес]]></ru>
+      <es><![CDATA[]]></es>
+    </n37>
+    <n38>
+      <en><![CDATA[the woods]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лес]]></ru>
+      <es><![CDATA[]]></es>
+    </n38>
+    <n39>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n39>
+    <n40>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n40>
+    <n41>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n41>
+    <n42>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n42>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="statue of sleeping lion">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="statue of sleeping lion">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="statue of sleeping lion">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v5 noun="statue of sleeping lion">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="statue of sleeping lion">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="statue of sleeping lion">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v9 noun="statue of roaring lion">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="statue of roaring lion">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="statue of roaring lion">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v14 noun="statue of roaring lion">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="statue of roaring lion">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="statue of roaring lion">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="red butterfly">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="red butterfly">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="red butterfly">
+      <en><![CDATA[Catch]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поймать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v23 noun="red butterfly">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="red butterfly">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="red butterfly">
+      <en><![CDATA[@state:inactive]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:inactive]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v33 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="the castle">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="the castle">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="the castle">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="eagle statues">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="eagle statues">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="eagle statues">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v47 noun="castle gate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="castle gate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="castle gate">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="castle gate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="castle gate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="castle gate">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="peculiar looking object">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="peculiar looking object">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="peculiar looking object">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="peculiar looking object">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="peculiar looking object">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="peculiar looking object">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v65 noun="castle guard">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="castle guard">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="castle guard">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v73 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="castle guard">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="castle guard">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="castle guard">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v84 noun="castle guard">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v84>
+    <v85 noun="castle guard">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v85>
+    <v86 noun="castle guard">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v86>
+    <v91 noun="castle guard">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v91>
+    <v92 noun="castle guard">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v92>
+    <v93 noun="castle guard">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v93>
+    <v99 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v99>
+    <v100 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v100>
+    <v101 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v101>
+    <v102 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v102>
+    <v103 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v103>
+    <v104 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v104>
+    <v105 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v105>
+    <v106 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v106>
+    <v107 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v107>
+    <v108 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v108>
+    <v109 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v109>
+    <v110 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v110>
+    <v111 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v111>
+    <v112 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v112>
+    <v113 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v113>
+    <v114 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v114>
+    <v115 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v115>
+    <v116 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v116>
+    <v117 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v117>
+    <v118 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v118>
+    <v119 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v119>
+    <v120 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v120>
+    <v121 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v121>
+    <v122 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v122>
+    <v123 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v123>
+    <v124 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v124>
+    <v125 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v125>
+    <v126 noun="the woods">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v126>
+    <v127 noun="the woods">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v127>
+    <v128 noun="the woods">
+      <en><![CDATA[Go to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идти по направлению к объекту]]></ru>
+      <es><![CDATA[]]></es>
+    </v128>
+    <v129 noun="the woods">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v129>
+    <v130 noun="the woods">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v130>
+    <v131 noun="the woods">
+      <en><![CDATA[Go to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идти по направлению к объекту]]></ru>
+      <es><![CDATA[]]></es>
+    </v131>
+    <v132 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v132>
+    <v133 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v133>
+    <v134 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v134>
+    <v135 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v135>
+    <v136 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v136>
+    <v137 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v137>
+    <v138 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v138>
+    <v139 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v139>
+    <v140 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v140>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c3 noun="statue of sleeping lion" item="crayonPaper">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c3>
+    <c4 noun="statue of sleeping lion" item="crayon">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c4>
+    <c8 noun="statue of sleeping lion" item="crayonPaper">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c8>
+    <c12 noun="statue of roaring lion" item="crayonPaper">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c12>
+    <c13 noun="statue of roaring lion" item="crayon">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c13>
+    <c20 noun="red butterfly" item="net">
+      <en><![CDATA[Catch #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c20>
+    <c21 noun="red butterfly" item="firefly_jar1">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c21>
+    <c22 noun="red butterfly" item="firefly_jar2">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c22>
+    <c26 noun="red butterfly" item="jar1">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c26>
+    <c27 noun="red butterfly" item="jar3">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c27>
+    <c28 noun="red butterfly" item="jar2">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c28>
+    <c29 noun="red butterfly" item="firefly_jar2">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c29>
+    <c30 noun="red butterfly" item="net">
+      <en><![CDATA[Catch #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c30>
+    <c31 noun="red butterfly" item="windsock">
+      <en><![CDATA[Catch #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: поймать сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c31>
+    <c32 noun="red butterfly" item="firefly_jar1">
+      <en><![CDATA[Trap #noun# in #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: заманить сюда образец (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c32>
+    <c45 noun="eagle statues" item="crayonPaper">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c45>
+    <c46 noun="eagle statues" item="crayon">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c46>
+    <c68 noun="castle guard" item="costume">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c68>
+    <c69 noun="castle guard" item="mask">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c69>
+    <c70 noun="castle guard" item="slingshot_rock">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c70>
+    <c71 noun="castle guard" item="slingshot_cherry">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c71>
+    <c72 noun="castle guard" item="slingshot_sticky">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c72>
+    <c79 noun="castle guard" item="mask">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c79>
+    <c80 noun="castle guard" item="costume">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c80>
+    <c81 noun="castle guard" item="slingshot_rock">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c81>
+    <c82 noun="castle guard" item="slingshot_cherry">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c82>
+    <c83 noun="castle guard" item="slingshot_sticky">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c83>
+    <c87 noun="castle guard" item="costume">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c87>
+    <c88 noun="castle guard" item="slingshot_rock">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c88>
+    <c89 noun="castle guard" item="slingshot_cherry">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c89>
+    <c90 noun="castle guard" item="slingshot_sticky">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c90>
+    <c94 noun="castle guard" item="mask">
+      <en><![CDATA[Scare #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: испугать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c94>
+    <c95 noun="castle guard" item="costume">
+      <en><![CDATA[Scare #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: испугать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c95>
+    <c96 noun="castle guard" item="slingshot_rock">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c96>
+    <c97 noun="castle guard" item="slingshot_cherry">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c97>
+    <c98 noun="castle guard" item="slingshot_sticky">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c98>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="castle0000.mp3">
+      <en><![CDATA[These lions look remarkably lifelike.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Львы выглядят прямо как живые.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="castle0001.mp3">
+      <en><![CDATA[A lion would indeed make a good mask ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лев - это действительно неплохая маска...]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="castle0002.mp3">
+      <en><![CDATA[... but I want to find something even scarier to draw.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но я бы хотел изобразить что-нибудь пострашнее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="castle0003.mp3">
+      <en><![CDATA[I’ll need to pair this crayon with a piece of paper before I can draw anything with it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде, чем что-либо нарисовать, надо раздобыть не только мелок, но и лист бумаги.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="castle0004.mp3">
+      <en><![CDATA[Argh, sleepy lion. You should not have dozed off for I long to bury my beak and talons into your hide.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, спящий лев. Не надо было тебе засыпать, ибо долго я ждал возможности погрузить клюв и когти в твою гриву.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="castle0005.mp3">
+      <en><![CDATA[For I am Eagle, The Strong!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ибо я Орел, Сильнейший!]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="castle0006.mp3">
+      <en><![CDATA[SCREECH!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И!]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="holdup" sound="castle0007.mp3">
+      <en><![CDATA[Oh no! It’s closing in on me!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет! Приближается!]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="castle0008.mp3">
+      <en><![CDATA[Shall I carry my victim away to my roost? No ... not yet.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Унести ли мне добычу в гнездо? Нет... Пока рано.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="castle0009.mp3">
+      <en><![CDATA[A lion would make a great mask, indeed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лев - это действительно неплохая маска...]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="castle0010.mp3">
+      <en><![CDATA[... but maybe I can find something that is even scarier.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но, может, я смогу найти что-нибудь пострашнее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="castle0011.mp3">
+      <en><![CDATA[I’m so glad it’s just a statue.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как хорошо, что это всего лишь статуя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="castle0012.mp3">
+      <en><![CDATA[If you ever get to see a lion acting like this it’s most likely the last thing you’ll ever see.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Человек, увидевший льва в такой ситуации, скорее всего, никогда и ничего больше уже не увидит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="castle0013.mp3">
+      <en><![CDATA[A lion would indeed make a good mask ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лев - это действительно неплохая маска...]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="castle0014.mp3">
+      <en><![CDATA[... but I want to find something even scarier to draw.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но я бы хотел изобразить что-нибудь пострашнее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="castle0015.mp3">
+      <en><![CDATA[I’ll need to pair this crayon with a piece of paper before I can draw anything with it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде, чем что-либо нарисовать, надо раздобыть не только мелок, но и лист бумаги.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="castle0016.mp3">
+      <en><![CDATA[Do you want to fight, lion?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подраться хочешь, лев?]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="castle0017.mp3">
+      <en><![CDATA[Beware ... many a fanged creature has regretted fighting me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Берегись... Многие клыкастые твари пожалели о том, что со мной связались.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="castle0018.mp3">
+      <en><![CDATA[The luckier ones only lost one of their eyes to my terrible talons!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Те, кому повезло, лишились глаза благодаря моим ужасным когтям!]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="castle0019.mp3">
+      <en><![CDATA[SCREECH!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И!]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="holdup" sound="castle0020.mp3">
+      <en><![CDATA[Oh no! Oh no!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет! О нет!]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="holdup" sound="castle0021.mp3">
+      <en><![CDATA[Please ... don’t come closer!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прошу тебя... Не приближайся!]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="castle0022.mp3">
+      <en><![CDATA[Shall I carry my victim away to my roost? No ... not yet.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Унести ли мне добычу в гнездо? Нет... Пока рано.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="castle0023.mp3">
+      <en><![CDATA[What a beautiful butterfly.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какая красивая бабочка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="castle0024.mp3">
+      <en><![CDATA[I’m afraid I would hurt the butterfly if tried to catch it with my bare hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, что я бы навредил бабочке, если бы ловил ее голыми руками.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="castle0025.mp3">
+      <en><![CDATA[While I could probably catch it with this net, I’ll need a jar to put it in.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сеткой поймать можно, но сначала надо найти для нее банку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="castle0026.mp3">
+      <en><![CDATA[No, that butterfly wouldn’t fit through the bottle’s narrow neck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, в узкое горлышко бутылки бабочка не пролезет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="castle0027.mp3">
+      <en><![CDATA[No, I don’t want to risk losing my fireflies by opening the bottle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я открою бутылку, светлячки улетят. Не хочу рисковать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="castle0028.mp3">
+      <en><![CDATA[This isn’t the right jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не та банка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="castle0029.mp3">
+      <en><![CDATA[This isn’t the right jar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не та банка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="castle0030.mp3">
+      <en><![CDATA[The jar is too small to catch the butterfly directly with it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта банка для бабочки слишком мала.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="castle0031.mp3">
+      <en><![CDATA[No, I don’t want to risk losing my fireflies by opening their bottle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я открою бутылку, светлячки улетят. Не хочу рисковать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="castle0032.mp3">
+      <en><![CDATA[Got it! I caught the Red Brigadier!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть! Я поймал алого кондотьера!]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="castle0033.mp3">
+      <en><![CDATA[At least I think it’s one ... I’ll put it into its specimen jar and see what Caro says.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, по крайней мере, я так думаю... Посажу ее в банку для образцов, и посмотрим, что скажет Каро.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="castle0034.mp3">
+      <en><![CDATA[Good idea. I could use this windsock as a net if I find a way to close the opening at the end.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отличная идея. Ветроуказатель можно использовать как сачок, если придумать, как закрыть дырку на другом конце.]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="castle0035.mp3">
+      <en><![CDATA[No, the butterfly wouldn’t fit through that narrow bottleneck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, в узкое горлышко бутылки бабочка не пролезет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="holdup" sound="castle0036.mp3">
+      <en><![CDATA[You should have seen the look on that guy’s face when I told him his pass wasn’t valid! Hah!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы бы видели, какая рожа была у того типа, когда я ему сказал, что его пропуск недействителен! Ха!]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="faker" sound="castle0037.mp3">
+      <en><![CDATA[What did he do?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А он что?]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="rat" sound="castle0038.mp3">
+      <en><![CDATA[Yeah, what did he do?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, что он?]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="holdup" sound="castle0039.mp3">
+      <en><![CDATA[He tried to bribe me, can you believe it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он пытался меня подкупить, представляете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="rat" sound="castle0040.mp3">
+      <en><![CDATA[And did you take the money?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И ты взял деньги?]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="holdup" sound="castle0041.mp3">
+      <en><![CDATA[Of course I did!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну разумеется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="holdup" sound="castle0042.mp3">
+      <en><![CDATA[But I still didn’t let him through! It’s a perfect way to earn some additional income, isn’t it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но все равно его не пропустил! Идеальный способ тиснуть лишних денег, а?]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="rat" sound="castle0043.mp3">
+      <en><![CDATA[Ha, great! Just great!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ха, здорово! Просто здорово!]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="faker" sound="castle0044.mp3">
+      <en><![CDATA[Yeah. And since we’ve started selling all the fish from the village to those big city merchants, we’ve made ourselves a pile of money!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да. А когда мы начали продавать местную рыбу городским торгашам, то заработали еще больше!]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="rat" sound="castle0045.mp3">
+      <en><![CDATA[And don’t forget the bills from those envelopes that we found in the mail …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И не забудь про счета в конвертах, которые мы нашли в почте...]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="holdup" sound="castle0046.mp3">
+      <en><![CDATA[Isn’t it great? Lowell Cain gives us a brain-washing device and lets us take anything we want from this stinking village, and then pays us a generous salary on top of it all!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда, шикарно? Лоуэлл Кейн дает нам мозгопромывочную штуку, разрешает брать в этой вшивой деревеньке все, что пожелаем, да еще и щедро за это платит!]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="holdup" sound="castle0047.mp3">
+      <en><![CDATA[I think we should treat ourselves to a night out on the town with drink and some ladies once we’re done here in Ravenhollow. What do you think!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, когда закончим с Рэйвенхоллоу, надо наградить себя ночью развлечений в городе, чтоб выпивка, бабы и все такое. Что скажете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="rat" sound="castle0048.mp3">
+      <en><![CDATA[Sounds great!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отличная идея!]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="faker" sound="castle0049.mp3">
+      <en><![CDATA[Sounds great indeed! We just have to make sure we don’t run into the big city cops – we’re still wanted for fraud …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да уж, отличная! Надо только смотреть, чтобы не нарваться на копов, а то нас до сих пор разыскивают за мошенничество...]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="rat" sound="castle0050.mp3">
+      <en><![CDATA[… and forgery.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...И подделку документов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="holdup" sound="castle0051.mp3">
+      <en><![CDATA[Fraud and forgery?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мошенничество и подделка?]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="holdup" sound="castle0052.mp3">
+      <en><![CDATA[Come on, you ladies! You’re talking to Holdup Hawkins here! They’ll try to put me into jail as soon as I enter the city limits!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да ладно вам, пупсики! Перед вами Держиморда Хокинс! Меня засунут в тюрягу, как только я пересеку границы города!]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="holdup" sound="castle0053.mp3">
+      <en><![CDATA[… but that won’t stop me from havin’ some fun when I’m done in this boring sinkhole of a village.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но мне же это не помешает повеселиться, когда я разберусь с этой вонючей дырой!]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="castle0054.mp3">
+      <en><![CDATA[Which way should we go?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Каким путем пойдем?]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="nathan" sound="castle0055.mp3">
+      <en><![CDATA[Let’s try the tower on the left. I’ve seen a lot of activity going on up there while spying on the Castle, so I think that’s where we need to go … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попробуем левую башню. Когда я наблюдал за замком, то видел, что там все время кто-то суетится - значит, нам надо туда...]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="castle0056.mp3">
+      <en><![CDATA[Ok. Let’s go.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно. Пошли.]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="nathan" sound="castle0057.mp3">
+      <en><![CDATA[What’s your name, by the way?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тебя, кстати, как зовут?]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="castle0058.mp3">
+      <en><![CDATA[Nigel. The name’s Nigel K. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел. Меня зовут Найджел Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="nathan" sound="castle0059.mp3">
+      <en><![CDATA[I am Nathan, Nathan Mallory. Good to meet you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А я Натан, Натан Мэллори. Приятно познакомиться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="castle0060.mp3">
+      <en><![CDATA[Good to meet you too, Nathan. Now let’s finish this!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И мне приятно, Натан. Ну, давай уже заканчивать!]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="castle0061.mp3">
+      <en><![CDATA[The Castle!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Замок!]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="castle0062.mp3">
+      <en><![CDATA[Boy, that’s quite a way up ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ого, ну там и подъемчик...]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="castle0063.mp3">
+      <en><![CDATA[I wonder if Dr. Coppelius is in one of these towers right now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, доктор Коппелиус сейчас в одной из этих башен?]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="castle0064.mp3">
+      <en><![CDATA[These statues are pretty impressive! Just look at those beaks and wings and talons ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Впечатляющие статуи! Посмотри на крылья, клювы, на эти когти...]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="holdup" sound="castle0065.mp3">
+      <en><![CDATA[Shut up!! Those are just statues!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заткнись!!! Это просто статуи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="castle0066.mp3">
+      <en><![CDATA[Of course ... what did you think?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно... А ты что думал?]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="castle0067.mp3">
+      <en><![CDATA[Did you think these eagles are real and just standing there ... staring at you when you don’t look?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думал, эти орлы настоящие, смотрят на тебя и ждут, когда ты отвлечешься?]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="castle0068.mp3">
+      <en><![CDATA[Did you think that they are just waiting for the right moment to grab you with their talons to carry you into their unholy roost on top of Mount Misery?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думал, они выжидают момент, чтобы вцепиться в тебя когтями и утащить в свое гнездно на вершине горы Несчастья?]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="holdup" sound="castle0069.mp3">
+      <en><![CDATA[Oh no! Shut up! Shut up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет! Заткнись! Заткнись!]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="castle0070.mp3">
+      <en><![CDATA[Good idea! I think one of these eagles would make an impressive and scary mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идея неплохая. Думаю, из орла получилась бы отличная и страшная маска.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="castle0071.mp3">
+      <en><![CDATA[Here we go ... An eagle drawing. Copyright Nigel Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну вот... Рисунок орла. Автор - Найджел Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="castle0072.mp3">
+      <en><![CDATA[I’ll need to pair this crayon with a piece of paper before I can draw anything with it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде, чем что-либо нарисовать, надо раздобыть не только мелок, но и лист бумаги.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="castle0073.mp3">
+      <en><![CDATA[If only the gate were open, then I could just sneak in and look for Dr. Coppelius and the Baron.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если бы ворота были открыты, я бы протиснулся туда и отыскал доктора Коппелиуса и Барона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="castle0074.mp3">
+      <en><![CDATA[The guard is standing in my way.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На пути стоит охранник.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="castle0075.mp3">
+      <en><![CDATA[Hey, I see something glinting!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, да там что-то блестит!]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="castle0076.mp3">
+      <en><![CDATA[There’s something glittering hidden under the wing of one of those giant stone eagles.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Под крылом гигантского каменного орла что-то блестит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="castle0077.mp3">
+      <en><![CDATA[Excuse me, there’s a piece of trash on that statue that’s ruining my photo ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Извиняюсь, это какой-то мусор, который испортил всю фотографию...]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="castle0078.mp3">
+      <en><![CDATA[Will you please step aside so that I can clean it up?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы не могли бы отойти, чтобы я тут убрался?]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="holdup" sound="castle0079.mp3">
+      <en><![CDATA[No way. How about I arrest you instead for taking surveillance photos?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не мог бы. Зато мог бы тебя арестовать за запрещенную съемку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="castle0080.mp3">
+      <en><![CDATA[Erm, nevermind ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э-э... Проехали.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="castle0081.mp3">
+      <en><![CDATA[There’s something glittering hidden under the wing of one of those giant stone eagles.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Под крылом гигантского каменного орла что-то блестит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="castle0082.mp3">
+      <en><![CDATA[Here we go ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну вот...]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="castle0083.mp3">
+      <en><![CDATA[That must be the trophy ring the kids from the village wanted me to get. There is an insignia ring attached to it!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, это и есть то кольцо, которое просили меня найти ребята из деревни. И к нему прикреплено кольцо-печатка!]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="castle0084.mp3">
+      <en><![CDATA[And I always thought running around in costumes at night would just lead to trouble ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А я всю жизнь думал, что от беготни по ночам в карнавальных костюмах одни неприятности...]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="castle0085.mp3">
+      <en><![CDATA[Another one of Lowell Cain’s men is guarding the entrance to the castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще один подручный Лоуэлла Кейна охраняет вход в замок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="holdup" sound="castle0086.mp3">
+      <en><![CDATA[Stop right there. No one is allowed to pass beyond this point!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стоять! Дальше проход строго воспрещен!]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="_avatar" sound="castle0087.mp3">
+      <en><![CDATA[Even if he wasn’t wearing knives on his belt I’d say that’s a pretty bad idea.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если б он не был обвешан ножами, я бы все равно счел это неудачной идеей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="_avatar" sound="castle0088.mp3">
+      <en><![CDATA[That’s a pretty good idea, but the effect will be much better if I use my costume at night.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень неплохая идея, но если надеть костюм ночью, эффект будет гораздо лучше.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="castle0089.mp3">
+      <en><![CDATA[Scaring the guard might be pretty amusing, but I don’t think the mask alone will make a very convincing eagle costume.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Испугать охранника - это прикольно, только я не думаю, что одной маски хватит, чтобы убедительно изобразить орла.]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="_avatar" sound="castle0090.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="castle0091.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="castle0092.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="_avatar" sound="castle0093.mp3">
+      <en><![CDATA[The guard looks pretty nervous.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видок у охранника нервный.]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="_avatar" sound="castle0094.mp3">
+      <en><![CDATA[Some people are just not fit to do night shifts.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Некоторым ночные смены противопоказаны.]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="castle0095.mp3">
+      <en><![CDATA[Excuse me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я извиняюсь...]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="holdup" sound="castle0096.mp3">
+      <en><![CDATA[Aaaargh!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="holdup" sound="castle0097.mp3">
+      <en><![CDATA[Never sneak up on me like that again!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никогда больше ко мне так не подкрадывайся!]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="holdup" sound="castle0098.mp3">
+      <en><![CDATA[What do you want?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чего надо?]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="castle0099.mp3">
+      <en><![CDATA[SCREECH! Excuse me, pitiful human.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И! Я извиняюсь, человечишко.]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="holdup" sound="castle0100.mp3">
+      <en><![CDATA[Oh … you … but … I … no … you …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О... Ты... Но... Я... Не... Ты...]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="castle0101.mp3">
+      <en><![CDATA[Even if he wasn’t wearing knives on his belt I’d say that’s a pretty bad idea.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если б он не был обвешан ножами, я бы все равно счел это неудачной идеей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="_avatar" sound="castle0102.mp3">
+      <en><![CDATA[Scaring the guard might be pretty amusing, but I don’t think the mask alone will make a very convincing eagle costume.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Испугать охранника - это прикольно, только я не думаю, что одной маски хватит, чтобы убедительно изобразить орла.]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="_avatar" sound="castle0103.mp3">
+      <en><![CDATA[That’s a pretty good idea, but the effect will be much better if I use my costume at night.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень неплохая идея, но если надеть костюм ночью, эффект будет гораздо лучше.]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="castle0104.mp3">
+      <en><![CDATA[I think someone should teach that guard a lesson ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По-моему, пора проучить этого охранника...]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="castle0105.mp3">
+      <en><![CDATA[... and that someone is me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...И это сделаю именно я.]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="_avatar" sound="castle0106.mp3">
+      <en><![CDATA[I don’t think that the guard can see me here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не думаю, что охранник меня здесь увидит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="castle0107.mp3">
+      <en><![CDATA[What do you think I’m doing right now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чем я, по-твоему, занимаюсь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="castle0108.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="_avatar" sound="castle0109.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="_avatar" sound="castle0110.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="_avatar" sound="castle0111.mp3">
+      <en><![CDATA[Maybe I overdid it a little...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, я чуток перестарался...]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="_avatar" sound="castle0112.mp3">
+      <en><![CDATA[His hair even turned white.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он прямо поседел.]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="_avatar" sound="castle0113.mp3">
+      <en><![CDATA[No, once is enough.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, одного раза хватит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="castle0114.mp3">
+      <en><![CDATA[I don’t want to drive him completely insane ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не хочу, чтобы он совсем рехнулся...]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="_avatar" sound="castle0115.mp3">
+      <en><![CDATA[Even if he wasn’t wearing knives on his belt I’d say that’s a pretty bad idea.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если б он не был обвешан ножами, я бы все равно счел это неудачной идеей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="_avatar" sound="castle0116.mp3">
+      <en><![CDATA[No, once is enough.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, одного раза хватит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="_avatar" sound="castle0117.mp3">
+      <en><![CDATA[I don’t want to drive him completely insane ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не хочу, чтобы он совсем рехнулся...]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="_avatar" sound="castle0118.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="_avatar" sound="castle0119.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="_avatar" sound="castle0120.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="_avatar" sound="castle0121.mp3">
+      <en><![CDATA[The guard looks pretty nervous.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видок у охранника нервный.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="_avatar" sound="castle0122.mp3">
+      <en><![CDATA[Some people are just not fit to do night shifts.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Некоторым ночные смены противопоказаны.]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="_avatar" sound="castle0123.mp3">
+      <en><![CDATA[Excuse me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я извиняюсь...]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="holdup" sound="castle0124.mp3">
+      <en><![CDATA[Aaaargh!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="holdup" sound="castle0125.mp3">
+      <en><![CDATA[Never sneak up on me like that again!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никогда больше ко мне так не подкрадывайся!]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="holdup" sound="castle0126.mp3">
+      <en><![CDATA[What do you want?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чего надо?]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="_avatar" sound="castle0127.mp3">
+      <en><![CDATA[SCREECH!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И!]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="holdup" sound="castle0128.mp3">
+      <en><![CDATA[The eagle!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Орел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="_avatar" sound="castle0129.mp3">
+      <en><![CDATA[Even if he wasn’t wearing knives on his belt I’d say that’s a pretty bad idea.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если б он не был обвешан ножами, я бы все равно счел это неудачной идеей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="_avatar" sound="castle0130.mp3">
+      <en><![CDATA[Scaring the guard is a good idea, but I don’t think the mask alone will make a very convincing eagle costume.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Испугать охранника - это прикольно, только я не думаю, что одной маски хватит, чтобы убедительно изобразить орла.]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="_avatar" sound="castle0131.mp3">
+      <en><![CDATA[I need some way to disguise my clothes as well.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо как-то замаскировать и одежду тоже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="_avatar" sound="castle0132.mp3">
+      <en><![CDATA[That’s a pretty good idea, but the effect will be much better if I use my costume at night.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень неплохая идея, но если надеть костюм ночью, эффект будет гораздо лучше.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="castle0133.mp3">
+      <en><![CDATA[Maybe that guard deserves another lesson.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, охранник заслуживает еще одного урока?]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="_avatar" sound="castle0134.mp3">
+      <en><![CDATA[Oh boy. I know it’s wrong but it’s a lot of fun.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я знаю, это нехорошо, но до чего же прикольно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="castle0135.mp3">
+      <en><![CDATA[I don’t think that the guard can see me here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не думаю, что охранник меня здесь увидит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="castle0136.mp3">
+      <en><![CDATA[What do you think I’m doing right now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чем я, по-твоему, занимаюсь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="_avatar" sound="castle0137.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="castle0138.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="_avatar" sound="castle0139.mp3">
+      <en><![CDATA[No good can come from attacking my enemy at the foot of his stronghold.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я нападу на врага на пороге его же цитадели, ничего хорошего не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="_avatar" sound="castle0140.mp3">
+      <en><![CDATA[I think I am done here ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, хватит уже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="_avatar" sound="castle0141.mp3">
+      <en><![CDATA[I will take the mask off.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сниму-ка я маску.]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="_avatar" sound="castle0142.mp3">
+      <en><![CDATA[I don’t want to scare innocent villagers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не хочу пугать невинных людей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="_avatar" sound="castle0143.mp3">
+      <en><![CDATA[Am I imagining things or can I hear the faint sound of a waterfall down there deep in the woods?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне это кажется, или я слышу звук водопада где-то в глубине леса?]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="_avatar" sound="castle0144.mp3">
+      <en><![CDATA[Jumping down here is not a shortcut, it’s a way out with no return.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прыжок вниз не сократит путь, а прекратит его навеки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="_avatar" sound="castle0145.mp3">
+      <en><![CDATA[We eagles will soon again prey on the inhabitants of the woodlands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы, орлы, скоро снова начнем охотиться на жителей равнин.]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="_avatar" sound="castle0146.mp3">
+      <en><![CDATA[SCREECH!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И!]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="holdup" sound="castle0147.mp3">
+      <en><![CDATA[Holy Smoke!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Господи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="holdup" sound="castle0148.mp3">
+      <en><![CDATA[Oh no. It’s finally happening! Help!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет! Это все-таки случилось! Помогите!]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="_avatar" sound="castle0149.mp3">
+      <en><![CDATA[Jumping down here is not a shortcut, it’s a way out with no return.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прыжок вниз не сократит путь, а прекратит его навеки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="_avatar" sound="castle0150.mp3">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="_avatar" sound="castle0151.mp3">
+      <en><![CDATA[Don’t worry, friends! It’s still me, good old Nigel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не беспокойтесь, друзья! Это я, старый добрый Найджел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="_avatar" sound="castle0152.mp3">
+      <en><![CDATA[I am just pretending to be a mysterious man-sized eagle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я только прикидываюсь таинственным человеком-орлом!]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="_avatar" sound="castle0153.mp3">
+      <en><![CDATA[SCREECH!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И!]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="holdup" sound="castle0154.mp3">
+      <en><![CDATA[What was that sound!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что это за звук?]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="_avatar" sound="castle0155.mp3">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="_avatar" sound="castle0156.mp3">
+      <en><![CDATA[The mysterious man-sized eagle returns!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Таинственный человек-орел вернулся!]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="_avatar" sound="castle0157.mp3">
+      <en><![CDATA[SCREECH!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[СКРИ-И-И!]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="holdup" sound="castle0158.mp3">
+      <en><![CDATA[Oh no! It’s back!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет! Он вернулся!]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="cain" sound="castle0159.mp3">
+      <en><![CDATA[I am impressed you have made it all the way up here, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы все-таки добрались сюда, мистер Трелони. Я впечатлен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="cain" sound="castle0160.mp3">
+      <en><![CDATA[And yet … these gates will remain closed for you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И все же... Для вас эти ворота останутся закрытыми.]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="cain" sound="castle0161.mp3">
+      <en><![CDATA[You may have the support of the Baron, but me and my men will never allow you to set foot into Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пусть вас и поддерживает барон, но я и мои люди никогда не позволим вам ступить в пределы замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="_avatar" sound="castle0162.mp3">
+      <en><![CDATA[My friend the eagle sends his regards ... he told me he might visit you again tonight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мой друг орел передает привет... Он сказал, что навестит тебя ночью.]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="holdup" sound="castle0163.mp3">
+      <en><![CDATA[No! Please ... it wasn’t real! It was only a dream!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! Пожалуйста! Это неправда! Это всего лишь сон!]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="_avatar" sound="castle0164.mp3">
+      <en><![CDATA[Hey, I think you’re getting a bit grey there ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, по-моему, ты малость поседел...]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="holdup" sound="castle0165.mp3">
+      <en><![CDATA[Shut up! Just shut up and move along!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заткнись! Заткнись и вали, куда шел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="_avatar" sound="castle0166.mp3">
+      <en><![CDATA[I saw Henry LeMue’s zeppelin fly up here… what’s going on?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я видел в небе дирижабль Анри Лемю... В чем дело?]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="holdup" sound="castle0167.mp3">
+      <en><![CDATA[I believe that you saw the CASTLE’s zeppelin fly up here. You’ll find its former owner commiserating his loss down at the mill.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А по-моему, ты видел дирижабль Нордвеста. А его прежнего владельца ты найдешь на мельнице, рыдающего от горечи утраты.]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="_avatar" sound="castle0168.mp3">
+      <en><![CDATA[You cads! You can’t just push people around and take whatever you like!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хамье! Нельзя обижать людей и хапать все, что захочется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="holdup" sound="castle0169.mp3">
+      <en><![CDATA[Actually, we can. And we do.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вообще-то можно. Еще как.]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="_avatar" sound="castle0170.mp3">
+      <en><![CDATA[But what could you possibly want of a harmless old man’s zeppelin?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но зачем вам понадобился дирижабль безобидного старика?]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="holdup" sound="castle0171.mp3">
+      <en><![CDATA[That’s Castle business, which means that it’s none of yours!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это дело Нордвеста, тебя оно никаким боком не касается!]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="_avatar" sound="castle0172.mp3">
+      <en><![CDATA[We’ll see about that. I’ll be taking this matter up with the baron when I see him about my father’s estate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мы еще посмотрим. Я поговорю об этом с бароном, когда буду обсуждать с ним вопрос о наследстве.]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="_avatar" sound="castle0173.mp3">
+      <en><![CDATA[In the meantime, I’d better go check on Uncle Slappy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А пока что я схожу к дядюшке Слаппи. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="_avatar" sound="castle0174.mp3">
+      <en><![CDATA[Well, have fun guarding the Castle! I gotta go!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, развлекайся дальше. А я пошел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="_avatar" sound="castle0175.mp3">
+      <en><![CDATA[Could you tell me what time it is right now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы не подскажете, как пройти в библиотеку?]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="holdup" sound="castle0176.mp3">
+      <en><![CDATA[Aaaargh!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="_avatar" sound="castle0177.mp3">
+      <en><![CDATA[THAT’s why you should never tell strangers about your worst nightmares!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот поэтому нельзя рассказывать посторонним о своих страхах!]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="_avatar" sound="castle0178.mp3">
+      <en><![CDATA[His hair even turned white.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он прямо поседел.]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="cain" sound="castle0179.mp3">
+      <en><![CDATA[Hiding behind your masks will not suffice to save you, Mandelbaum!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прячась под маской, ты не сможешь себя спасти, Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="cain" sound="castle0180.mp3">
+      <en><![CDATA[The Baron knows of your subversive nightly actions against the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Барон знает о твоих преступных действиях против него.]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="cain" sound="castle0181.mp3">
+      <en><![CDATA[Soon you will realize just how big a mistake you have made here tonight, Mandelbaum!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Скоро ты поймешь, сколь велика твоя ошибка, допущенная сегодня, Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="_avatar" sound="castle0182.mp3">
+      <en><![CDATA[Uh oh … I think Cain mistook me for Mr. Mandelbaum. I hope he doesn’t get in trouble now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опа... По-моему, Кейн принял меня за мистера Мандельбаума. Надеюсь, теперь у того не будет неприятностей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="_avatar" sound="castle0183.mp3">
+      <en><![CDATA[I don’t suppose you carry a watch?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Полагаю, где библиотека, вы не знаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="holdup" sound="castle0184.mp3">
+      <en><![CDATA[Aaaargh!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="_avatar" sound="castle0185.mp3">
+      <en><![CDATA[THAT’s why you should never tell strangers about your worst nightmares!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот поэтому нельзя рассказывать посторонним о своих страхах!]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+    <d186 puppet="_avatar" sound="castle0186.mp3">
+      <en><![CDATA[His hair even turned white.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он прямо поседел.]]></ru>
+      <es><![CDATA[]]></es>
+    </d186>
+    <d187 puppet="cain" sound="castle0187.mp3">
+      <en><![CDATA[Hiding behind your masks will not suffice to save you, Mandelbaum!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прячась под маской, ты не сможешь себя спасти, Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d187>
+    <d188 puppet="cain" sound="castle0188.mp3">
+      <en><![CDATA[The Baron knows of your subversive nightly actions against the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Барон знает о твоих преступных действиях против него.]]></ru>
+      <es><![CDATA[]]></es>
+    </d188>
+    <d189 puppet="cain" sound="castle0189.mp3">
+      <en><![CDATA[Soon you will realize just how big a mistake you have made here tonight, Mandelbaum!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Скоро ты поймешь, сколь велика твоя ошибка, допущенная сегодня, Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d189>
+    <d190 puppet="_avatar" sound="castle0190.mp3">
+      <en><![CDATA[Uh oh … I think Cain mistook me for Mr. Mandelbaum. I hope he doesn’t get in trouble now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опа... По-моему, Кейн принял меня за мистера Мандельбаума. Надеюсь, теперь у того не будет неприятностей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d190>
+    <d191 puppet="_avatar" sound="castle0191.mp3">
+      <en><![CDATA[Do you have the time?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Где тут библиотека?]]></ru>
+      <es><![CDATA[]]></es>
+    </d191>
+    <d192 puppet="holdup" sound="castle0192.mp3">
+      <en><![CDATA[Aaaargh!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d192>
+    <d193 puppet="_avatar" sound="castle0193.mp3">
+      <en><![CDATA[THAT’s why you should never tell strangers about your worst nightmares!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот поэтому нельзя рассказывать посторонним о своих страхах!]]></ru>
+      <es><![CDATA[]]></es>
+    </d193>
+    <d194 puppet="_avatar" sound="castle0194.mp3">
+      <en><![CDATA[His hair even turned white.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он прямо поседел.]]></ru>
+      <es><![CDATA[]]></es>
+    </d194>
+    <d195 puppet="cain" sound="castle0195.mp3">
+      <en><![CDATA[Hiding behind your masks will not suffice to save you, Mandelbaum!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прячась под маской, ты не сможешь себя спасти, Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d195>
+    <d196 puppet="cain" sound="castle0196.mp3">
+      <en><![CDATA[The Baron knows of your subversive nightly actions against the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Барон знает о твоих преступных действиях против него.]]></ru>
+      <es><![CDATA[]]></es>
+    </d196>
+    <d197 puppet="cain" sound="castle0197.mp3">
+      <en><![CDATA[Soon you will realize just how big a mistake you have made here tonight, Mandelbaum!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Скоро ты поймешь, сколь велика твоя ошибка, допущенная сегодня, Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d197>
+    <d198 puppet="_avatar" sound="castle0198.mp3">
+      <en><![CDATA[Uh oh … I think Cain mistook me for Mr. Mandelbaum. I hope he doesn’t get in trouble now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опа... По-моему, Кейн принял меня за мистера Мандельбаума. Надеюсь, теперь у того не будет неприятностей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d198>
+    <d199 puppet="_avatar" sound="castle0199.mp3">
+      <en><![CDATA[Are you sure you can’t let me in? I’m the Baron’s cousin, Ted.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы точно не можете меня впустить? Я Тэд, кузен барона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d199>
+    <d200 puppet="_avatar" sound="castle0200.mp3">
+      <en><![CDATA[I was invited over for dinner … can you believe it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня пригласили на обед... Представляете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d200>
+    <d201 puppet="_avatar" sound="castle0201.mp3">
+      <en><![CDATA[After all that happened last time during that drunken episode, my cousin still invites me into his beautiful castle. Gosh, he really is a swell guy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После всего того, что было на последней пьянке, мой кузен все еще приглашает меня в свой прекрасный замок. Какой славный парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d201>
+    <d202 puppet="holdup" sound="castle0202.mp3">
+      <en><![CDATA[Well, if you are the Baron’s cousin then I’m sure you know the password.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если ты кузен барона, то ты наверняка знаешь пароль.]]></ru>
+      <es><![CDATA[]]></es>
+    </d202>
+    <d203 puppet="_avatar" sound="castle0203.mp3">
+      <en><![CDATA[Open Sesame?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сим-сим, откройся?]]></ru>
+      <es><![CDATA[]]></es>
+    </d203>
+    <d204 puppet="holdup" sound="castle0204.mp3">
+      <en><![CDATA[… so you don’t know the password.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, пароля ты не знаешь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d204>
+    <d205 puppet="holdup" sound="castle0205.mp3">
+      <en><![CDATA[Well, cousin Ted … you better go back to wherever you came from, because I won’t let you in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, кузен Тэд... Вали-ка ты лучше туда, откуда пришел, потому что я тебя не впущу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d205>
+    <d206 puppet="_avatar" sound="castle0206.mp3">
+      <en><![CDATA[Fidelio?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Фиделио?]]></ru>
+      <es><![CDATA[]]></es>
+    </d206>
+    <d207 puppet="holdup" sound="castle0207.mp3">
+      <en><![CDATA[… so you don’t know the password.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, пароля ты не знаешь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d207>
+    <d208 puppet="holdup" sound="castle0208.mp3">
+      <en><![CDATA[Well, cousin Ted … you better go back to wherever you came from, because I won’t let you in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, кузен Тэд... Вали-ка ты лучше туда, откуда пришел, потому что я тебя не впущу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d208>
+    <d209 puppet="_avatar" sound="castle0209.mp3">
+      <en><![CDATA[Hail to the Castle?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да здравствует Нордвест?]]></ru>
+      <es><![CDATA[]]></es>
+    </d209>
+    <d210 puppet="holdup" sound="castle0210.mp3">
+      <en><![CDATA[… so you don’t know the password.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, пароля ты не знаешь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d210>
+    <d211 puppet="holdup" sound="castle0211.mp3">
+      <en><![CDATA[Well, cousin Ted … you better go back to wherever you came from, because I won’t let you in!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, кузен Тэд... Вали-ка ты лучше туда, откуда пришел, потому что я тебя не впущу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d211>
+    <d212 puppet="_avatar" sound="castle0212.mp3">
+      <en><![CDATA[Actually I’m the Baron himself … in disguise … and I locked myself out.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вообще-то я и есть барон... Замаскированный... Просто дверь захлопнулась.]]></ru>
+      <es><![CDATA[]]></es>
+    </d212>
+    <d213 puppet="holdup" sound="castle0213.mp3">
+      <en><![CDATA[Really? Where have you been?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда? И где ж ты был?]]></ru>
+      <es><![CDATA[]]></es>
+    </d213>
+    <d214 puppet="_avatar" sound="castle0214.mp3">
+      <en><![CDATA[I went out to live the life of the simple folks down in the village …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ходил в реальный мир, жил среди простых людей в деревне...]]></ru>
+      <es><![CDATA[]]></es>
+    </d214>
+    <d215 puppet="_avatar" sound="castle0215.mp3">
+      <en><![CDATA[I got sick of lobster, wine and silk, you know …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня, знаешь ли, уже тошнит от лобстеров, вина и шелка...]]></ru>
+      <es><![CDATA[]]></es>
+    </d215>
+    <d216 puppet="holdup" sound="castle0216.mp3">
+      <en><![CDATA[… so how did you get out?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И как же ты выбрался?]]></ru>
+      <es><![CDATA[]]></es>
+    </d216>
+    <d217 puppet="_avatar" sound="castle0217.mp3">
+      <en><![CDATA[I hid in a pile of laundry and left the Castle in the back of the carriage that takes the laundry to the cleaners …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спрятался в куче белья и выехал из замка на повозке, которая ездит в прачечную...]]></ru>
+      <es><![CDATA[]]></es>
+    </d217>
+    <d218 puppet="holdup" sound="castle0218.mp3">
+      <en><![CDATA[Okay, I believe you. Welcome back, Baron. You may return into your Castle …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, верю. С возвращением, барон. Вы можете вернуться в собственный замок...]]></ru>
+      <es><![CDATA[]]></es>
+    </d218>
+    <d219 puppet="_avatar" sound="castle0219.mp3">
+      <en><![CDATA[Really??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда???]]></ru>
+      <es><![CDATA[]]></es>
+    </d219>
+    <d220 puppet="holdup" sound="castle0220.mp3">
+      <en><![CDATA[No. That was the lousiest story I’ve heard in years!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я большего идиотизма в жизни не слышал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d220>
+    <d221 puppet="_avatar" sound="castle0221.mp3">
+      <en><![CDATA[I tied all my clothes together and used them as a rope to climb from my window.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я связал одежду вместе и как по веревке спустился из окна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d221>
+    <d222 puppet="holdup" sound="castle0222.mp3">
+      <en><![CDATA[Okay, I believe you. Welcome back, Baron. You may return into your Castle …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, верю. С возвращением, барон. Вы можете вернуться в собственный замок...]]></ru>
+      <es><![CDATA[]]></es>
+    </d222>
+    <d223 puppet="_avatar" sound="castle0223.mp3">
+      <en><![CDATA[Really??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда???]]></ru>
+      <es><![CDATA[]]></es>
+    </d223>
+    <d224 puppet="holdup" sound="castle0224.mp3">
+      <en><![CDATA[No. That was the lousiest story I’ve heard in years!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я большего идиотизма в жизни не слышал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d224>
+    <d225 puppet="_avatar" sound="castle0225.mp3">
+      <en><![CDATA[I escaped with the sheer power of my mind.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я сбежал, используя только силу собственного разума.]]></ru>
+      <es><![CDATA[]]></es>
+    </d225>
+    <d226 puppet="_avatar" sound="castle0226.mp3">
+      <en><![CDATA[I just imagined being outside and one second later I was standing in the woods … pretty amazing, huh?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я представил себя вне замка и через секунду оказался посреди леса... Здорово, да?]]></ru>
+      <es><![CDATA[]]></es>
+    </d226>
+    <d227 puppet="holdup" sound="castle0227.mp3">
+      <en><![CDATA[Ok, I believe you. Welcome back, Baron. You may return into your Castle …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, верю. С возвращением, барон. Вы можете вернуться в собственный замок...]]></ru>
+      <es><![CDATA[]]></es>
+    </d227>
+    <d228 puppet="_avatar" sound="castle0228.mp3">
+      <en><![CDATA[Really??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда???]]></ru>
+      <es><![CDATA[]]></es>
+    </d228>
+    <d229 puppet="holdup" sound="castle0229.mp3">
+      <en><![CDATA[No. That was the lousiest story I’ve heard in years!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я большего идиотизма в жизни не слышал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d229>
+    <d230 puppet="_avatar" sound="castle0230.mp3">
+      <en><![CDATA[I’m in love with a woman of the lower classes ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я влюбился в женщину из низшего сословья...]]></ru>
+      <es><![CDATA[]]></es>
+    </d230>
+    <d231 puppet="_avatar" sound="castle0231.mp3">
+      <en><![CDATA[She drives me nuts, I just had to see her.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я от нее без ума и не могу не видеться с ней.]]></ru>
+      <es><![CDATA[]]></es>
+    </d231>
+    <d232 puppet="holdup" sound="castle0232.mp3">
+      <en><![CDATA[… so how did you get out?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И как же ты выбрался?]]></ru>
+      <es><![CDATA[]]></es>
+    </d232>
+    <d233 puppet="_avatar" sound="castle0233.mp3">
+      <en><![CDATA[I went into the woods to meet my friends from the planet Venus ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пошел в лес, встретился с друзьями с Венеры...]]></ru>
+      <es><![CDATA[]]></es>
+    </d233>
+    <d234 puppet="_avatar" sound="castle0234.mp3">
+      <en><![CDATA[I intercepted a message with my radio last night and got instructions to meet the Venusian ambassador.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Перехватил сообщение по радио и получил приказ встретиться с венерианским послом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d234>
+    <d235 puppet="holdup" sound="castle0235.mp3">
+      <en><![CDATA[… so how did you get out?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И как же ты выбрался?]]></ru>
+      <es><![CDATA[]]></es>
+    </d235>
+    <d236 puppet="_avatar" sound="castle0236.mp3">
+      <en><![CDATA[So, you won’t let me in …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, ты меня не впустишь...]]></ru>
+      <es><![CDATA[]]></es>
+    </d236>
+    <d237 puppet="holdup" sound="castle0237.mp3">
+      <en><![CDATA[No. Not now, not later. Never.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Ни сейчас, ни потом. Никогда.]]></ru>
+      <es><![CDATA[]]></es>
+    </d237>
+    <d238 puppet="holdup" sound="castle0238.mp3">
+      <en><![CDATA[Give it up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Завязывай!]]></ru>
+      <es><![CDATA[]]></es>
+    </d238>
+    <d239 puppet="_avatar" sound="castle0239.mp3">
+      <en><![CDATA[May I have a look at these stone eagles over at the entrance?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Могу я взглянуть на этих каменных орлов у входа?]]></ru>
+      <es><![CDATA[]]></es>
+    </d239>
+    <d240 puppet="holdup" sound="castle0240.mp3">
+      <en><![CDATA[I can’t let you any closer to the Castle … besides, who would want to take a look at those creepy statues, anyway?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я тебя к замку не подпущу... И потом, кому вообще надо глядеть на эти жуткие статуи?]]></ru>
+      <es><![CDATA[]]></es>
+    </d240>
+    <d241 puppet="holdup" sound="castle0241.mp3">
+      <en><![CDATA[I try to ignore them, but still they freak me out – especially at night!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я стараюсь не обращать внимания, но они на меня такую жуть наводят, особенно ночью!]]></ru>
+      <es><![CDATA[]]></es>
+    </d241>
+    <d242 puppet="holdup" sound="castle0242.mp3">
+      <en><![CDATA[I always get the feeling that they’re watching me and moving behind my back.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне все время кажется, что они смотрят на меня и даже иногда шевелятся...]]></ru>
+      <es><![CDATA[]]></es>
+    </d242>
+    <d243 puppet="_avatar" sound="castle0243.mp3">
+      <en><![CDATA[Hey, I think one of the eagles just blinked!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слушай, по-моему, вон тот орел моргнул!]]></ru>
+      <es><![CDATA[]]></es>
+    </d243>
+    <d244 puppet="holdup" sound="castle0244.mp3">
+      <en><![CDATA[Ack!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а!]]></ru>
+      <es><![CDATA[]]></es>
+    </d244>
+    <d245 puppet="holdup" sound="castle0245.mp3">
+      <en><![CDATA[Wait a second, you’re just trying to spook me, aren’t you? Well stop that!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Погоди, да ты меня не испугать ли пытаешься? Щас пресечем!]]></ru>
+      <es><![CDATA[]]></es>
+    </d245>
+    <d246 puppet="holdup" sound="castle0246.mp3">
+      <en><![CDATA[These statues might be creepy, but as long as they don’t come walking up to me and ask me for the time then I won’t be leaving my post!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Статуи, может, и жуткие, но пока они не попрут на меня и не спросят, как пройти в библиотеку, я свой пост не оставлю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d246>
+    <d247 puppet="_avatar" sound="castle0247.mp3">
+      <en><![CDATA[Well, have fun guarding the Castle! I gotta go!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, развлекайся дальше. А я пошел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d247>
+  </d>
+</localize>

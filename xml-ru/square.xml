@@ -1,0 +1,2031 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[manhole cover]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[крышка люка]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[mask shop]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[магазин масок]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[mask shop door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь магазина масок]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[Inn]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Таверна]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[sparsely-filled fruit crates]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[полупустые ящики из-под фруктов]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[absent-minded girl]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[задумчивая девушка]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[Cecily Caro]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сесилия Каро]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[store window]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[окно склада]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[greengrocer]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[зеленщик]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[large clock]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[большие часы]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[street sign]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[уличная вывеска]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[street sign]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[уличная вывеска]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[shop window]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[витрина]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[clock shop door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь часовой лавки]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[wooden cart]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[деревянная тележка]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[strange statue]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странная статуя]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[a lot of potatoes]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[картошка]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="manhole cover">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="manhole cover">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="manhole cover">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="mask shop">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="mask shop">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="mask shop">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="mask shop door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="mask shop door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="mask shop door">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="Inn">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="Inn">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="Inn">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="sparsely-filled fruit crates">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="sparsely-filled fruit crates">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="sparsely-filled fruit crates">
+      <en><![CDATA[Take from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять ]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="absent-minded girl">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="absent-minded girl">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="absent-minded girl">
+      <en><![CDATA[Hug]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обнять]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="Cecily Caro">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="Cecily Caro">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="Cecily Caro">
+      <en><![CDATA[Hug]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обнять]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="store window">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="store window">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="store window">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="greengrocer">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="greengrocer">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="greengrocer">
+      <en><![CDATA[Hug]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обнять]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v44 noun="large clock">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="large clock">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="large clock">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="street sign">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="street sign">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="street sign">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="street sign">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="street sign">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="street sign">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="shop window">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="shop window">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="shop window">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="clock shop door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="clock shop door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="clock shop door">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="wooden cart">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="wooden cart">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="wooden cart">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v65 noun="strange statue">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="strange statue">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="strange statue">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v70 noun="a lot of potatoes">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="a lot of potatoes">
+      <en><![CDATA[Eat one of]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Съесть]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v72 noun="a lot of potatoes">
+      <en><![CDATA[Take some of]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять]]></ru>
+      <es><![CDATA[]]></es>
+    </v72>
+    <v73 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c42 noun="greengrocer" item="fish2">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c42>
+    <c43 noun="greengrocer" item="fish_bucket">
+      <en><![CDATA[Offer #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: предложить персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c43>
+    <c68 noun="strange statue" item="crayonPaper">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c68>
+    <c69 noun="strange statue" item="crayon">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c69>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="square0000.mp3">
+      <en><![CDATA[It’s a manhole cover, presumably leading to the sewers …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Крышка люка, ведущего, наверное, в канализацию...]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="square0001.mp3">
+      <en><![CDATA[Yech.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Фу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="square0002.mp3">
+      <en><![CDATA[Some doors are not meant to be opened ... the same holds true for manhole covers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Некоторые двери лучше вообще открывать... То же касается и некоторых люков.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="square0003.mp3">
+      <en><![CDATA[No post office in sight, no train station around for miles ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почты поблизости не видать, вокзала нет и подавно...]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="square0004.mp3">
+      <en><![CDATA[... but at least the locals have a secure supply of one of the most vital commodities of modern civilization:]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...но у местных есть хотя бы запас самого жизненно важного изобретения современной цивилизации...]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="square0005.mp3">
+      <en><![CDATA[... hand-carved masks.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...деревянных масок ручной работы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="square0006.mp3">
+      <en><![CDATA[It’s dark in there. No wonder, I bet it’s already past midnight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Темновато там. Неудивительно, времени-то уже, небось, за полночь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="square0007.mp3">
+      <en><![CDATA[The mask shop is closed. Mr. Mandelbaum is probably asleep already.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Магазин масок закрыт. Наверное, мистер Мандельбаум уже спит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="square0008.mp3">
+      <en><![CDATA[The Ravenhollow Inn looks cozy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Таверна &amp;quot;Рэйвенхоллоу&amp;quot; выглядит очень уютной.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="square0009.mp3">
+      <en><![CDATA[Even the most daring optimists will have a hard time to see half filled crates of fruit ... they are empty!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже самым отчаянным оптимистам было бы больно видеть ящики из-под фруктов... пустыми!]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="square0010.mp3">
+      <en><![CDATA[Aside from potatoes the store owners seem to have run out of fruit and vegetables to sell.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видимо, у хозяев магазина осталась только картошка на продажу, ничего больше.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="square0011.mp3">
+      <en><![CDATA[They are empty!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пусто!]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="square0012.mp3">
+      <en><![CDATA[She looks very thoughtful.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вид у нее задумчивый.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="square0013.mp3">
+      <en><![CDATA[Hi there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здрасьте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="cecily" sound="square0014.mp3">
+      <en><![CDATA[Stig?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стиг?]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="cecily" sound="square0015.mp3">
+      <en><![CDATA[Oh, hello.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ой, здравствуйте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="square0016.mp3">
+      <en><![CDATA[You’ve been expecting someone else, haven’t you …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы ждали кого-то другого?..]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="cecily" sound="square0017.mp3">
+      <en><![CDATA[Well … not really.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... Не совсем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="cecily" sound="square0018.mp3">
+      <en><![CDATA[I’m sorry could you talk to mother? I’m a bit discombobulated today … and I’m already behind schedule.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Простите, вы не поговорите с моей мамой? Я сегодня сама не своя... И ничего не успеваю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="square0019.mp3">
+      <en><![CDATA[Sure, don’t worry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, не беспокойтесь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="square0020.mp3">
+      <en><![CDATA[Nah, I feel very odd hugging strangers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я предпочитаю не обнимать незнакомых.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="square0021.mp3">
+      <en><![CDATA[Cecily looks much happier than last time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сесилия сегодня гораздо счастливее, чем в прошлый раз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="square0022.mp3">
+      <en><![CDATA[Hi there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здрасьте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="cecily" sound="square0023.mp3">
+      <en><![CDATA[Oh, it’s you! Thank you for giving Stig my message earlier!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, это вы! Спасибо, что передали мои слова Стигу]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="cecily" sound="square0024.mp3">
+      <en><![CDATA[I can’t thank you enough!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не знаю, как вас благодарить!]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="square0025.mp3">
+      <en><![CDATA[Don’t mention it. I hope you two will be happy together!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не стоит благодарности. Надеюсь, вы будете счастливы вместе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="cecily" sound="square0026.mp3">
+      <en><![CDATA[We will! Oh, I’m sure we will ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обязательно! Обязательно будем...]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="square0027.mp3">
+      <en><![CDATA[Well, see you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, счастливо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="cecily" sound="square0028.mp3">
+      <en><![CDATA[See you! And thanks again! We’ll invite you to the wedding!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пока! И спасибо еще раз! Мы позовем вас на свадьбу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="square0029.mp3">
+      <en><![CDATA[Nah, I feel very odd hugging strangers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я предпочитаю не обнимать незнакомых.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="square0030.mp3">
+      <en><![CDATA[Mh... inside the shop the choice of products looks just as sad as out here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м... В магазине выбор продуктов так же убог, как и здесь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="square0031.mp3">
+      <en><![CDATA[Wait, I think I see a cucumber in there!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, да там, по-моему, огурец!]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="square0032.mp3">
+      <en><![CDATA[Oh, no. Forget it ... that was just the neck of an old wine bottle. No vitamins today ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А, нет. Проехали... Это было горлышко винной бутылки. Сегодня витаминов не будет...]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="square0033.mp3">
+      <en><![CDATA[Either the fruit market has collapsed, or else this poor grocer has nothing to sell but potatoes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Либо обрушился рынок фруктов, либо у этих бедных зеленщиков не осталось ничего, кроме картошки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="square0034.mp3">
+      <en><![CDATA[Sorry?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прошу прощения?]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="MB_Caro" sound="square0035.mp3">
+      <en><![CDATA[Yes?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да?]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="square0036.mp3">
+      <en><![CDATA[Nah, I feel very odd hugging strangers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я предпочитаю не обнимать незнакомых.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="square0037.mp3">
+      <en><![CDATA[Besides, I worry that she might actually welcome my advances.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И потом, я опасаюсь, что ей мои поползновения придутся по душе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="MB_Caro" sound="square0038.mp3">
+      <en><![CDATA[You caught a Red Snapper for me!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы поймали красного снеппера!]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="MB_Caro" sound="square0039.mp3">
+      <en><![CDATA[Obviously I underestimated your fishing skills, young man!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видимо, я недооценила ваши рыбацкие навыки, молодой человек!]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="MB_Caro" sound="square0040.mp3">
+      <en><![CDATA[You deserve a reward! Here, take this!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы заслужили награду! Вот, возьмите!]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="MB_Caro" sound="square0041.mp3">
+      <en><![CDATA[That is my last juicy apple ... a rarity these days!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мое последнее сочное яблоко... Раритет, в наши-то времена!]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="square0042.mp3">
+      <en><![CDATA[And full of vitamins, too, I guess.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И витаминов, наверное, много.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="MB_Caro" sound="square0043.mp3">
+      <en><![CDATA[You can bet your sideburns on that, handsome. Thanks for the fish!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Можете поспорить на свои бакенбарды, что так оно и есть. Спасибо за рыбу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="square0044.mp3">
+      <en><![CDATA[Can I interest you in this bucket of fish?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Могу я заинтересовать вас этим ведром с рыбой?]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="MB_Caro" sound="square0045.mp3">
+      <en><![CDATA[You sure can interest me, handsome, but unfortunately I don’t have the means to purchase that much fish.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, можете, юноша, но к несчастью, мне нечем за эту рыбу заплатить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="MB_Caro" sound="square0046.mp3">
+      <en><![CDATA[You might try offering that to Captain Amayi ... she’s always looking for sea rations, and she has the money to pay for them!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попробуйте предложить это капитану Амайи... Она обожает морепродукты, и у нее есть деньги, чтобы их покупать!]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="MB_Caro" sound="square0047.mp3">
+      <en><![CDATA[Keep your eyes open for a Red Snapper though ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ищите красного снеппера как следует, юноша...]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="MB_Caro" sound="square0048.mp3">
+      <en><![CDATA[That’s the key ingredient of my famous fish stew, so I’ll find something to barter if you can catch me one.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это ключевой ингредиент моей знаменитой ухи, так что, если вы его поймаете, я найду что предложить взамен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="square0049.mp3">
+      <en><![CDATA[Catch a red snapper ... got it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поймать красного снеппера... Понял.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="square0050.mp3">
+      <en><![CDATA[It’s already THAT late?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Уже ТАК поздно?]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="square0051.mp3">
+      <en><![CDATA[... that can’t be right.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...да не может быть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="square0052.mp3">
+      <en><![CDATA[I don’t think the clock shows the correct time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне кажется, часы врут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="_avatar" sound="square0053.mp3">
+      <en><![CDATA[That street’s name is &quot;Raven Road&quot;.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Улица называется Рэйвен-роуд.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="square0054.mp3">
+      <en><![CDATA[This street is called &quot;Turtle Lane&quot;...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта улица называется Тертл-лейн...]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="_avatar" sound="square0055.mp3">
+      <en><![CDATA[Not surprisingly, the clock shop has clocks on display in the clock shop window.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Неудивительно, что в витрине часовой лавки выставлены часы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="square0056.mp3">
+      <en><![CDATA[I am not in the mood for window shopping ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не в настроении глазеть на витрины...]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="square0057.mp3">
+      <en><![CDATA[... or for smashing the window in with a brick and running off with these clocks.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...или разбивать бить окна кирпичами и удирать с крадеными часами.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="square0058.mp3">
+      <en><![CDATA[Moore’s clock shop is closed ... I wonder when the store opens up again.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Часовая лавка Мура закрыта... Интересно, когда она снова откроется?]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="_avatar" sound="square0059.mp3">
+      <en><![CDATA[I don’t see any information on their business hours.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не вижу никакого указания рабочих часов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="square0060.mp3">
+      <en><![CDATA[It’s closed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Закрыто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="square0061.mp3">
+      <en><![CDATA[&quot;Matt & Greg’s Amazing Entertainment Cart&quot; ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[&amp;quot;Тележка развлечений Мэтта и Грэга&amp;quot;...]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="square0062.mp3">
+      <en><![CDATA[Well, I’m not impressed ... doesn’t look that amazing to me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не впечатляет... Вообще ничего интересного не вижу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="square0063.mp3">
+      <en><![CDATA[The cart is locked ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обоз закрыт на ключ.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="square0064.mp3">
+      <en><![CDATA[... and I would need at least one strong horse or six well trained pigs or a sociable group of monkeys to move this cart around.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...и мне понадобится как минимум одна сильная лошадь или шесть нормально прокачанных свиней, или стайка обезьян, чтобы сдвинуть ее с места.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="square0065.mp3">
+      <en><![CDATA[Hopeless, I say!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Полная безнадега!]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="square0066.mp3">
+      <en><![CDATA[That must be Baron Northwest himself ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, это барон Нордвест...]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="square0067.mp3">
+      <en><![CDATA[The statue looks fairly new ... and I can still smell the fresh concrete they used to fix the statue to the ground.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С виду статуя совсем новая... Я даже чувствую свежих запах бетона, из которого сделан ее фундамент.]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="square0068.mp3">
+      <en><![CDATA[I should try to find the man himself and ask him about my problem instead of wasting my time talking to a lump of stone.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо попробовать найти его и спросить насчет моей проблемы, а не тратить тут время с этим обтесанным камнем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="square0069.mp3">
+      <en><![CDATA[... although I have to admit that it looks surprisingly lifelike.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...хотя, надо признать, памятник выглядит очень правдоподобно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="square0070.mp3">
+      <en><![CDATA[No, I’d surely be arrested for impersonating the baron if Mandelbaum were to make me this mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, если Мандельбаум сделает мне такую маску, меня точно арестуют за то, что высмеиваю барона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="square0071.mp3">
+      <en><![CDATA[I’ll need to pair this crayon with a piece of paper before I can draw anything with it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде, чем что-либо нарисовать, надо раздобыть не только мелок, но и лист бумаги.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="square0072.mp3">
+      <en><![CDATA[Even then, this is probably not the thing to draw ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но и тогда, мне кажется, лучше не стоит...]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="square0073.mp3">
+      <en><![CDATA[I’d surely be arrested for impersonating the baron if Mandelbaum were to make me this mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, если Мандельбаум сделает мне такую маску, меня точно арестуют за то, что высмеиваю барона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="square0074.mp3">
+      <en><![CDATA[Mh ... the greengrocer either has too many potatoes or not enough potato-buying customers.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м... Либо у зеленщика слишком много картошки, либо слишком мало тех, кто ее покупает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="square0075.mp3">
+      <en><![CDATA[Raw potatoes are pretty disgusting ... I will stick to my Pretzeljax for now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сырая картошка - штука довольно противная... Луче погрызу претцельяксов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="square0076.mp3">
+      <en><![CDATA[I am REALLY not into potatoes ... or into stealing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не настолько люблю картошку... И воровать тоже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="square0077.mp3">
+      <en><![CDATA[Ok, maybe I borrow seemingly useful items from time to time that just lie around - but these potatoes are meant to be bought.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, может, периодически я и беру взаймы кое-какие полезные штуки, лежащие бесхозными, но эту картошку кто-то же захочет купить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="square0078.mp3">
+      <en><![CDATA[... or ignored, which I usually tend to do with potatoes anyway.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...или игнорировать, что я обычно с картошкой и делаю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="square0079.mp3">
+      <en><![CDATA[What was that flashing in Mandelbaum’s shop!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что это сверкает в лавке Мандельбаума?]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="square0080.mp3">
+      <en><![CDATA[Are you selling fruits and vegetables?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы продаете фрукты и овощи?]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="MB_Caro" sound="square0081.mp3">
+      <en><![CDATA[No, I’m a 54-year old performance artist who plays someone who sells fruit and vegetables.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я пятидесятичетырехлетняя актриса, которая играет торговку овощами и фруктами.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="square0082.mp3">
+      <en><![CDATA[Really?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Неужели?]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="MB_Caro" sound="square0083.mp3">
+      <en><![CDATA[No. I’m a 54-year old performance artist who’s career took a downturn 35 years ago and who now earns her money selling fruits and vegetables.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я пятидесятичетырехлетняя актриса, профукавшая свою карьеру тридцать пять лет назад и зарабатывающая на жизнь продажей овощей и фруктов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="square0084.mp3">
+      <en><![CDATA[Okay, well either way&#8212;you are quite convincing in your role.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В любом случае, свою роль вы играете убедительно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="MB_Caro" sound="square0085.mp3">
+      <en><![CDATA[Thank you, my boy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Благодарю вас, мой мальчик.]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="square0086.mp3">
+      <en><![CDATA[And how is business?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как идет торговля?]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="MB_Caro" sound="square0087.mp3">
+      <en><![CDATA[Well ever since Cain and the Baron turned Ravenhollow upside down, most of my customers prefer to stay at home … so business is NOT good.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С тех пор, как Кейн и барон вывернули все Рэйвенхоллоу наизнанку, большинство моих клиентов предпочитает сидеть дома... Так что, с торговлей плохо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="_avatar" sound="square0088.mp3">
+      <en><![CDATA[About your daughter …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насчет вашей дочери...]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="MB_Caro" sound="square0089.mp3">
+      <en><![CDATA[Isn’t she lovely? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда, она прелесть?]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="MB_Caro" sound="square0090.mp3">
+      <en><![CDATA[Unfortunately our Cecily has already given her heart away to her childhood friend Stig Sigmundson.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К несчастью, наша Сесилия уже отдала свое сердце своему другу детства Стигу Зигмундсону.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="MB_Caro" sound="square0091.mp3">
+      <en><![CDATA[In the last days she’s been a little absent minded ... I wonder why. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Последние дни она немножко отстраненная... Интересно, почему.]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="square0092.mp3">
+      <en><![CDATA[Love has always been a mystery to me …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Любовь для меня всегда была загадкой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="MB_Caro" sound="square0093.mp3">
+      <en><![CDATA[And that won’t change even as time goes by. Believe me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И так будет всегда и до конца времен. Поверьте мне.]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="MB_Caro" sound="square0094.mp3">
+      <en><![CDATA[Unfortunately Cecily doesn’t like to talk about her feelings with her mother. These things are too precious to be talked about when you are young, I suppose.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К несчастью, Сесилия не говорит о своих чувствах даже с матерью. Наверное, когда ты молода, такие вещи кажутся слишком ценными, чтобы говорить о них.]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="MB_Caro" sound="square0095.mp3">
+      <en><![CDATA[I wish I could be young again. I’d surely put an eye on you …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотела бы я снова стать молодой. Я бы точно положила на вас глаз...
+]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="_avatar" sound="square0096.mp3">
+      <en><![CDATA[Erm … That’s very kind of you to say …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э... Мне очень лестно это слышать...]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="MB_Caro" sound="square0097.mp3">
+      <en><![CDATA[You surely have your own affairs d’amour, don’t you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У вас ведь и так хватает любовных переживаний, верно?]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="_avatar" sound="square0098.mp3">
+      <en><![CDATA[Well, there was this girl in the boathouse who took something important from me and simply left me behind ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, была одна девушка в лодочном сарае, я так ей дорожил, а она просто бросила меня там...]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="square0099.mp3">
+      <en><![CDATA[… erm.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э...]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="_avatar" sound="square0100.mp3">
+      <en><![CDATA[Maybe we can discuss this another time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, обсудим это в другой раз?]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="MB_Caro" sound="square0101.mp3">
+      <en><![CDATA[Men.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мужчины.]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="MB_Caro" sound="square0102.mp3">
+      <en><![CDATA[Anyway, the fact that Cecily sits around in the backyard of my brother’s antique shop all night tells me that her heart is restless.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Короче, то, что Сесилия каждую ночь сидит на заднем дворе антикварного магазина моего брата, говорит о том, что сердце ее не знает покоя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="MB_Caro" sound="square0103.mp3">
+      <en><![CDATA[I surely hope that Stig treats her right … otherwise …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я очень надеюсь, что Стиг с ней не груб... Иначе...]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="square0104.mp3">
+      <en><![CDATA[About Cecily ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насчет Сесилии...]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="MB_Caro" sound="square0105.mp3">
+      <en><![CDATA[Oh, my dear Cecily will marry! Her Stig proposed to her and she said yes! Isn’t that lovely!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, моя дорогая Сесилия выходит замуж, правда, чудесно? Моя дочурка так быстро выросла...]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="cecily" sound="square0106.mp3">
+      <en><![CDATA[Ma! I told you …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ма! Я же говорила...]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="MB_Caro" sound="square0107.mp3">
+      <en><![CDATA[She doesn’t like it if I talk about these things behind her back. But I’m so happy! ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она не любит, когда я говорю об этом у нее за спиной. Но я так счастлива!]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="MB_Caro" sound="square0108.mp3">
+      <en><![CDATA[Stig and Cecily will marry, isn’t it wonderful! Oh, my little girl grew up so fast …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стиг и Сесилия поженятся, правда, замечательно? Моя малышка так быстро выросла...]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="_avatar" sound="square0109.mp3">
+      <en><![CDATA[Your sign says &quot;Fruits and Vegetables&quot;, but I only see potatoes. Why?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На вывеске написано &amp;quot;Фрукты и овощи&amp;quot;, но я вижу одну картошку. Почему?]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="MB_Caro" sound="square0110.mp3">
+      <en><![CDATA[As I suspected, you aren’t from around here. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как мне и показалось, вы нездешний.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="MB_Caro" sound="square0111.mp3">
+      <en><![CDATA[We are running short on everything … the trade with the outside world has almost come to a complete halt after the Castle took over.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У нас заканчивается буквально все... Торговля с внешним миром уменьшилась почти вдвое после того, как Замок захватил власть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="MB_Caro" sound="square0112.mp3">
+      <en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У нас заканчивается даже рыба, ведь люди из замка забирают себе ежедневный улов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="MB_Caro" sound="square0113.mp3">
+      <en><![CDATA[Cecily still goes down to the harbor each day but there isn’t anything left to buy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сесилия до сих пор каждый день ходит к бухте, но покупать там уже практически нечего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="MB_Caro" sound="square0114.mp3">
+      <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that. These days I make my famous fish stew and we invite him and his father over for dinner.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Иногда ее жених Стиг дает нам рыбу бесплатно, но мы ее не продаем. Я делаю свою фирменную уху, и мы приглашаем его вместе с отцом на ужин.]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="_avatar" sound="square0115.mp3">
+      <en><![CDATA[Is there anything I can do to help?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я могу вам чем-нибудь помочь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="MB_Caro" sound="square0116.mp3">
+      <en><![CDATA[Do you know how to fish?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы умеете рыбачить?]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="_avatar" sound="square0117.mp3">
+      <en><![CDATA[Well … a bit, I presume.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... Совсем немного.]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="MB_Caro" sound="square0118.mp3">
+      <en><![CDATA[If you can catch a Red Snapper for me, I will give you a reward!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если вы сумеете поймать красного снеппера, я вас отблагодарю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="_avatar" sound="square0119.mp3">
+      <en><![CDATA[A red snapper … that shouldn’t be a problem!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Красного снеппера... Думаю, это нетрудно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="MB_Caro" sound="square0120.mp3">
+      <en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Три последних рыбака, которые думали так же, смогли выудить только старые сапоги...]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="MB_Caro" sound="square0121.mp3">
+      <en><![CDATA[I guess there still must be hundreds of boots out there after the trading ship of &quot;Shuster & Shuster Shoes&quot; sunk in the bay twenty years ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, обуви под водой предостаточно, особенно после того, как у наших берегов двадцать лет назад затонул корабль фирмы &amp;quot;Сапоги Сапожника&amp;quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="_avatar" sound="square0122.mp3">
+      <en><![CDATA[Again, why do you have only potatoes to sell?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так почему же у вас продается одна картошка?]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="MB_Caro" sound="square0123.mp3">
+      <en><![CDATA[As I suspected, you aren’t from around here. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как мне и показалось, вы нездешний.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="MB_Caro" sound="square0124.mp3">
+      <en><![CDATA[We are running short on everything … the trade with the outside world has almost come to a complete halt after the Castle took over.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У нас заканчивается буквально все... Торговля с внешним миром уменьшилась почти вдвое после того, как Замок захватил власть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="MB_Caro" sound="square0125.mp3">
+      <en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У нас заканчивается даже рыба, ведь люди из замка забирают себе ежедневный улов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="MB_Caro" sound="square0126.mp3">
+      <en><![CDATA[Cecily still goes down to the harbor each day, though there’s never anything left to buy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сесилия так и ходит каждый день к бухте, хотя там уже нечего покупать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="MB_Caro" sound="square0127.mp3">
+      <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that – on those days I make my famous fish stew and we invite him and his father over for dinner.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Иногда ее жених Стиг дает нам рыбу бесплатно, но мы ее не продаем. Я делаю свою фирменную уху, и мы приглашаем его вместе с отцом на ужин.]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="square0128.mp3">
+      <en><![CDATA[How can I help you again?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так чем я могу вам помочь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="MB_Caro" sound="square0129.mp3">
+      <en><![CDATA[If you can catch a Red Snapper for me, I will give you a reward!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если вы сумеете поймать красного снеппера, я вас отблагодарю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="_avatar" sound="square0130.mp3">
+      <en><![CDATA[A red snapper … that shouldn’t be a problem!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Красного снеппера... Думаю, это нетрудно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="MB_Caro" sound="square0131.mp3">
+      <en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Три последних рыбака, которые думали так же, смогли выудить только старые сапоги...]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="MB_Caro" sound="square0132.mp3">
+      <en><![CDATA[I guess after the trading ship of &quot;Shuster & Shuster Shoes&quot; sunk in the Ravenhollow Bay fifty years ago there must still be hundreds of boots out there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, обуви под водой предостаточно, особенно после того, как у наших берегов двадцать лет назад затонул корабль фирмы &amp;quot;Сапоги Сапожника&amp;quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="square0133.mp3">
+      <en><![CDATA[What did you say about a ship full of boots sinking in the bay?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что вы говорили про затонувший корабль, забитый сапогами?]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="MB_Caro" sound="square0134.mp3">
+      <en><![CDATA[Ah yes, that was a trading vessel for The Shuster & Shuster Shoe Company called &quot;Zapito&quot;.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ах да, это было торговое судно фирмы &amp;quot;Сапоги Сапожника&amp;quot; под названием &amp;quot;Запито&amp;quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="MB_Caro" sound="square0135.mp3">
+      <en><![CDATA[She and her cargo of boots foundered on an unmarked shoal in Ravenhollow bay about twenty years ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Корабль вместе с грузом угодили на неотмеченную на картах мель в бухте Рэйвенхоллоу лет примерно двадцать назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="square0136.mp3">
+      <en><![CDATA[How horrible! Think of all the honest, hard-working souls who were denied quality footware as a result of the incident.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой кошмар! Подумать только, как много честных работяг лишилось возможности носить достойную обувь из-за этого несчастья.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="MB_Caro" sound="square0137.mp3">
+      <en><![CDATA[Yes, but at least it’s given Ravenhollow an economic boost over the years ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но, по крайней мере, Рэйвенхоллоу получило резкий экономический рост...]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="MB_Caro" sound="square0138.mp3">
+      <en><![CDATA[While no one wants to buy the water-logged boots that keep washing ashore, a market has sprung up for shoelaces and scrap leather.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Раз никому не нужны провалявшиеся столько лет на дне сапоги, рынок наполнился шнурками для ботинок и кожей на продажу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="_avatar" sound="square0139.mp3">
+      <en><![CDATA[What an odd tale ... It almost inspires me to give up my life pursuits and seek riches in buried footwear.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какая странная история... Прямо хочется позабыть обо все и устремиться за сокровищами, спрятанными среди старых сапог на дне морском.]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="MB_Caro" sound="square0140.mp3">
+      <en><![CDATA[Well keep your eyes open, handsome ... I’m sure you can still find at least one of those old boots lying around.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, будьте начеку, юноша... Не сомневаюсь, что хотя бы один сапог вам все-таки удастся найти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="_avatar" sound="square0141.mp3">
+      <en><![CDATA[Well, I have to go …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пожалуй, мне пора...]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="MB_Caro" sound="square0142.mp3">
+      <en><![CDATA[Come again!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приходите еще!]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+  </d>
+</localize>

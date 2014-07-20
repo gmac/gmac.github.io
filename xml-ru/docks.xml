@@ -1,0 +1,1526 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[boat]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лодка]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[McManus and Shroom]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Макманус и Грибок]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[lighthouse]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маяк]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[lighthouse door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь маяка]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[sea doors]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[морские ворота]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[sea doors]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[морские ворота]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[boathouse]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лодочный сарай]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[rowboat wreck]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[остов лодки]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[boat patch]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[латка]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[bucket o’ tar]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ведро смолы]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[crates]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ящики]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[McManus]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Макманус]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[Shroom]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Грибок]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[crates and fishing nets]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ящики и рыболовные сети]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[strange posters]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странные плакаты]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[poster]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[плакат]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[boathouse door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[двери сарая для лодок]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[rain barrel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[бочка для дождевой воды]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[pebbly beach]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[галечный пляж]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+    <n31>
+      <en><![CDATA[pebbly beach]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[галечный пляж]]></ru>
+      <es><![CDATA[]]></es>
+    </n31>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="boat">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="boat">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="boat">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="McManus and Shroom">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="McManus and Shroom">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="McManus and Shroom">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="lighthouse">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="lighthouse">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="lighthouse">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="lighthouse door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="lighthouse door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="lighthouse door">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="sea doors">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="sea doors">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="sea doors">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="sea doors">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="sea doors">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="sea doors">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="boathouse">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="boathouse">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="boathouse">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="rowboat wreck">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="rowboat wreck">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="rowboat wreck">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="boat patch">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="boat patch">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="boat patch">
+      <en><![CDATA[Pick up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поднять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v28 noun="bucket o’ tar">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="bucket o’ tar">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="bucket o’ tar">
+      <en><![CDATA[Pick up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поднять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="crates">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="crates">
+      <en><![CDATA[Taste]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попробовать]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="crates">
+      <en><![CDATA[Take nets from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять сети с@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="McManus">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="McManus">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="McManus">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="Shroom">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="Shroom">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="Shroom">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v44 noun="crates and fishing nets">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="crates and fishing nets">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="crates and fishing nets">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="strange posters">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="strange posters">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="strange posters">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="poster">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="poster">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="poster">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="boathouse door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="boathouse door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="boathouse door">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="rain barrel">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="rain barrel">
+      <en><![CDATA[Drink rainwater from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Выпить дождевой воды из]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="rain barrel">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="pebbly beach">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="pebbly beach">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="pebbly beach">
+      <en><![CDATA[Take rocks from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять камни с@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v65 noun="pebbly beach">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="pebbly beach">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="pebbly beach">
+      <en><![CDATA[Take rocks from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять камни с@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c27 noun="boat patch" item="letter_opener">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c27>
+    <c43 noun="Shroom" item="dogtag">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c43>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="docks0000.mp3">
+      <en><![CDATA[That is McManus’ boat ... the motor needs to be fixed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это лодка Макмануса... но мотор сломан.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="docks0001.mp3">
+      <en><![CDATA[Those two have enough trouble already ... I shouldn’t mess with their boat.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Этим двоим и так уже тяжело... не стоит им еще и лодку портить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="docks0002.mp3">
+      <en><![CDATA[The two are fast asleep ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Они крепко спят...]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="docks0003.mp3">
+      <en><![CDATA[I don’t want to wake them up. They’ve had a rough day ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не стану их будить. Им выдался трудный день...]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="docks0004.mp3">
+      <en><![CDATA[The angry sea and the salty air have taken their toll on this lighthouse. You can see and smell the rust.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Море и соленый ветер не пощадили маяк. Даже отсюда видна ржавчина, и чувствуется ее запах.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="docks0005.mp3">
+      <en><![CDATA[I guess I should use the door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пожалуй, нужно воспользоваться дверью.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="docks0006.mp3">
+      <en><![CDATA[This door leads into the lighthouse.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта дверь ведет в маяк.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="docks0007.mp3">
+      <en><![CDATA[Is anyone in there?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть кто живой?]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="docks0008.mp3">
+      <en><![CDATA[Hello?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй!]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="docks0009.mp3">
+      <en><![CDATA[I don’t think there’s anyone inside the lighthouse.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Судя по всему, на маяке никого нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="docks0010.mp3">
+      <en><![CDATA[The lighthouse door is locked. What a surprise.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь в маяк заперта. Какой сюрприз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="docks0011.mp3">
+      <en><![CDATA[Boathouse number eight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сарай номер восемь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="docks0012.mp3">
+      <en><![CDATA[I wonder where they hid the other boathouses.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, а куда они остальные сараи дели.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="docks0013.mp3">
+      <en><![CDATA[Well, I should just use the door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войду через дверь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="docks0014.mp3">
+      <en><![CDATA[It looks like someone was trying to repair this rowboat.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, кто-то пытался починить лодку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="docks0015.mp3">
+      <en><![CDATA[They made it as far as affixing a large metal patch, then apparently gave up.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приклепали большую металлическую заплату, но на большее их не хватило.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="docks0016.mp3">
+      <en><![CDATA[Even if I could drag this wreck into the water, it would sink like a stone.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если я смогу стащить это корыто на воду, оно немедленно потонет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="docks0017.mp3">
+      <en><![CDATA[It seems this boat had been patched already before it was left in this ruined state.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, что лодку латали еще до того, как она пришла в столь плачевный вид.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="docks0018.mp3">
+      <en><![CDATA[Let’s see if I can break this patch loose ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Посмотрим, не получится ли отодрать заплату.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="docks0019.mp3">
+      <en><![CDATA[No ... the rivets are still sturdy enough that I can’t pry it off with my bare hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет...заклепки еще слишком прочны, чтобы их можно было отодрать голыми руками.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="docks0020.mp3">
+      <en><![CDATA[This letter opener should be able to pry the steel patch from the wood.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нож для бумаги должен справиться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="docks0021.mp3">
+      <en><![CDATA[Great, I have the patch ... but it broke my fancy letter opener.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отлично, заплатка у меня...но мой новенький нож для бумаги сломан.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="docks0022.mp3">
+      <en><![CDATA[It’s a bucket filled with thick, sticky tar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это ведро, доверху заполненное смолой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="docks0023.mp3">
+      <en><![CDATA[A bucket o’ tar might come in handy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ведро смолы вполне может пригодиться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="docks0024.mp3">
+      <en><![CDATA[The crates smell of rotting wood and salt water. They are filled with wet fishing nets.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[От ящиков воняет гнилью и соленой водой. В них рыболовные сети.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="docks0025.mp3">
+      <en><![CDATA[No thanks. If the contents of these crates taste half as disgusting as they smell, I’ll gladly pass.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, спасибо. Если содержимое ящиков на вкус так же отвратительно, как и на запах, я пас.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="docks0026.mp3">
+      <en><![CDATA[The fishing nets are damp and smelly and all in knots ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эти сети все мокрые, вонючие и перепутанные...]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="docks0027.mp3">
+      <en><![CDATA[...  they are useless and offensive to the senses, if you ask me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...как по-моему, так они бесполезны и оскорбительны для глаза.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="docks0028.mp3">
+      <en><![CDATA[What happened to McManus?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что случилось с Макманусом?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="docks0029.mp3">
+      <en><![CDATA[He looks dazed and confused ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой-то у него ошалелый вид.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="docks0030.mp3">
+      <en><![CDATA[Mr. McManus?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мистер Макманус?]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="docks0031.mp3">
+      <en><![CDATA[Well, Shroom looks okay, but he seems to be worried about his master.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Грибок, вроде бы, в порядке, но он, похоже, волнуется за хозяина.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="docks0032.mp3">
+      <en><![CDATA[Hey, I hope you’re taking good care of your friend.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, я надеюсь, ты приглядываешь за своим другом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="shroom" sound="docks0033.mp3">
+      <en><![CDATA[Woof!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="docks0034.mp3">
+      <en><![CDATA[Good boy!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Умница!]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="docks0035.mp3">
+      <en><![CDATA[I will keep the dog tag a bit longer ... I’m sure Shroom doesn’t mind.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я пока оставлю бирку у себя... Грибок возражать не станет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="docks0036.mp3">
+      <en><![CDATA[I wonder if the fishing nets are still used. They are all tangled up in between these wooden crates.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, пользуется ли ими еще кто-нибудь. Они все спутаны между ящиков.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="docks0037.mp3">
+      <en><![CDATA[I didn’t make this mess and I won’t clean it up either. I doubt these grimy fishing nets would be useful anyway.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не я этот бардак устраивал, не мне его и разгребать. И вообще, сомневаюсь, что эти грязные сети еще кому-нибудь понадобятся.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="_avatar" sound="docks0038.mp3">
+      <en><![CDATA[- Northwest Castle: A New Vision for Ravenhollow -]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[* Замок Нордвест: Новое видение Рэйвенхоллоу *]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="docks0039.mp3">
+      <en><![CDATA[I don’t like the sound of that ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не нравится мне это...]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="docks0040.mp3">
+      <en><![CDATA[I don’t want to peel these eerie posters from the lighthouse wall.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Странные какие-то эти плакаты - не хочу я их сдирать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="docks0041.mp3">
+      <en><![CDATA[- Northwest Castle: A New Vision for Ravenhollow -]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[* Замок Нордвест: Новое видение Рэйвенхоллоу *]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="docks0042.mp3">
+      <en><![CDATA[I wonder how long it took them to come up with such a fresh and dynamic slogan ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, долго ли автор думал над таким свежим и энергичным слоганом...]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="docks0043.mp3">
+      <en><![CDATA[I really have all the political propaganda material I need, thank you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне уже пропагандистских материалов хватит, спасибо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="docks0044.mp3">
+      <en><![CDATA[Rain water is collecting at the bottom of this wooden barrel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В этой бочке накапливается дождевая вода.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="docks0045.mp3">
+      <en><![CDATA[There’s just a small puddle of rainwater at the bottom of this barrel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На дне всего лишь лужица дождевой воды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="docks0046.mp3">
+      <en><![CDATA[... and it doesn’t look very clean.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...и не очень-то чистой к тому же.]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="docks0047.mp3">
+      <en><![CDATA[There’s nothing useful in there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там нет ничего полезного.]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="docks0048.mp3">
+      <en><![CDATA[There are a lot of pebbles and rocks lying around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там полно гальки и камней.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="docks0049.mp3">
+      <en><![CDATA[I’ll take a handful of rocks with me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возьму себе немного камней.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="docks0050.mp3">
+      <en><![CDATA[There are a lot of pebbles and rocks lying around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там полно гальки и камней.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="docks0051.mp3">
+      <en><![CDATA[I already took some rocks with me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня уже есть камни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="docks0052.mp3">
+      <en><![CDATA[Are you alright? What happened? Where’s Dr. Coppelius?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы в порядке? Что случилось? Где доктор Коппелиус?]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="mcmanus" sound="docks0053.mp3">
+      <en><![CDATA[Coppelius? I don’t think I know anyone by that name, mate ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Коппелиус? Не знаю я никакого Копппелиуса...]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="docks0054.mp3">
+      <en><![CDATA[Don’t you remember me? I already introduced myself. I’m Nigel Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А меня помните? Я уже представлялся, меня зовут Найджел Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="_avatar" sound="docks0055.mp3">
+      <en><![CDATA[I was knocked out by the Castle guard who wanted to arrest you and the doctor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня оглушил один из замковых стражников, который хотел арестовать вас с доктором. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="mcmanus" sound="docks0056.mp3">
+      <en><![CDATA[Do you have any idea what he’s going on about, Shroom old boy?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Грибок, старина, ты что-нибудь понимаешь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="shroom" sound="docks0057.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="mcmanus" sound="docks0058.mp3">
+      <en><![CDATA[What are you saying old boy ... that I’ve lost me mind?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты что это хочешь сказать, старина... что я потерял рассудок?]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="shroom" sound="docks0059.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="shroom" sound="docks0060.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="docks0061.mp3">
+      <en><![CDATA[Again, are you alright? What happened? Where’s Dr. Coppelius?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Все-таки, вы в порядке? Что случилось? Где доктор Коппелиус?]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="mcmanus" sound="docks0062.mp3">
+      <en><![CDATA[Coppelius? I don’t think I know anyone by that name, mate ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Коппелиус? Не знаю я никакого Копппелиуса...]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="docks0063.mp3">
+      <en><![CDATA[Don’t you remember me? I already introduced myself. I’m Nigel Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А меня помните? Я уже представлялся, меня зовут Найджел Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="docks0064.mp3">
+      <en><![CDATA[I was knocked out by the Castle guard who wanted to arrest you and the doctor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня оглушил один из замковых стражников, который хотел арестовать вас с доктором. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="mcmanus" sound="docks0065.mp3">
+      <en><![CDATA[Do you have any idea what he’s going on about, Shroom old boy?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Грибок, старина, ты что-нибудь понимаешь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="shroom" sound="docks0066.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="mcmanus" sound="docks0067.mp3">
+      <en><![CDATA[What are you saying old boy ... that I’ve lost me mind?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты что это хочешь сказать, старина... что я потерял рассудок?]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="shroom" sound="docks0068.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="shroom" sound="docks0069.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="docks0070.mp3">
+      <en><![CDATA[Maybe ... I mistook you for someone else. I’m Nigel Trelwaney. Who are you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возможно... я ошибся. Меня зовут Найджел Трелони. А вы кто?]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="mcmanus" sound="docks0071.mp3">
+      <en><![CDATA[Me name’s Martin McManus. This old fella’s name is Shroom.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня зовут Мартин Макманус. А этот старый блохастый коврик - Грибок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="mcmanus" sound="docks0072.mp3">
+      <en><![CDATA[We seem to be lost ... Yes ... lost ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По-моему, мы заблудились... точно... заблудились...]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="docks0073.mp3">
+      <en><![CDATA[Do you remember anything at all? Why do you think you’re here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы хоть что-нибудь помните? Как вы, по-вашему, здесь оказались?]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="mcmanus" sound="docks0074.mp3">
+      <en><![CDATA[Well, I’ve got to repair me ship. Until she’s fixed old Shroom and I are stuck here in ... uh ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, мне надо починить свой кораблик. До той поры мы с Грибком застряли здесь, в... э-э...]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="docks0075.mp3">
+      <en><![CDATA[Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рейвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="mcmanus" sound="docks0076.mp3">
+      <en><![CDATA[Ravenhollow? What on earth are we doin’ in Ravenhollow?...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рейвенхоллоу? Какого рожна нас занесло в Рейвенхоллоу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="mcmanus" sound="docks0077.mp3">
+      <en><![CDATA[I remember that I was about to deliver some boxes ... but I can’t find them anywhere.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вроде бы, собирался доставить несколько ящиков... только нигде не могу их найти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="mcmanus" sound="docks0078.mp3">
+      <en><![CDATA[Have you seen ’em? A couple of boxes containing unmarked bottles of alcohol?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты их случаем не видел? Пара ящиков, а в них бутылками выпивки без этикеток.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="docks0079.mp3">
+      <en><![CDATA[Sorry, I haven’t seen them, but I’ll let you know if I come across them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, нет, но если вдруг найду, обязательно вам скажу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="docks0080.mp3">
+      <en><![CDATA[Have you been here in Ravenhollow before?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы раньше здесь бывали? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="mcmanus" sound="docks0081.mp3">
+      <en><![CDATA[Aye, sure. Shroom ’n me have been sailin’ into this port every few months.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А то. Поди, каждые несколько месяцев загребаем в эту бухту.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="mcmanus" sound="docks0082.mp3">
+      <en><![CDATA[But I heard that for ’bout half a year now traders have been avoiding comin’ to Ravenhollow, so I stopped comin’ here too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да только последние полгода торговцы сюда не суются, вот и я перестал приезжать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="mcmanus" sound="docks0083.mp3">
+      <en><![CDATA[... don’t know why that happened. Until then the place was known to be an excellent spot for tradin’ goods of any kind.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...не знаю, что произошло. Раньше тут было райское местечко для любой торговли.]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="mcmanus" sound="docks0084.mp3">
+      <en><![CDATA[Ah, but before we can think about tradin’ stuff again I have to get our boat repaired ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Все равно, пока я не починю наш корабль, о торговле можно забыть...]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="shroom" sound="docks0085.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="docks0086.mp3">
+      <en><![CDATA[I’ve got to go. Good luck with your ship!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне надо идти. Удачи с кораблем!]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+  </d>
+</localize>

@@ -1,0 +1,2846 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[castle base]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[подножие замка]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[waterfall]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[водопад]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[overgrown archway]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[заросший проход под аркой]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[archway]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[проход под аркой]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[archway]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[проход под аркой]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[unfinished statue]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[незаконченная статуя]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[praying statue]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя молящегося]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[statue base with rose ornament]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[основание статуи с орнаментом из роз]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[headless sword-bearing statue]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[безголовая статуя с мечом]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[statue of woman and dove]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя женщины и голубки]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+    <n31>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n31>
+    <n32>
+      <en><![CDATA[small owl statue]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маленькая статуя совы]]></ru>
+      <es><![CDATA[]]></es>
+    </n32>
+    <n33>
+      <en><![CDATA[round metal plate]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[круглая металлическая пластина]]></ru>
+      <es><![CDATA[]]></es>
+    </n33>
+    <n34>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n34>
+    <n35>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n35>
+    <n36>
+      <en><![CDATA[mallet]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[колотушка]]></ru>
+      <es><![CDATA[]]></es>
+    </n36>
+    <n37>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n37>
+    <n38>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n38>
+    <n39>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n39>
+    <n40>
+      <en><![CDATA[flight test dummy]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[летно-испытательный манекен]]></ru>
+      <es><![CDATA[]]></es>
+    </n40>
+    <n41>
+      <en><![CDATA[flight test dummy]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[летно-испытательный манекен]]></ru>
+      <es><![CDATA[]]></es>
+    </n41>
+    <n42>
+      <en><![CDATA[flight test dummy]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[летно-испытательный манекен]]></ru>
+      <es><![CDATA[]]></es>
+    </n42>
+    <n43>
+      <en><![CDATA[chisel stuck in log]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[долото, застрявшее в бревне]]></ru>
+      <es><![CDATA[]]></es>
+    </n43>
+    <n44>
+      <en><![CDATA[chisel stuck in whiskey soaked log]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[долото, застрявшее в бревне, облитом виски]]></ru>
+      <es><![CDATA[]]></es>
+    </n44>
+    <n45>
+      <en><![CDATA[chisel stuck in burnt log]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[долото, застрявшее в обожженном бревне]]></ru>
+      <es><![CDATA[]]></es>
+    </n45>
+    <n46>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n46>
+    <n47>
+      <en><![CDATA[insignia ring]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[перстень]]></ru>
+      <es><![CDATA[]]></es>
+    </n47>
+    <n48>
+      <en><![CDATA[insignia ring]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[перстень]]></ru>
+      <es><![CDATA[]]></es>
+    </n48>
+    <n49>
+      <en><![CDATA[remains of crash landed balloon]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[остатки воздушного шара, потерпевшего аварию]]></ru>
+      <es><![CDATA[]]></es>
+    </n49>
+    <n50>
+      <en><![CDATA[remains of crash landed balloon]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[остатки воздушного шара, потерпевшего аварию]]></ru>
+      <es><![CDATA[]]></es>
+    </n50>
+    <n51>
+      <en><![CDATA[other side of the wall]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[другая сторона стены]]></ru>
+      <es><![CDATA[]]></es>
+    </n51>
+    <n52>
+      <en><![CDATA[mysterious wall]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[загадочная стена]]></ru>
+      <es><![CDATA[]]></es>
+    </n52>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="castle base">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="castle base">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="castle base">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="waterfall">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="waterfall">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="waterfall">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="overgrown archway">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="overgrown archway">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="overgrown archway">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v18 noun="archway">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="archway">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="archway">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v22 noun="archway">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="archway">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="archway">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="unfinished statue">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="unfinished statue">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="unfinished statue">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="praying statue">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="praying statue">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="praying statue">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="statue base with rose ornament">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="statue base with rose ornament">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="statue base with rose ornament">
+      <en><![CDATA[Touch]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Потрогать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v67 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v68 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v68>
+    <v69 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="headless sword-bearing statue">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="headless sword-bearing statue">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v72 noun="headless sword-bearing statue">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v72>
+    <v73 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="statue of woman and dove">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="statue of woman and dove">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="statue of woman and dove">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v79 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v79>
+    <v80 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v80>
+    <v81 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v81>
+    <v82 noun="small owl statue">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v82>
+    <v83 noun="small owl statue">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v83>
+    <v84 noun="small owl statue">
+      <en><![CDATA[Pet]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приласкать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v84>
+    <v85 noun="round metal plate">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v85>
+    <v86 noun="round metal plate">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v86>
+    <v87 noun="round metal plate">
+      <en><![CDATA[Press]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нажать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v87>
+    <v88 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v88>
+    <v89 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v89>
+    <v90 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v90>
+    <v91 noun="mallet">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v91>
+    <v92 noun="mallet">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v92>
+    <v93 noun="mallet">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v93>
+    <v94 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v94>
+    <v95 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v95>
+    <v96 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v96>
+    <v97 noun="flight test dummy">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v97>
+    <v98 noun="flight test dummy">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v98>
+    <v99 noun="flight test dummy">
+      <en><![CDATA[Pull down]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опустить]]></ru>
+      <es><![CDATA[]]></es>
+    </v99>
+    <v106 noun="flight test dummy">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v106>
+    <v107 noun="flight test dummy">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v107>
+    <v108 noun="flight test dummy">
+      <en><![CDATA[Pull down]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опустить]]></ru>
+      <es><![CDATA[]]></es>
+    </v108>
+    <v109 noun="flight test dummy">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v109>
+    <v110 noun="flight test dummy">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v110>
+    <v111 noun="flight test dummy">
+      <en><![CDATA[Pull down]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опустить]]></ru>
+      <es><![CDATA[]]></es>
+    </v111>
+    <v112 noun="chisel stuck in log">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v112>
+    <v113 noun="chisel stuck in log">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v113>
+    <v114 noun="chisel stuck in log">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v114>
+    <v117 noun="chisel stuck in whiskey soaked log">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v117>
+    <v118 noun="chisel stuck in whiskey soaked log">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v118>
+    <v119 noun="chisel stuck in whiskey soaked log">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v119>
+    <v121 noun="chisel stuck in burnt log">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v121>
+    <v122 noun="chisel stuck in burnt log">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v122>
+    <v123 noun="chisel stuck in burnt log">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v123>
+    <v124 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v124>
+    <v125 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v125>
+    <v126 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v126>
+    <v127 noun="insignia ring">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v127>
+    <v128 noun="insignia ring">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v128>
+    <v129 noun="insignia ring">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v129>
+    <v139 noun="insignia ring">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v139>
+    <v140 noun="insignia ring">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v140>
+    <v141 noun="insignia ring">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v141>
+    <v142 noun="remains of crash landed balloon">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v142>
+    <v143 noun="remains of crash landed balloon">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v143>
+    <v144 noun="remains of crash landed balloon">
+      <en><![CDATA[Climb up to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Забраться на:]]></ru>
+      <es><![CDATA[]]></es>
+    </v144>
+    <v147 noun="remains of crash landed balloon">
+      <en><![CDATA[@state:main]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:main]]></ru>
+      <es><![CDATA[]]></es>
+    </v147>
+    <v148 noun="remains of crash landed balloon">
+      <en><![CDATA[@state:main]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:main]]></ru>
+      <es><![CDATA[]]></es>
+    </v148>
+    <v149 noun="remains of crash landed balloon">
+      <en><![CDATA[@state:main]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:main]]></ru>
+      <es><![CDATA[]]></es>
+    </v149>
+    <v151 noun="other side of the wall">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v151>
+    <v152 noun="other side of the wall">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v152>
+    <v153 noun="other side of the wall">
+      <en><![CDATA[Go to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идти по направлению к объекту]]></ru>
+      <es><![CDATA[]]></es>
+    </v153>
+    <v154 noun="mysterious wall">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v154>
+    <v155 noun="mysterious wall">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v155>
+    <v156 noun="mysterious wall">
+      <en><![CDATA[Climb over]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Перебраться:]]></ru>
+      <es><![CDATA[]]></es>
+    </v156>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c15 noun="overgrown archway" item="ember">
+      <en><![CDATA[Ignite #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот #item#, вот #noun# - взять и поджечь.]]></ru>
+      <es><![CDATA[]]></es>
+    </c15>
+    <c16 noun="overgrown archway" item="jar3b">
+      <en><![CDATA[Release #item# upon #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Выпустить #item# на #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c16>
+    <c17 noun="overgrown archway" item="statue_key">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c17>
+    <c21 noun="archway" item="statue_key">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c21>
+    <c64 noun="statue base with rose ornament" item="malletchisel">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c64>
+    <c65 noun="statue base with rose ornament" item="mallet">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c65>
+    <c66 noun="statue base with rose ornament" item="chisel">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c66>
+    <c100 noun="flight test dummy" item="slingshot_cherry">
+      <en><![CDATA[Shoot ring off #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отстрелить кольцо #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c100>
+    <c101 noun="flight test dummy" item="slingshot_sticky">
+      <en><![CDATA[Shoot ring off #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отстрелить кольцо #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c101>
+    <c102 noun="flight test dummy" item="slingshot_rock">
+      <en><![CDATA[Shoot ring off #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отстрелить кольцо #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c102>
+    <c103 noun="flight test dummy" item="crowbar">
+      <en><![CDATA[Knock ring from #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сбросить кольцо с #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c103>
+    <c104 noun="flight test dummy" item="net">
+      <en><![CDATA[Knock ring from #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сбросить кольцо с #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c104>
+    <c105 noun="flight test dummy" item="windsock">
+      <en><![CDATA[Knock ring from #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сбросить кольцо с #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c105>
+    <c115 noun="chisel stuck in log" item="ember">
+      <en><![CDATA[Ignite #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот #item#, вот #noun# - взять и поджечь.]]></ru>
+      <es><![CDATA[]]></es>
+    </c115>
+    <c116 noun="chisel stuck in log" item="whiskey">
+      <en><![CDATA[Douse #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Окунуть #noun# в воду с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c116>
+    <c120 noun="chisel stuck in whiskey soaked log" item="ember">
+      <en><![CDATA[Ignite #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот #item#, вот #noun# - взять и поджечь.]]></ru>
+      <es><![CDATA[]]></es>
+    </c120>
+    <c130 noun="insignia ring" item="slingshot_rock">
+      <en><![CDATA[Shoot down #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отстрелить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c130>
+    <c131 noun="insignia ring" item="slingshot_cherry">
+      <en><![CDATA[Shoot down #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отстрелить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c131>
+    <c132 noun="insignia ring" item="slingshot_sticky">
+      <en><![CDATA[Shoot down #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отстрелить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c132>
+    <c133 noun="insignia ring" item="windsock">
+      <en><![CDATA[Knock down #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сбросить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c133>
+    <c134 noun="insignia ring" item="net">
+      <en><![CDATA[Knock down #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сбросить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c134>
+    <c135 noun="insignia ring" item="crowbar">
+      <en><![CDATA[Knock down #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сбросить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c135>
+    <c136 noun="insignia ring" item="rocks">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c136>
+    <c137 noun="insignia ring" item="bomb_cherry">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c137>
+    <c138 noun="insignia ring" item="bomb_sticky">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c138>
+    <c145 noun="remains of crash landed balloon" item="remote3">
+      <en><![CDATA[Activate #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подключить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c145>
+    <c146 noun="remains of crash landed balloon" item="remote">
+      <en><![CDATA[Activate #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подключить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c146>
+    <c150 noun="remains of crash landed balloon" item="remote3">
+      <en><![CDATA[Activate #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подключить #noun# с помощью #item#]]></ru>
+      <es><![CDATA[]]></es>
+    </c150>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="woods0000.mp3">
+      <en><![CDATA[This place here is located right at the base of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это место находится у самого подножья замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="woods0001.mp3">
+      <en><![CDATA[The Castle is so high above me that I can barely make it out from here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Замок так возвышается надо мной, что я его отсюда еле вижу. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="woods0002.mp3">
+      <en><![CDATA[What an enchanting view ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой захватывающий вид...]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="woods0003.mp3">
+      <en><![CDATA[... and no one around to share it with. Sigh. Sometimes I fear I’m a hopeless romantic.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...и совершенно не с кем его разделить. Эх. Иногда, боюсь, я становлюсь безнадежным романтиком. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="woods0004.mp3">
+      <en><![CDATA[The crest above the gate bears the initials of the Northwest Family. The area behind the gate must have somehow been connected to the Barons of Northwest Castle once.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На кресте над воротами изображены инициалы семьи Нордвест. Территория за воротами, должно быть, была связана когда-то с баронами замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="woods0005.mp3">
+      <en><![CDATA[... but it seems like this gate hasn’t been opened in decades. It’s all rusty and overgrown with thorny roses.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...но, похоже, эти ворота уже несколько десятков лет никто не открывал. Они совсем заржавели и заросли терновником.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="woods0006.mp3">
+      <en><![CDATA[With these thorny roses covering the gate I won’t be able to open it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Этот терновник так густо покрывает ворота, что я не смогу их открыть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="woods0007.mp3">
+      <en><![CDATA[Not a bad idea, but the roses aren’t dry enough to burn.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Неплохая идея, но цветы недостаточно сухие, чтобы их сжечь. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="woods0008.mp3">
+      <en><![CDATA[I will have to find another way to get rid of this thorny rose bush.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо найти другой способ избавиться от этого куста терновника.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="woods0009.mp3">
+      <en><![CDATA[I wonder what happens when I unleash my hungry looking locust upon these roses ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, что случится, если я напущу на этот терновник мою саранчу, которая выглядит весьма голодной.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="woods0010.mp3">
+      <en><![CDATA[Now I understand why Mr. Caro didn’t want this locust near his plants! It devoured the blossoms and left the rest of the plant to die ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь я понимаю, почему мистер Каро не хотел, чтобы эта саранча оказалась поблизости от его растений! Она пожрала все цветы, и теперь растение умрет...]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="woods0011.mp3">
+      <en><![CDATA[Horrible ... but useful.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ужасно... но полезно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="woods0012.mp3">
+      <en><![CDATA[As far as I know this might be the only Lonely Locust around here ... I should bring it to Mr. Caro.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насколько я знаю, возможно, это единственная одинокая саранча в окрестностях... Мне нужно отнести ее мистеру Каро.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="woods0013.mp3">
+      <en><![CDATA[This gate is so overgrown that I can’t find the lock. I need to clear these vines.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эти ворота так заросли, что я не могу найти замок. Надо расчистить эти заросли лозы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="woods0014.mp3">
+      <en><![CDATA[I got rid of the roses, but the gate is still locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я избавился от терновника, но ворота все еще заперты.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="woods0015.mp3">
+      <en><![CDATA[The crest above the cast bears the initials of the Northwest Family. The area behind the gate was somehow connected to the barons of Northwest Castle once.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На кресте над гипсовым завитком изображены инициалы семьи Нордвест. Территория за воротами, должно быть, была связана когда-то с баронами замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="woods0016.mp3">
+      <en><![CDATA[This rusty gate seems to be locked. It’s not moving an inch.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эти ржавые ворота, похоже, заперты. Не поддаются ни на дюйм.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="woods0017.mp3">
+      <en><![CDATA[The rusty key bears the same symbol as this metal gate. That should be a good sign.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На ржавом ключе изображен тот же символ, что и на металлических воротах. Должно быть, это хороший знак.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="woods0018.mp3">
+      <en><![CDATA[It worked! If Mr. Caro is right then this is the old workplace of the Castle’s master stone cutter from way back when, Timothy Caro.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сработало! Если мистер Каро прав, значит, это старая мастерская камнотеса, который жил в Замке в древние времена, - Тимоти Каро.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="woods0019.mp3">
+      <en><![CDATA[Yes, this must be it ... the old statue quarry. It’s located right at the base of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, должно быть, это она и есть... старая каменоломня. Она находится прямо у основания замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="woods0020.mp3">
+      <en><![CDATA[Mr. Caro believes the poem he gave me unlocks a forgotten hidden access to the castle cellars somewhere around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мистер Каро считает, что стихотворение, которое он мне дал, откроет потайной ход к подвалам замка где-то здесь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="woods0021.mp3">
+      <en><![CDATA[He could have accompanied me ... the woods are pretty dark and eerie in the middle of the night.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет чтобы пойти со мной... этот деревья такие темные и страшные в разгаре ночи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="woods0022.mp3">
+      <en><![CDATA[... especially with these headless statues standing around.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...особенно со всеми этими расставленными здесь безголовыми статуями.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="woods0023.mp3">
+      <en><![CDATA[This screeching bat statue looks pretty scary.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Статуя верещащей летучей мыши выглядит весьма устрашающе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="woods0024.mp3">
+      <en><![CDATA[Like a giant bat frozen in time when it was just about to jump up and flutter off into the night.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как гигантская летучая мышь, замороженная навечно в мгновение перед тем, как сняться с места и улететь в ночь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="woods0025.mp3">
+      <en><![CDATA[No. This bat looks like it might claw someone’s eyes out just for whispering too loud. I’ll keep my mouth shut.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Эта летучая мышь выглядит так, словно готова выцарапать чьи-то глаза за слишком громкий шепот. Надо бы мне держать рот на замке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="woods0026.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="woods0027.mp3">
+      <en><![CDATA[Nothing happens.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего не происходит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="woods0028.mp3">
+      <en><![CDATA[That looks good so far ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вроде выглядит пока хорошо...]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="woods0029.mp3">
+      <en><![CDATA[Uh oh. I think that was the wrong one. I think I have to start again.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Угу. Похоже, это не то. Надо начать снова.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="woods0030.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="woods0031.mp3">
+      <en><![CDATA[Nothing happens.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего не происходит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="woods0032.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="woods0033.mp3">
+      <en><![CDATA[Nothing happens.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего не происходит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="woods0034.mp3">
+      <en><![CDATA[It’s a statue of a nun ... or perhaps a monk wearing a hooded cloak? I can’t really say.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это статуя монашки... а может, монаха в сутане с капюшоном? Не могу точно сказать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="woods0035.mp3">
+      <en><![CDATA[No, I’m not going to talk to any of these statues here ... if one of them answers here tonight in the middle of the woods I will surely die of fright.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не собираюсь говорить с одной из этих статуй... если одна из них ответит мне посреди ночи среди деревьев, я просто умру от страха.]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="woods0036.mp3">
+      <en><![CDATA[There is a rose depicted on the base of this statue.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У основания этой статуи изображена роза.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="woods0037.mp3">
+      <en><![CDATA[Stone.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Камень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="_avatar" sound="woods0038.mp3">
+      <en><![CDATA[Let’s see ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поглядим...]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="woods0039.mp3">
+      <en><![CDATA[Look at that. There was another star plate hidden underneath the rose ornament.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Только посмотрите на это. Еще одна пластина в виде звезды под орнаментом из роз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="woods0040.mp3">
+      <en><![CDATA[A mallet alone won’t get me far.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Одна колотушка мало чем сможет мне помочь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="woods0041.mp3">
+      <en><![CDATA[This chisel alone isn’t of much use here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Одно долото тут мало чем пригодится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="woods0042.mp3">
+      <en><![CDATA[I’ll tap the chisel with this mallet.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я постучу по долоту этой колотушкой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="woods0043.mp3">
+      <en><![CDATA[Look at that. There was another star plate hidden underneath the rose ornament.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Только посмотрите на это. Еще одна пластина в виде звезды под орнаментом из роз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="woods0044.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="woods0045.mp3">
+      <en><![CDATA[Nothing happens.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего не происходит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="woods0046.mp3">
+      <en><![CDATA[Looks like I did the right thing ... what now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, у меня все вышло правильно. Что теперь? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="woods0047.mp3">
+      <en><![CDATA[It’s a statue of a headless knight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это статуя безголового рыцаря.]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="woods0048.mp3">
+      <en><![CDATA[Or a headless statue of a knight ... It’s hard to tell now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или безголовая статуя рыцаря... Теперь уже сложно сказать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="woods0049.mp3">
+      <en><![CDATA[No, I don’t want to. Besides, he couldn’t hear me anyway. His head is missing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я не хочу. Кроме того, он меня все равно не сможет услышать. У него ведь нет головы. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="woods0050.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="woods0051.mp3">
+      <en><![CDATA[No reaction.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никакой реакции. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="woods0052.mp3">
+      <en><![CDATA[That was the last one!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это был последний!]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="_avatar" sound="woods0053.mp3">
+      <en><![CDATA[&quot;... and the guard of stone will no more do his duty.&quot; Thank you, Timothy Caro.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[&quot;...и каменный страж больше не сможет выполнять свой долг&quot;. Спасибо, Тимоти Каро.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="woods0054.mp3">
+      <en><![CDATA[I found the secret access to the castle! I need to be careful not run into Lowell Cain and his men.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне удалось найти тайный проход в замок! Теперь нужно быть осторожнее, чтобы не наткнуться на Лоуэлла Кейна и его людей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="_avatar" sound="woods0055.mp3">
+      <en><![CDATA[I hope I can find the Baron ... or Dr. Coppelius.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надеюсь, я смогу найти Барона... или доктора Копелиуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="woods0056.mp3">
+      <en><![CDATA[I think that was the wrong one ... the star plates rotated back into position.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, это было не то. Пластины в виде звезд вернулись на прежние позиции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="woods0057.mp3">
+      <en><![CDATA[A statue of a woman setting free a dove.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Статуя женщины, которая выпускает на волю голубку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="woods0058.mp3">
+      <en><![CDATA[This statue is headless too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта статуя тоже безголовая.]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="_avatar" sound="woods0059.mp3">
+      <en><![CDATA[I think she is pretty busy setting her dove free ... I shouldn’t disturb her.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, она слишком занята выпусканием голубки... не буду ее беспокоить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="woods0060.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="woods0061.mp3">
+      <en><![CDATA[Nothing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="woods0062.mp3">
+      <en><![CDATA[I think that was the right one to press.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, вот тут надо нажать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="woods0063.mp3">
+      <en><![CDATA[There is something hypnotic about the eyes of this owl ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что-то гипнотическое есть в глазах совы...]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="woods0064.mp3">
+      <en><![CDATA[No. I don’t want to ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я не хочу...]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="woods0065.mp3">
+      <en><![CDATA[There is a star-shaped symbol engraved in this metal plate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой металлической пластине выгравирован символ в виде звезды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="woods0066.mp3">
+      <en><![CDATA[Nothing happens.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего не происходит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="woods0067.mp3">
+      <en><![CDATA[Okay, that was the right one!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хорошо, вот так было правильно! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="woods0068.mp3">
+      <en><![CDATA[Oh no ... I think the mechanism just reset itself again.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет... Думаю, механизм просто снова перезапустился. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="woods0069.mp3">
+      <en><![CDATA[It’s a stone cutters mallet.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это колотушка камнотесов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="woods0070.mp3">
+      <en><![CDATA[I wonder if Mr. Caro’s ancestor was the last one who used it ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возможно, предок мистера Каро последним ей пользовался...]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="woods0071.mp3">
+      <en><![CDATA[This mallet might be useful.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Колотушка может мне пригодиться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="woods0072.mp3">
+      <en><![CDATA[The dummy is entangled in the balloon’s ropes... looks pretty eerie.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Этот манекен, запутанный в веревках воздушного шара... Жутковато выглядит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="woods0073.mp3">
+      <en><![CDATA[Are ... are you okay?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы... вы в порядке? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="woods0074.mp3">
+      <en><![CDATA[...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не-а.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="woods0075.mp3">
+      <en><![CDATA[No answer. Boy am I glad... it really is just a dummy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никакого ответа... Ух, хорошо! Это и правда всего лишь манекен. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="woods0076.mp3">
+      <en><![CDATA[That’s too high ... I can’t reach the dummy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слишком высоко... Не могу дотянуться до манекена. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="woods0077.mp3">
+      <en><![CDATA[The dummy is entangled in the balloon’s ropes... looks pretty eerie.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Этот манекен, запутанный в веревках воздушного шара... Жутковато выглядит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="woods0078.mp3">
+      <en><![CDATA[Are ... are you okay?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы... вы в порядке? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="woods0079.mp3">
+      <en><![CDATA[...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не-а.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="woods0080.mp3">
+      <en><![CDATA[No answer. Boy am I glad... it really is just a dummy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никакого ответа... Ух, хорошо! Это и правда всего лишь манекен. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="woods0081.mp3">
+      <en><![CDATA[That’s too high ... I can’t reach the dummy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слишком высоко... Не могу дотянуться до манекена. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="woods0082.mp3">
+      <en><![CDATA[The dummy is entangled in the balloon’s ropes... looks pretty eerie.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Этот манекен, запутанный в веревках воздушного шара... Жутковато выглядит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="woods0083.mp3">
+      <en><![CDATA[Are ... are you okay?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы... вы в порядке? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="woods0084.mp3">
+      <en><![CDATA[...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не-а.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="woods0085.mp3">
+      <en><![CDATA[No answer. Boy am I glad... it really is just a dummy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никакого ответа... Ух, хорошо! Это и правда всего лишь манекен. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="woods0086.mp3">
+      <en><![CDATA[That’s too high ... I can’t reach the dummy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слишком высоко... Не могу дотянуться до манекена. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="_avatar" sound="woods0087.mp3">
+      <en><![CDATA[Someone drove this chisel deep into a log of wood.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто-то воткнул со всей силы это долото в деревянное бревно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="_avatar" sound="woods0088.mp3">
+      <en><![CDATA[It’s stuck. I can’t pull it from this log.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Оно застряло. Не могу его вытащить из бревна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="woods0089.mp3">
+      <en><![CDATA[Maybe I can find a way to weaken the wood so that it can be pulled out.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, найдется способ ослабить дерево, чтобы получилось вытащить долото.]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="_avatar" sound="woods0090.mp3">
+      <en><![CDATA[Burning the wood around the chisel is a good idea ... but the log won’t ignite without some kind of flammable starter.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сжечь дерево вокруг долота хорошая идея... но бревно не займется огнем, если я не найду что-нибудь воспламеняющееся.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="woods0091.mp3">
+      <en><![CDATA[Now the log is covered with cheap whiskey.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь бревно облито дешевым виски.]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="woods0092.mp3">
+      <en><![CDATA[I poured cheap whiskey on this log. Now what?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это дерево облито дешевым виски - и что теперь? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="_avatar" sound="woods0093.mp3">
+      <en><![CDATA[It’s still stuck. I can’t pull it from this log.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Все равно застряло. Не могу вытащить долото из бревна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="_avatar" sound="woods0094.mp3">
+      <en><![CDATA[I will set the whiskey on fire ... maybe that will help to weaken the wood.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо поджечь виски... может, это ослабит дерево. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="woods0095.mp3">
+      <en><![CDATA[Now the wood around the chisel is burnt ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь дерево вокруг долота сожжено...]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="_avatar" sound="woods0096.mp3">
+      <en><![CDATA[It worked! That whiskey idea was pretty good.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сработало! Эта идея с виски была очень даже неплохой. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="_avatar" sound="woods0097.mp3">
+      <en><![CDATA[Hey! That looks like one of the insignia rings I am searching for!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй! Похоже, это один из перстней, которые я ищу! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="_avatar" sound="woods0098.mp3">
+      <en><![CDATA[Uncle Slappy must have put the ring on the dummy when he and his brother sent the balloon on its last test flight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядюшка Слаппи, должно быть, надел кольцо на одного из манекенов, когда он со своим братом отправил воздушный шар в последний пробный полет. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="woods0099.mp3">
+      <en><![CDATA[The dummy is hanging too high up in the tree.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Манекен висит слишком высоко на дереве. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="_avatar" sound="woods0100.mp3">
+      <en><![CDATA[I can’t reach the ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо попробовать отстрелить это кольцо...]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="woods0101.mp3">
+      <en><![CDATA[Let’s see if I can’t shoot that ring down ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Посмотрим, смогу ли я отстрелить это кольцо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="_avatar" sound="woods0102.mp3">
+      <en><![CDATA[Awe shucks ... the rock wasn’t enough to knock the ring off the finger.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тьфу ты... камнем кольцо с пальца не сшибешь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="_avatar" sound="woods0103.mp3">
+      <en><![CDATA[I guess I’ll need some ammo that packs a bit more punch to dislodge the ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, мне нужны боеприпасы с большей ударной силой, чтобы сбить кольцо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="woods0104.mp3">
+      <en><![CDATA[I’ll just pull the fuse on this cherry bomb ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приделаю-ка фитиль к этому красному фейерверку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="woods0105.mp3">
+      <en><![CDATA[Awe shucks ... the cherry bomb just bounced off the arm.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тьфу ты... красный фейерверк просто отскочил от руки. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="_avatar" sound="woods0106.mp3">
+      <en><![CDATA[At least the finale was exciting.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По крайней мере, финал был впечатляющ.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="woods0107.mp3">
+      <en><![CDATA[I’ll just pull the fuse on this cherry bomb ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приделаю-ка фитиль к этому красному фейерверку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="woods0108.mp3">
+      <en><![CDATA[Wow! That blew the dummy’s whole hand off!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ух ты! Это отстрелило всю руку у манекена! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="_avatar" sound="woods0109.mp3">
+      <en><![CDATA[While I feel diabolical saying it ... that was oddly satisfying.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хоть и есть в этих словах что-то дьявольское - но я чувствую странное удовлетворение. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="_avatar" sound="woods0110.mp3">
+      <en><![CDATA[But ONLY because my target was a dummy, of course.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но ТОЛЬКО потому, что моим объектом был манекен, конечно же. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="_avatar" sound="woods0111.mp3">
+      <en><![CDATA[That still wouldn’t extend the reach of my arm enough to get the ring down.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это все равно не позволит мне дотянуться до кольца. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="_avatar" sound="woods0112.mp3">
+      <en><![CDATA[That still wouldn’t extend the reach of my arm enough to get the ring down.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это все равно не позволит мне дотянуться до кольца. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="_avatar" sound="woods0113.mp3">
+      <en><![CDATA[That still wouldn’t extend the reach of my arm enough to get the ring down.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это все равно не позволит мне дотянуться до кольца. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="woods0114.mp3">
+      <en><![CDATA[Sorry to say that, but I have a terrible throwing arm.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, метать предметы в цель я не мастер.]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="_avatar" sound="woods0115.mp3">
+      <en><![CDATA[Sorry to say that, but I have a terrible throwing arm.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, метать предметы в цель я не мастер.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="_avatar" sound="woods0116.mp3">
+      <en><![CDATA[Sorry to say that, but I have a terrible throwing arm.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, метать предметы в цель я не мастер.]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="_avatar" sound="woods0117.mp3">
+      <en><![CDATA[I made it ... this is one of the insignia rings I am searching for.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Получилось! Это один из перстней, которые я ищу. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="_avatar" sound="woods0118.mp3">
+      <en><![CDATA[Uncle Slappy must have put the ring on the dummy when he and his brother sent the balloon on its last test flight.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядюшка Слаппи, должно быть, надел кольцо на одного из манекенов, когда он со своим братом отправил воздушный шар в последний пробный полет. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="_avatar" sound="woods0119.mp3">
+      <en><![CDATA[Another insignia ring! I will take it with me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще один перстень! Возьму его с собой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="_avatar" sound="woods0120.mp3">
+      <en><![CDATA[It looks like that balloon must have crash landed here years ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, этот воздушный шар разбился здесь много лет назад. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="_avatar" sound="woods0121.mp3">
+      <en><![CDATA[There is a sign on the side of the basket ... it reads &quot;Prototype LeMue-LaFayette III&quot;.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На одной стороне корзины есть надпись, которая гласит: &quot;Прототип Лемю Лафайета III&quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="_avatar" sound="woods0122.mp3">
+      <en><![CDATA[While I can’t tell for sure, it looks like there’s still something ...or SOMEONE... up there in the basket.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хоть я и не могу сказать точно, но, похоже, в корзине что-то... или КТО-ТО есть. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="_avatar" sound="woods0123.mp3">
+      <en><![CDATA[Creepy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Жутковато.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="_avatar" sound="woods0124.mp3">
+      <en><![CDATA[Hey! Is anyone in need of help up there?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй! Там кто-нибудь есть? Помощь нужна? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="_avatar" sound="woods0125.mp3">
+      <en><![CDATA[I don’t think I’m in the mood to skin my knees and elbows just to get into that balloon basket.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не думаю, что у меня есть настроение обдирать себе локти и колени, чтобы залезть в эту корзину. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="_avatar" sound="woods0126.mp3">
+      <en><![CDATA[I’m not twenty anymore ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне уже не двадцать лет...]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="_avatar" sound="woods0127.mp3">
+      <en><![CDATA[Let’s see if the balloon reacts to Uncle Slappy’s multi purpose remote.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Давайте-ка посмотрим, будет ли шар реагировать на мультифункциональный пульт дядюшки Слаппи. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="woods0128.mp3">
+      <en><![CDATA[Aaaargh!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="_avatar" sound="woods0129.mp3">
+      <en><![CDATA[Oh, man. That dummy almost gave me a heart attack!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ох ты ж! Из-за этого манекена у меня чуть инфаркт не случился! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="_avatar" sound="woods0130.mp3">
+      <en><![CDATA[The remote must have triggered the balloon’s ejection seat ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должно быть, пульт запустил реакцию в катапультируемом кресле шара.]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="_avatar" sound="woods0131.mp3">
+      <en><![CDATA[That is a good idea, but the remote doesn’t seem to work. Maybe it needs batteries.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хорошая идея, но пульт, похоже, не работает. Возможно, в него нужно вставить батарейки. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="_avatar" sound="woods0132.mp3">
+      <en><![CDATA[I’ve already triggered the balloon’s ejection seat.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне уже удалось запустить катапультируемое кресло в шаре. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="woods0133.mp3">
+      <en><![CDATA[Are those statues behind the bushes? I can’t really make it out from here. But I DID see a waterfall through the iron gate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там, позади кустов, статуи? Мне отсюда не видно. Вот что мне БЫЛО видно - это водопад позади железных ворот. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="_avatar" sound="woods0134.mp3">
+      <en><![CDATA[I’m afraid I will have to find a way to open the iron gate to get to the other side.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, мне нужно искать способ открыть желазные ворота, чтобы выбраться на другую сторону. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="woods0135.mp3">
+      <en><![CDATA[There is too much poison oak growing on the other side of this wall.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На другой стороне этой стены растет слишком много ядовитого сумаха.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="woods0136.mp3">
+      <en><![CDATA[Why would anyone build a wall in the middle of the woods?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И зачем кому-то понадобилось строить стену посреди деревьев? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="_avatar" sound="woods0137.mp3">
+      <en><![CDATA[There must be something pretty interesting hidden behind it ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должно быть, за ней прячется что-то очень интересное. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="woods0138.mp3">
+      <en><![CDATA[No, I don’t think that’s a good idea.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, не думаю, что это хорошая идея. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="_avatar" sound="woods0139.mp3">
+      <en><![CDATA[These bushes growing over the wall look like white blossom poison oak ... and I hate to admit it but I am really allergic to that kind of poison oak.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эти кусты, растущие за стеной, выглядят как белый ядовитый сумах в цвету... и, как бы мне ни неприятно было это признавать, но у меня аллергия на этот вид сумаха. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="_avatar" sound="woods0140.mp3">
+      <en><![CDATA[The last time I touched that vile weed I was out on a date at a lake ... my soon-to-be-girlfriend decided to become a nurse after seeing what happened to me and moved away to another town to study there.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Последний раз мне довелось дотронуться до этого злобного растения, когда у меня было свидание на озере... моя будущая девушка решила стать медсестрой, после того как увидела, что со мной случилось, и переехала в другой город на учебу. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="_avatar" sound="woods0141.mp3">
+      <en><![CDATA[I never saw her again. True story. THAT’s what poison oak does to me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Больше мы с ней никогда не виделись. Это произошло на самом деле. ВОТ что делает со мной ядовитый сумах. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+  </d>
+</localize>

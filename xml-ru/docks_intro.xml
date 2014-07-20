@@ -1,0 +1,1733 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[boat]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лодка]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[lighthouse door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь маяка]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[boat patch]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[латка]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[bucket o’ tar]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ведро смолы]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[crates]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ящики]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[nathan]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[mcmanus]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Макманус]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[mcmanus]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Макманус]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[shroom]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Грибок]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="boat">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="boat">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="boat">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="lighthouse door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="lighthouse door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="lighthouse door">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="boat patch">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="boat patch">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="boat patch">
+      <en><![CDATA[Pick up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поднять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="bucket o’ tar">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="bucket o’ tar">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="bucket o’ tar">
+      <en><![CDATA[pick up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поднять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="crates">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="crates">
+      <en><![CDATA[Taste]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попробовать]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="crates">
+      <en><![CDATA[Take nets from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять сети с@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="nathan">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="nathan">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="nathan">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="mcmanus">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="mcmanus">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="mcmanus">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="mcmanus">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="mcmanus">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="mcmanus">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="shroom">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="shroom">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="shroom">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c />
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="docks_intro0000.mp3">
+      <en><![CDATA[This door leads into the lighthouse.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта дверь ведет в маяк.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="docks_intro0001.mp3">
+      <en><![CDATA[Is anyone in there?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть кто живой?]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="docks_intro0002.mp3">
+      <en><![CDATA[Hello?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй!]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="docks_intro0003.mp3">
+      <en><![CDATA[I don’t think there’s anyone inside the lighthouse.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Судя по всему, на маяке никого нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="docks_intro0004.mp3">
+      <en><![CDATA[The lighthouse door is locked. What a surprise.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь в маяк заперта. Какой сюрприз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="docks_intro0005.mp3">
+      <en><![CDATA[It seems the boat had been patched already before it was finally damaged like this.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, лодку подлатали еще до того, как она пришла в такое состояние.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="docks_intro0006.mp3">
+      <en><![CDATA[Let’s see if I can break this patch loose ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Посмотрим, не получится ли отодрать заплату.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="docks_intro0007.mp3">
+      <en><![CDATA[Well, that was easier than I expected.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Все проще, чем казалось вначале.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="docks_intro0008.mp3">
+      <en><![CDATA[It’s a bucket filled with thick, sticky tar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это ведро, доверху заполненное смолой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="docks_intro0009.mp3">
+      <en><![CDATA[A bucket o’ tar might come in handy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ведро смолы вполне может пригодиться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="docks_intro0010.mp3">
+      <en><![CDATA[The crates smell of rotting wood and salt water. They are filled with wet fishing nets.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[От ящиков воняет гнилью и соленой водой. В них рыболовные сети.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="docks_intro0011.mp3">
+      <en><![CDATA[No thanks. If the contents of these crates taste half as disgusting as they smell, I’ll gladly pass.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, спасибо. Если содержимое ящиков на вкус так же отвратительно, как и на запах, я пас.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="docks_intro0012.mp3">
+      <en><![CDATA[The fishing nets are damp and smelly and all in knots ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эти сети все мокрые, вонючие и перепутанные...]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="docks_intro0013.mp3">
+      <en><![CDATA[...  they are useless and offensive to the senses, if you ask me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...как по-моему, так они бесполезны и оскорбительны для глаза.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="docks_intro0014.mp3">
+      <en><![CDATA[Mh. Maybe the guys over there can help me to find the lawyer who sent me the will.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хм. Может вон те ребята помогут мне найти адвоката, пославшего завещание.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="nathan" sound="docks_intro0015.mp3">
+      <en><![CDATA[Vincent left the boat here. It’s possible that someone around here has seen him or Nora.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент оставил здесь лодку. Может, кто-нибудь видел его или Нору.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="coppelius" sound="docks_intro0016.mp3">
+      <en><![CDATA[Time is running out, we have to find him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Время выходит, нужно его найти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="nathan" sound="docks_intro0017.mp3">
+      <en><![CDATA[I’ll have a look around the village.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Придется поискать в деревне.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="nathan" sound="docks_intro0018.mp3">
+      <en><![CDATA[I wonder what new adventures lie ahead.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какие приключения ждут впереди?]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="coppelius" sound="docks_intro0019.mp3">
+      <en><![CDATA[Nathan, if you’re serious about finding Nora then you’d better stop talking to yourself and get going.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, если ты действительно хочешь найти Нору, перестань говорить сам с собой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="nathan" sound="docks_intro0020.mp3">
+      <en><![CDATA[How do you do.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как поживаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="docks_intro0021.mp3">
+      <en><![CDATA[How do you do.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как поживаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="mcmanus" sound="docks_intro0022.mp3">
+      <en><![CDATA[Your friend Vincent surely was done with me ship. He messed up the motor before he left her here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Твой друг Винсент как следует потрудился над моим кораблем. Мотор совсем в раздрызг сломан.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="mcmanus" sound="docks_intro0023.mp3">
+      <en><![CDATA[I fear we won’t be going out to sea again too soon, Shroom, old boy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, Грибок, старина, нам в ближайшее время выйти в море не светит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="shroom" sound="docks_intro0024.mp3">
+      <en><![CDATA[Bark!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="docks_intro0025.mp3">
+      <en><![CDATA[Excuse me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я извиняюсь...]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="coppelius" sound="docks_intro0026.mp3">
+      <en><![CDATA[Young man, since you seem to be idle enough to overhear our conversation, maybe you can be so kind as to point us to a policeman or any other local law-defending authority?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Юноша, раз уж у вас достаточно свободного времени, чтобы подслушивать наш разговор, не будете ли вы так любезны помочь нам найти полицейского или другого представителя местных властей?]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="docks_intro0027.mp3">
+      <en><![CDATA[Sorry. I’m not from Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Извините, я не местный.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="docks_intro0028.mp3">
+      <en><![CDATA[Excuse me, maybe I’m making a mistake here, but …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Извините, возможно, я ошибаюсь, но...]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="coppelius" sound="docks_intro0029.mp3">
+      <en><![CDATA[Yes, young man? What is the matter?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, юноша? В чем дело?]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="docks_intro0030.mp3">
+      <en><![CDATA[I just recognized you … from this photograph.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я вас узнал... с этой фотографии.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="docks_intro0031.mp3">
+      <en><![CDATA[That’s you standing in front of my father, Dr. Trelawney, isn’t it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это же вы стоите перед моим отцом доктором Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="coppelius" sound="docks_intro0032.mp3">
+      <en><![CDATA[Well I’ll be! I recognize that photograph, I have one just like it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подумать только! Я узнаю эту фотографию, у меня есть такая же.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="coppelius" sound="docks_intro0033.mp3">
+      <en><![CDATA[Indeed. Dr. Trelawney and I were both working at the Smith Institute here in Ravenhollow. If I remember correctly Anthony Trelawney’s wife left him with their son more than … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Действительно. Мы с доктором Трелони работали в смитовском институте в Рейвенхоллоу. Если я правильно помню, жена Энтони Трелони забрала их сына и оставила его более... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="docks_intro0034.mp3">
+      <en><![CDATA[… twenty years ago, yes. And since then I haven’t heard a word from father. My name is Nigel Trelawney. What a coincidence to meet you here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... двадцати лет назад. И с тех пор я ничего не слышал об отце. Меня зовут Найджел Трелони. Какое приятное совпадение, что мы встретились.]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="coppelius" sound="docks_intro0035.mp3">
+      <en><![CDATA[Coppelius, Dr. William Coppelius.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Коппелиус. Доктор Уильям Коппелиус.]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="coppelius" sound="docks_intro0036.mp3">
+      <en><![CDATA[There are no coincidences involved I fear.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, что совпадения тут не причем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="coppelius" sound="docks_intro0037.mp3">
+      <en><![CDATA[This is Mr. McManus.  The naive-looking young man who just walked off was my assistant Nathan.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мистер Макманус. А наивного вида юноша, который только что ушел, это мой помощник Натан.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="coppelius" sound="docks_intro0038.mp3">
+      <en><![CDATA[Excuse me if I’m being forward, but what are you doing in Ravenhollow, Mr. Trelawney? Have you come to see your father?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не сочтите за грубость, но что привело вас в Рейвенхоллоу, мистер Трелони? Вы приехали повидать отца?]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="docks_intro0039.mp3">
+      <en><![CDATA[I fear it’s too late for that, Dr. Coppelius. My father died ten months ago. I have come to settle my father’s estate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, для этого уже поздно, доктор Коппелиус. Отец умер почти год назад. Я приехал, чтобы вступить во владение наследством.]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="docks_intro0040.mp3">
+      <en><![CDATA[Sorry, but who are you again?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Простите, как вас зовут?]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="coppelius" sound="docks_intro0041.mp3">
+      <en><![CDATA[Coppelius, Dr. William Coppelius. I’m traveling with my companions, Nathan and Mr. MacManus.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Коппелиус. Доктор Уильям Коппелиус. Я путешествую со своими спутниками, Натаном и мистером МакМанусом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="coppelius" sound="docks_intro0042.mp3">
+      <en><![CDATA[Your father, Dr. Trelawney, and I used to work here at the Smith Institute in Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы с вашим отцом, мистер Трелони, работали в смитовском институте Рейвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="docks_intro0043.mp3">
+      <en><![CDATA[Ah. Now I remember. For a second there it had slipped my mind.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А. Теперь вспомнил. А на секунду чуть не забыл.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="docks_intro0044.mp3">
+      <en><![CDATA[So are you still working at the Smith Institute here in Ravenhollow?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы все еще работаете в смитовском институте Рейвенхоллоу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="coppelius" sound="docks_intro0045.mp3">
+      <en><![CDATA[No. After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. После инцидента пятилетней давности мы с вашим отцом и нашими коллегами решили прекратить исследования и закрыть институт.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="docks_intro0046.mp3">
+      <en><![CDATA[Shouldn’t you have heard about my father’s death by now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Странно, что вы до сих пор не слышали о смерти отца.]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="coppelius" sound="docks_intro0047.mp3">
+      <en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of the other colleagues in this photograph until recently. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В последние годы я был в отъезде и до недавнего времени не общался ни с кем из коллег с этой фотографии. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="coppelius" sound="docks_intro0048.mp3">
+      <en><![CDATA[Do you know how your father died? Did he ever mention a man named Vincent?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вам что-нибудь известно об обстоятельствах его смерти? Он упоминал человека по имени Винсент?]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="docks_intro0049.mp3">
+      <en><![CDATA[No, I don’t know how he died; I’ll have to ask this Lionheart lawyer fellow about that.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, как он умер, я не знаю; надо будет расспросить этого адвоката Лайнхарта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="docks_intro0050.mp3">
+      <en><![CDATA[You see, the only message that I got from father was this photograph that he left me in his will. His lawyer mailed it to me after his death.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Понимаете, единственным посланием от отца можно считать эту фотографию, вложенную в завещание, которое мне прислал после его смерти адвокат отца.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="coppelius" sound="docks_intro0051.mp3">
+      <en><![CDATA[That note? “A Stitch in Time Saves Nine”?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Та надпись? &quot;A Stitch in Time Saves Nine&quot;?@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="docks_intro0052.mp3">
+      <en><![CDATA[Quite a piece of wisdom, uh?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мудрено, правда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="coppelius" sound="docks_intro0053.mp3">
+      <en><![CDATA[Young man. Don’t underestimate your father. He may not have been a family man, but he was a most remarkable thinker.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодой человек. Не следует недооценивать вашего отца. Пусть он и не был примерным семьянином, но мыслителем он был выдающимся.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="mcmanus" sound="docks_intro0054.mp3">
+      <en><![CDATA[I’ve heard about many a strong man getting soft up there in the brain when he got old.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я слыхал, умные мужики к старости слабеют на голову.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="coppelius" sound="docks_intro0055.mp3">
+      <en><![CDATA[Anthony Trelawney was 8 years my junior. And I surely haven’t started to lose my mind have I?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони Трелони был моложе меня на 8 лет. А я же не начал слабеть рассудком, не так ли?]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="mcmanus" sound="docks_intro0056.mp3">
+      <en><![CDATA[Nay.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Неа.]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="docks_intro0057.mp3">
+      <en><![CDATA[I think the capitalization of the letters is a morse code message summoning me here. But still it doesn’t make much sense.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я думаю, в заглавных буквах скрыто зашифрованное азбукой Морзе сообщение, в котором отец просит меня приехать. Но я все равно мало что понимаю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="docks_intro0058.mp3">
+      <en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так вы говорите, вы не знали о смерти отца?]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="coppelius" sound="docks_intro0059.mp3">
+      <en><![CDATA[I have neither been in Ravenhollow in the last years, nor have I heard from any of my colleagues in that photograph until recently.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В последние годы я был в отъезде и до недавнего времени не общался ни с кем из коллег с этой фотографии. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="coppelius" sound="docks_intro0060.mp3">
+      <en><![CDATA[After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После одного инцидента пять лет назад мы с вашим отцом и нашими коллегами решили прекратить исследования и закрыть институт.]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="docks_intro0061.mp3">
+      <en><![CDATA[I see. Thanks for clarifying that.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Понимаю. Спасибо за разъяснения.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="docks_intro0062.mp3">
+      <en><![CDATA[Why are you searching for the police? What’s the trouble?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А зачем вам полиция? Что случилось?]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="coppelius" sound="docks_intro0063.mp3">
+      <en><![CDATA[We are searching for a man named Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы ищем человека по имени Винсент.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="coppelius" sound="docks_intro0064.mp3">
+      <en><![CDATA[He was one of our colleagues. One of the nine founding members of the Smith Institute. A most dangerous man as it turned out.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мой бывший коллега. Один из девяти основателей смитовского института. И, как оказалось, опаснейший человек.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="coppelius" sound="docks_intro0065.mp3">
+      <en><![CDATA[He kidnapped my granddaughter, Nora ....]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он похитил мою внучку Нору...]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="mcmanus" sound="docks_intro0066.mp3">
+      <en><![CDATA[… and me ship, aye!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... и мой корабель!]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="coppelius" sound="docks_intro0067.mp3">
+      <en><![CDATA[We found the ship here … it’s hard to tell when Vincent actually arrived in Ravenhollow, but maybe he’s still around. We have to find him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы нашли корабль здесь... трудно сказать, когда Винсент прибыл в Рейвенхоллоу, но, возможно, он все еще здесь. Мы должны его найти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="docks_intro0068.mp3">
+      <en><![CDATA[He kidnapped your granddaughter … why?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он похитил вашу внучку... но зачем?]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="coppelius" sound="docks_intro0069.mp3">
+      <en><![CDATA[That is a complicated story … and I fear it’s possible that Vincent was involved in your father’s death, too. He swore vengeance against …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Долгая история... боюсь, что Винсент замешан и в смерти вашего отца. Он поклялся отомстить...]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="cain" sound="docks_intro0070.mp3">
+      <en><![CDATA[None of you gentlemen carry permission by the Castle to enter this town or to linger around the docks, but still that’s exactly what I find you doing. Why is that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ни у кого из вас, господа, нет выданного замком разрешения находиться в городе или болтаться в доках, однако именно этим вы и занимаетесь. Объяснитесь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="docks_intro0071.mp3">
+      <en><![CDATA[Who wants to know that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А кто спрашивает?]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="cain" sound="docks_intro0072.mp3">
+      <en><![CDATA[The name is Cain, Lowell Cain; I’m commander in chief of the Northwest Restoration law enforcement. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Меня зовут Кейн, Лоуэлл Кейн; я начальник полицейского управления при Реставрации Нордвеста.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="shroom" sound="docks_intro0073.mp3">
+      <en><![CDATA[Woof!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="docks_intro0074.mp3">
+      <en><![CDATA[You are asking for our permission to enter Ravenhollow? You must be joking.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разрешение на вход в Рейвенхоллоу? Шутите что ли?]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="manbreaker" sound="docks_intro0075.mp3">
+      <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прикажете отделать этого болтуна как следует и запереть его в лодочном сарае вместе с остальным мусором, изъятым за неделю?]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="cain" sound="docks_intro0076.mp3">
+      <en><![CDATA[Let’s try to reason with him first.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сперва попробуем договориться по-хорошему.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="cain" sound="docks_intro0077.mp3">
+      <en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он очевидно не в курсе, что город Рейвенхоллоу и прилегающие территории были законным образом возвращены под власть барона Нордвеста из замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="docks_intro0078.mp3">
+      <en><![CDATA[Re-subjugated? Northwest Castle? Seems like you skipped politics class once too often.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возвращены под власть? Замок Нордвест? Кто-то прогуливал политологию в школе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="manbreaker" sound="docks_intro0079.mp3">
+      <en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты только что выиграл бесплатный отдых без сознания в лодочном сарае, парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="cain" sound="docks_intro0080.mp3">
+      <en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не спеши. Нельзя винить чужестранцев за их неосведомленность в недавних переменах., произошедших в нашем любимом городе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="cain" sound="docks_intro0081.mp3">
+      <en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После Реставрации Нордвеста Замок следит за порядком в городе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="cain" sound="docks_intro0082.mp3">
+      <en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сами понимаете, времена сейчас опасные, повсеместный разгул преступности, мы не можем позволять чужакам разгуливать где вздумается.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="docks_intro0083.mp3">
+      <en><![CDATA[Coming and going as you please is a pretty popular concept these days ... it’s called freedom, I think!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ходить где вздумается - довольно популярное течение в наши дни ... кажется, оно называется свободой!]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="manbreaker" sound="docks_intro0084.mp3">
+      <en><![CDATA[My fist is starting to itch, boy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня уже кулаки чешутся, парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="cain" sound="docks_intro0085.mp3">
+      <en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Довольно! Я вынужден просить вас и ваших друзей проследовать за мной в замок, доктор Коппелиус...]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="coppelius" sound="docks_intro0086.mp3">
+      <en><![CDATA[Very interesting … How do you know my name?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как интересно... Откуда вам известно мое имя?]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="mcmanus" sound="docks_intro0087.mp3">
+      <en><![CDATA[Have ye been expectin’ us?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы нас че, ждали?]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="cain" sound="docks_intro0088.mp3">
+      <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как представитель Замка я вновь прошу вас следовать за мной. Я не советую вам сопротивляться аресту, доктор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="docks_intro0089.mp3">
+      <en><![CDATA[Hey, don’t you dare force the Doctor! We will leave now!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э, не впутывайте сюда доктора! Мы уходим! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="manbreaker" sound="docks_intro0090.mp3">
+      <en><![CDATA[Not so fast ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не так быстро... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="manbreaker" sound="docks_intro0091.mp3">
+      <en><![CDATA[Hey, you hit me!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, ты меня ударил!]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="docks_intro0092.mp3">
+      <en><![CDATA[What?! I haven’t touched you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чего? Да я тебя пальцем не трогал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="manbreaker" sound="docks_intro0093.mp3">
+      <en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но что-то же меня только что ударило по затылку и... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="manbreaker" sound="docks_intro0094.mp3">
+      <en><![CDATA[OWW!! That’s twice!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ай! Опять! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="docks_intro0095.mp3">
+      <en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не я, честно. Я даже не двигался!]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="manbreaker" sound="docks_intro0096.mp3">
+      <en><![CDATA[Shut up ... I’m done with you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заткнись... надоел ты мне.]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="shroom" sound="docks_intro0097.mp3">
+      <en><![CDATA[Woof!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="_avatar" sound="docks_intro0098.mp3">
+      <en><![CDATA[Dr. Coppelius, Mr. McManus, I think we should continue our conversation somewhere else.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Коппелиус, мистер Макманус, давайте продолжим нашу беседу в другом месте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="manbreaker" sound="docks_intro0099.mp3">
+      <en><![CDATA[Not so fast ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не так быстро... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="manbreaker" sound="docks_intro0100.mp3">
+      <en><![CDATA[Hey, you hit me!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, ты меня ударил!]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="docks_intro0101.mp3">
+      <en><![CDATA[What?! I haven’t touched you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чего? Да я тебя пальцем не трогал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="manbreaker" sound="docks_intro0102.mp3">
+      <en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но что-то же меня только что ударило по затылку и... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="manbreaker" sound="docks_intro0103.mp3">
+      <en><![CDATA[OWW!! That’s twice!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ай! Опять! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="docks_intro0104.mp3">
+      <en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не я, честно. Я даже не двигался!]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="manbreaker" sound="docks_intro0105.mp3">
+      <en><![CDATA[Shut up ... I’m done with you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заткнись... надоел ты мне.]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="shroom" sound="docks_intro0106.mp3">
+      <en><![CDATA[Woof!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="docks_intro0107.mp3">
+      <en><![CDATA[I just remembered I have a cake in the oven ... Dr. Coppelius, Mr. McManus, may I invite you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я только что вспомнил, что у меня пирог в духовке... доктор Коппелиус, мистер Макманус, позвольте пригласить вас на чай?]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="manbreaker" sound="docks_intro0108.mp3">
+      <en><![CDATA[Not so fast ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не так быстро... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="manbreaker" sound="docks_intro0109.mp3">
+      <en><![CDATA[Hey, you hit me!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, ты меня ударил!]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="_avatar" sound="docks_intro0110.mp3">
+      <en><![CDATA[What?! I haven’t touched you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чего? Да я тебя пальцем не трогал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="manbreaker" sound="docks_intro0111.mp3">
+      <en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но что-то же меня только что ударило по затылку и... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="manbreaker" sound="docks_intro0112.mp3">
+      <en><![CDATA[OWW!! That’s twice!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ай! Опять! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="_avatar" sound="docks_intro0113.mp3">
+      <en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не я, честно. Я даже не двигался!]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="manbreaker" sound="docks_intro0114.mp3">
+      <en><![CDATA[Shut up ... I’m done with you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заткнись... надоел ты мне.]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="shroom" sound="docks_intro0115.mp3">
+      <en><![CDATA[Woof!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гав!]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="_avatar" sound="docks_intro0116.mp3">
+      <en><![CDATA[Global criminality? You mean there are more of your kind running around out there?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разгул преступности? То есть таких, как вы, много?]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="manbreaker" sound="docks_intro0117.mp3">
+      <en><![CDATA[My fist is starting to itch, boy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня уже кулаки чешутся, парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="cain" sound="docks_intro0118.mp3">
+      <en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Довольно! Я вынужден просить вас и ваших друзей проследовать за мной в замок, доктор Коппелиус...]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="coppelius" sound="docks_intro0119.mp3">
+      <en><![CDATA[Very interesting … How do you know my name?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как интересно... Откуда вам известно мое имя?]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="mcmanus" sound="docks_intro0120.mp3">
+      <en><![CDATA[Have ye been expectin’ us?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы нас че, ждали?]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="cain" sound="docks_intro0121.mp3">
+      <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как представитель Замка я вновь прошу вас следовать за мной. Я не советую вам сопротивляться аресту, доктор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="_avatar" sound="docks_intro0122.mp3">
+      <en><![CDATA[Nice armband ... is there a souvenir shop around where I can buy one?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Милая повязка... в какой сувенирной лавке покупали - я тоже себе такую хочу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="manbreaker" sound="docks_intro0123.mp3">
+      <en><![CDATA[My fist is starting to itch, boy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня уже кулаки чешутся, парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="cain" sound="docks_intro0124.mp3">
+      <en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Довольно! Я вынужден просить вас и ваших друзей проследовать за мной в замок, доктор Коппелиус...]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="coppelius" sound="docks_intro0125.mp3">
+      <en><![CDATA[Very interesting … How do you know my name?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как интересно... Откуда вам известно мое имя?]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="mcmanus" sound="docks_intro0126.mp3">
+      <en><![CDATA[Have ye been expectin’ us?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы нас че, ждали?]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="cain" sound="docks_intro0127.mp3">
+      <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как представитель Замка я вновь прошу вас следовать за мной. Я не советую вам сопротивляться аресту, доктор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="docks_intro0128.mp3">
+      <en><![CDATA[You want to try to reason with me? You already gave me reason enough to sue you for threatening us.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотите договориться? Вы сейчас договоритесь до того, что я на вас в суд подам за угрозы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="manbreaker" sound="docks_intro0129.mp3">
+      <en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты только что выиграл бесплатный отдых без сознания в лодочном сарае, парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="cain" sound="docks_intro0130.mp3">
+      <en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не спеши. Нельзя винить чужестранцев за их неосведомленность в недавних переменах., произошедших в нашем любимом городе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="cain" sound="docks_intro0131.mp3">
+      <en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После Реставрации Нордвеста Замок следит за порядком в городе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="cain" sound="docks_intro0132.mp3">
+      <en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сами понимаете, времена сейчас опасные, повсеместный разгул преступности, мы не можем позволять чужакам разгуливать где вздумается.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="docks_intro0133.mp3">
+      <en><![CDATA[Last time I checked, wearing a uniform did not entitle you to push people around.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я что-то не припомню, чтобы полицейская форма давало право хамить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="manbreaker" sound="docks_intro0134.mp3">
+      <en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты только что выиграл бесплатный отдых без сознания в лодочном сарае, парень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="cain" sound="docks_intro0135.mp3">
+      <en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не спеши. Нельзя винить чужестранцев за их неосведомленность в недавних переменах., произошедших в нашем любимом городе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="cain" sound="docks_intro0136.mp3">
+      <en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После Реставрации Нордвеста Замок следит за порядком в городе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="cain" sound="docks_intro0137.mp3">
+      <en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сами понимаете, времена сейчас опасные, повсеместный разгул преступности, мы не можем позволять чужакам разгуливать где вздумается.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="docks_intro0138.mp3">
+      <en><![CDATA[Please don’t bother us, we were just in the middle of a conversation.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не отвлекайте нас, пожалуйста, у нас важный разговор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="manbreaker" sound="docks_intro0139.mp3">
+      <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прикажете отделать этого болтуна как следует и запереть его в лодочном сарае вместе с остальным мусором, изъятым за неделю?]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="cain" sound="docks_intro0140.mp3">
+      <en><![CDATA[Let’s try to reason with him first.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сперва попробуем договориться по-хорошему.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="cain" sound="docks_intro0141.mp3">
+      <en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он очевидно не в курсе, что город Рейвенхоллоу и прилегающие территории были законным образом возвращены под власть барона Нордвеста из замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="_avatar" sound="docks_intro0142.mp3">
+      <en><![CDATA[We are not lingering. But maybe you are!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы не болтаемся. В отличие от вас!]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="manbreaker" sound="docks_intro0143.mp3">
+      <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прикажете отделать этого болтуна как следует и запереть его в лодочном сарае вместе с остальным мусором, изъятым за неделю?]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="cain" sound="docks_intro0144.mp3">
+      <en><![CDATA[Let’s try to reason with him first.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сперва попробуем договориться по-хорошему.]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="cain" sound="docks_intro0145.mp3">
+      <en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он очевидно не в курсе, что город Рейвенхоллоу и прилегающие территории были законным образом возвращены под власть барона Нордвеста из замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+  </d>
+</localize>

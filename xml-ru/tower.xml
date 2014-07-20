@@ -1,0 +1,1197 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c />
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="coppelius" sound="tower0000.mp3">
+      <en><![CDATA[You don’t know who you’re dealing with Cain!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты не знаешь, с кем имеешь дело, Кейн!]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="coppelius" sound="tower0001.mp3">
+      <en><![CDATA[Stop this before it’s too late!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Остановись, пока еще не поздно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="smith" sound="tower0002.mp3">
+      <en><![CDATA[Listen to him, Cain! This has to end before it gets out of control … there’s much more at stake here than you think!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кейн, послушай его! Это надо остановить, пока все не вышло из-под контроля... На кону стоит куда больше, чем ты думаешь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="cain" sound="tower0003.mp3">
+      <en><![CDATA[Ravenhollow is just the beginning.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рэйвенхоллоу - это только начало.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="cain" sound="tower0004.mp3">
+      <en><![CDATA[With the help of the technology that I have collected from the Smith Institute, I will be able to expand my sphere of control ... village by village, city by city.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Благодаря технологии из Смитовского института я смогу расширить свою сферу влияния... деревня за деревней, город за городом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="tower0005.mp3">
+      <en><![CDATA[Control? Is that what you call opening people’s mail, stealing their hard work, and dominating their lives?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Влияния? Так ты называешь вскрытие чужой почты, воровство чужого труда и влезание в чужую жизнь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="cain" sound="tower0006.mp3">
+      <en><![CDATA[Nigel Trelawney. I see you found a way into the Castle after all. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел Трелони. Вижу, тебе все-таки удалось пробраться в замок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="cain" sound="tower0007.mp3">
+      <en><![CDATA[You’ve probably already met Baron Northwest himself … and you brought a friend?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вероятно, с бароном Нордвестом вы уже встречались... Вижу, с тобой друг?]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="nathan" sound="tower0008.mp3">
+      <en><![CDATA[Dr. Coppelius, are you alright?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Коппелиус, вы в порядке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="coppelius" sound="tower0009.mp3">
+      <en><![CDATA[I’m quite alright lad, but I’m afraid that could change very soon. Even Mr. Cain clearly underestimates the forces at work here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я в порядке, юноша, но это, боюсь, ненадолго. Даже мистер Кейн явно недооценивает силы, которые тут замешаны.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="tower0010.mp3">
+      <en><![CDATA[Hey, you’re the girl from the boathouse! How about you give me back my photograph?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй, ты же девушка из лодочного сарая! Может, вернешь мне мою фотографию?]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="nora" sound="tower0011.mp3">
+      <en><![CDATA[What? Who are you and what are you talking about?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что? Кто ты и о чем ты говоришь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="nora" sound="tower0012.mp3">
+      <en><![CDATA[Nathan! You shouldn’t have come here …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан! Зря ты сюда пришел...]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="nathan" sound="tower0013.mp3">
+      <en><![CDATA[Nora??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора???]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="nathan" sound="tower0014.mp3">
+      <en><![CDATA[Uh oh … if you’re here, then that must mean …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ой-ой... Раз ты тут, значит...]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="coppelius" sound="tower0015.mp3">
+      <en><![CDATA[Yes, he is here … I’m sorry we dragged you into this again, Nathan.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, они здесь... Мне жаль, Натан, что мы тебя в это все втянули.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="vincent" sound="tower0016.mp3">
+      <en><![CDATA[Nathan and Nigel. Nigel and Nathan. You two are remarkable!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан и Найджел. Найджел и Натан. Ну и парочка!]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="tower0017.mp3">
+      <en><![CDATA[Who are you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А ты кто?]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="vincent" sound="tower0018.mp3">
+      <en><![CDATA[I am the one who marvels at how such pathetic and sorry characters as yourselves can still manage to turn up right on schedule.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне удивительно, как настолько жалким личностям удается все-таки делать все вовремя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="vincent" sound="tower0019.mp3">
+      <en><![CDATA[I’m sure my dear old colleagues would agree that the two of you are just like clockwork ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я уверен, что мои дорогие коллеги согласятся: вы с ним прямо как часы...]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="vincent" sound="tower0020.mp3">
+      <en><![CDATA[A &quot;Tick&quot; will surely always be followed by a &quot;Tock&quot;, and stupidity such as yours will always play into my hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Где &quot;тик&quot;, там всегда и &quot;так&quot;, и глупость ваша мне только на руку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="coppelius" sound="tower0021.mp3">
+      <en><![CDATA[That is perhaps the most scientifically deep sentence I’ve ever heard from you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пожалуй, это самое глубокое высказывание из тех, что я от тебя слышал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="coppelius" sound="tower0022.mp3">
+      <en><![CDATA[And I suppose your lackluster science is why you have to steal your colleagues’ inventions instead of developing your own. Vincent Goodchild.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А я полагаю, что именно из-за своей научной бездарности ты решил воровать идеи коллег вместо того, чтобы придумывать новые, Винсент Гудчайлд.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="cain" sound="tower0023.mp3">
+      <en><![CDATA[Enough.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Довольно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="cain" sound="tower0024.mp3">
+      <en><![CDATA[Why are you jeopardizing our plan by letting these two fools sneak into the castle behind our backs, Goodchild?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем ты мешаешь нашим планам, позволяя этим двум глупцам прокрадываться в замок за нашими спинами, Гудчайлд?]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="cain" sound="tower0025.mp3">
+      <en><![CDATA[Now is not the time to get careless. We’ve stolen the zeppelin and are ready to put our next phase into operation!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сейчас не время для беспечности. Мы украли дирижабль и готовы приступить к новой фазе нашей операции!]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="vincent" sound="tower0026.mp3">
+      <en><![CDATA[There is no next phase in &quot;our&quot; plan, Cain … your role is finished.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В &quot;нашей&quot; операции новой фазы нет, Кейн... Свою роль ты сыграл.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="cain" sound="tower0027.mp3">
+      <en><![CDATA[What are you talking about? Are you questioning the quality of my work here in Ravenhollow? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О чем ты говоришь? Ты ставишь под сомнение качество моей работы в Рэйвенхоллоу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="cain" sound="tower0028.mp3">
+      <en><![CDATA[I did my part by protecting you under the scientists’ blade during the surgery.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я свое дело сделал, защитил тебя прямо под скальпелем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="vincent" sound="tower0029.mp3">
+      <en><![CDATA[Indeed, you’ve done quite well.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Верно, сделал ты все на совесть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="vincent" sound="tower0030.mp3">
+      <en><![CDATA[But your arrogance fails to recall that your source of power within Ravenhollow relies on the invention that I gave you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но ты, по невежественности своей, забываешь, что источник твоей власти в Рэйвенхоллоу - это данное мной изобретение.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="cain" sound="tower0031.mp3">
+      <en><![CDATA[Yes, your brain washing devices were quite helpful; but you clearly still overrate your role here, Goodchild.  You still need me to put your colleagues’ inventions to use.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, твои мозгопромывательные машины оказались очень кстати, но ты, Гудчайлд, явно переоцениваешь свое значение. Я все равно нужен тебе, чтобы изобретения твоих коллег заработали.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="cain" sound="tower0032.mp3">
+      <en><![CDATA[You need someone who knows how to lead and how to make decisions. I think it’s time for you to make amends for your lack of respect!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тебе нужен тот, кто знает, как вести людей и как принимать решения. Пора тебе искупить свое неуважение!]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="cain" sound="tower0033.mp3">
+      <en><![CDATA[Castle guards? Arrest this man! I no longer need him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дворцовая охрана? Арестуйте этого человека! Он мне больше не нужен!]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="smith" sound="tower0034.mp3">
+      <en><![CDATA[Watch out! Vincent is wearing a strength-enhancing suit like the one we developed for Professor Von Sternberg …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осторожно! Винсент носит усиливающий костюм, вроде тех, что мы разработали для профессора фон Штернберга...]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="coppelius" sound="tower0035.mp3">
+      <en><![CDATA[… and the heart that we implanted in him will quadruple its power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...и сердце, которое мы в него имплантировали, учетверит его силы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="nathan" sound="tower0036.mp3">
+      <en><![CDATA[The heart? Uh oh …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сердце? Ой-ой-ой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="nora" sound="tower0037.mp3">
+      <en><![CDATA[Yes, Vincent forced my grandfather and Professor Smith to copy my mechanical heart and then to implant it in his chest.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, Винсент заставил моего деда и профессора Смита скопировать мое механическое сердце и установить в его грудь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="nora" sound="tower0038.mp3">
+      <en><![CDATA[They did it to save me from Lowell Cain, who held me hostage until Vincent made it safely through the surgery.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Они сделали это, чтобы спасти меня от Лоуэлла Кейна, который держал меня в заложниках до тех пор, пока Винсент не устроил нужную операцию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="vincent" sound="tower0039.mp3">
+      <en><![CDATA[And you made a fine insurance policy, my dear. Heaven forbid that your grandfather’s blade would have accidentally &quot;slipped&quot; during the surgery.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А ты, милая моя, была мне отличной страховкой. Не хватало еще, чтобы скальпель твоего деда вдруг &quot;случайно&quot; соскользнул при операции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="cain" sound="tower0040.mp3">
+      <en><![CDATA[Enough! Guards, they exaggerate his strength. You can easily overpower him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Довольно! Охрана, они преувеличивают его силу. Вы легко его одолеете!]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="cain" sound="tower0041.mp3">
+      <en><![CDATA[But what about the plan? Ravenhollow was only supposed to be the beginning!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А как насчет плана? Ведь Рэйвенхоллоу должен был стать лишь началом!]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="vincent" sound="tower0042.mp3">
+      <en><![CDATA[Ravenhollow IS only the beginning, you fool!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рэйвенхоллоу и есть лишь начало, глупец!]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="vincent" sound="tower0043.mp3">
+      <en><![CDATA[I promised you a leading role in my plans, and you’ve played your part. I have only one thing left in store for you, Cain … removal.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я обещал тебе ведущую роль в моих планах, и ты ее отыграл. Теперь, Кейн, я могу предложить тебе лишь одно - исчезнуть...]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="vincent" sound="tower0044.mp3">
+      <en><![CDATA[And now I will fulfill another promise that I made to you, Professor Smith, so many years ago …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А теперь я выполню еще одно обещание, которое дал вам, профессор Смит, так много лет назад...]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="vincent" sound="tower0045.mp3">
+      <en><![CDATA[I will get my hands on the raw power of your inventions. ALL of them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я приберу к рукам всю мощь ваших изобретений. Всех.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="smith" sound="tower0046.mp3">
+      <en><![CDATA[You know it’s too late for that, Vincent. They’re all gone!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент, ты же знаешь, что для этого уже поздно. Их уже нет!]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="vincent" sound="tower0047.mp3">
+      <en><![CDATA[Ha! You continue to make the mistake of assuming that your research can be hidden from me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ха! Вы продолжаете заблуждаться, думая, что можете скрыть от меня свои изыскания.]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="coppelius" sound="tower0048.mp3">
+      <en><![CDATA[Give it up, Vincent. What Smith says is true.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сдавайся, Винсент. Смит говорит правду.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="coppelius" sound="tower0049.mp3">
+      <en><![CDATA[We destroyed our research and inventions right after the Institute was closed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы уничтожили свои труды и изобретения сразу после закрытия института.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="coppelius" sound="tower0050.mp3">
+      <en><![CDATA[We knew that we couldn’t let them fall into your hands. Your plan to recover our work failed years ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы знали, что их нельзя отдавать в твои руки. Твой замысел заполучить нашу работу провалился много лет назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="vincent" sound="tower0051.mp3">
+      <en><![CDATA[Like the prototype that survived in your granddaughter’s chest, Coppelius? And that was just the first of many inventions that I will use to bring the world to its knees.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вроде прототипа, что сохранился в груди твоей внучки, Коппелиус? А это лишь первое из множества изобретений, с помощью которых я поставлю мир на колени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="vincent" sound="tower0052.mp3">
+      <en><![CDATA[You old fools forget that it would take only one device to crumble your efforts to hide your research from me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы, старые глупцы, забываете, что для того, чтобы ваши попытки скрыть свою работу обратились в ничто, нужна лишь одна вещь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="vincent" sound="tower0053.mp3">
+      <en><![CDATA[And now that storms rage again at the top of Mount Misery I would say that the doorway has been reopened to the power and brilliance of The Nine.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А теперь, когда на вершине Горы Несчастья снова бушует буря, я хочу сказать, что снова открылась дверь к мощи и вящей славе Девяти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="vincent" sound="tower0054.mp3">
+      <en><![CDATA[And according to my&#8212;albeit rough and clumsy&#8212;calculations, this mechanical heart and suit should give me more than enough strength to conduct the forbidden experiment.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По мои подсчетам, пусть и приблизительным, это механическое сердце и костюм дадут мне более чем достаточно сил, чтобы провести запретный эксперимент.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="vincent" sound="tower0055.mp3">
+      <en><![CDATA[Gentlemen, I’ll see you on the other side of … The Apparatus.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Господа, увидимся на той стороне... Генератора.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="coppelius" sound="tower0056.mp3">
+      <en><![CDATA[No! You can’t do that! You wouldn’t dare!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! Ты не можешь! Ты не посмеешь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="smith" sound="tower0057.mp3">
+      <en><![CDATA[The construction of that apparatus was a mistake to begin with!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Начнем с того, что вся конструкция генератора - ошибка!]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="vincent" sound="tower0058.mp3">
+      <en><![CDATA[Now there’s just one thing missing … Nigel Trelawney?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осталось лишь одно... Найджел Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="vincent" sound="tower0059.mp3">
+      <en><![CDATA[I believe you carry the keys to this operation ... both in your mind and in your pocket. I asked you to recover the nine insignia rings of the founding members of the Smith Institute?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Полагаю, ключи к этой операции у тебя, как в голове, так и в кармане. Я просил тебя добыть девять перстней основателей Смитовского института?]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="tower0060.mp3">
+      <en><![CDATA[What? Oh, but of course! It wasn’t the Baron who required those insignia seals on my heritage certificate, it was you all along!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что? О, ну конечно! Это не барону нужны были печати на документе, а тебе!]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="vincent" sound="tower0061.mp3">
+      <en><![CDATA[How astute; straight A’s for you, Nigel. Of course, I would have expected nothing less from Anthony Trelawney’s son.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой ты умный, Найджел, пять баллов тебе. Конечно, от сына Энтони Трелони я другого и не ждал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="smith" sound="tower0062.mp3">
+      <en><![CDATA[Don’t give him those insignia rings!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не отдавай ему перстни!]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="coppelius" sound="tower0063.mp3">
+      <en><![CDATA[Get out of here, Nigel! You mustn’t let him take them from you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Уходи отсюда, Найджел! Не отдавай их ему!]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="vincent" sound="tower0064.mp3">
+      <en><![CDATA[900 times 25.003 …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[900 умножить на 25,003...]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="tower0065.mp3">
+      <en><![CDATA[22502.7 but …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[22502,7, но...]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="vincent" sound="tower0066.mp3">
+      <en><![CDATA[Pi divided by 3.51876 ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пи разделить на 3,51876...]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="tower0067.mp3">
+      <en><![CDATA[0,89281242642004377634810086032551 ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[0,89281242642004377634810086032551...]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="vincent" sound="tower0068.mp3">
+      <en><![CDATA[You really are your father’s son … old Trelawney couldn’t control it either …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты поистине сын своего отца... Старый Трелони тоже не мог удержаться...]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="nathan" sound="tower0069.mp3">
+      <en><![CDATA[Nigel, watch out!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел, берегись!!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="smith" sound="tower0070.mp3">
+      <en><![CDATA[Be careful!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осторожно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="vincent" sound="tower0071.mp3">
+      <en><![CDATA[I fear I will need your help too, Professor Smith! I am sure you will enjoy our trip!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, мне понадобится и ваша помощь, профессор Смит! Уверен, что поездка вам понравится!]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="nathan" sound="tower0072.mp3">
+      <en><![CDATA[He jumped!! Why in the world ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он прыгнул! Но почему же...]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="slappy" sound="tower0073.mp3">
+      <en><![CDATA[What happened to my Zeppelin??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что стало с моим дирижаблем???]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="coppelius" sound="tower0074.mp3">
+      <en><![CDATA[Henry LeMue-LaFayette??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Анри Лемю Лафайетт?]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="slappy" sound="tower0075.mp3">
+      <en><![CDATA[Oh … William Coppelius, is that you? What are you doing here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О... Уильям Коппелиус, это ты? Что ты здесь делаешь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="coppelius" sound="tower0076.mp3">
+      <en><![CDATA[Vincent has the rings and he’s on his way to Mount Misery to finish our experiment. He wants use the Apparatus. If that happens ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент добыл кольца и теперь направляется к Горе Несчастья, чтобы закончить наш эксперимент. Он хочет использовать генератор. Если это случится...]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="nathan" sound="tower0077.mp3">
+      <en><![CDATA[Nigel lost his notebook and some kind of remote.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел потерял записную книжку и какой-то пульт управления.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="nathan" sound="tower0078.mp3">
+      <en><![CDATA[What is the Apparatus, and what does it have to do with Nigel and those rings??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что такое Генератор, и как он связан с Найджелом и этими кольцами?]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="nathan" sound="tower0079.mp3">
+      <en><![CDATA[And more importantly, how do we get there to stop Vincent!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И, что еще важнее, как нам добраться туда, чтобы остановить Винсента?]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+  </d>
+</localize>

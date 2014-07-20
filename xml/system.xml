@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system>
+	<mediaBaseURL></mediaBaseURL>
+	<xmlBaseURL></xmlBaseURL>
+	<allowXMLCache>0</allowXMLCache>
+	<staticWindow>0</staticWindow>
+	<fileIOType>sharedObject</fileIOType>
+	<fileIOService>save/fileio.php</fileIOService>
+	<tweenEngine>tweenLite</tweenEngine>
+	<invenMode>dynamic</invenMode>
+	<invenShow>0.4</invenShow>
+	<invenHide>0.25</invenHide>
+	<actionMode>disc</actionMode>
+	<actionShow>0.35</actionShow>
+	<actionHide>0.35</actionHide>
+	<skipControl>tab</skipControl>
+	<skipDiaControl>mouse</skipDiaControl>
+	<subtitleShow>0</subtitleShow>
+	<subtitleHide>0</subtitleHide>
+	<subtitleOverhead>15</subtitleOverhead>
+	<subtitlePadding>10</subtitlePadding>
+	<contextOff>0xFFFFFF</contextOff>
+	<contextOn>0xFF3300</contextOn>
+	<treeOff>0xFFFFFF</treeOff>
+	<treeOn>0xFF3300</treeOn>
+	<curtainColor>0x000000</curtainColor>
+	<menuSubtitle>0</menuSubtitle>
+	<menuSubtitleSpeed>1</menuSubtitleSpeed>
+	<menuVoice>0</menuVoice>
+	<menuFullscreen>1</menuFullscreen>
+	<menuGraphicsQuality>1</menuGraphicsQuality>
+	<menuQuit>1</menuQuit>
+	<menuHelp>1</menuHelp>
+	<menuHelpText><![CDATA[Help Me!]]></menuHelpText>
+	<legal>
+		<en><![CDATA[<p>END-USER LICENSE AGREEMENT FOR "WHAT MAKES YOU TICK: A STITCH IN TIME" IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL: Lassie Games/Greg MacWilliam Multimedia ("LG") End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and LG for the LG software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and LG, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.</p>
+<br>
+<p>The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.</p>
+<br>
+<p><b>1. GRANT OF LICENSE.</b><br>
+The SOFTWARE PRODUCT is licensed as follows:</p>
+<p><b>(a) Installation and Use.</b><br>
+LG grants you the right to install and use copies of the SOFTWARE PRODUCT on your computer running a validly licensed copy of the operating system for which the SOFTWARE PRODUCT was designed [e.g., Windows 95, Windows NT, Windows 98, Windows 2000, Windows 2003, Windows XP, Windows ME, Windows Vista, Mac OSX, Lunix].</p>
+<p><b>(b) Backup Copies.</b><br>
+You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.</p>
+<br>
+<p><b>2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.</b></p>
+<p><b>(a) Maintenance of Copyright Notices.</b><br>
+You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.</p>
+<p><b>(b) Distribution.</b><br>
+You may not distribute registered copies of the SOFTWARE PRODUCT to third parties. Evaluation versions available for download from http://www.lassiegames.com/stitch websites may be freely distributed.</p>
+<p><b>(c) Prohibition on Reverse Engineering, Decompilation, and Disassembly.</b><br>
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.</p>
+<p><b>(d) Rental.</b><br>
+You may not rent, lease, or lend the SOFTWARE PRODUCT.</p>
+<p><b>(e) Support Services.</b><br>
+LG's customer service provider, Fast Spring LLC, may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA.</p>
+<p><b>(f) Compliance with Applicable Laws.</b><br>
+You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.</p>
+<br>
+<p><b>3. TERMINATION</b><br>
+Without prejudice to any other rights, LG may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession and contact Fast Spring LLC for a refund.</p>
+<br>
+<p><b>4. COPYRIGHT</b><br>
+All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by LG or its suppliers; or are known by available records as falling within the public domain. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by LG, its suppliers, or the public domain.</p>
+<br>
+<p><b>5. NO WARRANTIES</b><br>
+LG expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. LG does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. LG makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. LG further expressly disclaims any warranty or representation to Authorized Users or to any third party.</p>
+<br>
+<p><b>6. LIMITATION OF LIABILITY</b><br>
+In no event shall LG be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the SOFTWARE PRODUCT, even if LG has been advised of the possibility of such damages. In no event will LG be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. LG shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.</p>]]></en>
+		<de><![CDATA[<p>Endbenutzer Lizenzvertrag ("EULA")</p>
+<br>
+<p>Just A Game GmbH</p>
+<br>
+<p>Dieser Endbenutzer-Lizenzvertrag ist ein rechtsgültiger Vertrag zwischen Ihnen (entweder als natürliche oder als juristische Person) und der Just A Game GmbH ("JAG").</p>
+<br>
+<p>Bevor Sie die Software verwenden, lesen Sie bitte diese Lizenz aufmerksam durch. Indem Sie das Softwareprodukt installieren oder verwenden erklären Sie sich einverstanden, durch die Bestimmungen des EULAs gebunden zu sein.</p>
+<br>
+<p>Diese Original-Software ist urheberrechtlich und markenrechtlich geschützt. Sie darf nur durch den autorisierten Stellen verkauft und / oder vertrieben und ausschließlich privat genutzt werden.</p>
+<br>
+<p><b>Software Lizenz</b></p>
+<br>
+<p>Durch den Erwerb dieser Original-Software wird Ihnen das nicht-exklusive persönliche Recht eingeräumt, die Software auf einem einzelnen Personal-Computer zu installieren und zu nutzen. Jede andere Nutzung, insbesondere der nicht-autorisierte Verleih, die nicht-autorisierte Vermietung, öffentliche Vorführung oder sonstige Darbietung, z.B. auch in Schulen oder Universitäten, die Vervielfältigung, Mehrfachinstallation oder Überspielung und jeder Vorgang, durch den diese Software oder Teile
+davon der Öffentlichkeit zugänglich gemacht wird (auch über das Internet oder andere Online- Systeme) ist ohne vorherige schriftliche Genehmigung von JAG untersagt, soweit nicht explizit durch das deutsche Urheberrecht erlaubt.</p>
+<br>
+<p>JAG überträgt kein Eigentumsrecht an der Software auf Sie – die Software ist lizenziert und nicht verkauft. Sofern die Software physisch vertrieben wurde, sind Sie Eigentümer der CD-ROM/DVD oder sonstigen Datenträgers, auf der die Software aufgezeichnet ist. JAG und ihre Lizenzgeber bleiben jedoch voll und ganz Eigentümer der Software und zugehörigen Dokumentation sowie Inhaber sämtlicher Rechte an geistigem und gewerblichem Eigentum, das darin enthalten ist.</p>
+<br>
+<p>Wenn Ihnen die Software die Möglichkeit gibt, Bilder zu drucken, die markenrechtlich geschützte Illustrationen von JAG enthalten, gestattet Ihnen diese Lizenz nur, die Bilder ausschließlich auf Papier zu drucken und sie als Ausdrucke des Druckers Ihres Computers für Ihre persönlichen, nicht kommerziellen und nichtstaatlichen Zwecke zu verwenden (Sie dürfen diese Bilder z.B. nicht öffentlich darstellen oder verkaufen), vorausgesetzt, Sie halten sich an alle Copyright-Hinweise, die in den von der Software erzeugten Bildern enthalten sind.</p>
+<br>
+<p>Das Abspeichern von Daten, insbesondere mit einem eventuell vorhanden Level Editor erstellte Karten oder mit einem eventuell mitgeliefertem SDK (Software Development Kit) erstellte MODs (Modifikationen) der Software, wird ausschließlich zur privaten Nutzung gestattet. Eine darüber hinaus gehende Vervielfältigung, Verbreitung und gewerbliche Verwertung wird nicht gestattet. Die Herstellung, Nutzung, Kombination, Vervielfältigung oder Verbreitung von solchen Karten oder Modifikationen mit anstößigem oder rechtswidrigem Inhalt oder unter Verletzung der Gesetze oder Rechter Dritter ist nicht gestattet.</p>
+<br>
+<p>Für sämtliche Karten und Modifikationen sind alleine Sie verantwortlich und verpflichtet, JAG und seine Mitarbeiter, Lizenzgeber und Händler von allen Schäden, Ansprüchen und Klagen freizustellen, die aus Ihrer Herstellung, Nutzung, Kombination, Vervielfältigung oder Verbreitung von solchen Karten und Modifikationen resultieren.</p>
+<br>
+<p>JAG bietet weder technischen Support noch wie immer geartete Gewährleistungen für Editor-Software sowie eventuell darin enthaltene SDK-Komponenten.</p>
+<br>
+<p><b>Weitere Rechte und Einschränkungen</b></p>
+<br>
+<p><b>Sicherungskopie</b></p>
+<br>
+<p>Die Erstellung von Sicherungs- oder Archivkopien der gesamten Software oder Teilen davon, auch zum privaten Gebrauch, ist nicht gestattet, soweit nicht gesetzlich etwas anderes vorgesehen ist.</p>
+<br>
+<p><b>Beschränkte Garantie</b></p>
+<br>
+<p>Mit Kauf dieses Produktes der JAG haben Sie ein gesetzliches Gewährleistungsrecht für die Dauer von 2 Jahren ab Kaufdatum (§§ 434 ff. BGB). Bei wesentlichen Mängeln der Software, die deren übliche Verwendung erheblich beeinträchtigen, können Sie Nacherfüllung oder die Rücknahme des Produktes verlangen. Zum Nachweis Ihrer Rechte heben Sie bitte den Kassenbeleg auf. Unwesentliche, bei der Entwicklung von Software nicht zu vermeidende Fehler, werden wir versuchen mit dem nächsten Patch zu korrigieren. Wir würden uns freuen, wenn Sie uns solche Mängel anzeigen. Über das Vorliegen neuer Patches können Sie sich auf der Seite www.just-
+a-game.com informieren. Eine über die gesetzliche Gewährleistung hinausgehende Garantie können wir leider nicht übernehmen. Ein Gewährleistungsrecht besteht nicht, wenn der Mangel auf einer unsachgemäßen Behandlung des Produktes durch den Kunden beruht. Andere Gewährleistungsrechte bleiben unberührt.</p>
+<br>
+<p>Die obige Garantie wird von JAG als dem Hersteller des Softwareproduktes übernommen. Etwaige gesetzliche Gewährleistungs- oder Haftungsansprüche, welche nach dem Gesetz gegen den Händler zustehen, von dem Sie Ihr Exemplar des Softwareproduktes erhalten haben, werden hierdurch weder ersetzt noch beschränkt.</p>
+<br>
+<p><b>Haftungsbeschränkung</b></p>
+<br>
+<p>Im größtmöglichen durch das anwendbare Recht gestatteten Umfang lehnt die JAG jegliche Haftung für irgendwelche besonderen, zufälligen, indirekten oder Folgeschäden ab, die aus der Verwendung oder der Unmöglichkeit der Verwendung des Softwareproduktes entstehen. Diese Beschränkung gilt auch dann, wenn JAG zuvor auf die Möglichkeit solcher Schäden hingewiesen hat.</p>
+<br>
+<p><b>Marken</b></p>
+<br>
+<p>Dieser Endbenutzer-Lizenzvertrag gewährt Ihnen keinerlei Rechte in Verbindung mit Marken der JAG oder ihren Lizenzgebern. Sämtliche Firmen- und/oder Produktnamen sind Marken und/oder eingetragene Marken ihrer jeweiligen Eigentümer.</p>
+<br>
+<p><b>Salvatorische Klausel</b></p>
+<br>
+<p>Sollten Bestimmungen dieses Vertrages ungültig oder nicht - durchsetzbar sein oder werden, so bleibt der Restvertrag unberührt.</p>
+<br>
+<p><b>Rechtswahl</b></p>
+<br>
+<p>Auf alle Rechtsfragen aus oder im Zusammenhang mit diesem Vertrag ist deutsches Recht anzuwenden.</p>
+<br>
+<p>Copyright (c) 2011 Just A Game GmbH</p>
+<br>
+<p>(c)2011 Just A Game GmbH. Alle Rechte vorbehalten. Alle Markennamen und Warenzeichen sind Eigentum der jeweiligen Inhaber.</p>]]></de>
+	</legal>
+</system>

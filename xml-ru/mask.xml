@@ -1,0 +1,2598 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[mask shop advertisement]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[вывеска лавки масок]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[bowl of cat food]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[миска с кошачьим кормом]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[milk bowl]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[миска для молока]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[assortment of masks]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разные маски]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[workplace]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[верстак]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[poster]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[плакат]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[venetian masks]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маски из Венеции]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[Mr. Mandelbaum]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мистер Мандельбаум]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[Mr. Mandelbaum]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мистер Мандельбаум]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[Mr. Mandelbaum]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мистер Мандельбаум]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[Mr. Mandelbaum]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мистер Мандельбаум]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[hand carved masks]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маски ручной работы]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[eagle mask]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маска орла]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[cute cat]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[котик]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[cute cat]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[котик]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[cute cat]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[котик]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[Eve]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ева]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[Eve]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ева]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="mask shop advertisement">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="mask shop advertisement">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="mask shop advertisement">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="bowl of cat food">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="bowl of cat food">
+      <en><![CDATA[Eat from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поесть оттуда]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="bowl of cat food">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="milk bowl">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="milk bowl">
+      <en><![CDATA[Drink from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Выпить содержимое:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="milk bowl">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="assortment of masks">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="assortment of masks">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="assortment of masks">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="workplace">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="workplace">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="workplace">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="poster">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="poster">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="poster">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="venetian masks">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="venetian masks">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="venetian masks">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="Mr. Mandelbaum">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="Mr. Mandelbaum">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="Mr. Mandelbaum">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v31 noun="Mr. Mandelbaum">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="Mr. Mandelbaum">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="Mr. Mandelbaum">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="Mr. Mandelbaum">
+      <en><![CDATA[mask]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маска]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v36 noun="Mr. Mandelbaum">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="Mr. Mandelbaum">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="Mr. Mandelbaum">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v41 noun="Mr. Mandelbaum">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="Mr. Mandelbaum">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="Mr. Mandelbaum">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="Mr. Mandelbaum">
+      <en><![CDATA[witness]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[свидетель]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="hand carved masks">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="hand carved masks">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="hand carved masks">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="eagle mask">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="eagle mask">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="eagle mask">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="cute cat">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="cute cat">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="cute cat">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v55 noun="cute cat">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="cute cat">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="cute cat">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="cute cat">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="cute cat">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="cute cat">
+      <en><![CDATA[Pet]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приласкать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="Eve">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="Eve">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="Eve">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v65 noun="Eve">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="Eve">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="Eve">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v69 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c27 noun="Mr. Mandelbaum" item="sketch">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c27>
+    <c28 noun="Mr. Mandelbaum" item="crayon">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c28>
+    <c29 noun="Mr. Mandelbaum" item="crayonPaper">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c29>
+    <c30 noun="Mr. Mandelbaum" item="diagram">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c30>
+    <c35 noun="Mr. Mandelbaum" item="diagram">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c35>
+    <c39 noun="Mr. Mandelbaum" item="ball">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c39>
+    <c40 noun="Mr. Mandelbaum" item="diagram">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c40>
+    <c54 noun="cute cat" item="ball">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c54>
+    <c64 noun="Eve" item="ball">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c64>
+    <c68 noun="Eve" item="ball">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c68>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="mask0000.mp3">
+      <en><![CDATA[It says, &quot;Mandelbaum’s Masks &#8212; A Very Good Choice&quot;.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Написано &quot;Маски от Мандельбаума - прекрасный выбор!&quot;]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="mask0001.mp3">
+      <en><![CDATA[Well, I wasn’t sure if this was the right mask shop for me, but now I’m convinced!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень обнадеживающая вывеска, теперь я точно знаю, что не ошибся с лавкой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="mask0002.mp3">
+      <en><![CDATA[Why does cat food always have to smell like ... THAT!? Urgh.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почему кошачий корм всегда так чудовищно воняет?]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="mask0003.mp3">
+      <en><![CDATA[No thanks ... the smell alone made me lose my appetite.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну нет. У меня от одного запаха аппетит отшибло.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="mask0004.mp3">
+      <en><![CDATA[My inventory already smells like fish ... isn’t that bad enough?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня и так все вещи рыбой провоняли, зачем усугублять?]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="mask0005.mp3">
+      <en><![CDATA[That’s the cat’s milk bowl.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отсюда кот пьет молоко.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="mask0006.mp3">
+      <en><![CDATA[Yikes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тьфу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="mask0007.mp3">
+      <en><![CDATA[It smells like cat and whiskers and milk ... I’d rather not touch it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отдает кошачьими усами и молоком. Трогать как-то не хочется.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="mask0008.mp3">
+      <en><![CDATA[Just look at all these colorful masks ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сколько разноцветных масок!]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="mask0009.mp3">
+      <en><![CDATA[The piranha mask reminds me that I need to buy toothpaste soon.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какая пиранья! Сразу вспоминаешь, что пора покупать зубную пасту.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="mask0010.mp3">
+      <en><![CDATA[Perhaps I will buy a Ravenhollow mask later on as a souvenir.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Потом можно будет приобрести здешнюю маску на память.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="mask0011.mp3">
+      <en><![CDATA[Mr. Mandelbaum has a well-sorted workplace. Just look at all these tools.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А у мистера Мандельбаума все инструменты на местах - и сколько их!]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="mask0012.mp3">
+      <en><![CDATA[I really don’t know anything about mask carving. I wouldn’t even know where to start.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никогда не случалось вырезать маски, даже не представляю, как это делается.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="mask0013.mp3">
+      <en><![CDATA[&quot;The Amazing Entertainment Cart - Coming Soon&quot;]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[&quot;К вам едет великолепная Повозка Развлечений!&quot;]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="mask0014.mp3">
+      <en><![CDATA[The cart is already standing out there on the square ... but the amazing-ness is completely missing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Повозка уже приехала, стоит на площади, вот только особого великолепия не заметно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="mask0015.mp3">
+      <en><![CDATA[My old roommate used to put masks like these on her wall ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У моей соседки по комнате такие на стене висели.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="mask0016.mp3">
+      <en><![CDATA[Having those in my apartment was as frightening as living with my mother’s porcelain dolls.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Страшенные. Жить с ними в одном доме было еще хуже, чем с мамиными фарфоровыми куклами.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="mask0017.mp3">
+      <en><![CDATA[I’m not a Venetian. Heck, I’m not even Italian!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я же не из Венеции, даже не из Италии!]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="mask0018.mp3">
+      <en><![CDATA[It’s Mr. Mandelbaum, the local mask shop owner.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мистер Мандельбаум, владелец лавки масок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="mask0019.mp3">
+      <en><![CDATA[Mr. Mandelbaum?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мистер Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="mandelbaum" sound="mask0020.mp3">
+      <en><![CDATA[How can I help you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К вашим услугам.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="mask0021.mp3">
+      <en><![CDATA[Here Mr. Mandelbaum ... this is what I came up with.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот, мистер Мандельбаум, смотрите, что получилось.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="mandelbaum" sound="mask0022.mp3">
+      <en><![CDATA[Oh, very interesting! That’s a sketch of one of the lions at the bridge to Northwest Castle, isn’t it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень интересно! Вы нарисовали одного из каменных львов на мосту к замку Нордвест?]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="mask0023.mp3">
+      <en><![CDATA[No, it’s a sketch of the eagle statues above the entrance to Northwest Castle!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, вообще-то имелся в виду каменный орел над входом в замок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="mandelbaum" sound="mask0024.mp3">
+      <en><![CDATA[Eagles! Of course! I’m sorry, I always get those two species mixed up.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну конечно, орел! Простите, я вечно путаю орлов со львами.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="mandelbaum" sound="mask0025.mp3">
+      <en><![CDATA[Okay, then! Thanks, for bringing me your design.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну что ж, большое спасибо, что принесли эскиз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="mandelbaum" sound="mask0026.mp3">
+      <en><![CDATA[I should have your mask ready by tomorrow!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Маска будет готова к завтрашнему дню!]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="mask0027.mp3">
+      <en><![CDATA[I’m pretty excited!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не могу дождаться!]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="mask0028.mp3">
+      <en><![CDATA[I can’t wait to see what my very own hand-carved mask looks like!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подумать только, у меня будет уникальная маска ручной работы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="mandelbaum" sound="mask0029.mp3">
+      <en><![CDATA[Just use the crayon to sketch your own mask design!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мелок у вас есть, дело за малым: сделайте эскиз!]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="mandelbaum" sound="mask0030.mp3">
+      <en><![CDATA[Unfortunately I ran out of paper to draw on so you will have to find some yourself.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бумаги, к сожалению, у меня сейчас не осталось, вы уж найдите где-нибудь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="mandelbaum" sound="mask0031.mp3">
+      <en><![CDATA[What is that? A blank piece of paper?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что я вижу? Чистый лист?]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="mandelbaum" sound="mask0032.mp3">
+      <en><![CDATA[From a philosophical standpoint that IS an interesting idea for a mask ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С философской точки зрения идея для маски, конечно, занятная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="mandelbaum" sound="mask0033.mp3">
+      <en><![CDATA[... but I doubt that I am skillful enough to make a mask from nothing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но я еще не достиг таких высот, чтобы творить из ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="mask0034.mp3">
+      <en><![CDATA[I found this diagram here ... do you think you could use the schematics and carve some clock hands for me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне тут попались чертежи... Скажите, вы бы не могли по ним вырезать для меня часовые стрелки?]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="mandelbaum" sound="mask0035.mp3">
+      <en><![CDATA[Well, I think that shouldn’t be too much of a problem. But maybe you can help us first?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, работа не очень сложная. А можно в ответ попросить вас об одолжении?]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="mask0036.mp3">
+      <en><![CDATA[Sure, what’s the problem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разумеется. О каком?]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="eve" sound="mask0037.mp3">
+      <en><![CDATA[Mr. Boots has lost his favorite rubber ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Носочек потерял свой резиновый мячик!]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="eve" sound="mask0038.mp3">
+      <en><![CDATA[We were playing in Mr. Caro’s yard ... Mr. Boots and I were throwing the ball around when it bounced off a wall, fell into the well, and was suddenly gone!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы играли во дворе у мистера Каро, гоняли мяч с Носочком, и мяч неудачно отскочил от стены, угодил в колодец и вдруг исчез!]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="mask0039.mp3">
+      <en><![CDATA[Don’t worry ... I’m sure I can find your ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не беспокойтесь, я его отыщу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="mandelbaum" sound="mask0040.mp3">
+      <en><![CDATA[I’d be grateful! If you find Mr. Boots’ ball I’ll carve these clock hands for you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Буду очень признателен. А я в обмен на мячик вырежу часовые стрелки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="mask0041.mp3">
+      <en><![CDATA[It’s Mr. Mandelbaum, the local mask shop owner.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мистер Мандельбаум, владелец лавки масок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="mask0042.mp3">
+      <en><![CDATA[Mr. Mandelbaum?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мистер Мандельбаум!]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="mandelbaum" sound="mask0043.mp3">
+      <en><![CDATA[How can I help you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К вашим услугам.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="mandelbaum" sound="mask0044.mp3">
+      <en><![CDATA[Oh, Mr. Trelawney, I have been expecting you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здравствуйте, мистер Трелони, я вас ждал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="mask0045.mp3">
+      <en><![CDATA[Good Morning Mr. Mandelbaum.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здравствуйте, мистер Мандельбаум.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="mask0046.mp3">
+      <en><![CDATA[Oh, that must be it! My very own hand-carved eagle mask!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это она, верно? Это орлиная маска по моему рисунку!]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="mandelbaum" sound="mask0047.mp3">
+      <en><![CDATA[I hope you like it. I tried to copy the style of the giant eagles up at the gate of Northwest Castle. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надеюсь, что вам нравится. Я постарался стилизовать ее под орлов у ворот замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="mandelbaum" sound="mask0048.mp3">
+      <en><![CDATA[Like most statues in Ravenhollow, they were designed by a local stone cutter named Timothy Caro over 300 years ago!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как почти всей здешней скульптуре, им триста лет. Работа каменотеса Тимоти Каро, нашего соотечественника. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="mandelbaum" sound="mask0049.mp3">
+      <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great-great-and-so-on-grandnephew.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если интересуетесь древностями, зайдите в антикварную лавку Стефана Каро. Он двоюродный пра-пра-пра- и так далее - правнук Тимоти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="mandelbaum" sound="mask0050.mp3">
+      <en><![CDATA[He has a small archive on the history of Ravenhollow in the back of his store.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У него при лавке хранится небольшой архив по истории Рэйвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="mask0051.mp3">
+      <en><![CDATA[This mask is perfect! I had no idea I could ever be so impressed by the art of mask carving!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Маска - просто чудо! Я даже не ожидал, что получится настоящее произведение искусства.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="mask0052.mp3">
+      <en><![CDATA[How much do I owe you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сколько я вам должен?]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="mandelbaum" sound="mask0053.mp3">
+      <en><![CDATA[For now, just take it and see if the mask is to your liking. We can talk about the money later.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Цену обсудим позже. Пока что возьмите маску и посмотрите, как она вам нравится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="mask0054.mp3">
+      <en><![CDATA[Aren’t you afraid I’ll run off with the mask without paying for it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А вы не боитесь, что я ее просто заберу и ничего не заплачу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="mandelbaum" sound="mask0055.mp3">
+      <en><![CDATA[You have an honest face. Believe me, I can tell.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У вас честные глаза. Я разбираюсь в людях.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="mask0056.mp3">
+      <en><![CDATA[I found this diagram here ... do you think you could use the schematics and carve some clock hands for me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне тут попались чертежи... Скажите, вы бы не могли по ним вырезать для меня часовые стрелки?]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="mandelbaum" sound="mask0057.mp3">
+      <en><![CDATA[Well, I think that shouldn’t be too much of a problem. But maybe you can help us first?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, работа не очень сложная. А можно в ответ попросить вас об одолжении?]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="mask0058.mp3">
+      <en><![CDATA[Sure, what’s the problem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разумеется. О каком?]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="eve" sound="mask0059.mp3">
+      <en><![CDATA[Mr. Boots has lost his favorite rubber ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Носочек потерял свой резиновый мячик!]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="eve" sound="mask0060.mp3">
+      <en><![CDATA[We were playing in Mr. Caro’s yard ... Mr. Boots and I were throwing the ball around when it bounced off a wall, fell into the well, and was suddenly gone!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы играли во дворе у мистера Каро, гоняли мяч с Носочком, и мяч неудачно отскочил от стены, угодил в колодец и вдруг исчез!]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="mask0061.mp3">
+      <en><![CDATA[Don’t worry ... I’m sure I can find your ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не беспокойтесь, я его отыщу!]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="mandelbaum" sound="mask0062.mp3">
+      <en><![CDATA[I’d be grateful! If you find Mr. Boots’ ball I’ll carve these clock hands for you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Буду очень признателен. А я в обмен на мячик вырежу часовые стрелки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="mask0063.mp3">
+      <en><![CDATA[It’s Mr. Mandelbaum, the local mask shop owner.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это мистер Мандельбаум, владелец лавки масок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="mask0064.mp3">
+      <en><![CDATA[Excuse me again ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это снова я.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="mandelbaum" sound="mask0065.mp3">
+      <en><![CDATA[How can I help you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К вашим услугам.]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="mandelbaum" sound="mask0066.mp3">
+      <en><![CDATA[Oh, I see you found Mr. Boots’ ball! That is fantastic!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, вы нашли мяч Носочка! Это замечательно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="mandelbaum" sound="mask0067.mp3">
+      <en><![CDATA[I’m sure he’ll be very happy if you give it back to him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, он будет счастлив получить его обратно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="mask0068.mp3">
+      <en><![CDATA[I found this diagram here ... do you think you could use the schematics and carve some clock hands for me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне тут попались чертежи... Скажите, вы бы не могли по ним вырезать для меня часовые стрелки?]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="mandelbaum" sound="mask0069.mp3">
+      <en><![CDATA[Yes, that shouldn’t be too complicated. And after all, you did bring back Mr. Boots’ bouncy ball.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, работа не очень сложная. Тем более, что вы отыскали для Носочка мячик.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="mandelbaum" sound="mask0070.mp3">
+      <en><![CDATA[Just give me a couple of minutes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Будет готово через пару минут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="mandelbaum" sound="mask0071.mp3">
+      <en><![CDATA[Here you go.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, вот и все.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="mandelbaum" sound="mask0072.mp3">
+      <en><![CDATA[It seems that these clock hands were designed to function as a kind of key.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, эти стрелки должны работать ключом к чему-то.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="mandelbaum" sound="mask0073.mp3">
+      <en><![CDATA[Once the clock hands are brought into a specific position they will activate the mechanism they are supposed to be unlocking.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Когда они приходят в определенное положение, срабатывает какой-то механизм, который от них запускается.]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="mandelbaum" sound="mask0074.mp3">
+      <en><![CDATA[... but only the man who designed the mechanism would know what the right time would be.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но только мастер, который придумал механизм, знал, на какое время поставить стрелки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="mask0075.mp3">
+      <en><![CDATA[Okay. Well, thank you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ясно. Спасибо вам!]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="mandelbaum" sound="mask0076.mp3">
+      <en><![CDATA[Well, I think that shouldn’t be too much of a problem. But maybe you can help us first?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, работа не очень сложная. А можно в ответ попросить вас об одолжении?]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="mask0077.mp3">
+      <en><![CDATA[Sure, what’s the problem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разумеется. О каком?]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="eve" sound="mask0078.mp3">
+      <en><![CDATA[Mr. Boots has lost his favorite rubber ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Носочек потерял свой резиновый мячик!]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="eve" sound="mask0079.mp3">
+      <en><![CDATA[We were playing in Mr. Caro’s yard ... Mr. Boots and I were throwing the ball around when it bounced off a wall, fell into the well, and was suddenly gone!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы играли во дворе у мистера Каро, гоняли мяч с Носочком, и мяч неудачно отскочил от стены, угодил в колодец и вдруг исчез!]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="mask0080.mp3">
+      <en><![CDATA[Don’t worry ... I’m sure I can get it back!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не беспокойтесь, я его достану!]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="mandelbaum" sound="mask0081.mp3">
+      <en><![CDATA[I’ll have these clock hands ready for you by the time you find Mr. Boots’ ball.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К тому моменту, как принесете мячик, стрелки будут готовы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="mask0082.mp3">
+      <en><![CDATA[I already did that.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Опять? Зачем?]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="mask0083.mp3">
+      <en><![CDATA[They must have done the same to him as they did to McManus down at the docks ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, с ним сделали то же самое, что с Макманусом в порту...]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="mask0084.mp3">
+      <en><![CDATA[Are you okay?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что с вами?]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="mandelbaum" sound="mask0085.mp3">
+      <en><![CDATA[Take that horrible cat away!!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гнать этого мерзкого кота!]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="mask0086.mp3">
+      <en><![CDATA[Hey! I just saw some flashing lights in here!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что тут у вас за огни мелькают?]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="eve" sound="mask0087.mp3">
+      <en><![CDATA[Dad! Are you alright?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пап, что с тобой?]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="mandelbaum" sound="mask0088.mp3">
+      <en><![CDATA[Eve? What happened? Where did you get that cat?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ева? Что случилось? Откуда ты притащила кота?]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="eve" sound="mask0089.mp3">
+      <en><![CDATA[Boots? But dad, you know Mr. Boots, don’t you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это же Носочек, ты что, его не узнаешь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="mandelbaum" sound="mask0090.mp3">
+      <en><![CDATA[I’m not sure ... something is wrong. We shouldn’t leave the house, Eve. Something is wrong.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не пойму... Что-то мне не нравится, Ева. Лучше не выходить из дома. Что-то мне не нравится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="eve" sound="mask0091.mp3">
+      <en><![CDATA[Please help my Dad! ... I am afraid.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я боюсь. Пожалуйста, помогите папе!]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="mask0092.mp3">
+      <en><![CDATA[I have to talk to Lionstone!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо поговорить с Лайонстоуном!]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="_avatar" sound="mask0093.mp3">
+      <en><![CDATA[Masks of birds, dragons, mole men ... you name it, Mandelbaum has it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Птицы, драконы, кроты и шпионы - у Мандельбаума найдется любая маска!]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="_avatar" sound="mask0094.mp3">
+      <en><![CDATA[Maybe I’ll bring some home for my friends once I’ve settled my father’s estate.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может быть, куплю несколько штук для друзей, как закончу дела с наследством.]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="mask0095.mp3">
+      <en><![CDATA[Seeing the cat stretch and yawn makes me sleepy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кот так сладко зевает и потягивается, даже спать захотелось.]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="_avatar" sound="mask0096.mp3">
+      <en><![CDATA[Hi there, cat!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Привет, котик!]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="_avatar" sound="mask0097.mp3">
+      <en><![CDATA[The last time I tried to stroke a cat it bit my hand ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотел я как-то погладить кошку, а она меня цапнула.]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="_avatar" sound="mask0098.mp3">
+      <en><![CDATA[I haven’t really digested that experience yet.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[До сих пор как вспомню - вздрогну.]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="mask0099.mp3">
+      <en><![CDATA[I have something for you, Boots! Interested?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Носочек, у меня для тебя сюрприз. Готов?]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="eve" sound="mask0100.mp3">
+      <en><![CDATA[Look how happy he is, Dad!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пап, смотри, как он радуется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="mandelbaum" sound="mask0101.mp3">
+      <en><![CDATA[Thanks for getting Mr. Boots ball back, Nigel!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, что отыскали мячик, Найджел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="mandelbaum" sound="mask0102.mp3">
+      <en><![CDATA[If there is anything I can do to repay you just let me know.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я могу вас как-нибудь отблагодарить, только скажите.]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="_avatar" sound="mask0103.mp3">
+      <en><![CDATA[Look how he’s enjoying himself. Cute.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приятно посмотреть на счастливого кота.]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="mask0104.mp3">
+      <en><![CDATA[Are you having fun?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну как, доволен?]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="mask0105.mp3">
+      <en><![CDATA[I think you are having fun.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По-моему, ты доволен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="_avatar" sound="mask0106.mp3">
+      <en><![CDATA[The last time I tried to stroke a cat it bit my hand ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотел я как-то погладить кошку, а она меня цапнула.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="mask0107.mp3">
+      <en><![CDATA[I haven’t really digested that experience yet.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[До сих пор как вспомню - вздрогну.]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="mask0108.mp3">
+      <en><![CDATA[Boots is shivering with fright. Mr. Mandelbaum scares him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Носочек дрожит от страха, боится мистера Мандельбаума.]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="_avatar" sound="mask0109.mp3">
+      <en><![CDATA[Don’t worry. Everything is going to be okay! ... I hope.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не бойся. Все наладится! По крайней мере, я надеюсь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="_avatar" sound="mask0110.mp3">
+      <en><![CDATA[He’s nervous enough already. I should leave him alone.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бедняга и так перепуган, лучше к нему не лезть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="_avatar" sound="mask0111.mp3">
+      <en><![CDATA[What a smile ... I bet she is Mr. Mandelbaum’s pride and joy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что за улыбка! Наверно, мистер Мандельбаум в ней души не чает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="_avatar" sound="mask0112.mp3">
+      <en><![CDATA[Hey!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эй!]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="eve" sound="mask0113.mp3">
+      <en><![CDATA[Hey Nigel!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Привет, Найджел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="mask0114.mp3">
+      <en><![CDATA[Hello there, I’m Nigel. What’s your name?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Привет, я Найджел. А тебя как зовут?]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="eve" sound="mask0115.mp3">
+      <en><![CDATA[Eve Mandelbaum.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ева Мандельбаум.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="eve" sound="mask0116.mp3">
+      <en><![CDATA[And this is Boots, my cat. He is the most handsome cat in Ravenhollow!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А это Носочек, мой кот. Лучше во всем Рэйвенхоллоу не найти!]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="_avatar" sound="mask0117.mp3">
+      <en><![CDATA[I can see that!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Охотно верю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="_avatar" sound="mask0118.mp3">
+      <en><![CDATA[And look at his white boots ... is that where he got his name from?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ишь, какие у него белые носки. Наверно, из-за них и назвали?]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="eve" sound="mask0119.mp3">
+      <en><![CDATA[No, when he was very small he always climbed into my boots and slept in there ... that’s why his name is Boots!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, когда он был маленьким котенком, он всегда забирался спать ко мне в ботинки, как носок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="eve" sound="mask0120.mp3">
+      <en><![CDATA[But his white feet are cute, aren’t they? You are the cutest cat Mr. Boots!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но правда белые лапки - прелесть? Ты у нас красавец, Носочек.]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="_avatar" sound="mask0121.mp3">
+      <en><![CDATA[I’m no bully.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем я буду драться?]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="eve" sound="mask0122.mp3">
+      <en><![CDATA[Oh, you found our red bouncy ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы нашли наш красный мячик!]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="eve" sound="mask0123.mp3">
+      <en><![CDATA[Could you give it back to Mr. Boots here, please?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отдайте его, пожалуйста, Носочку, если вам не трудно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="_avatar" sound="mask0124.mp3">
+      <en><![CDATA[Eve looks frightened, too. I have to find a way to help her and Mr. Mandelbaum.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У Евы тоже напуганный вид. Надо как-то помочь ей и мистеру Мандельбауму.]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="_avatar" sound="mask0125.mp3">
+      <en><![CDATA[Are you alright?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как твои дела?]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="eve" sound="mask0126.mp3">
+      <en><![CDATA[Yes, but there was a man at the window ... with a flashing light. He did something to Dad ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой-то человек мигал нам в окно лампочкой. И что-то сделал с папой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="mandelbaum" sound="mask0127.mp3">
+      <en><![CDATA[Eve, I’m quite alright you know ... where ... where am I?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Говорю же, Ева, я здоров... где... где это я?]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="eve" sound="mask0128.mp3">
+      <en><![CDATA[He’s forgetting everything! You have to help us!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он все забывает! Помогите нам, пожалуйста!]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="_avatar" sound="mask0129.mp3">
+      <en><![CDATA[I’ll find those men who did this and help your father, Eve. I promise.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я разыщу тех, кто это вытворяет, Ева, и помогу твоему отцу. Обещаю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="_avatar" sound="mask0130.mp3">
+      <en><![CDATA[She looks alarmed enough as it is.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У нее и так напуганный вид.]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="eve" sound="mask0131.mp3">
+      <en><![CDATA[Oh, you found our red bouncy ball!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы нашли наш красный мячик!]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="eve" sound="mask0132.mp3">
+      <en><![CDATA[Could you give it back to Mr. Boots here, please?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отдайте его, пожалуйста, Носочку, если вам не трудно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="mandelbaum" sound="mask0133.mp3">
+      <en><![CDATA[Welcome to Mandelbaum’s Masks!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Маски от Мандельбаума - лучший выбор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="eve" sound="mask0134.mp3">
+      <en><![CDATA[We have the mask you’re searching for!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У нас есть именно то, что вам нужно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="mask0135.mp3">
+      <en><![CDATA[Don’t you think all these masks are quite scary?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Довольно жутковатые. Не боишься их?]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="eve" sound="mask0136.mp3">
+      <en><![CDATA[No. I even know how to make them!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я даже сама их вырезаю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="mandelbaum" sound="mask0137.mp3">
+      <en><![CDATA[It’s true … I had to work hard to get my skills, whereas she has natural talent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это правда. Мне ремесло далось упорным трудом, а у нее врожденный дар.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="mask0138.mp3">
+      <en><![CDATA[Are there many children living in Ravenhollow?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А много вообще в Рэйвенхоллоу детей?]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="eve" sound="mask0139.mp3">
+      <en><![CDATA[Yes, but most stay at home these days. Only the boys go outside, and they only play stupid games.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но на улицу сейчас почти никого не пускают. Только мальчишек, а у них игры дурацкие.]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="eve" sound="mask0140.mp3">
+      <en><![CDATA[Right now I like working with my dad better.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что работать с папой интереснее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="mandelbaum" sound="mask0141.mp3">
+      <en><![CDATA[Isn’t she cute as a button?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда, она очаровашка?]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="eve" sound="mask0142.mp3">
+      <en><![CDATA[Cute like Mr. Boots?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как Носочек?]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="mandelbaum" sound="mask0143.mp3">
+      <en><![CDATA[I think you and he are a perfect match, Eve.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже не знаю, Ева, кто из вас лучше.]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="_avatar" sound="mask0144.mp3">
+      <en><![CDATA[You really have the most handsome cat I know.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должен сказать, у вас великолепный кот.]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="eve" sound="mask0145.mp3">
+      <en><![CDATA[You think so? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="eve" sound="mask0146.mp3">
+      <en><![CDATA[He may have gained some pounds in the last months, but it becomes him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[За эти полгода он прибавил несколько фунтов, но только похорошел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="_avatar" sound="mask0147.mp3">
+      <en><![CDATA[Well, I need to go. Bye!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, мне пора. Счастливо!]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="eve" sound="mask0148.mp3">
+      <en><![CDATA[See you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[До свиданья!]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="_avatar" sound="mask0149.mp3">
+      <en><![CDATA[Nice mask shop you have here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какая у вас отличная лавка!]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="mandelbaum" sound="mask0150.mp3">
+      <en><![CDATA[Thank you very much! Have a look around, you don’t have to buy anything but we’d surely appreciate it if you did.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо! Заходите, посмотрите маски. Покупать не обязательно, но если что-нибудь возьмете, мы будем рады.]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="mandelbaum" sound="mask0151.mp3">
+      <en><![CDATA[Eve and I don’t get many customers these days …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Последнее время у нас с Евой маловато покупателей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="_avatar" sound="mask0152.mp3">
+      <en><![CDATA[Hey, I think I have seen you before … have you been wandering around town at night wearing a mask?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Знаете, мне кажется, что я вас раньше видел. Вы не ходили по улицам ночью в маске?]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="mandelbaum" sound="mask0153.mp3">
+      <en><![CDATA[Perhaps.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возможно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="mandelbaum" sound="mask0154.mp3">
+      <en><![CDATA[But was it me, Joseph Mandelbaum, you saw?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но был ли это я, Йозеф Мандельбаум?]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="mandelbaum" sound="mask0155.mp3">
+      <en><![CDATA[I think the more powerful a mask is, the stronger its innate character is too … once a man wears a mask he changes, he dares to say what’s not allowed to be said.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я считаю, что чем эффектнее маска, тем более сильная душа в ней живет. Надев такую, человек преображается, не боится говорить запрещенные вещи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="_avatar" sound="mask0156.mp3">
+      <en><![CDATA[About the Castle, perhaps?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, про замок?]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="mandelbaum" sound="mask0157.mp3">
+      <en><![CDATA[Quite possibly.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не исключено.]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="mandelbaum" sound="mask0158.mp3">
+      <en><![CDATA[You know, this mask shop is more than 200 years old; and even before that my family was making and selling masks using wood from the Ravenhollow forest ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видите ли, этой лавке больше двух веков. Но и до нее мои предки вырезали и продавали маски из местного дерева, из лесов Рэйвенхоллоу...]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="mandelbaum" sound="mask0159.mp3">
+      <en><![CDATA[We and our masks are deeply rooted in Ravenhollow. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы и маски уходим корнями в здешнюю землю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="_avatar" sound="mask0160.mp3">
+      <en><![CDATA[Again, I think I have seen you before … have you been wandering around town at night wearing a mask?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И опять мне кажется, что я вас раньше видел. Вы не ходили по улицам ночью в маске?]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="mandelbaum" sound="mask0161.mp3">
+      <en><![CDATA[Perhaps.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возможно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="mandelbaum" sound="mask0162.mp3">
+      <en><![CDATA[But was it me, Joseph Mandelbaum, you saw?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но был ли это я, Йозеф Мандельбаум?]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="mandelbaum" sound="mask0163.mp3">
+      <en><![CDATA[I think the more powerful a mask is, the stronger its innate character is too … once a man wears a mask he changes, he dares to say what’s not allowed to be said.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я считаю, что чем эффектнее маска, тем более сильная душа в ней живет. Надев такую, человек преображается, не боится говорить запрещенные вещи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="_avatar" sound="mask0164.mp3">
+      <en><![CDATA[About the Castle, perhaps?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, про замок?]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="mandelbaum" sound="mask0165.mp3">
+      <en><![CDATA[Quite possibly.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не исключено.]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="mandelbaum" sound="mask0166.mp3">
+      <en><![CDATA[You know, this mask shop is more than 200 years old; and even before that my family was making and selling masks using wood from the Ravenhollow forest ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видите ли, этой лавке больше двух веков. Но и до нее мои предки вырезали и продавали маски из местного дерева, из лесов Рэйвенхоллоу...]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="mandelbaum" sound="mask0167.mp3">
+      <en><![CDATA[We and our masks are deeply rooted in Ravenhollow. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы и маски уходим корнями в здешнюю землю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="_avatar" sound="mask0168.mp3">
+      <en><![CDATA[I’d like to buy a mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Можно купить маску?]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="mandelbaum" sound="mask0169.mp3">
+      <en><![CDATA[Well, unfortunately all the masks you see here are either sold or not for sale.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, все те, что тут висят, либо проданы, либо не продаются.]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="_avatar" sound="mask0170.mp3">
+      <en><![CDATA[Well … if that’s the case I think I will have to carry all my money to the other mask shop down the road, I guess.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Жалко. Значит, придется мне идти на тот конец деревни в другую лавку, если у вас ничего купить нельзя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="mandelbaum" sound="mask0171.mp3">
+      <en><![CDATA[Don’t get me wrong, you are a valued customer!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Только не подумайте, что мне не нужны покупатели!]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="mandelbaum" sound="mask0172.mp3">
+      <en><![CDATA[… but honestly, would you even want just any kind of mask?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но вы сами разве захотите просто маску без сюжета?]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="_avatar" sound="mask0173.mp3">
+      <en><![CDATA[What do you mean?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В каком смысле?]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="mandelbaum" sound="mask0174.mp3">
+      <en><![CDATA[You’ve been my first customer in weeks, so I will make you a special offer. First of all take this …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы мой первый посетитель за месяц, и у меня есть для вас особое предложение. Возьмите-ка...]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="_avatar" sound="mask0175.mp3">
+      <en><![CDATA[That’s not a mask. That’s a crayon.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не маска, а восковой мелок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="mandelbaum" sound="mask0176.mp3">
+      <en><![CDATA[Indeed. Now you just go ahead and draw me a sketch of YOUR mask. Just go out there and find something that inspires you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот именно. Я хочу, чтобы вы нарисовали мне эскиз маски. Погуляйте, поищите какой-нибудь вдохновляющий образец.]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="mandelbaum" sound="mask0177.mp3">
+      <en><![CDATA[Bring me a sketch and then I will hand craft a mask based on your design.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приносите рисунок, и я собственноручно вырежу маску по вашему замыслу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="_avatar" sound="mask0178.mp3">
+      <en><![CDATA[That sounds great … but …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это прекрасно. Вот только...]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="_avatar" sound="mask0179.mp3">
+      <en><![CDATA[I can’t draw. My design will be horrible …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не умею рисовать. Выйдет ужас.]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="mandelbaum" sound="mask0180.mp3">
+      <en><![CDATA[Don’t worry about the quality of your drawing. I am sure it will work just fine.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не думайте про качество рисунка. Я уверен, что идею вы передадите.]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="mandelbaum" sound="mask0181.mp3">
+      <en><![CDATA[Just go ahead and find a good design. Go ahead and find YOUR mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ступайте и найдите подходящий образец для вашей собственной маски.]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="_avatar" sound="mask0182.mp3">
+      <en><![CDATA[Okay ... thanks, I guess!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, попробую...]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="_avatar" sound="mask0183.mp3">
+      <en><![CDATA[I’m broke. I can’t afford a mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня нету денег на маску.]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="mandelbaum" sound="mask0184.mp3">
+      <en><![CDATA[Don’t worry about money ... we can talk about that later.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не думайте сейчас о деньгах, цену обсудим позже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="mandelbaum" sound="mask0185.mp3">
+      <en><![CDATA[Just go ahead and find a good design. Go ahead and find YOUR mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ступайте и найдите подходящий образец для вашей собственной маски.]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+    <d186 puppet="_avatar" sound="mask0186.mp3">
+      <en><![CDATA[Okay ... thanks, I guess!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, попробую...]]></ru>
+      <es><![CDATA[]]></es>
+    </d186>
+    <d187 puppet="_avatar" sound="mask0187.mp3">
+      <en><![CDATA[I really have no idea what to sketch …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Совсем не представляю, что рисовать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d187>
+    <d188 puppet="mandelbaum" sound="mask0188.mp3">
+      <en><![CDATA[Don’t worry ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не страшно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d188>
+    <d189 puppet="mandelbaum" sound="mask0189.mp3">
+      <en><![CDATA[Just go ahead and find a good design. Go ahead and find YOUR mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ступайте и найдите подходящий образец для вашей собственной маски.]]></ru>
+      <es><![CDATA[]]></es>
+    </d189>
+    <d190 puppet="_avatar" sound="mask0190.mp3">
+      <en><![CDATA[Okay ... thanks, I guess!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, попробую...]]></ru>
+      <es><![CDATA[]]></es>
+    </d190>
+    <d191 puppet="_avatar" sound="mask0191.mp3">
+      <en><![CDATA[About the sketch I am supposed to bring you …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Можно с вами посоветоваться про эскиз?]]></ru>
+      <es><![CDATA[]]></es>
+    </d191>
+    <d192 puppet="mandelbaum" sound="mask0192.mp3">
+      <en><![CDATA[Just go ahead and find a good design and draw it for me so I can carve a mask for you. Go ahead and find YOUR mask.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну нет. Идите, ищите подходящий образец, рисуйте и приносите. Это же должна быть ваша собственная маска!]]></ru>
+      <es><![CDATA[]]></es>
+    </d192>
+    <d193 puppet="_avatar" sound="mask0193.mp3">
+      <en><![CDATA[I will try.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Постараюсь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d193>
+    <d194 puppet="_avatar" sound="mask0194.mp3">
+      <en><![CDATA[About the mask you want to carve for me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я хотел спросить насчет своей маски...]]></ru>
+      <es><![CDATA[]]></es>
+    </d194>
+    <d195 puppet="mandelbaum" sound="mask0195.mp3">
+      <en><![CDATA[Come back tomorrow! Then it will be ready!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приходите завтра, и она будет готова.]]></ru>
+      <es><![CDATA[]]></es>
+    </d195>
+    <d196 puppet="_avatar" sound="mask0196.mp3">
+      <en><![CDATA[Sigh ... okay.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну ладно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d196>
+    <d197 puppet="_avatar" sound="mask0197.mp3">
+      <en><![CDATA[About the eagle mask you made for me …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я хотел спросить про орлиную маску...]]></ru>
+      <es><![CDATA[]]></es>
+    </d197>
+    <d198 puppet="mandelbaum" sound="mask0198.mp3">
+      <en><![CDATA[I tried to copy the style of the giant eagles up at the gate of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я постарался стилизовать ее под орлов у ворот замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d198>
+    <d199 puppet="mandelbaum" sound="mask0199.mp3">
+      <en><![CDATA[Like most statues in Ravenhollow, they were designed by a local stone cutter named Timothy Caro over 300 years ago ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как почти всей здешней скульптуре, им триста лет. Работа каменотеса Тимоти Каро, нашего соотечественника.]]></ru>
+      <es><![CDATA[]]></es>
+    </d199>
+    <d200 puppet="mandelbaum" sound="mask0200.mp3">
+      <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great-great-and-so-on-grandnephew.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если интересуетесь древностями, зайдите в антикварную лавку Стефана Каро. Он двоюродный пра-пра-пра- и так далее - правнук Тимоти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d200>
+    <d201 puppet="_avatar" sound="mask0201.mp3">
+      <en><![CDATA[What kind of mask are you working on right now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А сейчас вы какую маску вырезаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d201>
+    <d202 puppet="mandelbaum" sound="mask0202.mp3">
+      <en><![CDATA[This is going to be called &quot;the man who returned&quot;.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она будет называться &quot;Человек, который вернулся&quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d202>
+    <d203 puppet="mandelbaum" sound="mask0203.mp3">
+      <en><![CDATA[I found a piece of wood that looked so twisted that it reminded me of a story I once heard on the radio.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я нашел корягу, всю перекрученную, и вспомнил одну историю, которую слышал по радио.]]></ru>
+      <es><![CDATA[]]></es>
+    </d203>
+    <d204 puppet="_avatar" sound="mask0204.mp3">
+      <en><![CDATA[What kind of story was that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И что это за история?]]></ru>
+      <es><![CDATA[]]></es>
+    </d204>
+    <d205 puppet="mandelbaum" sound="mask0205.mp3">
+      <en><![CDATA[The story was about a man who woke up one day and couldn’t remember who he was … but even worse than that he had to realize that he was dead … a living dead.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как один человек проснулся и не мог вспомнить, кто он такой. И мало того, потом он выяснил, что вообще не живой. Оживший мертвец.]]></ru>
+      <es><![CDATA[]]></es>
+    </d205>
+    <d206 puppet="_avatar" sound="mask0206.mp3">
+      <en><![CDATA[That sounds pretty disturbing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего себе кошмарики.]]></ru>
+      <es><![CDATA[]]></es>
+    </d206>
+    <d207 puppet="_avatar" sound="mask0207.mp3">
+      <en><![CDATA[How did he die and why did he return?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А как он умер и почему вернулся?]]></ru>
+      <es><![CDATA[]]></es>
+    </d207>
+    <d208 puppet="mandelbaum" sound="mask0208.mp3">
+      <en><![CDATA[That’s what he tried to find out, too ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот и он пытался это понять...]]></ru>
+      <es><![CDATA[]]></es>
+    </d208>
+    <d209 puppet="mandelbaum" sound="mask0209.mp3">
+      <en><![CDATA[Unfortunately I missed the end of that program, so I never knew what happened in the end and the question kept spinning in my mind …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, передачу я недослушал, так и не узнал, чем дело кончилось, и эта загадка все не шла у меня из головы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d209>
+    <d210 puppet="_avatar" sound="mask0210.mp3">
+      <en><![CDATA[Can’t wait to see what &quot;the man who returned&quot; looks like in the end.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень интересно, какой у вас получится &quot;Человек, который вернулся&quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d210>
+    <d211 puppet="mandelbaum" sound="mask0211.mp3">
+      <en><![CDATA[Me neither! Even to me it’s always a surprise how a finished mask looks in the end.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне тоже! Я сам никогда заранее не знаю, как будет выглядеть готовая маска.]]></ru>
+      <es><![CDATA[]]></es>
+    </d211>
+    <d212 puppet="_avatar" sound="mask0212.mp3">
+      <en><![CDATA[About the poster here for &quot;The Amazing Entertainment Cart&quot; ...  friends of yours?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У вас тут афиша &quot;Великолепной повозки развлечений&quot;. Вы знаете артистов?]]></ru>
+      <es><![CDATA[]]></es>
+    </d212>
+    <d213 puppet="mandelbaum" sound="mask0213.mp3">
+      <en><![CDATA[Oh, indeed!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А как же!]]></ru>
+      <es><![CDATA[]]></es>
+    </d213>
+    <d214 puppet="mandelbaum" sound="mask0214.mp3">
+      <en><![CDATA[Gregory and Matthew come to Ravenhollow once a year and open up their cart on the village square.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Грегори и Мэтью приезжают в Рэйвенхоллоу каждый год и разбивают балаган на нашей площади.]]></ru>
+      <es><![CDATA[]]></es>
+    </d214>
+    <d215 puppet="mandelbaum" sound="mask0215.mp3">
+      <en><![CDATA[Unfortunately, this time they ran into Lowell Cain and his men. A couple of days ago the Castle confiscated their cart and threw them out of the village …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К сожалению, в этом году вмешался Лоуэлл Кейн со своими молодчиками. Пару дней назад отобрал у них повозку, выгнал вон - дескать, указание из замка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d215>
+    <d216 puppet="mandelbaum" sound="mask0216.mp3">
+      <en><![CDATA[I heard the two are camping out near the woods now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я слышал, что сейчас они разбили палатку на краю леса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d216>
+    <d217 puppet="_avatar" sound="mask0217.mp3">
+      <en><![CDATA[Well, I have to go …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пожалуй, мне пора...]]></ru>
+      <es><![CDATA[]]></es>
+    </d217>
+    <d218 puppet="mandelbaum" sound="mask0218.mp3">
+      <en><![CDATA[Stop by any time you like.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заходите еще, я буду рад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d218>
+  </d>
+</localize>

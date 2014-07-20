@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Makes You Tick: A Stitch in Time</title>
+  <link rel="stylesheet" href="assets/screenplay.css">
+</head>
+<body id="{{ id }}">
+<div class="header">
+  <p class="queue-title" id="queue-title"></p>
+  <h1>What Makes You Tick: A Stitch in Time</h1>
+  <p class="filters">
+    <a href="index.html" class="home">Index</a>
+    <label for="cast">Highlight actor:</label>
+    <select id="cast">
+      <option value="">--NONE--</option>
+      {{ cast }}
+    </select>
+  </p>
+</div>
+
+{{ content }}
+
+<script src="assets/jquery.js"></script>
+<script src="assets/screenplay.js"></script>
+</body>
+</html>

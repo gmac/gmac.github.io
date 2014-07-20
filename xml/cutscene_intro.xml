@@ -1,0 +1,64 @@
+<room id="cutscene_intro" coreLibs="lib/cutscene_intro.swf" voiceLibs="" enterScript="_enter" exitScript="_exit" grid="base" sound1="" sound2=""><grids><grid id="base"><boxes/><nodes/></grid></grids><positions/><filters><filter id="_main" axis="y" enabled="1"><pole x="-1" y="-1" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="-1" y="-1" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters>
+<scripts><script id="_enter">
+<curtain blackout="0"/>
+<sequence skip="1">
+  <layerSprite target="intro" animFrame="play" waitForComplete="1"/>
+  <layerSprite target="intro" animFrame="end" waitForComplete="0"/>
+</sequence>
+<game room="harbor_intro:join_world"/>
+</script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><sound playback="stopAll"/><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="0" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
+
+<layer id="intro" type="puppet" asset="lib/cutscene_intro.swf:IntroMovie" depth="1" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mapX="512" mapY="384" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
+
+<layer id="narrator" type="puppet" asset="" depth="2" visible="1" state="main"><states><state id="main" x="512" y="700" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1" hitH="1" shape="rect"><param mapX="0" mapY="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title>
+<dialog><dia puppet="nora" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[Who are you?]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="nora" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[What do you want from me?]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="vincent" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[Don't worry, I just want to know ...]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="vincent" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[What makes you tick?]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[The next day, a young man's adventure will begin.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[Here he comes.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[This young man's name is Nigel Trelawney.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[Upon receiving notice of his father's death, Nigel has traveled to the town of Ravenhollow.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[He has come to settle his father's estate.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[However, Nigel will soon discover that the shadow of a nearby castle has fallen over this small town and its inhabitants.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[Little does Nigel expect that his quest may shape the fate of a kidnapped girl and all of Ravenhollow.]]></en>
+<de><![CDATA[]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
+<en><![CDATA[... or that along his path, adventure awaits him.]]></en>
+<de><![CDATA[]]></de>
+</dia></dialog><script>
+<dialogue play="*"/>
+</script></action></actions><items/></state></states></layer>
+</layers><trees/></room>

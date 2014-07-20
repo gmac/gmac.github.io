@@ -1,0 +1,3359 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[radio]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[радио]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[radio]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[радио]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[radio]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[радио]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[letter opener]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нож для писем]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[steaming kettle]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[чайник]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[oil painting]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[рисунок маслом]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[female figurehead]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[скульптура женской головы]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[ship in a bottle]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[корабль в бутылке]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[other guy in uniform]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[другой мужик в форме]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[guy in uniform]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мужик в форме]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[sleeping guard]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[спящий стражник]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[peacefully sleeping guard]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[мирно спящий стражник]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[map]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[карта]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[diving helmet and gloves]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[водительский шлем и перчатки]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[pirate skeleton figurehead]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[скульптура голова пирата]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[wooden skeleton parrot]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[деревянный скелет попугая]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[ship model]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[модель корабля]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[telescope]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[телескоп]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[stuffed swordfish]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[чучело меч-рыбы]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[painting]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[картина]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+    <n31>
+      <en><![CDATA[porthole window with stained glass]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[иллюминатор с грязным стеклом]]></ru>
+      <es><![CDATA[]]></es>
+    </n31>
+    <n32>
+      <en><![CDATA[alphabetically sorted books]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Книги, сортированные по алфавиту]]></ru>
+      <es><![CDATA[]]></es>
+    </n32>
+    <n33>
+      <en><![CDATA[very old globe]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[очень старый глобус]]></ru>
+      <es><![CDATA[]]></es>
+    </n33>
+    <n34>
+      <en><![CDATA[very old globe]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[очень старый глобус]]></ru>
+      <es><![CDATA[]]></es>
+    </n34>
+    <n35>
+      <en><![CDATA[very old and very wet globe]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень старый и очень мокрый глобус]]></ru>
+      <es><![CDATA[]]></es>
+    </n35>
+    <n36>
+      <en><![CDATA[vandalized globe]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[испорченный глобус]]></ru>
+      <es><![CDATA[]]></es>
+    </n36>
+    <n37>
+      <en><![CDATA[information material]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[информационный материал]]></ru>
+      <es><![CDATA[]]></es>
+    </n37>
+    <n38>
+      <en><![CDATA[barrel of posters]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бочка с плакатами]]></ru>
+      <es><![CDATA[]]></es>
+    </n38>
+    <n39>
+      <en><![CDATA[small note]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[маленькая записка]]></ru>
+      <es><![CDATA[]]></es>
+    </n39>
+    <n40>
+      <en><![CDATA[velvet rope]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[бархатная веревка]]></ru>
+      <es><![CDATA[]]></es>
+    </n40>
+    <n41>
+      <en><![CDATA[colorful fish]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разноцветная рыбка]]></ru>
+      <es><![CDATA[]]></es>
+    </n41>
+    <n42>
+      <en><![CDATA[door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь]]></ru>
+      <es><![CDATA[]]></es>
+    </n42>
+    <n43>
+      <en><![CDATA[books]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[книги]]></ru>
+      <es><![CDATA[]]></es>
+    </n43>
+    <n44>
+      <en><![CDATA[books]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[книги]]></ru>
+      <es><![CDATA[]]></es>
+    </n44>
+    <n45>
+      <en><![CDATA[books]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[книги]]></ru>
+      <es><![CDATA[]]></es>
+    </n45>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="radio">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="radio">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="radio">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="radio">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="radio">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="radio">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="radio">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="radio">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="radio">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="letter opener">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="letter opener">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="letter opener">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="steaming kettle">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="steaming kettle">
+      <en><![CDATA[Drink]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Выпить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="steaming kettle">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="oil painting">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="oil painting">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="oil painting">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="female figurehead">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="female figurehead">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="female figurehead">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="ship in a bottle">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="ship in a bottle">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="ship in a bottle">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v35 noun="other guy in uniform">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="other guy in uniform">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="other guy in uniform">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="guy in uniform">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="guy in uniform">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="guy in uniform">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="sleeping guard">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="sleeping guard">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="sleeping guard">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="peacefully sleeping guard">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="peacefully sleeping guard">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="peacefully sleeping guard">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="map">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="map">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="map">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="door">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="diving helmet and gloves">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="diving helmet and gloves">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="diving helmet and gloves">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="pirate skeleton figurehead">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="pirate skeleton figurehead">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="pirate skeleton figurehead">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="wooden skeleton parrot">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="wooden skeleton parrot">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="wooden skeleton parrot">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v65 noun="ship model">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="ship model">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="ship model">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v68 noun="telescope">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v68>
+    <v69 noun="telescope">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="telescope">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="stuffed swordfish">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v72 noun="stuffed swordfish">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v72>
+    <v73 noun="stuffed swordfish">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="painting">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="painting">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="painting">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="porthole window with stained glass">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="porthole window with stained glass">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v79 noun="porthole window with stained glass">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v79>
+    <v80 noun="alphabetically sorted books">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v80>
+    <v81 noun="alphabetically sorted books">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v81>
+    <v82 noun="alphabetically sorted books">
+      <en><![CDATA[Read all of the]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прочитать все]]></ru>
+      <es><![CDATA[]]></es>
+    </v82>
+    <v83 noun="very old globe">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v83>
+    <v84 noun="very old globe">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v84>
+    <v85 noun="very old globe">
+      <en><![CDATA[Spin]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Крутить]]></ru>
+      <es><![CDATA[]]></es>
+    </v85>
+    <v89 noun="very old globe">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v89>
+    <v90 noun="very old globe">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v90>
+    <v91 noun="very old globe">
+      <en><![CDATA[Scrape map off]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Соскрести карту с]]></ru>
+      <es><![CDATA[]]></es>
+    </v91>
+    <v95 noun="very old and very wet globe">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v95>
+    <v96 noun="very old and very wet globe">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v96>
+    <v97 noun="very old and very wet globe">
+      <en><![CDATA[Peel wet map off]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Соскоблить мокрую карту]]></ru>
+      <es><![CDATA[]]></es>
+    </v97>
+    <v98 noun="vandalized globe">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v98>
+    <v99 noun="vandalized globe">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v99>
+    <v100 noun="vandalized globe">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v100>
+    <v101 noun="information material">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v101>
+    <v102 noun="information material">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v102>
+    <v103 noun="information material">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v103>
+    <v104 noun="barrel of posters">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v104>
+    <v105 noun="barrel of posters">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v105>
+    <v106 noun="barrel of posters">
+      <en><![CDATA[Take poster from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять плакат]]></ru>
+      <es><![CDATA[]]></es>
+    </v106>
+    <v107 noun="small note">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v107>
+    <v108 noun="small note">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v108>
+    <v109 noun="small note">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v109>
+    <v110 noun="velvet rope">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v110>
+    <v111 noun="velvet rope">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v111>
+    <v112 noun="velvet rope">
+      <en><![CDATA[Remove]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Убрать]]></ru>
+      <es><![CDATA[]]></es>
+    </v112>
+    <v113 noun="colorful fish">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v113>
+    <v114 noun="colorful fish">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v114>
+    <v115 noun="colorful fish">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v115>
+    <v116 noun="door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v116>
+    <v117 noun="door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v117>
+    <v118 noun="door">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v118>
+    <v119 noun="books">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v119>
+    <v120 noun="books">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v120>
+    <v121 noun="books">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v121>
+    <v122 noun="books">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v122>
+    <v123 noun="books">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v123>
+    <v124 noun="books">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v124>
+    <v125 noun="books">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v125>
+    <v126 noun="books">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v126>
+    <v127 noun="books">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v127>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c33 noun="ship in a bottle" item="fishing_hook">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c33>
+    <c34 noun="ship in a bottle" item="rocks">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c34>
+    <c86 noun="very old globe" item="kettle2">
+      <en><![CDATA[Steam #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять #item# и обработать паром #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c86>
+    <c87 noun="very old globe" item="kettle3">
+      <en><![CDATA[Steam #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять #item# и обработать паром #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c87>
+    <c88 noun="very old globe" item="kettle">
+      <en><![CDATA[Steam #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять #item# и обработать паром #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c88>
+    <c92 noun="very old globe" item="kettle2">
+      <en><![CDATA[Steam #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять #item# и обработать паром #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c92>
+    <c93 noun="very old globe" item="kettle3">
+      <en><![CDATA[Steam #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять #item# и обработать паром #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c93>
+    <c94 noun="very old globe" item="kettle">
+      <en><![CDATA[Steam #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять #item# и обработать паром #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c94>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="portauthority0000.mp3">
+      <en><![CDATA[The radio is picking up radio communication from nearby ships, I guess.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Радиоприемник, наверное, принимает сигналы с ближайшего корабля.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="rat" sound="portauthority0001.mp3">
+      <en><![CDATA[Mr. Trelawney, please don’t force us to intervene.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мистер Трелони, не заставляйте нас, пожалуйста, вмешиваться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="faker" sound="portauthority0002.mp3">
+      <en><![CDATA[Yeah, you wouldn’t want us to get distracted from our official tasks bestowed upon us by Baron Northwest himself, would you Mr. Trelawney?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, не надо отвлекать нас от обязанностей, возложенных самим бароном Нордвестом, хорошо, мистер Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="rat" sound="portauthority0003.mp3">
+      <en><![CDATA[So, we will have to ask you not to mess with the radio, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что, мы попросили бы вас не трогать радио, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="portauthority0004.mp3">
+      <en><![CDATA[Or else ... ?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или что?..]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="rat" sound="portauthority0005.mp3">
+      <en><![CDATA[Well, we know you escaped from the boathouse ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, мы в курсе, что вы сбежали из лодочного сарая...]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="faker" sound="portauthority0006.mp3">
+      <en><![CDATA[... we could have you locked up again, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...и можем снова запереть вас там, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="rat" sound="portauthority0007.mp3">
+      <en><![CDATA[Or worse. The Castle can do worse things than that to you, you know ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или еще хуже. Замок может придумать для вас чего-нибудь пострашнее, знаете ли...]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="portauthority0008.mp3">
+      <en><![CDATA[... maybe I can find another way to satisfy my curiosity for radio waves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...может, я найду какой-то другой способ удовлетворить свой интерес к радиоволнам.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="portauthority0009.mp3">
+      <en><![CDATA[Hm, the radio is just picking up interference ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хм, радио принимает только помехи...]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="portauthority0010.mp3">
+      <en><![CDATA[Let’s see what else is playing on the air waves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Посмотрим, что еще играется на местных волнах.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="portauthority0011.mp3">
+      <en><![CDATA[I wonder who is broadcasting that melody ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, кто передает эту мелодию...]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="portauthority0012.mp3">
+      <en><![CDATA[There’s no need to meddle around with the radio buttons again.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Незачем снова возиться с кнопками на приемнике.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="portauthority0013.mp3">
+      <en><![CDATA[I can’t believe it ... those guards have been using this innocent fish’s home for target practice.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... Стражники использовали несчастный аквариум в качестве мишени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="portauthority0014.mp3">
+      <en><![CDATA[I’ll take this letter opener with me ... then maybe the castle guards will stop terrorizing this poor fish.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возьму-ка я нож для писем с собой... Может, тогда стражники перестанут мучить бедную рыбку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="portauthority0015.mp3">
+      <en><![CDATA[It’s the kettle of boiling water that I used to steamed the map from the globe.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чайник с кипящей водой, паром от которой я обрабатывал карту с глобуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="portauthority0016.mp3">
+      <en><![CDATA[That would be unpleasant.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это неприятно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="portauthority0017.mp3">
+      <en><![CDATA[No, I’ll leave it there to cool off. I can’t think of any additional use for it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, оставлю там, пусть остывает. Все равно пользы пока никакой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="portauthority0018.mp3">
+      <en><![CDATA[An oil painting of a sailing ship trapped in ice ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Картина с изображением корабля, застрявшего во льдах...]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="portauthority0019.mp3">
+      <en><![CDATA[The artist really succeeded in depicting the horrors of Arctic exploration ... and yet the scene is of a haunting beauty.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Художник очень умело передал ужасы арктических экспедиций... И тонкую красоту, их окружающую.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="portauthority0020.mp3">
+      <en><![CDATA[It’s a carved figurehead of a mermaid ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Резная скульптура в виде головы русалки...]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="portauthority0021.mp3">
+      <en><![CDATA[Attractive gills.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Жабры что надо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="portauthority0022.mp3">
+      <en><![CDATA[I know ... we come from different worlds and our love can just be of a fleeting nature.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Знаю... Мы родились в разных мирах, и любовь наша может быть лишь мимолетной.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="portauthority0023.mp3">
+      <en><![CDATA[Well, but we COULD meet at the beach around nine and watch the sunset.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но мы же могли бы встречаться на пляже часов в девять и любоваться закатом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="portauthority0024.mp3">
+      <en><![CDATA[The small plaque says it’s a model of the Santa Carolina.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На маленькой табличке написано, что это модель Санта Каролины.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="portauthority0025.mp3">
+      <en><![CDATA[I think there’s something stuck to the side of the ship model ... it looks like a key.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, сбоку к модели корабля что-то прилипло... Похоже на ключ.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="rat" sound="portauthority0026.mp3">
+      <en><![CDATA[This does not belong to you, Mr. Trelawney!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не ваше, мистер Трелони!]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="portauthority0027.mp3">
+      <en><![CDATA[I really doubt it’s yours either ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вам оно тоже вряд ли принадлежит...]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="rat" sound="portauthority0028.mp3">
+      <en><![CDATA[What was that, Mr. Trelawney?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что вы сказали, мистер Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="portauthority0029.mp3">
+      <en><![CDATA[Nothing ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего...]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="portauthority0030.mp3">
+      <en><![CDATA[The small plaque says it’s a model of the Santa Carolina.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На маленькой табличке написано, что это модель Санта Каролины.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="portauthority0031.mp3">
+      <en><![CDATA[I think there’s something stuck to the side of the ship model ... it looks like a key.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, сбоку к модели корабля что-то прилипло... Похоже на ключ.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="rat" sound="portauthority0032.mp3">
+      <en><![CDATA[This does not belong to you, Mr. Trelawney!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не ваше, мистер Трелони!]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="portauthority0033.mp3">
+      <en><![CDATA[I really doubt it’s yours either ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вам оно тоже вряд ли принадлежит...]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="rat" sound="portauthority0034.mp3">
+      <en><![CDATA[What was that, Mr. Trelawney?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что вы сказали, мистер Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="portauthority0035.mp3">
+      <en><![CDATA[Nothing ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего...]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="portauthority0036.mp3">
+      <en><![CDATA[The small plaque says it’s a model of the Santa Meche.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На табличке написано, что это модель Санта Мече.]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="portauthority0037.mp3">
+      <en><![CDATA[I think there’s something stuck to the side of the ship model ... it looks like a key.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, сбоку к модели корабля что-то прилипло... Похоже на ключ.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="rat" sound="portauthority0038.mp3">
+      <en><![CDATA[This does not belong to you, Mr. Trelawney!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это не ваше, мистер Трелони!]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="portauthority0039.mp3">
+      <en><![CDATA[I really doubt it’s yours either ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вам оно тоже вряд ли принадлежит...]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="rat" sound="portauthority0040.mp3">
+      <en><![CDATA[What was that, Mr. Trelawney?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что вы сказали, мистер Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="portauthority0041.mp3">
+      <en><![CDATA[Nothing ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего...]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="portauthority0042.mp3">
+      <en><![CDATA[I think the bottle is glued to the display stand.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, бутылка приклеена к подставке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="portauthority0043.mp3">
+      <en><![CDATA[Yep. Seems like I have to leave the bottle ship where it is ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ага. Видно, придется оставить бутылку с кораблем на месте...]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="portauthority0044.mp3">
+      <en><![CDATA[That guy’s hand definitely is in the way.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рука этого парня знает, куда надо лезть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="portauthority0045.mp3">
+      <en><![CDATA[That guy’s hand definitely is in the way.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рука этого парня знает, куда надо лезть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="portauthority0046.mp3">
+      <en><![CDATA[Maybe I can get the key out with this long fishing hook.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, получится вытащить ключ с помощью рыболовного крючка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="portauthority0047.mp3">
+      <en><![CDATA[It worked! I have the chest key!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Получилось! Ключ от сундука у меня!]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="portauthority0048.mp3">
+      <en><![CDATA[I already got the key.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ключ у меня уже есть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="portauthority0049.mp3">
+      <en><![CDATA[Smashing Wavetamer’s ship in a bottle would not be a good way to thank him for his help getting in here!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разбить кораблик Вейвтамера - не самый лучший способ поблагодарить его за помощь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="portauthority0050.mp3">
+      <en><![CDATA[For some reason that guy doesn't look very trustworthy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почему-то этот парень не похож на того, кому можно доверять.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="portauthority0051.mp3">
+      <en><![CDATA[I don't like his grin ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не нравится мне его ухмылка...]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="portauthority0052.mp3">
+      <en><![CDATA[Excuse me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я извиняюсь...]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="rat" sound="portauthority0053.mp3">
+      <en><![CDATA[A friendly face comes to visit us ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К нам в гости пришло знакомое лицо...]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="faker" sound="portauthority0054.mp3">
+      <en><![CDATA[What a pleasant surprise.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какой приятный сюрприз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="rat" sound="portauthority0055.mp3">
+      <en><![CDATA[Yes, how can we help you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, как мы можем вам помочь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="faker" sound="portauthority0056.mp3">
+      <en><![CDATA[What can we do to help you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что вам угодно?]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="portauthority0057.mp3">
+      <en><![CDATA[I received this will - a heritage certificate to my father’s estate - in the mail ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я получил по почте завещание - сертификат о наследовании состояния моего отца.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="faker" sound="portauthority0058.mp3">
+      <en><![CDATA[Mail? I don’t think so ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По почте? Это вряд ли...]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="rat" sound="portauthority0059.mp3">
+      <en><![CDATA[The Castle stopped all mail delivery a month ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Замок прервал доставку почты еще месяц назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="faker" sound="portauthority0060.mp3">
+      <en><![CDATA[Outgoing mail was also stopped. So, you are not from around here, are you? I don’t recognize you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Исходящая почта также не отправляется. А вы, значит, не местный? Мне ваш портрет не знаком.]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="rat" sound="portauthority0061.mp3">
+      <en><![CDATA[No, you don’t look familiar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, мы с вами не знакомы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="portauthority0062.mp3">
+      <en><![CDATA[I am a stranger here, so what?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я нездешний, ну и что?]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="faker" sound="portauthority0063.mp3">
+      <en><![CDATA[Well, Mr. Trelawney. We know who you are.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что ж, мистер Трелони. Мы знаем, кто вы такой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="rat" sound="portauthority0064.mp3">
+      <en><![CDATA[Nice name, Nigel Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хорошее у вас имя, Найджел Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="portauthority0065.mp3">
+      <en><![CDATA[He’s asleep ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он спит...]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="portauthority0066.mp3">
+      <en><![CDATA[I really don’t want to wake him up.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не хочу его будить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="portauthority0067.mp3">
+      <en><![CDATA[No, that would definitely wake him up.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, так он однозначно проснется.]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="portauthority0068.mp3">
+      <en><![CDATA[This nautical chart shows the bay area of Ravenhollow Harbor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На этой навигационной карте изображена территория залива Бухты Рэйвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="portauthority0069.mp3">
+      <en><![CDATA[I think I should leave this here in the port office where it belongs.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше пускай остается на своем месте, в этом кабинете.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="portauthority0070.mp3">
+      <en><![CDATA[It’s another door. Unfortunately it’s unreachable ... it’s located behind this velvet rope.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще одна дверь. К несчастью, до нее не достать... Она отгорожена заградительной веревкой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="portauthority0071.mp3">
+      <en><![CDATA[It’s off limits.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вход воспрещен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="portauthority0072.mp3">
+      <en><![CDATA[I doubt the old diving equipment would be catching dust up there if it were still working.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вряд ли старое снаряжение для дайвинга покрывалось бы тут пылью, если б от него был прок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="portauthority0073.mp3">
+      <en><![CDATA[I can’t reach it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не дотянуться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="portauthority0074.mp3">
+      <en><![CDATA[It’s an old figurehead of a pirate skeleton. Pretty impressive woodcarving.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Старая скульптура в виде черепа пирата. Резьба первоклассная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="portauthority0075.mp3">
+      <en><![CDATA[Captain! Your scurvy seems to have taken a turn for the worse ... I can see that your head bone is connected to your neck bone, aye!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Капитан! Ваше хамство, похоже, не сыграло вам на руку... Я вижу, что ваш череп соединен с позвоночником!]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="portauthority0076.mp3">
+      <en><![CDATA[I doubt Polly still wants a cracker ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попка вряд ли все еще хочет кушать.
+]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="portauthority0077.mp3">
+      <en><![CDATA[It’s a model of the MS Woodtick ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это модель пусковой установки &amp;quot;Деревяшка&amp;quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="portauthority0078.mp3">
+      <en><![CDATA[The skeleton figurehead is peering through a telescope ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Фигурка-череп пялится в телескоп...]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="portauthority0079.mp3">
+      <en><![CDATA[... the telescope is carved from wood, too. It’s not real.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...телескоп тоже вырезан из дерева. Не настоящий.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="portauthority0080.mp3">
+      <en><![CDATA[Amazing how the last moment in the life of this swordfish was captured.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Удивительно, как точно уловили последнее мгновенье жизни этой меч-рыбы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="portauthority0081.mp3">
+      <en><![CDATA[He still looks like he’s trying to escape from the taxidermist’s evil clutches.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вид у нее такой, словно она все еще пытается вырваться из подлых лап чучельника.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="portauthority0082.mp3">
+      <en><![CDATA[I don’t really want to carry around a stuffed sword fish.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да не хочу я таскать с собой чучело меч-рыбы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="portauthority0083.mp3">
+      <en><![CDATA[It’s an oil painting of an octopus.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Портрет осьминога, старый, выполнен маслом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="portauthority0084.mp3">
+      <en><![CDATA[I always liked octopuses ... octopi ... and octopods.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Всегда любил осьминогов... Осьмируков... И осьмиглавов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="portauthority0085.mp3">
+      <en><![CDATA[Beautiful work, someone around here really has a hand for interior decorating.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прекрасная работа, кто-то из местных явно знает толк в декорировании интерьеров.]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="portauthority0086.mp3">
+      <en><![CDATA[It’s nice to look at, but otherwise pretty useless.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Смотреть приятно, но в целом - вещь бесполезная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="_avatar" sound="portauthority0087.mp3">
+      <en><![CDATA[I don’t know what kind of books these are, but I am sure they are pretty boring if you are not into harbor administration.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не знаю, что это за книги, но дл того, кто в управлении портами не разбирается, наверняка тоска смертная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="_avatar" sound="portauthority0088.mp3">
+      <en><![CDATA[No, please. That would be very boring ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, спасибо. Будет слишком скучно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="portauthority0089.mp3">
+      <en><![CDATA[Wow, that globe must have been crafted a long time ago by a foreign seafaring nation ... our continent isn’t even on there yet!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ого, да этот глобус, небось, изготовили очень давно в какой-нибудь заморской стране... Нашего континента здесь попросту нет!]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="_avatar" sound="portauthority0090.mp3">
+      <en><![CDATA[Oh, look at that ... this side of the globe shows the kingdom of Malabo.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ого, гляньте-ка... На это стороне глобуса есть королевство Малабо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="portauthority0091.mp3">
+      <en><![CDATA[Only the cartographers of Malabo would have been able to produce such a accurate map back in those days... look at how detailed the coastline and the dangerous riffs are defined.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ Только малабойские картографы могли сделать в те времена такую точную карту... Гляньте, какая подробная линия побережья, даже рифы отмечены.]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="portauthority0092.mp3">
+      <en><![CDATA[Good idea, but I won’t be able to steam the map off this globe using cold water ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мысль хорошая, но холодная вода пару не дает...]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="_avatar" sound="portauthority0093.mp3">
+      <en><![CDATA[Mh, this side of the globe doesn’t look very interesting anyway.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м, эта сторона глобуса все равно какая-то неинтересная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="_avatar" sound="portauthority0094.mp3">
+      <en><![CDATA[Let’s just have a look at the entire globe first ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Посмотрим-ка сначала на весь глобус в целом...]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="portauthority0095.mp3">
+      <en><![CDATA[Well look at that ... this side of the globe shows the kingdom of Malabo. Isn’t that Captain Amayi’s home port?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, надо же... На этой стороне глобуса есть королевство Малабо. Это ведь родина капитана Амайи, да?]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="_avatar" sound="portauthority0096.mp3">
+      <en><![CDATA[Good idea, but that would only work if this kettle was full of steaming hot water.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мысль хорошая, но это сработает, только если в чайнике будет кипяток.]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="_avatar" sound="portauthority0097.mp3">
+      <en><![CDATA[Well look at that ... this side of the globe shows the kingdom of Malabo. Isn’t that Captain Amayi’s home port?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, надо же... На этой стороне глобуса есть королевство Малабо. Это ведь родина капитана Амайи, да?]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="_avatar" sound="portauthority0098.mp3">
+      <en><![CDATA[Wow... and look at how detailed the coastline and the dangerous reefs are drawn!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ого... Гляньте-ка, до чего подробная линия побережья, даже рифы обозначены!]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="portauthority0099.mp3">
+      <en><![CDATA[That map might come in handy ... but unfortunately scraping it off will only give me shreds and pieces.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эта карта может пригодиться... Но, к несчастью, если я ее попытаюсь соскоблить, мне достанутся одни клочки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="_avatar" sound="portauthority0100.mp3">
+      <en><![CDATA[I wonder if there’d be a way to unglue it ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, можно ли ее отклеить?]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="portauthority0101.mp3">
+      <en><![CDATA[Good idea, but I won’t be able to steam the map off this globe using cold water ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мысль хорошая, но холодная вода пару не дает...]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="_avatar" sound="portauthority0102.mp3">
+      <en><![CDATA[Let’s see if I can steam the paper map off this globe ...  I’ll just strategically position this steaming kettle underneath it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попробую-ка я обдать карту паром и снять с глобуса... Надо только пристроить под глобусом горячий чайник.]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="_avatar" sound="portauthority0103.mp3">
+      <en><![CDATA[Hey, it worked! ... the paper map has come loose from the globe.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ух ты, получилось!.. Карта отклеилась от глобуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="portauthority0104.mp3">
+      <en><![CDATA[Phew, that wet old glue smells pretty strange.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ф-фух, как-то странно пахнет этот клей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="portauthority0105.mp3">
+      <en><![CDATA[Good idea, but that would only work if this kettle was full of steaming hot water.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мысль хорошая, но это сработает, только если в чайнике будет кипяток.]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="_avatar" sound="portauthority0106.mp3">
+      <en><![CDATA[Now the globe is dripping wet and the paper surface has come loose.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь глобус весь мокрый, а бумажную поверхность легко можно снять.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="portauthority0107.mp3">
+      <en><![CDATA[The glue should be wet enough to peel the paper right off.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Клей уже достаточно размок, чтобы стянуть карту с глобуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="portauthority0108.mp3">
+      <en><![CDATA[I wonder how much this globe was worth? Maybe I should have just rolled it out the door and sold it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, сколько стоит этот глобус? Может, лучше выкатить его за дверь и кому-нибудь продать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="_avatar" sound="portauthority0109.mp3">
+      <en><![CDATA[Apparently those Castle guys aren’t very good at their jobs ... they don’t seem to care if I loot this office.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Видимо, эти ребята из замка свою работу выполнять не любят... их, похоже, не беспокоит, что я шарю по их конторе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="_avatar" sound="portauthority0110.mp3">
+      <en><![CDATA[That is one naked globe ... it looks pretty strange once you peel the map off it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачищенный глобус... Без карты мира выглядит очень странно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="_avatar" sound="portauthority0111.mp3">
+      <en><![CDATA[I bet there a lot of fun things that you could do with this wooden orb ... like rolling it down a steep hill on the heels of a brave adventurer?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С деревянным шаром наверняка можно придумать много всяких штук и занятий... например, скатить его с пологого холма прямо под ноги храброму герою.]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="_avatar" sound="portauthority0112.mp3">
+      <en><![CDATA[Cain and his men even printed small leaflets to tell everyone about the Northwest Restoration ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кейн и его люди даже листовки распечатали, чтобы все знали о возвращении власти Нордвестам...]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="_avatar" sound="portauthority0113.mp3">
+      <en><![CDATA[No thanks, I am sure it’s just a lot of fancy sounding hogwash that’s supposed to distract from the injustice that’s going on here ... just like these uniforms they are wearing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, спасибо, там наверняка написана всякая бесполезная ерундистика, лишь бы отвлечь внимание людей от творящейся здесь несправедливости... как и их униформа, кстати.]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="portauthority0114.mp3">
+      <en><![CDATA[I am pretty sure it’s the same poster Lowell Cain’s men put up all over Ravenhollow Harbor ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[По-моему, это такой же плакат, как и те, что люди Кейна развесили по всей бухте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="_avatar" sound="portauthority0115.mp3">
+      <en><![CDATA[I really have all the propaganda material I need, thank you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня уже есть все пропагандистские материалы, спасибо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="_avatar" sound="portauthority0116.mp3">
+      <en><![CDATA[They are trying to encourage visitors to take one of these posters ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Они пытаются заставить посетителей взять один из плакатов...]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="_avatar" sound="portauthority0117.mp3">
+      <en><![CDATA[No thanks, I don’t need it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, спасибо, мне не надо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="_avatar" sound="portauthority0118.mp3">
+      <en><![CDATA[It’s a velvet rope ... no visitors allowed beyond this point.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это веревка из бархата... Посетителям за нее заходить нельзя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="_avatar" sound="portauthority0119.mp3">
+      <en><![CDATA[No! It’s a velvet rope ... you can’t just remove a velvet rope and walk in. That would be a very serious breach of social conventions.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! Это бархатная веревка... Нельзя просто взять и зайти за бархатную веревку. Это могут посчитать серьезным нарушением социальных устоев.]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="_avatar" sound="portauthority0120.mp3">
+      <en><![CDATA[Besides ... if Lowell Cain’s men catch me sneaking around over there they might call their hulking friend ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И потом... Если меня тут застукают люди Лоуэлла Кейна, то могут позвать своего качкообразного друга...]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="_avatar" sound="portauthority0121.mp3">
+      <en><![CDATA[I can’t believe it ... those guards have been using this innocent fish’s home for target practice.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... Стражники использовали несчастный аквариум в качестве мишени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="_avatar" sound="portauthority0122.mp3">
+      <en><![CDATA[Hello, Mr. Fish. Aren’t you a cute little guy...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здравствуйте, мистер Рыбка. Какой же вы красавчик...]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="_avatar" sound="portauthority0123.mp3">
+      <en><![CDATA[No, just taking away the guards’ letter opener will suffice to make this guy’s life a little safer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если я заберу этот нож для писем, этого хватит, чтобы малыш чувствовал себя в безопасности.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="_avatar" sound="portauthority0124.mp3">
+      <en><![CDATA[Besides, I don’t think my current lifestyle would allow me to take care of another living creature.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И потом, не думаю, что мой образ жизни позволит мне взять на себя заботу о живом существе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="_avatar" sound="portauthority0125.mp3">
+      <en><![CDATA[I wonder what’s behind this mysterious door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, что прячется за этой таинственной дверью?]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="_avatar" sound="portauthority0126.mp3">
+      <en><![CDATA[It’s locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заперто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="_avatar" sound="portauthority0127.mp3">
+      <en><![CDATA[Who cares, it’s probably just a broom closet anyway.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какая разница, там, небось, обыкновенный чулан.]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="portauthority0128.mp3">
+      <en><![CDATA[More books ... they are all about nautical law, international trading and marine biology.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще книги... Про морские законы, международную торговлю и морскую биологию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="_avatar" sound="portauthority0129.mp3">
+      <en><![CDATA[I wish I had become a marine biologist. There are so many unsolved mysteries in marine biology.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы я был морским биологом. В этой науке столько неразгаданных тайн.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="_avatar" sound="portauthority0130.mp3">
+      <en><![CDATA[Sponges, for example. Are they plants or are they animals? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, губки. Это растения или животные?]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="_avatar" sound="portauthority0131.mp3">
+      <en><![CDATA[Fascinating!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ужасно интересно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="_avatar" sound="portauthority0132.mp3">
+      <en><![CDATA[More books ... they are all about nautical law, international trading and marine biology.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще книги... Про морские законы, международную торговлю и морскую биологию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="portauthority0133.mp3">
+      <en><![CDATA[I wish I had become a marine biologist. There are so many unsolved mysteries in marine biology.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы я был морским биологом. В этой науке столько неразгаданных тайн.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="_avatar" sound="portauthority0134.mp3">
+      <en><![CDATA[Sponges, for example. Are they plants or are they animals? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, губки. Это растения или животные?]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="portauthority0135.mp3">
+      <en><![CDATA[Fascinating!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ужасно интересно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="portauthority0136.mp3">
+      <en><![CDATA[More books ... they are all about nautical law, international trading and marine biology.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще книги... Про морские законы, международную торговлю и морскую биологию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="_avatar" sound="portauthority0137.mp3">
+      <en><![CDATA[I wish I had become a marine biologist. There are so many unsolved mysteries in marine biology.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы я был морским биологом. В этой науке столько неразгаданных тайн.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="portauthority0138.mp3">
+      <en><![CDATA[Sponges, for example. Are they plants or are they animals? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, губки. Это растения или животные?]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="_avatar" sound="portauthority0139.mp3">
+      <en><![CDATA[Fascinating!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ужасно интересно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="_avatar" sound="portauthority0140.mp3">
+      <en><![CDATA[Why do you know my name?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Откуда вам известно мое имя?]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="faker" sound="portauthority0141.mp3">
+      <en><![CDATA[Information travels fast, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сведения разносятся быстро, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="rat" sound="portauthority0142.mp3">
+      <en><![CDATA[We also know that you should be locked in the boathouse right now, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам также известно, что сейчас вы должны сидеть взаперти в лодочном сарае, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="faker" sound="portauthority0143.mp3">
+      <en><![CDATA[Don’t worry, we won’t tell anyone you escaped from the boathouse.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не волнуйтесь, мы никому не скажем, что вы бежали из лодочного сарая.]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="rat" sound="portauthority0144.mp3">
+      <en><![CDATA[Not a single word.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ни единого слова.]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="faker" sound="portauthority0145.mp3">
+      <en><![CDATA[Then again, I’m sure the Castle already knows you were able to escape.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но, с другой стороны, в замке и так уже наверняка знают о вашем побеге.]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="rat" sound="portauthority0146.mp3">
+      <en><![CDATA[There’s no way the Castle could not know about it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Люди из замка не могут об этом не знать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="_avatar" sound="portauthority0147.mp3">
+      <en><![CDATA[Who told you about me? Your friend Lowell Cain?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто вам обо мне рассказал? Ваш друг Лоуэлл Кейн?]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="faker" sound="portauthority0148.mp3">
+      <en><![CDATA[Information travels fast, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сведения разносятся быстро, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="rat" sound="portauthority0149.mp3">
+      <en><![CDATA[We also know that you should be locked in the boathouse right now, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам также известно, что сейчас вы должны сидеть взаперти в лодочном сарае, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="faker" sound="portauthority0150.mp3">
+      <en><![CDATA[Don’t worry, we won’t tell anyone you escaped from the boathouse.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не волнуйтесь, мы никому не скажем, что вы бежали из лодочного сарая.]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="rat" sound="portauthority0151.mp3">
+      <en><![CDATA[Not a single word.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ни единого слова.]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="faker" sound="portauthority0152.mp3">
+      <en><![CDATA[Then again, I’m sure the Castle already knows you were able to escape.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но, с другой стороны, в замке и так уже наверняка знают о вашем побеге.]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="rat" sound="portauthority0153.mp3">
+      <en><![CDATA[There’s no way the Castle could not know about it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Люди из замка не могут об этом не знать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="_avatar" sound="portauthority0154.mp3">
+      <en><![CDATA[Who are you and what are you doing here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто вы и что здесь делаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="faker" sound="portauthority0155.mp3">
+      <en><![CDATA[We are the new administration of the Ravenhollow Port Authority, as sanctioned under the new regime of Northwest Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы - новая администрация портовой части Рэйвенхоллоу, назначены по приказу непосредственно из замка Нордвест.]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="rat" sound="portauthority0156.mp3">
+      <en><![CDATA[Hah! It took us weeks to learn that line by heart.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ха! Неделю зубрили эту фразу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="faker" sound="portauthority0157.mp3">
+      <en><![CDATA[Sounds professional, doesn’t it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Звучит очень профессионально, да?]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="rat" sound="portauthority0158.mp3">
+      <en><![CDATA[Doesn’t it, indeed?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ведь правда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="_avatar" sound="portauthority0159.mp3">
+      <en><![CDATA[So what exactly are you doing here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так, и что же вы тут делаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="faker" sound="portauthority0160.mp3">
+      <en><![CDATA[Well we mostly sit here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В основном сидим сиднем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="rat" sound="portauthority0161.mp3">
+      <en><![CDATA[Right here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот тут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="faker" sound="portauthority0162.mp3">
+      <en><![CDATA[And sometimes we go outside and we make lists of confiscated goods ... lists which we give to Lowell Cain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А иногда мы выходим и составляем списки конфискованных товаров... Списки, которые потом отдаем Лоуэллу Кейну.]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="rat" sound="portauthority0163.mp3">
+      <en><![CDATA[... who gives them to the Baron.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А он передает их барону.]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="faker" sound="portauthority0164.mp3">
+      <en><![CDATA[And the Baron actually reads our lists after he gets them from Lowell Cain, can you believe it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А барон их взаправду читает, можете себе представить?]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="rat" sound="portauthority0165.mp3">
+      <en><![CDATA[Unbelievable indeed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Действительно, невероятно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="_avatar" sound="portauthority0166.mp3">
+      <en><![CDATA[Again, WHAT are you doing here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И все-таки, что вы тут делаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="faker" sound="portauthority0167.mp3">
+      <en><![CDATA[Well we mostly sit here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В основном сидим сиднем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="rat" sound="portauthority0168.mp3">
+      <en><![CDATA[Right here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот тут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="faker" sound="portauthority0169.mp3">
+      <en><![CDATA[And sometimes we go outside and we make lists of confiscated goods ... lists which we give to Lowell Cain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А иногда мы выходим и составляем списки конфискованных товаров... Списки, которые потом отдаем Лоуэллу Кейну.]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="rat" sound="portauthority0170.mp3">
+      <en><![CDATA[... who gives them to the Baron.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А он передает их барону.]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="faker" sound="portauthority0171.mp3">
+      <en><![CDATA[And the Baron actually reads our lists after he gets them from Lowell Cain, can you believe it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А барон их взаправду читает, можете себе представить?]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="rat" sound="portauthority0172.mp3">
+      <en><![CDATA[Unbelievable indeed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Действительно, невероятно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="_avatar" sound="portauthority0173.mp3">
+      <en><![CDATA[Shouldn’t you be administering the harbor and encouraging trade?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вам разве не полагается управлять портом и поощрять торговлю?]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="faker" sound="portauthority0174.mp3">
+      <en><![CDATA[No trade. Castle law.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никакой торговли. Таков закон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="rat" sound="portauthority0175.mp3">
+      <en><![CDATA[Castle law.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Закон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="_avatar" sound="portauthority0176.mp3">
+      <en><![CDATA[So, no trading in this harbor?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, в порту торговля запрещена?]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="faker" sound="portauthority0177.mp3">
+      <en><![CDATA[No trade. Castle law.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никакой торговли. Таков закон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="rat" sound="portauthority0178.mp3">
+      <en><![CDATA[Castle law.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Закон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="_avatar" sound="portauthority0179.mp3">
+      <en><![CDATA[Since when are you doing this job?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И давно вы этим занимаетесь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="rat" sound="portauthority0180.mp3">
+      <en><![CDATA[Well, must have been about ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, наверное, где-то...]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="faker" sound="portauthority0181.mp3">
+      <en><![CDATA[Could have been ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, примерно...]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="rat" sound="portauthority0182.mp3">
+      <en><![CDATA[When did we start here ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Когда мы начали...]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="faker" sound="portauthority0183.mp3">
+      <en><![CDATA[The day we kicked out that old guy, Wavetamer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А когда выперли этого старика, Вейвтамера.]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="rat" sound="portauthority0184.mp3">
+      <en><![CDATA[Four months ago to the day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Аккурат четыре месяца назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="_avatar" sound="portauthority0185.mp3">
+      <en><![CDATA[Again, when did you start this farce?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так когда вы начали весь этот фарс?]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+    <d186 puppet="rat" sound="portauthority0186.mp3">
+      <en><![CDATA[Well, must have been about ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, наверное, где-то...]]></ru>
+      <es><![CDATA[]]></es>
+    </d186>
+    <d187 puppet="faker" sound="portauthority0187.mp3">
+      <en><![CDATA[Could have been ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, примерно...]]></ru>
+      <es><![CDATA[]]></es>
+    </d187>
+    <d188 puppet="rat" sound="portauthority0188.mp3">
+      <en><![CDATA[When did we start here ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Когда мы начали...]]></ru>
+      <es><![CDATA[]]></es>
+    </d188>
+    <d189 puppet="faker" sound="portauthority0189.mp3">
+      <en><![CDATA[The day we kicked out that old guy, Wavetamer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А когда выперли этого старика, Вейвтамера.]]></ru>
+      <es><![CDATA[]]></es>
+    </d189>
+    <d190 puppet="rat" sound="portauthority0190.mp3">
+      <en><![CDATA[Four months ago to the day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Аккурат четыре месяца назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d190>
+    <d191 puppet="_avatar" sound="portauthority0191.mp3">
+      <en><![CDATA[Why did you replace the old harbor master?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почему вы заменили прежнего управляющего?]]></ru>
+      <es><![CDATA[]]></es>
+    </d191>
+    <d192 puppet="faker" sound="portauthority0192.mp3">
+      <en><![CDATA[Wavetamer didn’t like the new Castle laws.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вейвтамеру не нравились новые законы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d192>
+    <d193 puppet="rat" sound="portauthority0193.mp3">
+      <en><![CDATA[... such as the Castle’s no-trade policy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, запрет на торговлю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d193>
+    <d194 puppet="faker" sound="portauthority0194.mp3">
+      <en><![CDATA[And since we don’t care about trade, we have no trouble with the new Castle Laws.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А поскольку нам на торговлю чихать, у нас и проблем с новыми законами нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d194>
+    <d195 puppet="rat" sound="portauthority0195.mp3">
+      <en><![CDATA[Or with working for the Castle ... or for Lowell Cain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И с работой на замок. И на Лоуэлла Кейна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d195>
+    <d196 puppet="faker" sound="portauthority0196.mp3">
+      <en><![CDATA[Or the Baron for that matter.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или на барона, коли на то пошло.]]></ru>
+      <es><![CDATA[]]></es>
+    </d196>
+    <d197 puppet="rat" sound="portauthority0197.mp3">
+      <en><![CDATA[Why wouldn’t one support the new regime as long as you’re getting paid well for your service?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почему нельзя поддерживать новый режим, если он тебе щедро платит за работу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d197>
+    <d198 puppet="_avatar" sound="portauthority0198.mp3">
+      <en><![CDATA[Why again did you replace Sir Wavetamer?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так почему вы заменили сэра Вейвтамера?]]></ru>
+      <es><![CDATA[]]></es>
+    </d198>
+    <d199 puppet="faker" sound="portauthority0199.mp3">
+      <en><![CDATA[Wavetamer didn’t like the new Castle laws.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вейвтамеру не нравились новые законы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d199>
+    <d200 puppet="rat" sound="portauthority0200.mp3">
+      <en><![CDATA[... such as the Castle’s no-trade policy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Например, запрет на торговлю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d200>
+    <d201 puppet="faker" sound="portauthority0201.mp3">
+      <en><![CDATA[And since we don’t care about trade, we have no trouble with the new Castle Laws.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А поскольку нам на торговлю чихать, у нас и проблем с новыми законами нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d201>
+    <d202 puppet="rat" sound="portauthority0202.mp3">
+      <en><![CDATA[Or with working for the Castle ... or for Lowell Cain.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И с работой на замок. И на Лоуэлла Кейна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d202>
+    <d203 puppet="faker" sound="portauthority0203.mp3">
+      <en><![CDATA[Or the Baron for that matter.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или на барона, коли на то пошло.]]></ru>
+      <es><![CDATA[]]></es>
+    </d203>
+    <d204 puppet="rat" sound="portauthority0204.mp3">
+      <en><![CDATA[Why wouldn’t one support the new regime as long as you’re getting paid well for your service?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почему нельзя поддерживать новый режим, если он тебе щедро платит за работу?]]></ru>
+      <es><![CDATA[]]></es>
+    </d204>
+    <d205 puppet="_avatar" sound="portauthority0205.mp3">
+      <en><![CDATA[Enough about you guys and your &quot;job&quot; ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хватит уже о вас и о вашей &amp;quot;работе&amp;quot;...]]></ru>
+      <es><![CDATA[]]></es>
+    </d205>
+    <d206 puppet="_avatar" sound="portauthority0206.mp3">
+      <en><![CDATA[Again, about your work in the Port Authority ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так насчет вашей работы управляющими порта...]]></ru>
+      <es><![CDATA[]]></es>
+    </d206>
+    <d207 puppet="_avatar" sound="portauthority0207.mp3">
+      <en><![CDATA[Do you know anything about the Smith Institute that was closed five years ago?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы что-нибудь знаете о Смитовском институте, который закрыли пять лет назад?]]></ru>
+      <es><![CDATA[]]></es>
+    </d207>
+    <d208 puppet="rat" sound="portauthority0208.mp3">
+      <en><![CDATA[Institute?  No, we wouldn’t know about these kind of things.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Институт? Не, про такое мы не знаем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d208>
+    <d209 puppet="faker" sound="portauthority0209.mp3">
+      <en><![CDATA[Wouldn’t have a clue.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вообще без понятия.]]></ru>
+      <es><![CDATA[]]></es>
+    </d209>
+    <d210 puppet="rat" sound="portauthority0210.mp3">
+      <en><![CDATA[We are not from around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы вообще не местные.]]></ru>
+      <es><![CDATA[]]></es>
+    </d210>
+    <d211 puppet="faker" sound="portauthority0211.mp3">
+      <en><![CDATA[We came here pretty recently ourselves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы сами тут недавно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d211>
+    <d212 puppet="_avatar" sound="portauthority0212.mp3">
+      <en><![CDATA[Again about the Smith Institute ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так насчет Смитовского института...]]></ru>
+      <es><![CDATA[]]></es>
+    </d212>
+    <d213 puppet="rat" sound="portauthority0213.mp3">
+      <en><![CDATA[Institute?  No, we wouldn’t know about these kind of things.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Институт? Не, про такое мы не знаем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d213>
+    <d214 puppet="faker" sound="portauthority0214.mp3">
+      <en><![CDATA[Wouldn’t have a clue.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вообще без понятия.]]></ru>
+      <es><![CDATA[]]></es>
+    </d214>
+    <d215 puppet="rat" sound="portauthority0215.mp3">
+      <en><![CDATA[We are not from around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы вообще не местные.]]></ru>
+      <es><![CDATA[]]></es>
+    </d215>
+    <d216 puppet="faker" sound="portauthority0216.mp3">
+      <en><![CDATA[We came here pretty recently ourselves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы сами тут недавно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d216>
+    <d217 puppet="_avatar" sound="portauthority0217.mp3">
+      <en><![CDATA[This is a pretty nice office.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это очень хороший кабинет]]></ru>
+      <es><![CDATA[]]></es>
+    </d217>
+    <d218 puppet="faker" sound="portauthority0218.mp3">
+      <en><![CDATA[Thank you, that’s the way we found it after the old guy left four months ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, он такой и был, когда старикана отсюда выставили четыре месяца назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d218>
+    <d219 puppet="rat" sound="portauthority0219.mp3">
+      <en><![CDATA[Wavetamer wasn’t a Castle man, but the old fool had an eye for interior decorating.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вейвтамер не работал на замок, но в оформлении интерьеров старый дурак знал толк.]]></ru>
+      <es><![CDATA[]]></es>
+    </d219>
+    <d220 puppet="faker" sound="portauthority0220.mp3">
+      <en><![CDATA[We will congratulate him on his design choices next time we see him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если его увидим, обязательно поздравим с удачным оформлением кабинета.]]></ru>
+      <es><![CDATA[]]></es>
+    </d220>
+    <d221 puppet="rat" sound="portauthority0221.mp3">
+      <en><![CDATA[Yeah, we’ll say thanks indeed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да уж, спасибо точно скажем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d221>
+    <d222 puppet="_avatar" sound="portauthority0222.mp3">
+      <en><![CDATA[I have to say it again: this office is really nice.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не могу не повторить: кабинет очень славный.]]></ru>
+      <es><![CDATA[]]></es>
+    </d222>
+    <d223 puppet="faker" sound="portauthority0223.mp3">
+      <en><![CDATA[Thank you, that’s the way we found it after the old guy left four months ago.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, он такой и был, когда старикана отсюда выставили четыре месяца назад.]]></ru>
+      <es><![CDATA[]]></es>
+    </d223>
+    <d224 puppet="rat" sound="portauthority0224.mp3">
+      <en><![CDATA[Wavetamer wasn’t a Castle man, but the old fool had an eye for interior decorating.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вейвтамер не работал на замок, но в оформлении интерьеров старый дурак знал толк.]]></ru>
+      <es><![CDATA[]]></es>
+    </d224>
+    <d225 puppet="faker" sound="portauthority0225.mp3">
+      <en><![CDATA[We will congratulate him on his design choices next time we see him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если его увидим, обязательно поздравим с удачным оформлением кабинета.]]></ru>
+      <es><![CDATA[]]></es>
+    </d225>
+    <d226 puppet="rat" sound="portauthority0226.mp3">
+      <en><![CDATA[Yeah, we’ll say thanks indeed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да уж, спасибо точно скажем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d226>
+    <d227 puppet="_avatar" sound="portauthority0227.mp3">
+      <en><![CDATA[Could you tell where I can get a village pass? The guard at the bridge told me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы не подскажете, где можно добыть пропуск в деревню? Мне сказал стражник на мосту...]]></ru>
+      <es><![CDATA[]]></es>
+    </d227>
+    <d228 puppet="rat" sound="portauthority0228.mp3">
+      <en><![CDATA[Strangers don’t get a village pass, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чужакам пропусков ее выдают, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d228>
+    <d229 puppet="faker" sound="portauthority0229.mp3">
+      <en><![CDATA[Shouldn’t get one, Mr. Trelwaney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не положено, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d229>
+    <d230 puppet="_avatar" sound="portauthority0230.mp3">
+      <en><![CDATA[But I ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но я...]]></ru>
+      <es><![CDATA[]]></es>
+    </d230>
+    <d231 puppet="faker" sound="portauthority0231.mp3">
+      <en><![CDATA[If you qualified for a village pass, then you would have one already.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если б вам полагался пропуск, вам бы его уже выдали.]]></ru>
+      <es><![CDATA[]]></es>
+    </d231>
+    <d232 puppet="rat" sound="portauthority0232.mp3">
+      <en><![CDATA[And because you don’t already have a village pass, you obviously don’t qualify for one.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А раз его у вас нет, значит, вам и не положено.]]></ru>
+      <es><![CDATA[]]></es>
+    </d232>
+    <d233 puppet="_avatar" sound="portauthority0233.mp3">
+      <en><![CDATA[Again, about the village pass ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так насчет пропуска...]]></ru>
+      <es><![CDATA[]]></es>
+    </d233>
+    <d234 puppet="rat" sound="portauthority0234.mp3">
+      <en><![CDATA[Strangers don’t get a village pass, Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чужакам пропусков ее выдают, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d234>
+    <d235 puppet="faker" sound="portauthority0235.mp3">
+      <en><![CDATA[Shouldn’t get one, Mr. Trelwaney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не положено, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d235>
+    <d236 puppet="_avatar" sound="portauthority0236.mp3">
+      <en><![CDATA[But I ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но я...]]></ru>
+      <es><![CDATA[]]></es>
+    </d236>
+    <d237 puppet="faker" sound="portauthority0237.mp3">
+      <en><![CDATA[If you qualified for a village pass, then you would have one already.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если б вам полагался пропуск, вам бы его уже выдали.]]></ru>
+      <es><![CDATA[]]></es>
+    </d237>
+    <d238 puppet="rat" sound="portauthority0238.mp3">
+      <en><![CDATA[And because you don’t already have a village pass, you obviously don’t qualify for one.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А раз его у вас нет, значит, вам и не положено.]]></ru>
+      <es><![CDATA[]]></es>
+    </d238>
+    <d239 puppet="_avatar" sound="portauthority0239.mp3">
+      <en><![CDATA[I am done with you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня все.]]></ru>
+      <es><![CDATA[]]></es>
+    </d239>
+    <d240 puppet="rat" sound="portauthority0240.mp3">
+      <en><![CDATA[Goodbye Mr. Trelawney.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[До свидания, мистер Трелони.]]></ru>
+      <es><![CDATA[]]></es>
+    </d240>
+    <d241 puppet="faker" sound="portauthority0241.mp3">
+      <en><![CDATA[Don’t be a stranger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не забывайте нас!]]></ru>
+      <es><![CDATA[]]></es>
+    </d241>
+  </d>
+</localize>

@@ -1,0 +1,2670 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[power node console]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[пульт управления энергоузлами]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[light emitting buoy]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[светоизлучающий буй]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[light emitting buoy]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[светоизлучающий буй]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[strange pedestal]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странный пьедестал]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[TRA construction project]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[проект создания ГВР]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[Time Rift Apparatus]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Генератор временного разрыва]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[Dr. Coppelius]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Коппелиус]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[Dr. LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[Dr. LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[Dr. LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="power node console">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="power node console">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="power node console">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="light emitting buoy">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="light emitting buoy">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="light emitting buoy">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="light emitting buoy">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="light emitting buoy">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="light emitting buoy">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="strange pedestal">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="strange pedestal">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="strange pedestal">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="TRA construction project">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="TRA construction project">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="TRA construction project">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v24 noun="Time Rift Apparatus">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="Time Rift Apparatus">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="Time Rift Apparatus">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="Nora">
+      <en><![CDATA[Kiss]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Целовать]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="Nora">
+      <en><![CDATA[aftertimejump]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[aftertimejump@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v34 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="Nora">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="Nora">
+      <en><![CDATA[aftertimejump]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[aftertimejump@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v40 noun="Nora">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="Nora">
+      <en><![CDATA[aftertimejump]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[aftertimejump@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="Dr. Coppelius">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="Dr. Coppelius">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="Dr. Coppelius">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="Dr. Coppelius">
+      <en><![CDATA[TRA Complete]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Завершить ГВР]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="Dr. Coppelius">
+      <en><![CDATA[aftertimejump]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[aftertimejump@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v56 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v68 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v68>
+    <v69 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v72 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v72>
+    <v73 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v79 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v79>
+    <v80 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v80>
+    <v81 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v81>
+    <v82 noun="Nora">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v82>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c21 noun="TRA construction project" item="propeller">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c21>
+    <c22 noun="TRA construction project" item="metallic_plates">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c22>
+    <c23 noun="TRA construction project" item="tikis">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c23>
+    <c31 noun="Nora" item="tikis">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c31>
+    <c32 noun="Nora" item="metallic_plates">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c32>
+    <c33 noun="Nora" item="propeller">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c33>
+    <c47 noun="Dr. Coppelius" item="tikis">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c47>
+    <c48 noun="Dr. Coppelius" item="metallic_plates">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c48>
+    <c49 noun="Dr. Coppelius" item="propeller">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c49>
+    <c50 noun="Dr. Coppelius" item="flash_bad">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c50>
+    <c51 noun="Dr. Coppelius" item="module">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c51>
+    <c52 noun="Dr. Coppelius" item="painting1">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c52>
+    <c53 noun="Dr. Coppelius" item="painting2">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c53>
+    <c54 noun="Dr. Coppelius" item="painting1_foil">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c54>
+    <c55 noun="Dr. Coppelius" item="painting2_foil">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c55>
+    <c59 noun="Dr. LeMue LaFayette" item="tikis">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c59>
+    <c60 noun="Dr. LeMue LaFayette" item="metallic_plates">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c60>
+    <c61 noun="Dr. LeMue LaFayette" item="propeller">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c61>
+    <c62 noun="Dr. LeMue LaFayette" item="painting1">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c62>
+    <c63 noun="Dr. LeMue LaFayette" item="painting1_foil">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c63>
+    <c64 noun="Dr. LeMue LaFayette" item="painting2">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c64>
+    <c65 noun="Dr. LeMue LaFayette" item="painting2_foil">
+      <en><![CDATA[Show #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: показать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c65>
+    <c66 noun="Dr. LeMue LaFayette" item="flash_bad">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c66>
+    <c67 noun="Dr. LeMue LaFayette" item="module">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c67>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="swamp30000.mp3">
+      <en><![CDATA[This seems to be some sort of control terminal for the swamp’s power node.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, это какой-то пульт управления энергоузлом@@ на болоте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="swamp30001.mp3">
+      <en><![CDATA[I should leave that to Dr. LeMue LaFayette.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше мне оставить это доктору Анри Лемю Лафайетту.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="swamp30002.mp3">
+      <en><![CDATA[I’m pretty sure HE knows what he’s doing.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я вполне уверен, что он знает, что делает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="swamp30003.mp3">
+      <en><![CDATA[That device looks like some kind of power node ... it’s probably drawing from some geological resource under this swamp.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это устройство похоже на какой-то энергоузел@@... Вероятно, он берет энергию из какого-то геологического источника под этим болотом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="swamp30004.mp3">
+      <en><![CDATA[This explains those mysterious lights that I saw from a distance.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь понятно, что за таинственные огни я видел издалека. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="swamp30005.mp3">
+      <en><![CDATA[Even if I knew what it did, I still couldn’t reach them from here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если бы я знал, что эта штука делает, все равно оттуда я бы не смог до них добраться. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="swamp30006.mp3">
+      <en><![CDATA[That device looks like some kind of power node ... it’s probably drawing from some geological resource under this swamp.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это устройство похоже на какой-то энергоузел@@... Вероятно, он берет энергию из какого-то геологического источника под этим болотом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="swamp30007.mp3">
+      <en><![CDATA[This explains those mysterious lights that I saw from a distance.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь понятно, что за таинственные огни я видел издалека. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="swamp30008.mp3">
+      <en><![CDATA[Even if I knew what it did, I still couldn’t reach them from here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже если бы я знал, что эта штука делает, все равно оттуда я бы не смог до них добраться. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="swamp30009.mp3">
+      <en><![CDATA[This must be the swamp’s power node that the doctors were talking about ... I guess it caches geological energy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должно быть, это энергоузел@@ болота, о котором говорили доктора... Думаю, он улавливает земную энергию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="swamp30010.mp3">
+      <en><![CDATA[Maybe that explains why the trees look a bit strange around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, это объясняет, почему деревья в округе выглядят несколько странно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="swamp30011.mp3">
+      <en><![CDATA[I wouldn’t know where to begin.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В жизни не умел с ними обращаться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="swamp30012.mp3">
+      <en><![CDATA[It’s a strange device that we’re building...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это странное устройство, которое мы собираем...]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="swamp30013.mp3">
+      <en><![CDATA[It’s now been outfitted with %*{formatCacheList:TRA_lookat,and}*%.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь оно оборудовано %*{formatCacheList:TRA_lookat,and}*%.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="swamp30014.mp3">
+      <en><![CDATA[I should give this to Coppelius so that he can assemble them into the device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне следует отдать это Коппелиусу, чтобы он мог подсоединить его к устройству.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="swamp30015.mp3">
+      <en><![CDATA[I should give these to Coppelius so that he can assemble them into the device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне следует отдать их Коппелиусу, чтобы он мог подсоединить их к устройству.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="swamp30016.mp3">
+      <en><![CDATA[I should give these to Coppelius so that he can assemble them into the device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне следует отдать их Коппелиусу, чтобы он мог подсоединить их к устройству.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="swamp30017.mp3">
+      <en><![CDATA[So that’s a TRA ... What does it do?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Итак, вот он ГВР... Что он делает? ]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="swamp30018.mp3">
+      <en><![CDATA[I wouldn’t know where to begin.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В жизни не умел с ними обращаться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="swamp30019.mp3">
+      <en><![CDATA[We finally found Nora and now Nigel is in danger. This is going to be a long night ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы наконец нашли Нору, но теперь Найджел в опасности. Эта ночь будет долгой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="swamp30020.mp3">
+      <en><![CDATA[Nora, are you okay? I hope Vincent didn’t harm you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора, вы в порядке? Я надеюсь, Винсент не причинил вам вреда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="nora2" sound="swamp30021.mp3">
+      <en><![CDATA[Don’t worry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="nora2" sound="swamp30022.mp3">
+      <en><![CDATA[Vincent forced Professor Smith and my grandfather to duplicate my artificial heart É they cooperated, so I wasn’t harmed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент заставил профессора Смита и моего дедушку сделать копию моего искусственного сердца - они работали вместе, так что я в порядке. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="nora2" sound="swamp30023.mp3">
+      <en><![CDATA[I just wish I understood Vincent’s motive ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы понять мотивы Винсента...]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="nora2" sound="swamp30024.mp3">
+      <en><![CDATA[Why would Vincent replace his healthy human heart with an uncomfortable machine like mine? He really IS insane.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем Винсенту заменять свое здоровое человеческое сердце неудобным механическим вроде моего? Он действительно безумен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="swamp30025.mp3">
+      <en><![CDATA[I’m just glad that nothing happened to you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я просто рад, что с вами не случилось ничего плохого.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="nora2" sound="swamp30026.mp3">
+      <en><![CDATA[Yes, but now Nigel and Prof. Smith are in danger … we have to help them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но Найджел и профессор Смит в опасности... Мы должны помочь им.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="coppelius" sound="swamp30027.mp3">
+      <en><![CDATA[We ALL are in danger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы все в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="coppelius" sound="swamp30028.mp3">
+      <en><![CDATA[Nathan, you have to find the items on the list I gave you. We have to retrieve the photograph … it’s the only way to stop Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, вы должны найти предметы из списка, который вы получили от меня. Нам необходимо разыскать фотографию... Это единственный способ остановить Винсента.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="swamp30029.mp3">
+      <en><![CDATA[While the thought had crossed my mind, I am a gentleman and shall maintain my discipline.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотя в моем мозгу проскользнула мысль, я джентльмен и должен сохранять выдержку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="swamp30030.mp3">
+      <en><![CDATA[Besides, it can only be a matter of time before she breaks and makes a move on me ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кроме того, возможно, это всего лишь вопрос времени - когда она сломается и сделает шаг мне навстречу... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="swamp30031.mp3">
+      <en><![CDATA[I have a sense for these things.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У меня чутье на такие вещи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="nora2" sound="swamp30032.mp3">
+      <en><![CDATA[Keep dreaming, Nathan.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мечтай-мечтай, Натан.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="swamp30033.mp3">
+      <en><![CDATA[Ah ... right. You weren’t supposed to overhear that mumbling. How awkward.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ай... ну да. Вы не должны были расслышать это бормотание. Как неловко...]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="swamp30034.mp3">
+      <en><![CDATA[Wow! You got the photograph ... let’s call the train!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ура! Фотография у вас... Давайте вызовем поезд!]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="_avatar" sound="swamp30035.mp3">
+      <en><![CDATA[We finally found Nora and now Nigel is in danger. This is going to be a long night ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы наконец нашли Нору, но теперь Найджел в опасности. Эта ночь будет долгой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="swamp30036.mp3">
+      <en><![CDATA[Nora, are you okay? I hope Vincent didn’t harm you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора, вы в порядке? Я надеюсь, Винсент не причинил вам вреда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="nora2" sound="swamp30037.mp3">
+      <en><![CDATA[Don’t worry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="nora2" sound="swamp30038.mp3">
+      <en><![CDATA[Vincent forced Professor Smith and my grandfather to duplicate my artificial heart É they cooperated, so I wasn’t harmed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент заставил профессора Смита и моего дедушку сделать копию моего искусственного сердца - они работали вместе, так что я в порядке. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="nora2" sound="swamp30039.mp3">
+      <en><![CDATA[I just wish I understood Vincent’s motive ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы понять мотивы Винсента...]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="nora2" sound="swamp30040.mp3">
+      <en><![CDATA[Why would Vincent replace his healthy human heart with an uncomfortable machine like mine? He really IS insane.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем Винсенту заменять свое здоровое человеческое сердце неудобным механическим вроде моего? Он действительно безумен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="swamp30041.mp3">
+      <en><![CDATA[I’m just glad that nothing happened to you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я просто рад, что с вами не случилось ничего плохого.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="nora2" sound="swamp30042.mp3">
+      <en><![CDATA[Yes, but now Nigel and Prof. Smith are in danger … we have to help them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но Найджел и профессор Смит в опасности... Мы должны помочь им.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="coppelius" sound="swamp30043.mp3">
+      <en><![CDATA[We ALL are in danger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы все в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="coppelius" sound="swamp30044.mp3">
+      <en><![CDATA[Nathan, you have to find the items on the list I gave you. We have to retrieve the photograph … it’s the only way to stop Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, вы должны найти предметы из списка, который вы получили от меня. Нам необходимо разыскать фотографию... Это единственный способ остановить Винсента.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="_avatar" sound="swamp30045.mp3">
+      <en><![CDATA[Wow! You got the photograph ... let’s call the train!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ура! Фотография у вас... Давайте вызовем поезд!]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="swamp30046.mp3">
+      <en><![CDATA[We finally found Nora and now Nigel is in danger. This is going to be a long night ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы наконец нашли Нору, но теперь Найджел в опасности. Эта ночь будет долгой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="swamp30047.mp3">
+      <en><![CDATA[Nora, are you okay? I hope Vincent didn’t harm you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора, вы в порядке? Я надеюсь, Винсент не причинил вам вреда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="nora2" sound="swamp30048.mp3">
+      <en><![CDATA[Don’t worry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="nora2" sound="swamp30049.mp3">
+      <en><![CDATA[Vincent forced Professor Smith and my grandfather to duplicate my artificial heart ... they cooperated, so I wasn’t harmed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент заставил профессора Смита и моего дедушку сделать копию моего искусственного сердца... они работали вместе, так что я в порядке. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="nora2" sound="swamp30050.mp3">
+      <en><![CDATA[I just wish I understood Vincent’s motive ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы понять мотивы Винсента...]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="nora2" sound="swamp30051.mp3">
+      <en><![CDATA[Why would Vincent replace his healthy human heart with an uncomfortable machine like mine? He really IS insane.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем Винсенту заменять свое здоровое человеческое сердце неудобным механическим вроде моего? Он действительно безумен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="swamp30052.mp3">
+      <en><![CDATA[I’m just glad that nothing happened to you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я просто рад, что с вами не случилось ничего плохого.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="nora2" sound="swamp30053.mp3">
+      <en><![CDATA[Yes, but now Nigel and Prof. Smith are in danger … we have to help them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но Найджел и профессор Смит в опасности... Мы должны помочь им.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="coppelius" sound="swamp30054.mp3">
+      <en><![CDATA[We ALL are in danger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы все в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="coppelius" sound="swamp30055.mp3">
+      <en><![CDATA[Nathan, you have to find the items on the list I gave you. We have to retrieve the photograph … it’s the only way to stop Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, вы должны найти предметы из списка, который вы получили от меня. Нам необходимо разыскать фотографию... Это единственный способ остановить Винсента.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="swamp30056.mp3">
+      <en><![CDATA[Wow! You got the photograph ... let’s call the train!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ура! Фотография у вас... Давайте вызовем поезд!]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="swamp30057.mp3">
+      <en><![CDATA[Dr. Coppelius is waiting for me to bring him those TRA components ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Коппелиус ждет, когда я принесу ему эти детали для ГВР...]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="coppelius" sound="swamp30058.mp3">
+      <en><![CDATA[You have to get me those TRA components, Nathan! We have no time to lose!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы должны принести мне эти детали для ГВР, Натан! Нельзя терять время!]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="coppelius" sound="swamp30059.mp3">
+      <en><![CDATA[Nathan, for all your blundering, you’ve still managed to collect us everything we need. I’m impressed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, несмотря на всю вашу нескладность, вы все же умудрились собрать все необходимое. Я впечатлен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="nora2" sound="swamp30060.mp3">
+      <en><![CDATA[Well … that looks impressive. But what does it do?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что ж... Выглядит впечатляюще. Но что эта штука делает?]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="coppelius" sound="swamp30061.mp3">
+      <en><![CDATA[You are standing in front of the prototype of the Time Rift Apparatus – one of the most remarkable discoveries that the Smith Institute for Advanced Research has made.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Перед вами прототип генератора временного разрыва - одно из наиболее выдающихся открытий Смитовского института передовых исследований.]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="nora2" sound="swamp30062.mp3">
+      <en><![CDATA[Time Rift Apparatus?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Генератор временного разрыва?]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="slappy" sound="swamp30063.mp3">
+      <en><![CDATA[Of course, this prototype has very limited capabilities. The geological power source below this swamp is not strong enough for a deep rift.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, возможности прототипа весьма ограничены. Источник геологической энергии под этим болотом недостаточно мощен для глубокого разрыва.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="coppelius" sound="swamp30064.mp3">
+      <en><![CDATA[That’s why we constructed a much larger lightning-powered device atop Mount Misery. Vincent will try to open a rift there, and it will have much more potential.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поэтому мы сконструировали на вершине Горы Несчастья гораздо более крупное устройство, работающие на молниях. Винсент попытается открыть там разрыв, у которого будет больший потенциал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="swamp30065.mp3">
+      <en><![CDATA[So, this apparatus creates a rift ... in time?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так этот аппарат создает разрыв... во времени?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="coppelius" sound="swamp30066.mp3">
+      <en><![CDATA[Yes. These oscillating plates produce micro-vibrations which creates a rupture in time, or as we call it ... a &quot;Time Rift&quot;.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да. Эти колеблющиеся пластины генерируют микровибрации, которые создают брешь во времени, или, как мы его называем, &quot;временной разрыв&quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="swamp30067.mp3">
+      <en><![CDATA[This is unbelievable!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="coppelius" sound="swamp30068.mp3">
+      <en><![CDATA[Yet true, nonetheless.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И тем не менее, это правда.]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="slappy" sound="swamp30069.mp3">
+      <en><![CDATA[But again, we have limited potential here. We only have enough power for a rift that reaches back a couple of days, and we’ll only be able to sustain that rift for a matter of minutes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но опять же, у нас здесь ограниченный потенциал. У нас хватит энергии только на разрыв на несколько дней назад, и мы сможем поддерживать его лишь несколько минут.]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="slappy" sound="swamp30070.mp3">
+      <en><![CDATA[This is very risky business ... we were always afraid of only going back a few days. There was too great a potential for creating a time paradox.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это очень рискованное дело... Мы всегда боялись отправляться всего лишь на несколько дней назад. Слишком большая вероятность создать временной парадокс.]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="slappy" sound="swamp30071.mp3">
+      <en><![CDATA[That’s why we constructed the Apparatus on Mt. Misery ... to go as far back in time as we wanted.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Именно поэтому мы создали аппарат на Горе Несчастья... чтобы отправляться так далеко в прошлое, как только захотим. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="coppelius" sound="swamp30072.mp3">
+      <en><![CDATA[Still, this prototype should allow us to go back just far enough to retrieve that photograph from Nigel Trelawney ... on the day he met Nathan and I on the Ravenhollow docks.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И все же этот прототип позволит нам отправиться во времени достаточно далеко, чтобы добыть ту фотографию у Найджела Трелони... В день, когда он встретил Натана и меня в доках Рэйвенхоллоу. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="coppelius" sound="swamp30073.mp3">
+      <en><![CDATA[Henry, activate the apparatus.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Генри, активируйте аппарат.]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="coppelius" sound="swamp30074.mp3">
+      <en><![CDATA[When the rift opens&#8212;and I hope it does&#8212;I will step through and attempt to retrieve the photograph.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Когда разрыв откроется - а я надеюсь, что откроется - я пройду в него и попытаюсь добыть фотографию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="slappy" sound="swamp30075.mp3">
+      <en><![CDATA[No Coppelius, think about it ... you cannot be the one to go back!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, Коппелиус, подумайте... Вы не должны отправляться в прошлое!]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="coppelius" sound="swamp30076.mp3">
+      <en><![CDATA[I know I’m old, Henry ... but that’s all the more reason that I should be the one to suffer the rift’s damaging effects.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я знаю, что стар, Генри... Но это еще одна причина, чтобы именно я принял на себя разрушительные последствия разрыва.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="slappy" sound="swamp30077.mp3">
+      <en><![CDATA[It’s not that, William. You said it yourself: you were there on the docks that day, along with Nathan here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не в этом дело, Уильям. Вы сами сказали: вы были в доках вместе с Натаном в тот день.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="slappy" sound="swamp30078.mp3">
+      <en><![CDATA[If you were to go back and run into yourself in the past, you could create a catastrophic paradox in the fabric of time!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если вы отправитесь в прошлое и столкнетесь там с самим собой, вы можете создать катастрофический парадокс в ткани времени!]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="slappy" sound="swamp30079.mp3">
+      <en><![CDATA[Therefore, I must forbid both you and Nathan from entering the rift. It is too dangerous for us all!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Таким образом, я не должен позволить вам или Натану входить в разрыв. Это слишком опасно для всех нас!]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="slappy" sound="swamp30080.mp3">
+      <en><![CDATA[Instead, I will do it. I will get the photograph from Nigel in the past.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я сделаю это вместо вас. Я добуду фотографию у Найджела в прошлом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="coppelius" sound="swamp30081.mp3">
+      <en><![CDATA[Henry, you know as well as I that …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Генри, вы не хуже меня знаете, что...]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="nora2" sound="swamp30082.mp3">
+      <en><![CDATA[Stop it! All of you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прекратите! Всех касается!]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="coppelius" sound="swamp30083.mp3">
+      <en><![CDATA[What is it, Nora?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что это, Нора?]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="nora2" sound="swamp30084.mp3">
+      <en><![CDATA[Grandpa, you said something about the rift’s damaging effects ... what did you mean?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дедушка, ты что-то говорил про опасные эффекты разрыва... Что ты имел в виду?]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="coppelius" sound="swamp30085.mp3">
+      <en><![CDATA[Well, we abandoned this project because passing through a rift can be ... fatal.  Even a shallow rift like this one can damage the heart and metabolism of a healthy adult.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, мы оставили проект потому, что прохождение через разрыв может стать... смертельным. Даже такой небольшой разрыв, как этот, способен повредить сердце и метаболизм здорового взрослого человека.]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="coppelius" sound="swamp30086.mp3">
+      <en><![CDATA[Professor Von Sternberg nearly died when we first tested the large Apparatus on Mount Misery.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Профессор фон Штернберг чуть не умер, когда мы впервые опробовали большой генератор на Горе Несчастья.]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="coppelius" sound="swamp30087.mp3">
+      <en><![CDATA[The human metabolism cannot withstand the powerful forces of a time rift.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Человеческий метаболизм не может противостоять мощным силам временного разрыва.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="slappy" sound="swamp30088.mp3">
+      <en><![CDATA[But now Vincent has strengthened his body by forcing your grandfather and Professor Smith to implant him with a mechanical heart like your own.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но теперь Винсент усилил свое тело, заставив твоего дедушку и профессора Смита имплантировать ему механическое сердце - такое же, как у тебя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="coppelius" sound="swamp30089.mp3">
+      <en><![CDATA[Moreover, he seems to have a fortifying suit like the one we constructed for Von Sternberg after his accident. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Более того, у него, похоже, есть теперь укрепляющий костюм, вроде того, что мы сконструировали после аварии для фон Штернберга.]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="slappy" sound="swamp30090.mp3">
+      <en><![CDATA[Vincent must be preparing to pass through a deep time rift so that he can steal the rest of our plans and prototypes at a time before we destroyed them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, что Винсент готовится пройти через глубокий временной разрыв, чтобы украсть остальные наши планы и прототипы, в тот момент, когда мы их еще не уничтожили.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="swamp30091.mp3">
+      <en><![CDATA[This is unbelievable … the past is no longer safe!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... Даже прошлое теперь в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="coppelius" sound="swamp30092.mp3">
+      <en><![CDATA[The rift! The rift is open! It worked!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разрыв! Разрыв открыт! Сработало!]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="slappy" sound="swamp30093.mp3">
+      <en><![CDATA[We have to stop Vincent! I will go and get the photograph! ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надо остановить Винсента! Я пойду и достану фотографию!]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="nora2" sound="swamp30094.mp3">
+      <en><![CDATA[No! This is wrong, you’ll die!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! Так нельзя, ты умрешь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="nora2" sound="swamp30095.mp3">
+      <en><![CDATA[Grandfather, I will do it. You gave me a mechanical heart, therefore I have a better chance of surviving the rift than any of you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дедушка, это сделаю я. Ты дал мне механическое сердце, значит, мои шансы выжить в разрыве больше, чем у любого из вас.]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="coppelius" sound="swamp30096.mp3">
+      <en><![CDATA[Nora... no! The heart’s never been tested, it may not be enough!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора, нет! Сердце не испытано, оно может не выдержать!]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="_avatar" sound="swamp30097.mp3">
+      <en><![CDATA[Here, take this fish ... McManus’ old dog will be there, so perhaps you can entice him to help you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот, возьми эту рыбу... Сюда явится старый пес Макмануса - может, сможешь убедить его помочь тебе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="nora2" sound="swamp30098.mp3">
+      <en><![CDATA[Thank you Nathan, now you’d better step back! I ... am ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо тебе, Натан. А теперь лучше отойди! Я... Я...]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="swamp30099.mp3">
+      <en><![CDATA[Look at her heart!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Смотри на ее сердце!]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="coppelius" sound="swamp30100.mp3">
+      <en><![CDATA[Nora!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора!]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="slappy" sound="swamp30101.mp3">
+      <en><![CDATA[It’s too late … she is levitating!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Слишком поздно... Она левитирует!]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="coppelius" sound="swamp30102.mp3">
+      <en><![CDATA[Nora ... I hope she’s alright ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора... Надеюсь, с ней все в порядке...]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="coppelius" sound="swamp30103.mp3">
+      <en><![CDATA[Oh no! The prototype absorbed all the energy of the power node! The rift collapsed!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, нет! Прототип поглотил всю энергию энергоузла! Разрыв свернулся!]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="swamp30104.mp3">
+      <en><![CDATA[What about Nora?? Is she ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А что же с Норой? Она?..]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="coppelius" sound="swamp30105.mp3">
+      <en><![CDATA[Nora! Are you alright?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора! Ты как?]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="nora2" sound="swamp30106.mp3">
+      <en><![CDATA[… I … I think I’m alright.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я... Кажется, все в порядке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="nora2" sound="swamp30107.mp3">
+      <en><![CDATA[I really went back to Ravenhollow … back to the day you arrived and met Nigel Trelawney. You were there, and I saw  Lowell Cain too …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я действительно вернулась в Рэйвенхоллоу... В тот день, когда ты прибыл туда и встретил Найджела Трелони. Ты там был, и Лоуэлла Кейна я тоже видела...]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="swamp30108.mp3">
+      <en><![CDATA[Really? That’s unbelievable … are you really okay?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда? Невероятно... Ты точно в порядке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="nora2" sound="swamp30109.mp3">
+      <en><![CDATA[I feel good actually … even better than before.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чувствую себя хорошо... Даже лучше, чем прежде.]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="coppelius" sound="swamp30110.mp3">
+      <en><![CDATA[The mechanical heart must have absorbed the energy of the rift and saved you from getting injured …  I’m so glad you didn’t get hurt.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, механическое сердце поглотило энергию разрыва и спасло тебя от травмы... Я так рад, что все обошлось.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="slappy" sound="swamp30111.mp3">
+      <en><![CDATA[Unfortunately this also means that Vincent is right … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К несчастью, это значит и то, что Винсент прав...]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="slappy" sound="swamp30112.mp3">
+      <en><![CDATA[Now that he too has a mechanical heart he may be able to pass through a much deeper Rift up at Mount Misery to take revenge on the other members of the Smith Institute in the past.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь, когда у него тоже есть механическое сердце, он может пройти через куда более глубокий разрыв на Горе Несчастья и отомстить в прошлом другим ученым Смитовского института.]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="nora2" sound="swamp30113.mp3">
+      <en><![CDATA[... but now we have the photograph!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...но теперь у нас есть фотография!]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="swamp30114.mp3">
+      <en><![CDATA[There’s the note you mentioned.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот записка, о которой ты говорил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="_avatar" sound="swamp30115.mp3">
+      <en><![CDATA[&quot;A Stitch in Time Saves Nine&quot; … mh…. some of the letters are small, others are capitalized.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[&quot;Одна игра - девять жизней&quot;... Хм. Одни буквы большие, другие маленькие.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="coppelius" sound="swamp30116.mp3">
+      <en><![CDATA[That’s the code we are searching for.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это тот код, который мы ищем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="coppelius" sound="swamp30117.mp3">
+      <en><![CDATA[If you translate large and small letters as long and short signals then in Morse Code this means &quot;NIGEL COME&quot;. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если считать маленькие и большие буквы точками и тире, по азбуке Морзе получится &quot;НАЙДЖЕЛ ПРИДИ&quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="coppelius" sound="swamp30118.mp3">
+      <en><![CDATA[Something here is very wrong … look at the photograph, Henry! It is changing!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что-то здесь не так... Анри, взгляни на фотографию! Она меняется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="slappy" sound="swamp30119.mp3">
+      <en><![CDATA[This is our Vincent! The one from our time. Has he already made it into the past to take revenge and steal our inventions??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это наш Винсент! Из нашего времени. Неужели он уже попал в прошлое, чтобы отомстить нам и украсть наши изобретения???]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="coppelius" sound="swamp30120.mp3">
+      <en><![CDATA[This must be the Probability Effect that Professor Zygmunt described in his time theories!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверное, это эффект вероятности, который профессор Зигмунт описывал в своих временных теориях!]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="coppelius" sound="swamp30121.mp3">
+      <en><![CDATA[The photograph was brought from the past into the present, and thus has been torn loose from the fabric of time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Фотография принесена из прошлого в настоящее, и потому изменилась от воздействия временной материи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="coppelius" sound="swamp30122.mp3">
+      <en><![CDATA[Now the photograph shows a version of the past that is very likely to exist …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь на фотографии показана та версия прошлого, существование которой весьма вероятно...]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="slappy" sound="swamp30123.mp3">
+      <en><![CDATA[So that means that Vincent hasn’t succeeded yet? Only that he is close?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, Винсент еще не воплотил свой план? Он лишь близок к воплощению?]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="coppelius" sound="swamp30124.mp3">
+      <en><![CDATA[Yes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да.]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="_avatar" sound="swamp30125.mp3">
+      <en><![CDATA[&quot;A Stitch in Times Saves Nine&quot; …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[&quot;Одна игра - девять жизней&quot;...]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="coppelius" sound="swamp30126.mp3">
+      <en><![CDATA[I think Trelawney meant the nine founding members of the Smith Institute. We have to close the Rift that Vincent wants to create in order to save them … us … from him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Полагаю, Трелони имел в виду девять основателей Смитовского института. Нам надо закрыть Разрыв, который хочет создать Винсент, чтобы спасти их... нас...]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="coppelius" sound="swamp30127.mp3">
+      <en><![CDATA[Anthony Trelawney must have anticipated Vincent’s plan.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должно быть, Энтони Трелони предвидел замыслы Винсента.]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="slappy" sound="swamp30128.mp3">
+      <en><![CDATA[Thanks to Nora we have his password for the train … we can still make it to Mount Misery in time!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Благодаря Норе у нас есть его пароль к поезду. Мы еще можем успеть на Гору Несчастья!]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="nora2" sound="swamp30129.mp3">
+      <en><![CDATA[Let’s get out of this swamp.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Давайте выбираться из болота.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="coppelius" sound="swamp30130.mp3">
+      <en><![CDATA[You call these prismatic spectralizers?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И это, по-твоему, призматические рефракторы?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="coppelius" sound="swamp30131.mp3">
+      <en><![CDATA[These look more like outlandish party decorations for one of your university debaucheries!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Больше похоже на какие-то украшения для студенческих гулянок!]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="_avatar" sound="swamp30132.mp3">
+      <en><![CDATA[So I should keep looking for a better alternative?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что же, мне найти вариант получше?]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="coppelius" sound="swamp30133.mp3">
+      <en><![CDATA[Well ... they MIGHT work.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... Могут ведь и сработать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="coppelius" sound="swamp30134.mp3">
+      <en><![CDATA[Now keep on searching for those other items.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А теперь продолжай искать остальные предметы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="swamp30135.mp3">
+      <en><![CDATA[Oh boy, what a relief … I wasn’t sure if you’d chase me out of the swamp when I showed you these tiki heads.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ох, какое облегчение... Я-то боялся, что ты, увидев этих истуканов, выгонишь меня из болота.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="swamp30136.mp3">
+      <en><![CDATA[Especially with them being possibly cursed and all …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ведь как знать - вдруг они прокляты...]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="coppelius" sound="swamp30137.mp3">
+      <en><![CDATA[Your ramblings are the only curse I see myself confronted with.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Твой неуемный лепет - вот мое единственное проклятие.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="swamp30138.mp3">
+      <en><![CDATA[So there won’t be any caribbean voodoo pirates emerging from this swamp?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, карибские пираты-вуду из болота не вылезут?]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="nora2" sound="swamp30139.mp3">
+      <en><![CDATA[Could you two stop quarreling?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, хватит препираться?]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="slappy" sound="swamp30140.mp3">
+      <en><![CDATA[I think it’s entertaining. But we have no time to lose!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А как по мне, это весело. Но у нас мало времени!]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="coppelius" sound="swamp30141.mp3">
+      <en><![CDATA[You must to be joking ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да ты, никак, шутишь...]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="coppelius" sound="swamp30142.mp3">
+      <en><![CDATA[Nathan, would you attempt to cross the sea in a paper boat?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, ты стал бы переплывать море в бумажной лодке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="_avatar" sound="swamp30143.mp3">
+      <en><![CDATA[Well, no ... probably not.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... Нет, наверное, не стал бы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="coppelius" sound="swamp30144.mp3">
+      <en><![CDATA[And yet you expect me to rift through time with tinfoil oscillators!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А сам хочешь меня отправить во временной разрыв с осцилляторами из фольги!]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="_avatar" sound="swamp30145.mp3">
+      <en><![CDATA[... so you’re saying that these won’t work?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...так ты хочешь сказать, что они не годятся?]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="coppelius" sound="swamp30146.mp3">
+      <en><![CDATA[Well no ... these could POSSIBLY make due.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, ну... МОЖЕТ БЫТЬ, и пригодятся.]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="coppelius" sound="swamp30147.mp3">
+      <en><![CDATA[Now keep looking for the other items.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А теперь продолжай искать остальные предметы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="coppelius" sound="swamp30148.mp3">
+      <en><![CDATA[What a crummy little propeller!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что за убогий, крошечный пропеллер!]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="coppelius" sound="swamp30149.mp3">
+      <en><![CDATA[Nathan, you have a gift for under-delivering on my expectations.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, у тебя просто талант делать все не до конца.]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="coppelius" sound="swamp30150.mp3">
+      <en><![CDATA[However, lacking other options this COULD work.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Впрочем, выбирать не приходится, может, и это сгодится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="coppelius" sound="swamp30151.mp3">
+      <en><![CDATA[Now keep on looking for those other items.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А теперь продолжай искать остальные предметы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="_avatar" sound="swamp30152.mp3">
+      <en><![CDATA[Dr. Coppelius, is there a way to reconfigure this device so that it could reverse the damage done to the villagers?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Коппелиус, а есть ли способ перенастроить это устройство так, чтобы оно устранило весь ущерб, нанесенный жителям?]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="coppelius" sound="swamp30153.mp3">
+      <en><![CDATA[Vincent’s hypnosis device is it? Yes, yes, I have some experience with reversing its effects.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Гипнотическое устройство Винсента, да? Есть, есть у меня кое-какой опыт по обращению его эффектов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="coppelius" sound="swamp30154.mp3">
+      <en><![CDATA[We frequently had &quot;misfires&quot; around the Smith Institute which left our members mindless after an encounter with Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После случая с Винсентом у нас в институте часто случались &quot;осечки&quot;, которые пагубно влияли на разум ученых.]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="coppelius" sound="swamp30155.mp3">
+      <en><![CDATA[In retrospect, those incidents foreboded of the ill events to come.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь я вижу, что те события предвещали будущие беды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="coppelius" sound="swamp30156.mp3">
+      <en><![CDATA[Just a moment now ... almost have it ... there. One reversed hypnosis device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Минуточку... Уже почти... Вот. Обращенное гипнотическое устройство.]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="_avatar" sound="swamp30157.mp3">
+      <en><![CDATA[Thank you Dr. Coppelius. I know some villagers who will greatly appreciate this!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, доктор Коппелиус. Я знаю жителей, которые за это будут очень благодарны!]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="_avatar" sound="swamp30158.mp3">
+      <en><![CDATA[Do you know what this is, Dr. Coppelius?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А вы знаете, что это, доктор Коппелиус?]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="coppelius" sound="swamp30159.mp3">
+      <en><![CDATA[Well I’ll be, I haven’t seen one of those in years!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну и ну, сколько лет я уже такого не видел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="coppelius" sound="swamp30160.mp3">
+      <en><![CDATA[That is an attractor core for one of the Smith Institute’s lightning collectors!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это ядро одного из накопителей молний Смитовского института!]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="_avatar" sound="swamp30161.mp3">
+      <en><![CDATA[A lightning collector? What’s that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Накопителей молний? А что это?]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="coppelius" sound="swamp30162.mp3">
+      <en><![CDATA[It’s a power source. It works by attracting and collecting lightning bolts.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Источник энергии. Работает, притягивая к себе молнии.]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="coppelius" sound="swamp30163.mp3">
+      <en><![CDATA[Just plug that core into a lightning collector device, and you can summon lightning bolts at will!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подсоедини ядро к молниеприемнику, и сможешь вызывать молнии!]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="coppelius" sound="swamp30164.mp3">
+      <en><![CDATA[Dr. LeMue LaFayette’s brother, Steven, invented lightning collectors. We used them to power all of our later experiments.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молниеприемники изобрел Стивен, брат доктора Лемю Лафайетта. Мы собирали в них энергию для всех последующих экспериментов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="_avatar" sound="swamp30165.mp3">
+      <en><![CDATA[Sounds neat! Are there any lightning collectors still around?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Любопытно! А тут где-нибудь такие еще остались?]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="coppelius" sound="swamp30166.mp3">
+      <en><![CDATA[Yes, there’s clearly one still over at the Smith Institute ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В Смитовском институте один еще точно есть...]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="coppelius" sound="swamp30167.mp3">
+      <en><![CDATA[I noticed that a wall has been blown out of the building ... it’s probably a result of someone carelessly pulling that core from the device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я заметил, что в здании взорвана стена... Возможно, это из-за того, что кто-то бездумно вынул из приемника ядро.]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="_avatar" sound="swamp30168.mp3">
+      <en><![CDATA[Interesting. I’ll have to check that out.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно. Надо будет посмотреть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="_avatar" sound="swamp30169.mp3">
+      <en><![CDATA[How’s this for a vibrator plate?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подойдет такая вибропластина?]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="coppelius" sound="swamp30170.mp3">
+      <en><![CDATA[Well Nathan, at least you’re on the right track. That painting is indeed of the right size and proportions, but ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что ж, Натан, по крайней мере, ты на верном пути. Размер у картины подходящий, и пропорции, но...]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="coppelius" sound="swamp30171.mp3">
+      <en><![CDATA[It’s NOT metal.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она не из металла.]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="coppelius" sound="swamp30172.mp3">
+      <en><![CDATA[We need METALLIC vibrator plates. Now, hurry up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам нужны МЕТАЛЛИЧЕСКИЕ вибропластины. Поторопись, пожалуйста!]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="_avatar" sound="swamp30173.mp3">
+      <en><![CDATA[How’s this for a vibrator plate?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подойдет такая вибропластина?]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="coppelius" sound="swamp30174.mp3">
+      <en><![CDATA[Well Nathan, at least you’re on the right track. That painting is indeed of the right size and proportions, but ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что ж, Натан, по крайней мере, ты на верном пути. Размер у картины подходящий, и пропорции, но...]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="coppelius" sound="swamp30175.mp3">
+      <en><![CDATA[It’s NOT metal.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она не из металла.]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="coppelius" sound="swamp30176.mp3">
+      <en><![CDATA[We need METALLIC vibrator plates. Now, hurry up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам нужны МЕТАЛЛИЧЕСКИЕ вибропластины. Поторопись, пожалуйста!]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="_avatar" sound="swamp30177.mp3">
+      <en><![CDATA[I think I’ve found one of the metallic vibrator plates!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, я нашел одну из металлических вибропластин!]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="coppelius" sound="swamp30178.mp3">
+      <en><![CDATA[ONE of the plates?! Nathan, how many plates did my list explicitly specify?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ОДНУ из пластин?! Натан, а сколько пластин указано в моем списке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="_avatar" sound="swamp30179.mp3">
+      <en><![CDATA[Uhhh ... two?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э... Две?]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="coppelius" sound="swamp30180.mp3">
+      <en><![CDATA[Yes, TWO. Bring me TWO plates. Now hurry up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, ДВЕ. Принеси мне ДВЕ пластины. Поспеши, будь любезен!]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="_avatar" sound="swamp30181.mp3">
+      <en><![CDATA[I think I’ve found one of the metallic vibrator plates!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, я нашел одну из металлических вибропластин!]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="coppelius" sound="swamp30182.mp3">
+      <en><![CDATA[ONE of the plates?! Nathan, how many plates did my list explicitly specify?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ОДНУ из пластин?! Натан, а сколько пластин указано в моем списке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="_avatar" sound="swamp30183.mp3">
+      <en><![CDATA[Uhhh ... two?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Э... Две?]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="coppelius" sound="swamp30184.mp3">
+      <en><![CDATA[Yes, TWO. Bring me TWO plates. Now hurry up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, ДВЕ. Принеси мне ДВЕ пластины. Поспеши, будь любезен!]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="_avatar" sound="swamp30185.mp3">
+      <en><![CDATA[It’s the zeppelin man.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это Воздухоплаватель.]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+    <d186 puppet="_avatar" sound="swamp30186.mp3">
+      <en><![CDATA[Excuse me, Dr. LeMue LaFayette?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Простите, доктор Лемю Лафайетт?]]></ru>
+      <es><![CDATA[]]></es>
+    </d186>
+    <d187 puppet="slappy" sound="swamp30187.mp3">
+      <en><![CDATA[Call me Henry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зови меня Анри.]]></ru>
+      <es><![CDATA[]]></es>
+    </d187>
+    <d188 puppet="slappy" sound="swamp30188.mp3">
+      <en><![CDATA[I’d really like to chat with you, but Coppelius is right. We can’t afford to lose more time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я бы очень хотел с тобой поболтать, но Коппелиус прав. У нас мало времени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d188>
+    <d189 puppet="slappy" sound="swamp30189.mp3">
+      <en><![CDATA[We got to get Nigel’s photograph to call the train. Hurry up and try to find all the items on Coppelius’ list.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам нужно достать фотографию Найджела, чтобы вызвать поезд. Скорее раздобудь все предметы из перечня Коппелиуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d189>
+    <d190 puppet="_avatar" sound="swamp30190.mp3">
+      <en><![CDATA[That would be rude.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это будет грубо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d190>
+    <d191 puppet="_avatar" sound="swamp30191.mp3">
+      <en><![CDATA[I’d better ask Coppelius about this device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше я расспрошу об этом устройстве Коппелиуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d191>
+    <d192 puppet="_avatar" sound="swamp30192.mp3">
+      <en><![CDATA[I’d better ask Coppelius about this device.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше я расспрошу об этом устройстве Коппелиуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d192>
+    <d193 puppet="_avatar" sound="swamp30193.mp3">
+      <en><![CDATA[It’s the zeppelin man.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это Воздухоплаватель.]]></ru>
+      <es><![CDATA[]]></es>
+    </d193>
+    <d194 puppet="_avatar" sound="swamp30194.mp3">
+      <en><![CDATA[Excuse me, Dr. LeMue LaFayette?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Простите, доктор Лемю Лафайетт?]]></ru>
+      <es><![CDATA[]]></es>
+    </d194>
+    <d195 puppet="slappy" sound="swamp30195.mp3">
+      <en><![CDATA[Call me Henry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зови меня Анри.]]></ru>
+      <es><![CDATA[]]></es>
+    </d195>
+    <d196 puppet="slappy" sound="swamp30196.mp3">
+      <en><![CDATA[I’d really like to chat with you, but Coppelius is right. We can’t afford to lose more time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я бы очень хотел с тобой поболтать, но Коппелиус прав. У нас мало времени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d196>
+    <d197 puppet="slappy" sound="swamp30197.mp3">
+      <en><![CDATA[We got to get Nigel’s photograph to call the train. Hurry up and try to find all the items on Coppelius’ list.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам нужно достать фотографию Найджела, чтобы вызвать поезд. Скорее раздобудь все предметы из перечня Коппелиуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d197>
+    <d198 puppet="_avatar" sound="swamp30198.mp3">
+      <en><![CDATA[It’s the zeppelin man.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это Воздухоплаватель.]]></ru>
+      <es><![CDATA[]]></es>
+    </d198>
+    <d199 puppet="_avatar" sound="swamp30199.mp3">
+      <en><![CDATA[Excuse me, Dr. LeMue LaFayette?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Простите, доктор Лемю Лафайетт?]]></ru>
+      <es><![CDATA[]]></es>
+    </d199>
+    <d200 puppet="slappy" sound="swamp30200.mp3">
+      <en><![CDATA[Call me Henry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зови меня Анри.]]></ru>
+      <es><![CDATA[]]></es>
+    </d200>
+    <d201 puppet="slappy" sound="swamp30201.mp3">
+      <en><![CDATA[I’d really like to chat with you, but Coppelius is right. We can’t afford to lose more time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я бы очень хотел с тобой поболтать, но Коппелиус прав. У нас мало времени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d201>
+    <d202 puppet="slappy" sound="swamp30202.mp3">
+      <en><![CDATA[We got to get Nigel’s photograph to call the train. Hurry up and try to find all the items on Coppelius’ list.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нам нужно достать фотографию Найджела, чтобы вызвать поезд. Скорее раздобудь все предметы из перечня Коппелиуса.]]></ru>
+      <es><![CDATA[]]></es>
+    </d202>
+    <d203 puppet="_avatar" sound="swamp30203.mp3">
+      <en><![CDATA[Wow, what is this place?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ого, что это за место?]]></ru>
+      <es><![CDATA[]]></es>
+    </d203>
+    <d204 puppet="slappy" sound="swamp30204.mp3">
+      <en><![CDATA[The power flux is still stable, William. The node has stored enough energy to supply Ravenhollow with electricity for the next ten years.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поток мощности еще стабилен, Уильям. В узле сохранилось достаточно энергии, чтобы снабжать Рэйвенхоллоу электричеством следующие десять лет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d204>
+    <d205 puppet="slappy" sound="swamp30205.mp3">
+      <en><![CDATA[We could improvise and use spare parts from an old prototype … we would have to place it directly on the swamp’s power node to feed the rift with enough energy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы могли бы сымпровизировать и использовать части от старого прототипа... Надо было бы тогда поместить его прямо на болотный энергоузел, чтобы разрыв получил достаточно энергии.]]></ru>
+      <es><![CDATA[]]></es>
+    </d205>
+    <d206 puppet="coppelius" sound="swamp30206.mp3">
+      <en><![CDATA[It will not be as powerful as the Apparatus on Mount Misery, but it should be powerful enough to create a small rift … just large enough to retrieve the photograph.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он не будет таким мощным, как генератор на Горе Несчастья, но энергии хватит, чтобы создать небольшой разрыв... Достаточно большой, чтобы достать фотографию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d206>
+    <d207 puppet="nora2" sound="swamp30207.mp3">
+      <en><![CDATA[How do we create such a rift?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как мы создадим такой разрыв?]]></ru>
+      <es><![CDATA[]]></es>
+    </d207>
+    <d208 puppet="coppelius" sound="swamp30208.mp3">
+      <en><![CDATA[A good question, my dear Nora.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хороший вопрос, дорогая моя Нора.]]></ru>
+      <es><![CDATA[]]></es>
+    </d208>
+    <d209 puppet="coppelius" sound="swamp30209.mp3">
+      <en><![CDATA[Here, Nathan. Take this.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот, Натан. Возьми вот это.]]></ru>
+      <es><![CDATA[]]></es>
+    </d209>
+    <d210 puppet="coppelius" sound="swamp30210.mp3">
+      <en><![CDATA[This is a list of items we need to rebuild the prototype of the apparatus.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это список предметов, которые нужны нам, чтобы восстановить прототип генератора.]]></ru>
+      <es><![CDATA[]]></es>
+    </d210>
+    <d211 puppet="_avatar" sound="swamp30211.mp3">
+      <en><![CDATA[Adventure calls!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приключения зовут!]]></ru>
+      <es><![CDATA[]]></es>
+    </d211>
+    <d212 puppet="coppelius" sound="swamp30212.mp3">
+      <en><![CDATA[For the last time, quit talking to yourself! We have no time to lose!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В последний раз прошу, перестань разговаривать сам с собой! Времени у нас мало!]]></ru>
+      <es><![CDATA[]]></es>
+    </d212>
+    <d213 puppet="_avatar" sound="swamp30213.mp3">
+      <en><![CDATA[We finally found Nora and now Nigel is in danger. This is going to be a long night ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы наконец нашли Нору, но теперь Найджел в опасности. Эта ночь будет долгой...]]></ru>
+      <es><![CDATA[]]></es>
+    </d213>
+    <d214 puppet="_avatar" sound="swamp30214.mp3">
+      <en><![CDATA[Nora, are you okay? I hope Vincent didn’t harm you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нора, вы в порядке? Я надеюсь, Винсент не причинил вам вреда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d214>
+    <d215 puppet="nora2" sound="swamp30215.mp3">
+      <en><![CDATA[Don’t worry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d215>
+    <d216 puppet="nora2" sound="swamp30216.mp3">
+      <en><![CDATA[Vincent forced Professor Smith and my grandfather to duplicate my artificial heart ... they cooperated, so I wasn’t harmed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент заставил профессора Смита и моего дедушку сделать копию моего искусственного сердца... они работали вместе, так что я в порядке. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d216>
+    <d217 puppet="nora2" sound="swamp30217.mp3">
+      <en><![CDATA[I just wish I understood Vincent’s motive ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот бы понять мотивы Винсента...]]></ru>
+      <es><![CDATA[]]></es>
+    </d217>
+    <d218 puppet="nora2" sound="swamp30218.mp3">
+      <en><![CDATA[Why would Vincent replace his healthy human heart with an uncomfortable machine like mine? He really IS insane.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем Винсенту заменять свое здоровое человеческое сердце неудобным механическим вроде моего? Он действительно безумен.]]></ru>
+      <es><![CDATA[]]></es>
+    </d218>
+    <d219 puppet="_avatar" sound="swamp30219.mp3">
+      <en><![CDATA[I’m just glad that nothing happened to you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я просто рад, что с вами не случилось ничего плохого.]]></ru>
+      <es><![CDATA[]]></es>
+    </d219>
+    <d220 puppet="nora2" sound="swamp30220.mp3">
+      <en><![CDATA[Yes, but now Nigel and Prof. Smith are in danger … we have to help them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, но Найджел и профессор Смит в опасности... Мы должны помочь им.]]></ru>
+      <es><![CDATA[]]></es>
+    </d220>
+    <d221 puppet="coppelius" sound="swamp30221.mp3">
+      <en><![CDATA[We ALL are in danger!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы все в опасности!]]></ru>
+      <es><![CDATA[]]></es>
+    </d221>
+    <d222 puppet="coppelius" sound="swamp30222.mp3">
+      <en><![CDATA[Nathan, you have to find the items on the list I gave you. We have to retrieve the photograph … it’s the only way to stop Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, вы должны найти предметы из списка, который вы получили от меня. Нам необходимо разыскать фотографию... Это единственный способ остановить Винсента.]]></ru>
+      <es><![CDATA[]]></es>
+    </d222>
+  </d>
+</localize>

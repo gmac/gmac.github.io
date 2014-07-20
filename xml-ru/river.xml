@@ -1,0 +1,2382 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[Smith Institute]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Смитовский институт]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[bus stop sign]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[знак автобусной остановки]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[timetable]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[расписание]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[front door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[передняя дверь]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[thoughtful looking young man]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[задумчивый юноша]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[Stig Sigmundson]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стиг Зигмундсон]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[Stig Sigmundson]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стиг Зигмундсон]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[flowing river]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[река]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[sticks and leaves]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ветки и листья]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[statue]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[статуя]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[duck]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[утка]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[strange device]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странное устройство]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[strange device]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[странное устройство]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[broken away bricks]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разбитые кирпичи]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="Smith Institute">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="Smith Institute">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="Smith Institute">
+      <en><![CDATA[Enter]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Войти:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="bus stop sign">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="bus stop sign">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="bus stop sign">
+      <en><![CDATA[Steal]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Украсть]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="timetable">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="timetable">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="timetable">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="front door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="front door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="front door">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="thoughtful looking young man">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="thoughtful looking young man">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="thoughtful looking young man">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v29 noun="Stig Sigmundson">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="Stig Sigmundson">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="Stig Sigmundson">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v33 noun="Stig Sigmundson">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="Stig Sigmundson">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="Stig Sigmundson">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="flowing river">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="flowing river">
+      <en><![CDATA[Drink from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Выпить содержимое:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="flowing river">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v40 noun="sticks and leaves">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v40>
+    <v41 noun="sticks and leaves">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v41>
+    <v42 noun="sticks and leaves">
+      <en><![CDATA[Push]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Толкнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v53 noun="statue">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="statue">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="statue">
+      <en><![CDATA[Heave]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пузырь]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="duck">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="duck">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="duck">
+      <en><![CDATA[Pet]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Приласкать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v62 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v65 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v68 noun="strange device">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v68>
+    <v69 noun="strange device">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="strange device">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v73 noun="strange device">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="strange device">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="strange device">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="broken away bricks">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="broken away bricks">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="broken away bricks">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c27 noun="thoughtful looking young man" item="diamondRing">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c27>
+    <c28 noun="thoughtful looking young man" item="lovenote">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c28>
+    <c32 noun="Stig Sigmundson" item="diamondRing">
+      <en><![CDATA[Give #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: отдать персонажу (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c32>
+    <c39 noun="flowing river" item="kettle">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c39>
+    <c43 noun="sticks and leaves" item="pretzeljax">
+      <en><![CDATA[Toss #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бросить предмет: #item# в цель: #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c43>
+    <c44 noun="sticks and leaves" item="pretzeljax_open">
+      <en><![CDATA[Toss #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бросить предмет: #item# в цель: #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c44>
+    <c45 noun="sticks and leaves" item="bomb_cherry">
+      <en><![CDATA[Toss #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бросить предмет: #item# в цель: #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c45>
+    <c46 noun="sticks and leaves" item="bomb_sticky">
+      <en><![CDATA[Toss #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бросить предмет: #item# в цель: #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c46>
+    <c47 noun="sticks and leaves" item="boot_laced">
+      <en><![CDATA[Throw #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: бросить предмет (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c47>
+    <c48 noun="sticks and leaves" item="boot_unlaced">
+      <en><![CDATA[Throw #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: бросить предмет (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c48>
+    <c49 noun="sticks and leaves" item="slingshot_rock">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c49>
+    <c50 noun="sticks and leaves" item="slingshot_cherry">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c50>
+    <c51 noun="sticks and leaves" item="slingshot_sticky">
+      <en><![CDATA[Shoot #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: выстрелить в цель (#noun#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c51>
+    <c52 noun="sticks and leaves" item="crowbar">
+      <en><![CDATA[Throw #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: бросить предмет (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c52>
+    <c59 noun="duck" item="pretzeljax">
+      <en><![CDATA[Throw #item# at #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: бросить предмет (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c59>
+    <c60 noun="duck" item="pretzeljax_open">
+      <en><![CDATA[Feed #item# to #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Скормить предмет #item# существу #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c60>
+    <c61 noun="duck" item="crayonPaper">
+      <en><![CDATA[Draw #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: нарисовать с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c61>
+    <c71 noun="strange device" item="remote">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c71>
+    <c72 noun="strange device" item="remote2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c72>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="river0000.mp3">
+      <en><![CDATA[The Smith Institute for Advanced Research. This is where my father used to work.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Смитовский институт научных исследований. Здесь работал мой отец.]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="river0001.mp3">
+      <en><![CDATA[The facility looks pretty expensive ... why would you allow a place like this to go to waste?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здание выглядит недешевым... Зачем, спрашивается, оставлять такое заведение в запустении?]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="river0002.mp3">
+      <en><![CDATA[I’ll try the front door.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Попробую переднюю дверь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="river0003.mp3">
+      <en><![CDATA[Ravenbridge.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Рэйвенбридж.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="river0004.mp3">
+      <en><![CDATA[Hasn’t this poor village suffered enough already?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А может, хватит уже бедствий для одной-то деревни?]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="river0005.mp3">
+      <en><![CDATA[There is a note from the bus company where the timetable should be.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Записка от автобусной компании там, где должно быть расписание.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="river0006.mp3">
+      <en><![CDATA[It reads: &quot;After failed negotiations with Northwest Castle over their new road taxes, this bus stop will no longer be serviced by the Brass Fox Bus Company.&quot;]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там сказано: &amp;quot;После того, как переговоры с замком Нордвест относительно дорожного налога завершились неудачей, эта остановка более не обслуживается автобусной компанией Медный Лис&amp;quot;.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="river0007.mp3">
+      <en><![CDATA[The timetable is useless ... the bus isn’t coming here anymore.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Расписание бесполезно... Автобус все равно не придет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="river0008.mp3">
+      <en><![CDATA[This door doesn’t even have a door handle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На двери даже ручки нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="river0009.mp3">
+      <en><![CDATA[It’s locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заперто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="river0010.mp3">
+      <en><![CDATA[Man, he looks really unhappy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, недовольный у него вид.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="river0011.mp3">
+      <en><![CDATA[Excuse me …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прошу прощения...]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="stig" sound="river0012.mp3">
+      <en><![CDATA[Oh, hello. It’s you again. Nigel Trelawney, right?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, привет. Это снова ты. Найджел Трелони, верно?]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="river0013.mp3">
+      <en><![CDATA[Yes ... how did you ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да... А как вы...]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="stig" sound="river0014.mp3">
+      <en><![CDATA[Don’t worry, my father told me about you. I think he saw you at the harbor.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не волнуйся, мой отец рассказал мне о тебе. Наверное, он видел тебя в бухте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="stig" sound="river0015.mp3">
+      <en><![CDATA[I am Stig Sigmundson.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я Стиг Зигмундсон.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="river0016.mp3">
+      <en><![CDATA[Nice to meet you, Stig.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Очень приятно, Стиг.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="stig" sound="river0017.mp3">
+      <en><![CDATA[Wow! You have the ring!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ого! У тебя есть кольцо!]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="stig" sound="river0018.mp3">
+      <en><![CDATA[But it will be useless if Cecily won’t marry me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но толку от него чуть, если Сесилия не выйдет за меня.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="river0019.mp3">
+      <en><![CDATA[Don’t worry! I am sure she wants to marry you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не волнуйся! Она наверняка этого очень хочет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="stig" sound="river0020.mp3">
+      <en><![CDATA[But as long as I am not sure then there is no need to talk about trading rings. Maybe you can try to get an answer from her ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но пока я не буду уверен, об обмене кольцами и говорить нечего. Может, ты попытаешься узнать о ее намерениях?]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="stig" sound="river0021.mp3">
+      <en><![CDATA[... or maybe not. This question seems hopeless.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Или нет. Это кажется безнадежным.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="river0022.mp3">
+      <en><![CDATA[I have a message for you …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хочу передать тебе кое-что.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="stig" sound="river0023.mp3">
+      <en><![CDATA[What’s that? A letter?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что это? Письмо?]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="stig" sound="river0024.mp3">
+      <en><![CDATA[So she finally came to a decision ... I bet she doesn’t want to marry me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, она все-таки приняла решение... Наверняка раздумала выходить за меня.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="stig" sound="river0025.mp3">
+      <en><![CDATA[Yes! She wants to marry me!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да! Она хочет выйти за меня!]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="river0026.mp3">
+      <en><![CDATA[Congratulations!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поздравляю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="stig" sound="river0027.mp3">
+      <en><![CDATA[I really can’t wait to see her … don’t you think my grandfather’s ring is good enough?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так не терпится ее увидеть... Как думаешь, дедовское кольцо сгодится?]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="river0028.mp3">
+      <en><![CDATA[I’ll get you the diamond ring, just wait a little longer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я достану кольцо с бриллиантом, только погоди немного.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="river0029.mp3">
+      <en><![CDATA[I’m sure Cecily would happily wait for you if she knew that she’ll get that diamond ring that she’s always dreamed about.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не сомневаюсь, что Сесилия с радостью тебя подождет, если будет знать, что получит то самое кольцо с бриллиантом, о котором мечтала.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="stig" sound="river0030.mp3">
+      <en><![CDATA[Okay. But hurry up then!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно. Только поторопись!]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="river0031.mp3">
+      <en><![CDATA[Stig looks really happy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, Стиг очень счастлив.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="river0032.mp3">
+      <en><![CDATA[I wonder what exactly Cecily wrote ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, что именно ему написала Сесилия?..]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="river0033.mp3">
+      <en><![CDATA[Excuse me … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прошу прощения...]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="_avatar" sound="river0034.mp3">
+      <en><![CDATA[Might this be the ring you were talking about?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не об этом ли кольце ты говорил?]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="stig" sound="river0035.mp3">
+      <en><![CDATA[This is unbelievable!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно!]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="stig" sound="river0036.mp3">
+      <en><![CDATA[Even when we were kids, Cecily used to stand in front of her uncle’s shop for hours and look at this ring in the window! She’ll be so happy!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Еще в детстве Сесилия часами стояла перед витриной дядиной лавки и смотрела через витрину на это кольцо! Она будет просто счастлива!]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="stig" sound="river0037.mp3">
+      <en><![CDATA[Here’s my grandfather’s insignia ring. I don’t think it’s worth much, but I hope it brings you luck, my friend.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот перстень моего деда. Вряд ли он чего-нибудь стоит, но надеюсь, что он принесет тебе удачу, друг мой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="_avatar" sound="river0038.mp3">
+      <en><![CDATA[Thanks.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="stig" sound="river0039.mp3">
+      <en><![CDATA[Tomorrow I’ll give Cecily her diamond ring … she’ll be surprised, don’t you think?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Завтра я отдам Сесилии ее кольцо... Вот она удивится, правда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="river0040.mp3">
+      <en><![CDATA[I bet she will be.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не сомневаюсь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="river0041.mp3">
+      <en><![CDATA[I bet Cecily will be excited when she sees that diamond!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сесилия наверняка будет в восторге, когда увидит этот бриллиант!]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="river0042.mp3">
+      <en><![CDATA[So, it seems you have everything to be happy, just like your grandfather told you: love, friendship …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, у тебя есть все для счастья, как и говорил твой дед: любовь, дружба...]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="stig" sound="river0043.mp3">
+      <en><![CDATA[I can’t wait to see Cecily. I love her so much.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не терпится увидеть Сесилию. Я так ее люблю.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="river0044.mp3">
+      <en><![CDATA[Good for you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это хорошо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="stig" sound="river0045.mp3">
+      <en><![CDATA[I hope my grandfather’s insignia ring will bring you luck, too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надеюсь, дедовская печатка и тебе тоже принесет удачу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="river0046.mp3">
+      <en><![CDATA[The water looks fresh and clean.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С виду вода чистая и свежая.]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="_avatar" sound="river0047.mp3">
+      <en><![CDATA[If I get thirsty sometime I might give it a try.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если захочется пить, можно будет попробовать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="river0048.mp3">
+      <en><![CDATA[Am I supposed to carry water around in my cupped hands? Doesn’t sound like fun to me.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И что, мне в горсти воду носить? Ничего веселого в этом не вижу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="river0049.mp3">
+      <en><![CDATA[I’ll fill the kettle with water.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наполню-ка я котелок водой.]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="_avatar" sound="river0050.mp3">
+      <en><![CDATA[It looks like that big stick is caught on something at the bottom of the river ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, эта палка зацепилась за что-то на дне реки...]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="river0051.mp3">
+      <en><![CDATA[Unfortunately, I can’t see what’s down there with all those leaves in the way.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К несчастью, не вижу, что там, листья застилают обзор.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="_avatar" sound="river0052.mp3">
+      <en><![CDATA[Maybe I can find a way to clear them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, от них можно как-то избавиться?]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="_avatar" sound="river0053.mp3">
+      <en><![CDATA[I can’t reach it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не дотянуться.]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="_avatar" sound="river0054.mp3">
+      <en><![CDATA[I doubt the duck would dash after a closed box of Pretzeljax ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вряд ли утка клюнет на закрытую коробку претцельяксов...]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="_avatar" sound="river0055.mp3">
+      <en><![CDATA[Mh ... there are no ducks to feed. I should come back when the sun is out.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже уток нет, чтобы покормить. Надо вернуться, когда сядет солнце.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="_avatar" sound="river0056.mp3">
+      <en><![CDATA[Do you want a pretzel? Go, get it!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хочешь претцель? Хватай!]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="river0057.mp3">
+      <en><![CDATA[I guess he had enough pretzels for today.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаю, на сегодня претцелей хватит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="river0058.mp3">
+      <en><![CDATA[Mh ... there are no ducks to feed. I should come back when the sun is out.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже уток нет, чтобы покормить. Надо вернуться, когда сядет солнце.]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="_avatar" sound="river0059.mp3">
+      <en><![CDATA[Are you kidding?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да вы издеваетесь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="river0060.mp3">
+      <en><![CDATA[Do you know how many environmental laws I would be violating by throwing explosives into an aquatic ecosystem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы хоть знаете, сколько законов об экологии я нарушу, если брошу взрывчатку в водную экосистему?]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="_avatar" sound="river0061.mp3">
+      <en><![CDATA[Are you kidding?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да вы издеваетесь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="_avatar" sound="river0062.mp3">
+      <en><![CDATA[Do you know how many environmental laws I would be violating by throwing explosives into an aquatic ecosystem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы хоть знаете, сколько законов об экологии я нарушу, если брошу взрывчатку в водную экосистему?]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="_avatar" sound="river0063.mp3">
+      <en><![CDATA[No, I believe in keeping our rivers clean and litter-free.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я сторонник сохранения рек чистыми и безопасными для жизни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="river0064.mp3">
+      <en><![CDATA[No, I believe in keeping our rivers clean and litter-free.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я сторонник сохранения рек чистыми и безопасными для жизни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="_avatar" sound="river0065.mp3">
+      <en><![CDATA[No, I’d better be careful about shooting into the water until I know what’s down there. It might be something valuable!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я поостерегусь стрелять в реку, пока не буду точно знать, что там, на дне. Вдруг что-нибудь ценное?]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="_avatar" sound="river0066.mp3">
+      <en><![CDATA[Perhaps I could find a gentler way to move the leaves?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, я найду менее радикальный способ убрать листья?]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="river0067.mp3">
+      <en><![CDATA[Are you kidding?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да вы издеваетесь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="river0068.mp3">
+      <en><![CDATA[Do you know how many environmental laws I would be violating by shooting explosives into an aquatic ecosystem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы хоть знаете, сколько законов об экологии я нарушу, если брошу взрывчатку в водную экосистему?]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="river0069.mp3">
+      <en><![CDATA[Are you kidding?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да вы издеваетесь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="river0070.mp3">
+      <en><![CDATA[Do you know how many environmental laws I would be violating by shooting explosives into an aquatic ecosystem?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы хоть знаете, сколько законов об экологии я нарушу, если брошу взрывчатку в водную экосистему?]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="river0071.mp3">
+      <en><![CDATA[No, I’d better be careful about throwing things into the water until I know what’s down there. It might be something valuable!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я поостерегусь бросать что-либо в реку, пока не буду точно знать, что там, на дне. Вдруг что-нибудь ценное?]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="river0072.mp3">
+      <en><![CDATA[Perhaps I could find a gentler way to move the leaves?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Может, я найду менее радикальный способ убрать листья?]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="river0073.mp3">
+      <en><![CDATA[Is that a statue down there? Who would dump a statue in a river?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это что, статуя? Кому пришло в голову утопить статую в реке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="river0074.mp3">
+      <en><![CDATA[Don’t worry! I’ll try to get help!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не волнуйся! Я постараюсь помочь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="river0075.mp3">
+      <en><![CDATA[Even if I had rope, pulley and tackle I wouldn’t be able to lift the statue from the river.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Даже будь у меня веревка, лебедка и ворот, я бы не смог поднять статую из реки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="river0076.mp3">
+      <en><![CDATA[If only I knew someone who had the means to transport something that heavy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если б я только был знаком с кем-нибудь, кто занимался бы перевозками как раз таких тяжелых грузов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="river0077.mp3">
+      <en><![CDATA[Oh no. A duck ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О нет. Утка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="river0078.mp3">
+      <en><![CDATA[I never really understood what people find cute about ducks. They are descendants of carnivorous dinosaurs.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Никогда не понимал, чего люди так уткам умиляются. Это же потомки плотоядных динозавров.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="river0079.mp3">
+      <en><![CDATA[... and you can still see that when you look deep into a duck’s eyes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И если заглянуть утке в глаза, это сразу будет видно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="river0080.mp3">
+      <en><![CDATA[No. I don’t want to get involved in lengthy discussions about bread crumbs and winter holidays in the south.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я не хочу ввязываться в бесконечные споры о хлебных крошках и зимних каникулах на юге.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="river0081.mp3">
+      <en><![CDATA[I don’t think that’s gonna happen.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не думаю, что это возможно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="river0082.mp3">
+      <en><![CDATA[I’d surely be in trouble if some environmentalist saw me throwing a sealed box of Pretzeljax at a duck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если какой защитник природы увидит, что я кидаюсь коробками в уток, у меня будут неприятности.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="river0083.mp3">
+      <en><![CDATA[I should open the box first and offer the duck a single pretzel ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сначала надо коробку открыть и предложить утке скушать претцель...]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="river0084.mp3">
+      <en><![CDATA[Would you like a pretzel?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хочешь претцель?]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="river0085.mp3">
+      <en><![CDATA[Wow, the duck is crazy about Pretzeljax’s mild aroma and remarkable crunchy texture.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да эта утка без ума от &amp;quot;Претцельякс&amp;quot;, от вкуса, аромата и их неповторимого хруста.]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="river0086.mp3">
+      <en><![CDATA[A duck mask? Mh ... no.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Маска утки? М... Нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="_avatar" sound="river0087.mp3">
+      <en><![CDATA[Just a little higher!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чуть-чуть повыше!]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="henry" sound="river0088.mp3">
+      <en><![CDATA[Nigel, if I’m not mistaken this statue stood once on the village square. What’s it doing in the river?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел, если я не ошибаюсь, когда-то эта статуя стояла на площади. Как она оказалась в реке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="river0089.mp3">
+      <en><![CDATA[Lowell Cain and his men erected a new statue up there ... a statue of Baron Northwest.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лоуэлл Кейн и его люди воздвигли там новую статую... Статую барона Нордвеста.]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="henry" sound="river0090.mp3">
+      <en><![CDATA[You mean to say the castle just wanted to get rid of this statue and dumped it here? ... Who do these people think they are?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты хочешь сказать, что эти люди просто решили избавиться от статуи и бросили ее тут?.. Да кем они себя возомнили?]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="henry" sound="river0091.mp3">
+      <en><![CDATA[I will fly it over to Stephan Caro’s Antique Shop. He’ll be able to tell you more about the statue ... I bet he’ll be very thankful that you recovered it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я ее переправлю в антикварную лавку Стефана Каро. Он сможет рассказать о ней побольше... Наверняка он будет благодарен вам за то, что вы нашли ее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="_avatar" sound="river0092.mp3">
+      <en><![CDATA[Alright! Thanks again, Uncle Slappy!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отлично! Еще раз спасибо, дядя Слэппи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="henry" sound="river0093.mp3">
+      <en><![CDATA[That’s the least I could do! See you soon, Nigel!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это самое малое, что я могу сделать! Скоро свидимся, Найджел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="_avatar" sound="river0094.mp3">
+      <en><![CDATA[You can never have enough friends with zeppelins.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Друзей с дирижаблями вечно не хватает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="river0095.mp3">
+      <en><![CDATA[I wonder if Uncle Slappy would hold it against me if I called him next time I have to move heavy furniture.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, что скажет дядя Слэппи, если я ему позвоню и скажу, что мне надо перевезти тяжелую мебель?]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="_avatar" sound="river0096.mp3">
+      <en><![CDATA[What’s that thing protruding from the side of the building? Some kind of antenna perhaps?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что это за штука высовывается из стены здания? Антенна какая-то, что ли?]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="_avatar" sound="river0097.mp3">
+      <en><![CDATA[I don’t know what it is and it’s up there and I’m down here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не знаю, что это, да и оно наверху, а я тут, внизу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="_avatar" sound="river0098.mp3">
+      <en><![CDATA[So, how am I supposed to use it?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И что мне с этим делать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="river0099.mp3">
+      <en><![CDATA[Good idea, but the remote isn’t working right now. I think it needs batteries.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мысль недурна, но сейчас пульт не работает. Наверное, нужны батарейки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="_avatar" sound="river0100.mp3">
+      <en><![CDATA[No response. I think whatever that device is it itself needs to be activated first - maybe then it will respond to the remote.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ноль реакции. Что бы это ни было, думаю, что сначала это устройство надо включить. Может, тогда и пульт заработает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="river0101.mp3">
+      <en><![CDATA[Mh ... some of these bricks are damaged. Looks like something heavy smashed into them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м... Несколько кирпичей повреждены. Похоже, на них упало что-то тяжелое.]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="_avatar" sound="river0102.mp3">
+      <en><![CDATA[What are you doing here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что вы здесь делаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="stig" sound="river0103.mp3">
+      <en><![CDATA[Oh, I’m waiting.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, я жду.]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="stig" sound="river0104.mp3">
+      <en><![CDATA[I’ve been waiting for days, although it feels like a lifetime.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я жду уже несколько дней, хотя кажется, что прошла целая жизнь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="river0105.mp3">
+      <en><![CDATA[Have you bought something via mail order?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты ждешь какую-то посылку?]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="stig" sound="river0106.mp3">
+      <en><![CDATA[No, I asked my girlfriend Cecily to marry me …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я сделал своей девушке Сесилии предложение.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="river0107.mp3">
+      <en><![CDATA[That’s a big step. I’m impressed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Серьезный шаг. Впечатляет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="river0108.mp3">
+      <en><![CDATA[So now you’re waiting for her answer?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И теперь ты ждешь ее ответа?]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="stig" sound="river0109.mp3">
+      <en><![CDATA[Yes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да.]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="stig" sound="river0110.mp3">
+      <en><![CDATA[And while I’m sure she wants to marry me, she is still afraid …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И хотя я уверен, что она хочет за меня выйти, ей все равно страшно...]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="_avatar" sound="river0111.mp3">
+      <en><![CDATA[Why again are you hanging around out here at night?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так почему ты торчишь тут всю ночь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="stig" sound="river0112.mp3">
+      <en><![CDATA[Oh, I’m waiting.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, я жду.]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="stig" sound="river0113.mp3">
+      <en><![CDATA[I’ve been waiting for days, although it feels like a lifetime.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я жду уже несколько дней, хотя кажется, что прошла целая жизнь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="river0114.mp3">
+      <en><![CDATA[Have you bought something via mail order?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты ждешь какую-то посылку?]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="stig" sound="river0115.mp3">
+      <en><![CDATA[No, I asked my girlfriend Cecily to marry me …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, я сделал своей девушке Сесилии предложение.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="_avatar" sound="river0116.mp3">
+      <en><![CDATA[That’s a big step. I’m impressed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Серьезный шаг. Впечатляет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="_avatar" sound="river0117.mp3">
+      <en><![CDATA[So now you’re waiting for her answer?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И теперь ты ждешь ее ответа?]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="stig" sound="river0118.mp3">
+      <en><![CDATA[Yes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да.]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="stig" sound="river0119.mp3">
+      <en><![CDATA[And while I’m sure she wants to marry me, she is still afraid …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И хотя я уверен, что она хочет за меня выйти, ей все равно страшно...]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="_avatar" sound="river0120.mp3">
+      <en><![CDATA[What’s the story about the ring that you are wearing round your neck?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А что за история с кольцом, которое ты носишь на шее?]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="stig" sound="river0121.mp3">
+      <en><![CDATA[Oh, I got that old insignia ring from my grandfather, Leif Sigmundson, before he went back to Asia.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, это старый перстень-печатка моего деда, Лейфа Зигмундсона. Он отдал его мне перед отъездом в Азию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="stig" sound="river0122.mp3">
+      <en><![CDATA[He told me that the ring will help me to find my special someone someday; because, as he said, friendship and love are the greatest things in life.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сказал, что кольцо однажды поможет мне найти свою суженую. По его словам, дружба и любовь - величайшие сокровища в жизни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="_avatar" sound="river0123.mp3">
+      <en><![CDATA[Well, we shall believe him, shan’t we?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ему стоит поверить, мне кажется.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="_avatar" sound="river0124.mp3">
+      <en><![CDATA[So you will give your girlfriend this ring?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, ты отдашь это кольцо своей девушке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="stig" sound="river0125.mp3">
+      <en><![CDATA[If Cecily agrees to marry me then I will give her this ring ... although it’s a bit shabby, don’t you think?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если Сесилия согласится выйти за меня, то я отдам ей кольцо... Хотя оно, по-моему, крупновато.]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="stig" sound="river0126.mp3">
+      <en><![CDATA[I surely wish I could afford that diamond ring that’s on display in the window of her uncle’s antique store.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, я бы хотел купить ей кольцо с бриллиантом с витрины антикварной лавки ее дяди.]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="stig" sound="river0127.mp3">
+      <en><![CDATA[She always said how much she loved it when we passed by the window.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она всегда им восторгалась, когда мы проходили мимо витрины.]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="river0128.mp3">
+      <en><![CDATA[What was that you said about the insignia ring you wear around your neck? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что ты говорил насчет кольца, которое ты носишь на шее?]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="stig" sound="river0129.mp3">
+      <en><![CDATA[Oh, I got that old insignia ring from my grandfather, Leif Sigmundson, before he went back to Asia.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, это старый перстень-печатка моего деда, Лейфа Зигмундсона. Он отдал его мне перед отъездом в Азию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="stig" sound="river0130.mp3">
+      <en><![CDATA[He told me that the ring will help me to find my special someone someday; because, as he said, friendship and love are the greatest things in life.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сказал, что кольцо однажды поможет мне найти свою суженую. По его словам, дружба и любовь - величайшие сокровища в жизни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="_avatar" sound="river0131.mp3">
+      <en><![CDATA[Well, we shall believe him, shan’t we?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ему стоит поверить, мне кажется.]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="_avatar" sound="river0132.mp3">
+      <en><![CDATA[So you will give your girlfriend this ring?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, ты отдашь это кольцо своей девушке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="stig" sound="river0133.mp3">
+      <en><![CDATA[If Cecily agrees to marry me then I will give her this ring ... although it’s a bit shabby, don’t you think?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если Сесилия согласится выйти за меня, то я отдам ей кольцо... Хотя оно, по-моему, крупновато.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="stig" sound="river0134.mp3">
+      <en><![CDATA[I surely wish I could afford that diamond ring that’s on display in the window of her uncle’s antique store.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, я бы хотел купить ей кольцо с бриллиантом с витрины антикварной лавки ее дяди.]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="stig" sound="river0135.mp3">
+      <en><![CDATA[She always said how much she loved it when we passed by the window.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она всегда им восторгалась, когда мы проходили мимо витрины.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="river0136.mp3">
+      <en><![CDATA[Okay, let me be frank. I’d really like to have your grandfather’s insignia ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Буду с тобой откровенен. Я бы очень хотел получить печатку твоего деда.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="stig" sound="river0137.mp3">
+      <en><![CDATA[... but ... I’m in love with Cecily ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...но... Я люблю Сесилию...]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="stig" sound="river0138.mp3">
+      <en><![CDATA[And ... well, you aren’t really my type ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И... Ну, ты не в моем вкусе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="_avatar" sound="river0139.mp3">
+      <en><![CDATA[No! I mean, I’d like to trade it for something else.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет! В смысле, я готов обменять его на что-нибудь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="_avatar" sound="river0140.mp3">
+      <en><![CDATA[I … collect the insignia rings of the Smith Institute scientists.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я... Я собираю кольца, принадлежавшие ученым из Смитовского института.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="stig" sound="river0141.mp3">
+      <en><![CDATA[Oh I see! I thought you wanted me to propose to you!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Понятно! А я уж подумал, ты мне в женихи набиваешься.]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="stig" sound="river0142.mp3">
+      <en><![CDATA[Well, I’d be willing to give you the ring – assuming that I get a positive answer from Cecily – and if you can get me that diamond ring from her uncle’s store.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я б тебе отдал кольцо, если б точно знал, что Сесилия ответит согласием, и если ты добудешь кольцо с бриллиантом из лавки ее дяди.]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="stig" sound="river0143.mp3">
+      <en><![CDATA[She’d be so happy about it!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она была бы просто счастлива!]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="_avatar" sound="river0144.mp3">
+      <en><![CDATA[I bet she would!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не сомневаюсь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="_avatar" sound="river0145.mp3">
+      <en><![CDATA[Okay, so you need a positive answer from your girlfriend Cecily and that diamond ring from Mr. Caro’s antique store?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, тебе нужен положительный ответ от твоей девушки Сесилии и кольцо с бриллиантом из антикварной лавки мистера Каро?]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="stig" sound="river0146.mp3">
+      <en><![CDATA[Right. Sounds impossible, huh ... ?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Точно. Невыполнимая задача, да?..]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="_avatar" sound="river0147.mp3">
+      <en><![CDATA[Oh well ... just be careful ... once I have that diamond ring I might propose to your girlfriend myself!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну... Ты будь осторожен. Если я заполучу это колечко с бриллиантом, могу ведь и сам сделать предложение твоей девушке!]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="stig" sound="river0148.mp3">
+      <en><![CDATA[... you ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...ты...]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="_avatar" sound="river0149.mp3">
+      <en><![CDATA[Just kidding. Sorry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Шучу. Извини.]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="_avatar" sound="river0150.mp3">
+      <en><![CDATA[What did you say I have to do to get your grandfather’s insignia ring?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так что надо сделать, чтобы получить печатку твоего деда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="stig" sound="river0151.mp3">
+      <en><![CDATA[Well, I’d be willing to give you the ring – assuming that I get a positive answer from Cecily – and if you can get me that diamond ring from her uncle’s store.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я б тебе отдал кольцо, если б точно знал, что Сесилия ответит согласием, и если ты добудешь кольцо с бриллиантом из лавки ее дяди.]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="stig" sound="river0152.mp3">
+      <en><![CDATA[She’d be so happy about it!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она была бы просто счастлива!]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="_avatar" sound="river0153.mp3">
+      <en><![CDATA[By the way, do happen to know where Cecily is right now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кстати, ты, случайно, не знаешь, где сейчас Сесилия?]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="stig" sound="river0154.mp3">
+      <en><![CDATA[I bet she’s sitting in the yard in front of her uncle’s shop. She loves that place. Oh, Cecily ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наверняка сидит во дворе перед лавкой своего дяди. Она обожает это место. О, Сесилия...]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="_avatar" sound="river0155.mp3">
+      <en><![CDATA[Hang in there, Stig …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Держись, Стиг...]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="_avatar" sound="river0156.mp3">
+      <en><![CDATA[About Cecily and your grandfather’s insignia ring ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насчет Сесилии и дедушкиного кольца-печатки...]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="stig" sound="river0157.mp3">
+      <en><![CDATA[She wants to marry me!  I really can’t wait to see her … don’t you think my grandfather’s ring is good enough?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она хочет за меня замуж! Прямо не терпится ее увидеть... Как думаешь, дедовский перстень сгодится?]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="_avatar" sound="river0158.mp3">
+      <en><![CDATA[I’ll get you the diamond ring, just wait a bit longer.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я достану тебе кольцо с бриллиантом, только погоди немного.]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="_avatar" sound="river0159.mp3">
+      <en><![CDATA[I’m sure Cecily would happily wait a little longer if she knew she’ll get that diamond ring that she’s always dreamed about.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не сомневаюсь, что Сесилия с радостью тебя подождет, если будет знать, что получит то самое кольцо с бриллиантом, о котором мечтала.]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="stig" sound="river0160.mp3">
+      <en><![CDATA[Okay ... but hurry up!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно... Только поспеши!]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="_avatar" sound="river0161.mp3">
+      <en><![CDATA[My father worked at the Smith Institute. Do you know anything about that place?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мой отец работал в Смитовском институте. Тебе известно что-нибудь об этом месте?]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="stig" sound="river0162.mp3">
+      <en><![CDATA[My grandfather worked there too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мой дед там тоже работал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="stig" sound="river0163.mp3">
+      <en><![CDATA[He left Ravenhollow right after the Institute closed five years ago. He never talked about his work ... he was a bit strange, but a brilliant man as far as I can tell. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он уехал из Рэйвенхоллоу пять лет назад, сразу после того, как закрыли институт. Он никогда не говорил о своей работе... Странным был, но, насколько я могу судить, исключительным человеком.]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="stig" sound="river0164.mp3">
+      <en><![CDATA[Were you and your father close?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы с отцом были близки?]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="_avatar" sound="river0165.mp3">
+      <en><![CDATA[I didn’t really know him. I guess his work was much more important to him than his family ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да я его толком и не знал. Думаю, что работа для него была гораздо важнее семьи...]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="_avatar" sound="river0166.mp3">
+      <en><![CDATA[That’s why my mother and I left Ravenhollow when I was a kid.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поэтому мы с мамой и уехали из Рэйвенхоллоу, когда я был еще маленьким.]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="_avatar" sound="river0167.mp3">
+      <en><![CDATA[Did you known my father, by chance?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А моего отца ты, случайно, не знал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="stig" sound="river0168.mp3">
+      <en><![CDATA[No, not really. I’m sorry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, не знал. Извини.]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="stig" sound="river0169.mp3">
+      <en><![CDATA[I heard that he grew depressed after the Institute closed down.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я слышал, он после закрытия института впал в депрессию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="stig" sound="river0170.mp3">
+      <en><![CDATA[He took long hiking trips into the mountains or stayed in his house most of the time. I believe that’s why it took so long for any of us to notice that he hadn’t returned from his last hike.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Устраивал себе продолжительные прогулки в горах, или наоборот, сидел дома. Думаю, поэтому-то никто из нас сразу и не заметил, что из последней прогулки он не вернулся.]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="_avatar" sound="river0171.mp3">
+      <en><![CDATA[Well ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это...]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="stig" sound="river0172.mp3">
+      <en><![CDATA[I’m sorry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сожалею.]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="_avatar" sound="river0173.mp3">
+      <en><![CDATA[Don’t worry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ничего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="_avatar" sound="river0174.mp3">
+      <en><![CDATA[I just wonder if he ever regretted that my mother and I left him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне просто интересно, сожалел ли он о том, что мы с мамой ушли от него.]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="_avatar" sound="river0175.mp3">
+      <en><![CDATA[You mentioned your father being down at the docks...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты говорил, что твой отец сейчас в порту...]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="stig" sound="river0176.mp3">
+      <en><![CDATA[Indeed, my father is Lars Sigmundson. He's at the end of the harbor pier most nights.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, мой отец - Ларс Зигмундсон. Обычно по вечерам он сидит на самом конце причала.]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="_avatar" sound="river0177.mp3">
+      <en><![CDATA[He's a fisherman?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он рыбак?]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="stig" sound="river0178.mp3">
+      <en><![CDATA[Yes, he and I are both great fishermen. Of course, we don't fish much now that the Castle confiscates our catch.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, мы с ним оба отличные рыболовы. Конечно, сейчас, когда весь улов конфискует замок, мы нечасто рыбачим.]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="_avatar" sound="river0179.mp3">
+      <en><![CDATA[Well at least that leaves you more time on land to pine over your love life.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, у тебя хотя бы есть время заниматься делами сердечными.]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="stig" sound="river0180.mp3">
+      <en><![CDATA[Hey, I don't pine! I'd be out fishing right now if I could... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Какими еще делами? Да если б мог, я б уже вовсю рыбачил...]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="stig" sound="river0181.mp3">
+      <en><![CDATA[Cecily and her mother are always looking for fresh fish to make their famous fish stew ... if only I could provide that for them ... for her.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сесилия и ее мать всегда ждут свежей рыбы для своей знаменитой ухи... Если б я только мог добыть ее для них... Для нее...]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="_avatar" sound="river0182.mp3">
+      <en><![CDATA[Ahem ... that would be pining.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кхм. Это и есть дела сердечные.]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="stig" sound="river0183.mp3">
+      <en><![CDATA[Oh.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А.]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="_avatar" sound="river0184.mp3">
+      <en><![CDATA[I gotta go. Have a nice evening.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне пора. Всего хорошего.]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="stig" sound="river0185.mp3">
+      <en><![CDATA[You too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И тебе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+  </d>
+</localize>

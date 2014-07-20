@@ -1,0 +1,26 @@
+nora,intro,Who are you?
+nora,intro,What do you want from me?
+vincent,intro,"Don't worry, I just want to know ..."
+vincent,intro,What makes you tick?
+narrator,intro,"The next day, a young man's adventure will begin."
+narrator,intro,Here he comes.
+narrator,intro,This young man's name is Nigel Trelawney.
+narrator,intro,"Upon receiving notice of his father's death, Nigel has traveled to the town of Ravenhollow."
+narrator,intro,He has come to settle his father's estate.
+narrator,intro,"However, Nigel will soon discover that the shadow of a nearby castle has fallen over this small town and its inhabitants."
+narrator,intro,Little does Nigel expect that his quest may yet shape the fate of a kidnapped girl and all of Ravenhollow.
+narrator,intro,"... or that along his path, adventure awaits him."
+wavetamer,fishing,Ahoy Nigel! Here is what you need to know ...
+wavetamer,fishing,A common bass is worth up to 10 coins.
+wavetamer,fishing,Golden breams are worth 50 coins!
+wavetamer,fishing,"To catch a fish, place your hook under its mouth and then pull it up into my net."
+wavetamer,fishing,"Beware of jellyfish! They'll stun a fish on your line, and catching one will spoil part of our catch."
+wavetamer,fishing,"Time is money! The faster you can pull fish into my net, the more they're worth."
+wavetamer,fishing,You have 30 seconds to catch all the fish you can. Catch 300 coins worth of fish and the take is yours!
+wavetamer,fishing,Get Ready!
+wavetamer,fishing,Fish!
+wavetamer,fishing,Time Up!
+narrator,global,Act1: A Warm Welcome at Ravenhollow Harbor
+narrator,global,Act2: The Castle's Challenge
+narrator,global,Act3: Specters of the Past
+narrator,global,Act4: A Stitch in Time

@@ -1,0 +1,2598 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[outside]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[улица]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[outside]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[улица]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[ring]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Позвонить:]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[ring]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Позвонить:]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[hammock]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[гамак]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[hammock]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[гамак]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[fishing leader end]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[кончик подлеска]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[mill shaft]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[вал мельницы]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[hook]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[крюк]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[hook]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[крюк]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[Henry LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Анри Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[Henry LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Анри Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[Henry LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Анри Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[wine glass]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[бокал для вина]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[broken wine glass]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разбитый бокал для вина]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[broken wine glass]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разбитый бокал для вина]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[remote control]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[пульт дистанционного управления]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="outside">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="outside">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="outside">
+      <en><![CDATA[Go]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идти:]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="outside">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="outside">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="outside">
+      <en><![CDATA[Go]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Идти:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v6 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v6>
+    <v7 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="ring">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v10 noun="ring">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v10>
+    <v11 noun="ring">
+      <en><![CDATA[Pull]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тянуть]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v16 noun="ring">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="ring">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="ring">
+      <en><![CDATA[Pull]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тянуть]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="hammock">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="hammock">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="hammock">
+      <en><![CDATA[Sleep in]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зарыться спать]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="hammock">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="hammock">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="hammock">
+      <en><![CDATA[Sleep in]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зарыться спать]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="hammock">
+      <en><![CDATA[lastnap]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Последний раз вздремнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="fishing leader end">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="fishing leader end">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="fishing leader end">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="mill shaft">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="mill shaft">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="mill shaft">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v37 noun="hook">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v38 noun="hook">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v38>
+    <v39 noun="hook">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v39>
+    <v42 noun="hook">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="hook">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="hook">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v45 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v45>
+    <v46 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v46>
+    <v47 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v47>
+    <v48 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v48>
+    <v49 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Poke]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ткнуть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v57 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="Henry LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="wine glass">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="wine glass">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="wine glass">
+      <en><![CDATA[Clean up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Убрать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v65 noun="broken wine glass">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="broken wine glass">
+      <en><![CDATA[Drink from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Выпить содержимое:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="broken wine glass">
+      <en><![CDATA[Take ring from]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Принять кольцо от:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v68 noun="broken wine glass">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v68>
+    <v69 noun="broken wine glass">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="broken wine glass">
+      <en><![CDATA[Clean up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Убрать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v72 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v72>
+    <v73 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="remote control">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="remote control">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="remote control">
+      <en><![CDATA[Take]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Взять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v79 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v79>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c12 noun="ring" item="fishing_leader">
+      <en><![CDATA[Hook #item# onto #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Повесить #item# на #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c12>
+    <c13 noun="ring" item="crowbar">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c13>
+    <c14 noun="ring" item="metal_hook">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c14>
+    <c15 noun="ring" item="wrench">
+      <en><![CDATA[Pry #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отодрать при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c15>
+    <c35 noun="mill shaft" item="fishing_leader2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c35>
+    <c36 noun="mill shaft" item="metal_hook">
+      <en><![CDATA[Install #item# on #noun#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: установить предмет (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c36>
+    <c40 noun="hook" item="fishing_leader">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c40>
+    <c41 noun="hook" item="fishing_leader2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c41>
+    <c54 noun="Henry LeMue LaFayette" item="remote">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c54>
+    <c55 noun="Henry LeMue LaFayette" item="remote2">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c55>
+    <c56 noun="Henry LeMue LaFayette" item="remote3">
+      <en><![CDATA[Ask #noun# about #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#item#: спросить персонажа #noun#]]></ru>
+      <es><![CDATA[]]></es>
+    </c56>
+    <c63 noun="wine glass" item="whiskey">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c63>
+    <c64 noun="wine glass" item="kettle2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c64>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="mill0000.mp3">
+      <en><![CDATA[I can see the Uncle Slappy’s zeppelin. It looks even more impressive from down here!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Отсюда видно дирижабль дяди Слаппи. Впечатляет, даже издалека!]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="mill0001.mp3">
+      <en><![CDATA[No way ... While I hate to admit it, I have a case of vertigo.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ни за что ... как ни стыдно в этом признаваться, но у меня кружится голова. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="mill0002.mp3">
+      <en><![CDATA[Uncle Slappy’s zeppelin is gone.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дирижабль дяди Слаппи исчез.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="mill0003.mp3">
+      <en><![CDATA[No way ... While I hate to admit it, I have a case of vertigo.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ни за что ... как ни стыдно в этом признаваться, но у меня кружится голова. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="mill0004.mp3">
+      <en><![CDATA[Hey! There’s an insignia ring stuck between the stones above this hammock!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ага! Между камнями над гамаком засунут перстень.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="mill0005.mp3">
+      <en><![CDATA[Hmm. It doesn’t move. It’s stuck.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хм-м, застряло.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="mill0006.mp3">
+      <en><![CDATA[I will tie one end of the fishing leader to the ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Привяжу один конец подлеска к перстню.]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="mill0007.mp3">
+      <en><![CDATA[Wowzers ... that ring is really wedged in there!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дьявол... перстень застрял намертво.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="mill0008.mp3">
+      <en><![CDATA[Even the leverage from the crowbar couldn’t budge it!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Его даже ломиком не выворотить!]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="mill0009.mp3">
+      <en><![CDATA[Sheesh ... that ring is really stuck in there!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Черт ... чем же его достать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="mill0010.mp3">
+      <en><![CDATA[The leverage from the hook didn’t make it budge!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Одного крюка не хватает!]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="mill0011.mp3">
+      <en><![CDATA[Useless ... the wrench doesn’t have enough torque to make it budge.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бесполезно... ключ не создает достаточного усилия.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="mill0012.mp3">
+      <en><![CDATA[I’ve hooked Lars Sigmundson’s super-strong fishing leader onto the insignia ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я зацепил перстень супер-прочным подлеском Ларса Зигмундсона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="mill0013.mp3">
+      <en><![CDATA[It still doesn’t move.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Все равно не поддается.]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="mill0014.mp3">
+      <en><![CDATA[Uncle Slappy said that I could use his hammock. It looks quite comfortable. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя Слаппи разрешил полежать в его гамаке. Он такой удобный на вид.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="mill0015.mp3">
+      <en><![CDATA[I think I’ll have a nap.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вздремну-ка я, пожалуй.]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="mill0016.mp3">
+      <en><![CDATA[It’s unbelievable how tired you get from running around and searching for insignia rings all day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы не поверите, как утомительно целый день бегать искать перстни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="mill0017.mp3">
+      <en><![CDATA[Uncle Slappy said that I could use his hammock. It looks quite comfortable. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя Слаппи разрешил полежать в его гамаке. Он такой удобный на вид.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="mill0018.mp3">
+      <en><![CDATA[No time for sleeping! I finally have all nine insignia rings!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не время спасть! Все девять перстней наконец-то у меня!]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="mill0019.mp3">
+      <en><![CDATA[Unbelievable how tired you get from running around and searching insignia rings all day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы не поверите, как утомительно целый день бегать искать перстни.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="mill0020.mp3">
+      <en><![CDATA[That’s the other end of the fishing leader that I tied to Steven LeMue LaFayette’s insignia ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это конец подлеска, который я привязал к перстню Стивена Лемю Лафайетта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="mill0021.mp3">
+      <en><![CDATA[Okay, what shall I do with this end of the fishing leader?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, а с этим концом подлеска что делать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="mill0022.mp3">
+      <en><![CDATA[Quite impressive how this mill turns the wind into raw torque.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Впечатляет, как мельница превращает силу ветра в крутящий момент.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="mill0023.mp3">
+      <en><![CDATA[... I wonder how I could utilize that power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... как бы эту силу использовать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="mill0024.mp3">
+      <en><![CDATA[This mill shaft needs something to hook onto before I can harness any of its torque.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чтобы задействовать вращающий момент вала, нужно чем-то его зацепить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="mill0025.mp3">
+      <en><![CDATA[I can’t tie this end of the fishing leader directly to the rotating mill shaft.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не могу привязать этот конец подлеска прямо к вращающемуся валу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="mill0026.mp3">
+      <en><![CDATA[I need some kind of hook to attach it to.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нужен какой-нибудь крюк.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="mill0027.mp3">
+      <en><![CDATA[I’ll screw the hook into the mill shaft.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я вкручу этот крюк в мельничный вал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="mill0028.mp3">
+      <en><![CDATA[My metal hook is now rotating with the mill shaft.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь мой металлический крюк вращается вместе с мельничным валом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="_avatar" sound="mill0029.mp3">
+      <en><![CDATA[It was hard enough to get the hook in there while the shaft was turning.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Его и вставить-то в крутящийся вал было трудно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="mill0030.mp3">
+      <en><![CDATA[If nothing else Uncle Slappy could use the hook to hang his coat on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В конце концов Дядя Слаппи сможет вешать на него пальто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="mill0031.mp3">
+      <en><![CDATA[Then again, it would probably drive him nuts to see his coat rotating in the middle of the room all day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотя, вид постоянно вращающегося пальто, наверное, способен свести с ума.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="mill0032.mp3">
+      <en><![CDATA[Interesting idea, but I think it would make more sense to start with the ring first.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересная идея, но разумней будет начать с перстня.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="mill0033.mp3">
+      <en><![CDATA[Okay, let’s see if this will get the ring from the wall!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, теперь посмотрим, удастся ли выдернуть перстень из стены.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="slappy" sound="mill0034.mp3">
+      <en><![CDATA[Wha ... what was that!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что... что это было?!]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="slappy" sound="mill0035.mp3">
+      <en><![CDATA[Oh, it’s just you, Nigel. It’s so nice to have kids around the house again!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А, Найджел, это всего лишь ты. Хорошо, когда в доме снова есть дети!]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="mill0036.mp3">
+      <en><![CDATA[Sorry, Uncle Slappy!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Извини, дядя Слаппи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="_avatar" sound="mill0037.mp3">
+      <en><![CDATA[Holy smoke!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Господи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="_avatar" sound="mill0038.mp3">
+      <en><![CDATA[My metal hook is now rotating with the mill shaft.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь мой металлический крюк вращается вместе с мельничным валом.]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="_avatar" sound="mill0039.mp3">
+      <en><![CDATA[It was hard enough to get the hook in there while the shaft was turning.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Его и вставить-то в крутящийся вал было трудно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="_avatar" sound="mill0040.mp3">
+      <en><![CDATA[If nothing else Uncle Slappy could use the hook to hang his coat on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В конце концов Дядя Слаппи сможет вешать на него пальто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="_avatar" sound="mill0041.mp3">
+      <en><![CDATA[Then again, it would probably drive him nuts to see his coat rotating in the middle of the room all day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хотя, вид постоянно вращающегося пальто, наверное, способен свести с ума.]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="_avatar" sound="mill0042.mp3">
+      <en><![CDATA[Good old Uncle Slappy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Старый добрый дядя Слаппи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="_avatar" sound="mill0043.mp3">
+      <en><![CDATA[I haven’t seen him in over twenty years and yet he feels like family.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Двадцать лет его не видел, а все равно как родной.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="_avatar" sound="mill0044.mp3">
+      <en><![CDATA[Uncle Slappy?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя Слаппи?]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="slappy" sound="mill0045.mp3">
+      <en><![CDATA[Oh ... I must have dozed off.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А... я задремал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="_avatar" sound="mill0046.mp3">
+      <en><![CDATA[Can I talk to you for a minute?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Можно с тобой поговорить?]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="slappy" sound="mill0047.mp3">
+      <en><![CDATA[Sure, Nigel! What’s on your mind?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно! В чем дело?]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="_avatar" sound="mill0048.mp3">
+      <en><![CDATA[I’ll let him sleep.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пусть спит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="_avatar" sound="mill0049.mp3">
+      <en><![CDATA[What was this remote control again, Uncle Slappy?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя, так что это за пульт управления?]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="slappy" sound="mill0050.mp3">
+      <en><![CDATA[Huh ... What? Oh, that old thing? That’s a multi-purpose remote control that I built back in the Institute days.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А... чего? Это старье? Это не простой пульт, а многофункциональный - я его еще в институте собрал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="_avatar" sound="mill0051.mp3">
+      <en><![CDATA[A multi-purpose remote control, hu? That sounds useful.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Многофункциональный пульт? Полезная, наверное, штука.]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="slappy" sound="mill0052.mp3">
+      <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А то... хотя твой папаша и профессор Смит мне за него такую выволочку устроили, что не приведи боже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="_avatar" sound="mill0053.mp3">
+      <en><![CDATA[Why was that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А что так?]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="slappy" sound="mill0054.mp3">
+      <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you were expecting.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да я его запрограммировал на управление почти всем оборудованием в Смитовском институте... и он иногда включал не только то, что нужно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="slappy" sound="mill0055.mp3">
+      <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector while standing beside one of my experimental hot air balloons.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Помнится, твой отец однажды хотел включить молниеприемник, а сам при этом стоял рядом с моим экспериментальным воздушным шаром.]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="slappy" sound="mill0056.mp3">
+      <en><![CDATA[Hehehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat and launched my crash-test dummy into his face. Imagine his surprise!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хе-хе... бедный Энтони. От пульта на шаре сработала катапульта, и испытательный манекен выбросило прямо на него. Представляешь, как он удивился! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="_avatar" sound="mill0057.mp3">
+      <en><![CDATA[Ha ha ... good story.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ха-ха ... забавно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="mill0058.mp3">
+      <en><![CDATA[Poor Uncle Slappy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Бедный дядя Слаппи.]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="_avatar" sound="mill0059.mp3">
+      <en><![CDATA[We need to get back his zeppelin!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нужно вернуть его дирижабль!]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="_avatar" sound="mill0060.mp3">
+      <en><![CDATA[Uncle Slappy?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя Слаппи?]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="slappy" sound="mill0061.mp3">
+      <en><![CDATA[These men just stormed into the mill and took my zeppelin!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Эти гориллы ворвались ко мне на мельницу и увели мой дирижабль!]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="slappy" sound="mill0062.mp3">
+      <en><![CDATA[They said they were working for the Baron and that they’d confiscate my zeppelin because I helped to recover that statue from the river.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сказали, что работают на барона и конфискуют мой дирижабль за то, что я помогал вытаскивать ту статую из реки.]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="slappy" sound="mill0063.mp3">
+      <en><![CDATA[I’m lost without my zeppelin … and I fear that she’s lost without me. If they do something to my zeppelin …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне так грустно без дирижабля... как и ему без меня. Если они его хоть пальцем тронут...]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="_avatar" sound="mill0064.mp3">
+      <en><![CDATA[We will find a way to get it back! It’s my fault after all ... I asked you to help me with the statue.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы его вернем, вот увидите! Я чувствую себя виноватым ... это же я попросил вас помочь мне со статуей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="slappy" sound="mill0065.mp3">
+      <en><![CDATA[It’s not your fault, Nigel! Never think that it was your fault!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не говори ерунды! Ты тут ни при чем!]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="slappy" sound="mill0066.mp3">
+      <en><![CDATA[Oh ... and for some reason the men who took my zeppelin left this for you.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кстати, эти, которые увели мой дирижабль, оставили тебе письмо.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="_avatar" sound="mill0067.mp3">
+      <en><![CDATA[The castle guards gave you a letter with my name on it? What the heck is that about?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Письмо мне от замковской стражи? И как это понимать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="_avatar" sound="mill0068.mp3">
+      <en><![CDATA[Well, let’s see who’s writing me ... This envelope only contains a small object ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну, поглядим, кто мне пишет... в конверте что-то есть...]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="_avatar" sound="mill0069.mp3">
+      <en><![CDATA[Hey! It is Vincent Goodchild’s insignia ring!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ишь ты! Перстень Винсента Гудчайлда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="_avatar" sound="mill0070.mp3">
+      <en><![CDATA[Who wants me to have this ring? Is the Baron secretly trying to help me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто бы мог мне его послать? Или барон втайне меня поддерживает?]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="mill0071.mp3">
+      <en><![CDATA[I have to bring the rings to Lionstone the lawyer … finally I can claim my father’s heritage!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нужно отнести перстни Лайнстону... наконец-то я смогу получить отцовское наследство!]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="mill0072.mp3">
+      <en><![CDATA[On the other hand ... I think I need a nap first.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С другой стороны ... и вздремнуть бы не мешало.]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="mill0073.mp3">
+      <en><![CDATA[Looks like Uncle Slappy had been drinking wine when he stayed here last time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, что дядя Слаппи налегал на вино, когда был здесь в прошлый раз.]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="mill0074.mp3">
+      <en><![CDATA[Uncle Slappy will be able to take care of that himself I’m sure.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя Слаппи сам с этим разберется.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="mill0075.mp3">
+      <en><![CDATA[Besides I don’t even see a sink around here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[К тому же здесь и раковины-то нет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="mill0076.mp3">
+      <en><![CDATA[No. We all have to keep a clear mind as long as Lowell Cain is terrorizing Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Пока Лоуэлл Кейн терроризирует Рейвенхоллоу, мы все должны сохранять ясность рассудка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="mill0077.mp3">
+      <en><![CDATA[I don’t think Uncle Slappy should drink water from this rusty kettle ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дяде Слаппи не годится пить из такого ржавого чайника.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="mill0078.mp3">
+      <en><![CDATA[Steven LeMue LaFayette’s insignia ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Перстень Анри Лемю Лафайетта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="mill0079.mp3">
+      <en><![CDATA[Finally!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Наконец-то!]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="mill0080.mp3">
+      <en><![CDATA[That sounds like an excellent way to get a bloody lip. I think I’ll pass.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[То что надо, если хочешь губы порезать@@@. Я пас.]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="mill0081.mp3">
+      <en><![CDATA[Here we go! I have Steven LeMue LaFayette’s insignia ring.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну вот! Перстень Анри Лемю Лафайетта у меня.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="mill0082.mp3">
+      <en><![CDATA[And here I was starting to think that my quest was hopeless ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А я-то уж было начал терять надежду...]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="mill0083.mp3">
+      <en><![CDATA[Oh man ... I really made a mess here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ой ... ну и бардак.]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="mill0084.mp3">
+      <en><![CDATA[I will do that later.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я потом этим займусь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="mill0085.mp3">
+      <en><![CDATA[I promise!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Обещаю!]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="_avatar" sound="mill0086.mp3">
+      <en><![CDATA[What’s this remote control over here, Uncle Slappy?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дядя Слаппи, а что это здесь за пульт такой?]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="slappy" sound="mill0087.mp3">
+      <en><![CDATA[Oh, sorry Nigel. I must have nodded off there for a minute.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Извини, Найджел. Я, должно быть, задремал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="slappy" sound="mill0088.mp3">
+      <en><![CDATA[That old thing? That’s a multi-purpose remote control that I built back in the Institute days.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это старье? Это не простой пульт, а многофункциональный - я его еще в институте собрал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="_avatar" sound="mill0089.mp3">
+      <en><![CDATA[A multi-purpose remote control, hu? That sounds useful.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Многофункциональный пульт? Полезная, наверное, штука.]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="slappy" sound="mill0090.mp3">
+      <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А то... хотя твой папаша и профессор Смит мне за него такую выволочку устроили, что не приведи боже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="mill0091.mp3">
+      <en><![CDATA[Really? Why?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Серьезно? А что так?]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="slappy" sound="mill0092.mp3">
+      <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you were expecting.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да я его запрограммировал на управление почти всем оборудованием в Смитовском институте... и он иногда включал не только то, что нужно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="slappy" sound="mill0093.mp3">
+      <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector while standing beside one of my experimental hot air balloons.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Помнится, твой отец однажды хотел включить молниеприемник, а сам при этом стоял рядом с моим экспериментальным воздушным шаром.]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="slappy" sound="mill0094.mp3">
+      <en><![CDATA[Hehehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat and launched my crash-test dummy into his face. Imagine his surprise!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хе-хе... бедный Энтони. От пульта на шаре сработала катапульта, и испытательный манекен выбросило прямо на него. Представляешь, как он удивился! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="_avatar" sound="mill0095.mp3">
+      <en><![CDATA[Do you mind if I borrow the remote?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Можно его позаимствовать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="slappy" sound="mill0096.mp3">
+      <en><![CDATA[Not at all! Go ahead and take it. I’ll just continue reading ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да пожалуйста. Я пока почитаю ...]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="slappy" sound="mill0097.mp3">
+      <en><![CDATA[So it was really you who radioed me yesterday!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так это ты мне вчера радировал!]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="slappy" sound="mill0098.mp3">
+      <en><![CDATA[You really must be Nigel Trelawney … your father couldn’t control his mathematical reflex either …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты точно Найджел Трелони... отец твой вот так же с лету на вопросы по математике отвечал... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="_avatar" sound="mill0099.mp3">
+      <en><![CDATA[Well, good to know. It always frustrates me when someone pulls that trick on me …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это обнадеживает. А то я всегда терпеть не мог, когда надо мной так подшучивали...]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="slappy" sound="mill0100.mp3">
+      <en><![CDATA[You know, you really don’t look a bit like your old man. That’s a blessing for you! Hahaha!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А знаешь, ты совсем на своего старика не похож. Считай, что тебе здорово повезло. Ха-ха!]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="mill0101.mp3">
+      <en><![CDATA[You think so?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Думаете?]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="slappy" sound="mill0102.mp3">
+      <en><![CDATA[Nigel, don’t you recognize me? No, of course not, you and your mother left Ravenhollow more than …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел, ты меня не узнаешь? Ну еще бы, вы с матерью уехали из Рейвенхоллоу больше...]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="_avatar" sound="mill0103.mp3">
+      <en><![CDATA[Twenty years ago … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[двадцати лет назад...]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="slappy" sound="mill0104.mp3">
+      <en><![CDATA[Has it been that long already? Well then of course you wouldn’t remember how I rocked you on my knee when you were five and we sang &quot;Old MacDonald had a farm&quot; together …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Неужто так давно? Ну тогда ты, конечно, не помнишь, как я качал тебя пятилетнего на коленке, и мы распевали песенку про ферму старика Макдональда.]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="mill0105.mp3">
+      <en><![CDATA[Old MacDonald? … Wait a minute, are you … Uncle Slappy?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Макдональда? ... Минуточку, так вы... дядя Слаппи?]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="slappy" sound="mill0106.mp3">
+      <en><![CDATA[Yes! Henry &quot;Slappy&quot; LeMue LaFayette … or, as I’m known in many other parts of the world: &quot;the Zeppelin Man&quot;. Hahaha.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он самый! Анри Лемю Лафайетт, он же &quot;Слаппи&quot;, он же известен по всему миру как &quot;Воздухоплаватель&quot;. Ха-ха.]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="slappy" sound="mill0107.mp3">
+      <en><![CDATA[So you must have sent out that radio message from your father’s house … I came back here in my zeppelin as soon as I received the transmission …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Значит, ты послал мне сообщение по радио из отцовского дома... Я прилетел, как только получил его...]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="slappy" sound="mill0108.mp3">
+      <en><![CDATA[I haven’t been in Ravenhollow for more than nine months … I left shortly after your father … er, well … after we lost him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не был в Рейвенхоллоу больше девяти месяцев... я уехал вскоре после того, как твой отец...ну... после того, как мы его потеряли.]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="slappy" sound="mill0109.mp3">
+      <en><![CDATA[Give me just a minute ... I need to get this pilot cap off my head.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Подожди-ка...я только сниму шлем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="slappy" sound="mill0110.mp3">
+      <en><![CDATA[Ah, that’s much better.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вот, другое дело.]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="slappy" sound="mill0111.mp3">
+      <en><![CDATA[I guess you have a lot of questions, Nigel ... but before I forget. Your father wanted you to have this:]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У тебя, наверное, полно вопросов, Найджел... но пока я не забыл. Твой отец просил тебе передать:]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="_avatar" sound="mill0112.mp3">
+      <en><![CDATA[A locket?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Медальон?]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="slappy" sound="mill0113.mp3">
+      <en><![CDATA[Your father gave it to me shortly before he ... passed away. He told me he wanted you to have this.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он дал мне его не задолго до смерти. И просил передать тебе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="slappy" sound="mill0114.mp3">
+      <en><![CDATA[Now, what were we talking about?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так о чем мы говорили?]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="_avatar" sound="mill0115.mp3">
+      <en><![CDATA[You used to work with my father, didn’t you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы работали вместе с отцом?]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="slappy" sound="mill0116.mp3">
+      <en><![CDATA[Oh yes! Those were quite the times back at the Smith Institute!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[О, да! Славные то были деньки!]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="slappy" sound="mill0117.mp3">
+      <en><![CDATA[There was no problem that could not be solved by the nine of us, and no goal that could not be reached … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не было такой задачи, которую мы девятеро не могли бы решить, цели, которую мы не могли бы достигнуть...]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="slappy" sound="mill0118.mp3">
+      <en><![CDATA[However, in the end we were forcefully reminded that our developments might not only be used to help humanity but also to gain political power and harm the innocent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Однако, в конце концов, реальность жестоко напомнила нам о том, что наши достижения могут не только служить на благо человечества, что в алчных руках они могут приносить страдания и беды.]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="_avatar" sound="mill0119.mp3">
+      <en><![CDATA[Again about Dad and the Smith Institute ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насчет отца и смитовского института...]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="_avatar" sound="mill0120.mp3">
+      <en><![CDATA[Did you know my father well? He never tried to contact my mother and I …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы хорошо знали отца? Он не общался с матерью, а я...]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="slappy" sound="mill0121.mp3">
+      <en><![CDATA[Anthony was a good friend of mine. And I can tell you that he regretted losing you and your mother every day.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони был мне верным другом. Можешь мне поверить, он каждый день сожалел о разлуке с тобой и с твоей матерью.]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="slappy" sound="mill0122.mp3">
+      <en><![CDATA[She was right to leave with you, Nigel … Your father was never what you might call a &quot;family man&quot;. Maybe that’s why he moved out here to Ravenhollow in the first place.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Она правильно сделала, что сбежала вместе с тобой, Найджел... Твоего отца нельзя было назвать образцовым семьянином. Может, потому он и переехал в Рейвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="slappy" sound="mill0123.mp3">
+      <en><![CDATA[But he loved you and your mother. Unfortunately, he didn’t realize at the time that he spent too much time working and not enough time caring for his family. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Но он любил вас с матерью. К несчастью, он тогда не понимал, что уделяет слишком много времени работе в ущерб семье.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="slappy" sound="mill0124.mp3">
+      <en><![CDATA[Only after it was too late did he realize that it had been his own fault that he lost you two, but he didn’t dare to go after you … he wasn’t sure if he could ever really become a better father or husband. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Только когда было уже поздно, он понял, что потерял вас по собственной вине, но ехать за вами не посмел ... он не был уверен, что из него когда-нибудь получится хороший отец или муж.]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="_avatar" sound="mill0125.mp3">
+      <en><![CDATA[Do you know how my father died?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы знаете, как умер отец?]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="slappy" sound="mill0126.mp3">
+      <en><![CDATA[Anthony spent most of his time at home after the Institute was closed down.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После закрытия института Энтони большую часть времени проводил дома.]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="slappy" sound="mill0127.mp3">
+      <en><![CDATA[He became very reclusive and I only saw him from time to time … he began to take day-long hiking trips off into the mountains. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он стал настоящим затворником, и мы редко виделись ... а еще он начал уходить на целые дни в горы.]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="slappy" sound="mill0128.mp3">
+      <en><![CDATA[One day he didn’t return … we found his hiking gear later in a very dangerous area.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Однажды он не вернулся ... а его снаряжение мы потом нашли в одном очень опасном районе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="slappy" sound="mill0129.mp3">
+      <en><![CDATA[I’m afraid he died in a thunderstorm … he probably fell into one of the deep ravines up there … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, он погиб во время грозы ... наверное, свалился в глубокое ущелье - их там много...]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="slappy" sound="mill0130.mp3">
+      <en><![CDATA[I’m very sorry to have to tell you all this, Nigel. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне так жаль, что приходится тебе это рассказывать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="_avatar" sound="mill0131.mp3">
+      <en><![CDATA[Why did the Smith Institute close down five years ago?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Почему смитовский институт закрыли пять лет назад?]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="slappy" sound="mill0132.mp3">
+      <en><![CDATA[As I said ... we realized that many of our ground-breaking inventions might be misused, so we decided to abandon our research and destroy most of the prototypes and research plans.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как я уже сказал, мы поняли, что в нечистых руках наши грандиозные изобретения могут натворить немало бед, поэтому мы решили прервать исследования...]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="slappy" sound="mill0133.mp3">
+      <en><![CDATA[… this way we would avoid having them fall into the wrong hands.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... уничтожили большинство прототипов и научных планов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="_avatar" sound="mill0134.mp3">
+      <en><![CDATA[You destroyed all of your research? Was there a specific reason that you decided to take these drastic measures?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы уничтожили все свои исследования? Была какая-то конкретная причина принять столь радикальные меры?]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="slappy" sound="mill0135.mp3">
+      <en><![CDATA[Actually … yes.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вообще-то... да.]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="slappy" sound="mill0136.mp3">
+      <en><![CDATA[One of our nine scientists was a man named Vincent Goodchild.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И называлась она Винсент Гудчайлд, один из основателей института.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="slappy" sound="mill0137.mp3">
+      <en><![CDATA[Vincent proposed that we use our inventions to overthrow the government and to steal money … he told us that superior minds should hold superior positions in our society.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсент предлагал использовать наши изобретения для воровства и захвата власти ... по его словам, наш исключительный интеллект давал нам право на верховное положение в обществе.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="_avatar" sound="mill0138.mp3">
+      <en><![CDATA[So, what did you do?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И как вы поступили?]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="slappy" sound="mill0139.mp3">
+      <en><![CDATA[Why, we threw him out of the Institute of course! However, we could not be rid of Vincent that easily.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Само собой, мы вышвырнули его из института! Но избавиться от Винсента оказалось не так уж легко.]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="slappy" sound="mill0140.mp3">
+      <en><![CDATA[He lingered around Ravenhollow and watched our work from the shadows. No matter what security measures we took, we could not protect our research from his cunning presence.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он остался в Рейвенхоллоу и продолжил шпионить за нами. Какие бы меры безопасности мы не предпринимали, мы не могли избавиться от его внимания.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="slappy" sound="mill0141.mp3">
+      <en><![CDATA[Locks were broken, plans were stolen, and it eventually became clear that Vincent would go to any lengths to obtain our knowledge and power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он взламывал любые замки, воровал наши планы. В конце концов стало ясно, что Винсент ни перед чем не остановится ради наших секретов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="slappy" sound="mill0142.mp3">
+      <en><![CDATA[My colleagues and I finally agreed that it was only a matter of time before he would make a move to take our inventions by force … so we decided to close the Institute and destroy the prototypes of our most important developments.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы поняли, что рано или поздно он попытается завладеть нашими изобретениями силой... и мы решили закрыть институт и уничтожить прототипы самых важных разработок. ]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="slappy" sound="mill0143.mp3">
+      <en><![CDATA[Most of my colleagues left Ravenhollow shortly thereafter ... they dispersed around the world where they hoped Vincent would never find them.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вскоре после этого большинство моих коллег покинули Рейвенхоллоу... они разъехались по всему свету, в надежде что Винсент их не найдет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="_avatar" sound="mill0144.mp3">
+      <en><![CDATA[Have you heard from Dr. Coppelius? I think I saw him earlier …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вы не виделись с доктором Коппелиусом? Я его недавно встречал...]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="slappy" sound="mill0145.mp3">
+      <en><![CDATA[William Coppelius? What’s he doing here?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Уильям Коппелиус? А он что здесь делает?]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="_avatar" sound="mill0146.mp3">
+      <en><![CDATA[I believe he was arrested and taken to the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Его арестовали и забрали в замок.]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="slappy" sound="mill0147.mp3">
+      <en><![CDATA[Arrested? For what? ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Арестовали? За что?]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="slappy" sound="mill0148.mp3">
+      <en><![CDATA[And why was he taken to the Castle? What the heck happened here while I was gone, Nigel?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И зачем было забирать его в замок? Найджел, какого черта тут творилось. пока меня не было?]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="_avatar" sound="mill0149.mp3">
+      <en><![CDATA[It seems that Baron Northwest has appointed a vile man named Lowell Cain to take control of the village. Cain’s men are now bullying the citizens of Ravenhollow …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Похоже, что барон Нордвест назначил одного мерзавца по имени Лоуэлл Кейн управляющим в деревне. Его подручные третируют жителей Рейвенхоллоу...]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+    <d150 puppet="slappy" sound="mill0150.mp3">
+      <en><![CDATA[What? This is preposterous! Ravenhollow doesn’t answer to the Castle.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что? Это немыслимо! Рейвенхоллоу не подчиняется замку.]]></ru>
+      <es><![CDATA[]]></es>
+    </d150>
+    <d151 puppet="slappy" sound="mill0151.mp3">
+      <en><![CDATA[And if these bullies have indeed captured Coppelius, then we have to find a way to help him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если эти держиморды действительно схватили Коппелиуса, значит нужно его освободить!]]></ru>
+      <es><![CDATA[]]></es>
+    </d151>
+    <d152 puppet="_avatar" sound="mill0152.mp3">
+      <en><![CDATA[Let us talk about something else ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорим о чем-нибудь другом...]]></ru>
+      <es><![CDATA[]]></es>
+    </d152>
+    <d153 puppet="_avatar" sound="mill0153.mp3">
+      <en><![CDATA[I am here to settle my father’s estate and claim my heritage.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я приехал, чтобы вступить во владение наследством отца.]]></ru>
+      <es><![CDATA[]]></es>
+    </d153>
+    <d154 puppet="slappy" sound="mill0154.mp3">
+      <en><![CDATA[Well it’s about time I’d say.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Давно пора.]]></ru>
+      <es><![CDATA[]]></es>
+    </d154>
+    <d155 puppet="_avatar" sound="mill0155.mp3">
+      <en><![CDATA[Lionstone the lawyer told me that I need to find the insignia rings of the nine members of the Smith Institute.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Адвокат мистер Лайнстоун объяснил, что мне нужны перстни девяти сотрудников смитовского института.]]></ru>
+      <es><![CDATA[]]></es>
+    </d155>
+    <d156 puppet="_avatar" sound="mill0156.mp3">
+      <en><![CDATA[The seals are required to verify my heritage certificate because legally you and your former colleagues are all shareholders of my father’s house …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На свидетельстве о наследстве должны стоять их печати, поскольку вы с вашими коллегами были совладельцами отцовского дома.]]></ru>
+      <es><![CDATA[]]></es>
+    </d156>
+    <d157 puppet="slappy" sound="mill0157.mp3">
+      <en><![CDATA[Is that so? Oh wait, this isn’t about that cheque we issued, is it? The one for 81 cents?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Правда что ли? Погоди, это не из-за того чека, что мы выписали? Который на 81 цент?]]></ru>
+      <es><![CDATA[]]></es>
+    </d157>
+    <d158 puppet="_avatar" sound="mill0158.mp3">
+      <en><![CDATA[So you remember that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так вы помните?]]></ru>
+      <es><![CDATA[]]></es>
+    </d158>
+    <d159 puppet="slappy" sound="mill0159.mp3">
+      <en><![CDATA[Yes, but I don’t understand why Lionstone would require you to seek our insignia seals over a silly matter of 81 cents! That just doesn’t sound like Lionstone.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Помню, только не понимаю, с чего бы это Лайнстону отправлять тебя за нашими печатками из-за какого-то несчастного 81 цента! На него это не похоже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d159>
+    <d160 puppet="_avatar" sound="mill0160.mp3">
+      <en><![CDATA[I believe that Lowell Cain and his men decided to make matters difficult for me. They work for the Baron.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я думаю, Лоуэлл Кейн со своей бандой решили осложнить мне задачу. Они работают на барона.]]></ru>
+      <es><![CDATA[]]></es>
+    </d160>
+    <d161 puppet="slappy" sound="mill0161.mp3">
+      <en><![CDATA[Baron Northwest? But he’s never had any real political power. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Барона Нордвеста? Но у него никогда не было реальной власти.]]></ru>
+      <es><![CDATA[]]></es>
+    </d161>
+    <d162 puppet="slappy" sound="mill0162.mp3">
+      <en><![CDATA[It seems that Ravenhollow has had many changes take place since I left in my Zeppelin after your father’s death.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[С тех пор, как я улетел отсюда после смерти твоего отца, Рейвенхоллоу совсем переменился.]]></ru>
+      <es><![CDATA[]]></es>
+    </d162>
+    <d163 puppet="_avatar" sound="mill0163.mp3">
+      <en><![CDATA[About the nine members of the Smith Institute and their insignia rings …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насчет девяти членов смитовского института и их перстней...]]></ru>
+      <es><![CDATA[]]></es>
+    </d163>
+    <d164 puppet="slappy" sound="mill0164.mp3">
+      <en><![CDATA[Yes?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да?]]></ru>
+      <es><![CDATA[]]></es>
+    </d164>
+    <d165 puppet="_avatar" sound="mill0165.mp3">
+      <en><![CDATA[You had an insignia ring, right? …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У вас же был перстень, правда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d165>
+    <d166 puppet="slappy" sound="mill0166.mp3">
+      <en><![CDATA[I most certainly did, although I lost it in the woods two years ago while my brother, Steven, and I were doing some balloon testing …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, был, только пару лет назад в лесу я его потерял , когда мы с моим братом Стивеном испытывали воздушный шар...]]></ru>
+      <es><![CDATA[]]></es>
+    </d166>
+    <d167 puppet="slappy" sound="mill0167.mp3">
+      <en><![CDATA[I used to put my ring on Carl, our flight test dummy. As a good luck charm. One day Carl crashed into the woods with our balloon. That was our last flight test ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[ ]]></ru>
+      <es><![CDATA[]]></es>
+    </d167>
+    <d168 puppet="slappy" sound="mill0168.mp3">
+      <en><![CDATA[However, I didn’t bother to look for the balloon or the ring since the days of the Institute were over and it only served to bring back painful memories.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Искать я их не стал - все равно институтские дни уже прошли, и ничего, кроме неприятных воспоминаний мне этот перстень не приносил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d168>
+    <d169 puppet="_avatar" sound="mill0169.mp3">
+      <en><![CDATA[About Steven LeMue LaFayette’s ring … ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Насчет перстня Стивена Лемю Лафайетта...]]></ru>
+      <es><![CDATA[]]></es>
+    </d169>
+    <d170 puppet="slappy" sound="mill0170.mp3">
+      <en><![CDATA[My brother’s ring? Sure, it’s stuck in that wall over there above the hammock.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Перстень брата? Вон он, в стене над гамаком застрял.]]></ru>
+      <es><![CDATA[]]></es>
+    </d170>
+    <d171 puppet="slappy" sound="mill0171.mp3">
+      <en><![CDATA[He placed it in that wall crack before taking a nap once, and we haven’t been able to pry it out since.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стивен его туда однажды засунул, когда собирался вздремнуть в гамаке, и так мы его и не смогли вытащить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d171>
+    <d172 puppet="slappy" sound="mill0172.mp3">
+      <en><![CDATA[Of course, we gave up trying about two years ago when he left for South America.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, когда он два года назад уехал в Южную Америку, мы и пытаться перестали.]]></ru>
+      <es><![CDATA[]]></es>
+    </d172>
+    <d173 puppet="slappy" sound="mill0173.mp3">
+      <en><![CDATA[I secretly think he meant to leave it behind … he didn’t want any reminders of the old days while starting his new life in Peru.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я лично думаю, он оставил его здесь намерено... чтобы не вспоминать о прошлом и начать жизнь в Перу с чистого листа.]]></ru>
+      <es><![CDATA[]]></es>
+    </d173>
+    <d174 puppet="_avatar" sound="mill0174.mp3">
+      <en><![CDATA[Do you know where Vincent Goodchild’s ring might be?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не знаете, где может быть перстень Винсента Гудчайлда?]]></ru>
+      <es><![CDATA[]]></es>
+    </d174>
+    <d175 puppet="slappy" sound="mill0175.mp3">
+      <en><![CDATA[Vincent? Eiesh…that name still gives me the creeps!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Винсента? Бр-р-р... у меня от его имени до сих пор мурашки по коже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d175>
+    <d176 puppet="slappy" sound="mill0176.mp3">
+      <en><![CDATA[No, I don’t know where his ring might be. For all I know he’s still wearing it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет, даже понятия не имею. Вполне может быть, что он его до сих пор носит.]]></ru>
+      <es><![CDATA[]]></es>
+    </d176>
+    <d177 puppet="_avatar" sound="mill0177.mp3">
+      <en><![CDATA[Have you any idea where Professor Smith’s ring might be?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть идеи, где может быть перстень профессора Смита?]]></ru>
+      <es><![CDATA[]]></es>
+    </d177>
+    <d178 puppet="slappy" sound="mill0178.mp3">
+      <en><![CDATA[I think Leonard left most of his belongings at the Institute before he left Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Когда Леонард уезжал из Рейвенхоллоу, он вроде бы большую часть своих пожитков в институте оставил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d178>
+    <d179 puppet="slappy" sound="mill0179.mp3">
+      <en><![CDATA[As the pioneer of the Smith Institute, I believe it was very hard for him to leave it all behind … he had encouraged the rest of us to establish the Institute with him.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ему, как первооснователю института, должно быть, было очень тяжело со ним проститься... он вдохновил на создание института нас всех.]]></ru>
+      <es><![CDATA[]]></es>
+    </d179>
+    <d180 puppet="_avatar" sound="mill0180.mp3">
+      <en><![CDATA[Okay, enough about these rings ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, хватит о перстнях...]]></ru>
+      <es><![CDATA[]]></es>
+    </d180>
+    <d181 puppet="_avatar" sound="mill0181.mp3">
+      <en><![CDATA[Let us talk about something else ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорим о чем-нибудь другом...]]></ru>
+      <es><![CDATA[]]></es>
+    </d181>
+    <d182 puppet="_avatar" sound="mill0182.mp3">
+      <en><![CDATA[Again about settling my father’s estate and the insignia rings ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Возвращаясь к моему наследству и перстням...]]></ru>
+      <es><![CDATA[]]></es>
+    </d182>
+    <d183 puppet="_avatar" sound="mill0183.mp3">
+      <en><![CDATA[What was the story with that remote control you lent me?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что там за история была с пультом, который вы мне дали?]]></ru>
+      <es><![CDATA[]]></es>
+    </d183>
+    <d184 puppet="slappy" sound="mill0184.mp3">
+      <en><![CDATA[That old thing? That’s a multi-purpose remote control that I built back in the Institute days.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это старье? Это не простой пульт, а многофункциональный - я его еще в институте собрал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d184>
+    <d185 puppet="_avatar" sound="mill0185.mp3">
+      <en><![CDATA[A multi-purpose remote control, hu? That sounds useful.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Многофункциональный пульт? Полезная, наверное, штука.]]></ru>
+      <es><![CDATA[]]></es>
+    </d185>
+    <d186 puppet="slappy" sound="mill0186.mp3">
+      <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А то... хотя твой папаша и профессор Смит мне за него такую выволочку устроили, что не приведи боже.]]></ru>
+      <es><![CDATA[]]></es>
+    </d186>
+    <d187 puppet="_avatar" sound="mill0187.mp3">
+      <en><![CDATA[Why was that?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А что так?]]></ru>
+      <es><![CDATA[]]></es>
+    </d187>
+    <d188 puppet="slappy" sound="mill0188.mp3">
+      <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you were expecting.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да я его запрограммировал на управление почти всем оборудованием в Смитовском институте... и он иногда включал не только то, что нужно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d188>
+    <d189 puppet="slappy" sound="mill0189.mp3">
+      <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector while standing beside one of my experimental hot air balloons.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Помнится, твой отец однажды хотел включить молниеприемник, а сам при этом стоял рядом с моим экспериментальным воздушным шаром.]]></ru>
+      <es><![CDATA[]]></es>
+    </d189>
+    <d190 puppet="slappy" sound="mill0190.mp3">
+      <en><![CDATA[Hehehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat and launched my crash-test dummy into his face. Imagine his surprise!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хе-хе... бедный Энтони. От пульта на шаре сработала катапульта, и испытательный манекен выбросило прямо на него. Представляешь, как он удивился! ]]></ru>
+      <es><![CDATA[]]></es>
+    </d190>
+    <d191 puppet="_avatar" sound="mill0191.mp3">
+      <en><![CDATA[Good story.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересная.]]></ru>
+      <es><![CDATA[]]></es>
+    </d191>
+    <d192 puppet="_avatar" sound="mill0192.mp3">
+      <en><![CDATA[Could you help me heave a statue from the river near the Smith Institute?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не поможете мне вытащить статую из реки у смитовского института?]]></ru>
+      <es><![CDATA[]]></es>
+    </d192>
+    <d193 puppet="slappy" sound="mill0193.mp3">
+      <en><![CDATA[What’s that statue doing in the river?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А как вообще статуя оказалась в реке?]]></ru>
+      <es><![CDATA[]]></es>
+    </d193>
+    <d194 puppet="_avatar" sound="mill0194.mp3">
+      <en><![CDATA[I don’t know, but I’m sure the castle is responsible for that, too.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не знаю, но уверен, за этим тоже стоят люди из замка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d194>
+    <d195 puppet="slappy" sound="mill0195.mp3">
+      <en><![CDATA[Well, we can use my zeppelin. That shouldn’t be a problem!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Полетим на моем дирижабле. Проще простого!]]></ru>
+      <es><![CDATA[]]></es>
+    </d195>
+    <d196 puppet="slappy" sound="mill0196.mp3">
+      <en><![CDATA[You just go ahead and wait for me at the bridge into Ravenhollow.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Иди вперед и подожди меня у моста в Рейвенхоллоу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d196>
+    <d197 puppet="_avatar" sound="mill0197.mp3">
+      <en><![CDATA[Okay! Thanks!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хорошо! Спасибо!]]></ru>
+      <es><![CDATA[]]></es>
+    </d197>
+    <d198 puppet="slappy" sound="mill0198.mp3">
+      <en><![CDATA[I’m afraid that will have to wait till tomorrow ... I am getting a bit too old to fly around in my zeppelin at night.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, придется подождать до завтра... Староват я уже по ночам летать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d198>
+    <d199 puppet="_avatar" sound="mill0199.mp3">
+      <en><![CDATA[No problem! I’ll be back tomorrow then!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не вопрос! Тогда до завтра!]]></ru>
+      <es><![CDATA[]]></es>
+    </d199>
+    <d200 puppet="slappy" sound="mill0200.mp3">
+      <en><![CDATA[If you can’t wait you can use my hammock and grab some sleep till sunrise.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если тебе не терпится, можешь прикорнуть до рассвета в моем гамаке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d200>
+    <d201 puppet="_avatar" sound="mill0201.mp3">
+      <en><![CDATA[If you’ve been away, then you haven’t heard about Lowell Cain and the Castle yet, have you?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Раз вы были в отъезде, значит вы еще не слышали про замок и Луэлла Кейна?]]></ru>
+      <es><![CDATA[]]></es>
+    </d201>
+    <d202 puppet="slappy" sound="mill0202.mp3">
+      <en><![CDATA[No … and I’m most interested to learn more about that.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет... но горю желанием услышать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d202>
+    <d203 puppet="_avatar" sound="mill0203.mp3">
+      <en><![CDATA[Sure, but we’ll have to do that another time. I’d like to resolve my father’s estate as quickly as possible. … just be careful, ok?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Конечно, но давайте в другой раз. Мне бы поскорее разобраться с отцовским наследством... вы, главное, берегите себя.]]></ru>
+      <es><![CDATA[]]></es>
+    </d203>
+    <d204 puppet="slappy" sound="mill0204.mp3">
+      <en><![CDATA[Of course, I always am … hahaha!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я всегда настороже... ха-ха-ха!]]></ru>
+      <es><![CDATA[]]></es>
+    </d204>
+    <d205 puppet="_avatar" sound="mill0205.mp3">
+      <en><![CDATA[Nice windmill you have here …]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Симпатичная у вас мельница...]]></ru>
+      <es><![CDATA[]]></es>
+    </d205>
+    <d206 puppet="slappy" sound="mill0206.mp3">
+      <en><![CDATA[Thank you! My brother and I renovated this place several years ago and lived here together until he left.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо! Мы с братом ее восстановили несколько лет назад и жили здесь вместе, пока он не уехал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d206>
+    <d207 puppet="slappy" sound="mill0207.mp3">
+      <en><![CDATA[Now that he’s in South America, I spend most of my time off adventuring in my zeppelin. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Теперь он живет в Южной Америке, а я большую часть времени порхаю по миру на дирижабле.]]></ru>
+      <es><![CDATA[]]></es>
+    </d207>
+    <d208 puppet="slappy" sound="mill0208.mp3">
+      <en><![CDATA[I only come here every few months now … so you’ll have to excuse the dust! But please, make yourself at home!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я теперь приезжаю сюда все несколько раз в год... так что извини, что здесь так не убрано! Но ты все равно будь как дома!]]></ru>
+      <es><![CDATA[]]></es>
+    </d208>
+    <d209 puppet="_avatar" sound="mill0209.mp3">
+      <en><![CDATA[Thanks Uncle Slappy!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Спасибо, дядя Слаппи!]]></ru>
+      <es><![CDATA[]]></es>
+    </d209>
+    <d210 puppet="slappy" sound="mill0210.mp3">
+      <en><![CDATA[It’s the least I can do for you, Nigel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это меньше, что я могу для тебя сделать.]]></ru>
+      <es><![CDATA[]]></es>
+    </d210>
+    <d211 puppet="_avatar" sound="mill0211.mp3">
+      <en><![CDATA[I think I have to get going ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мне пора...]]></ru>
+      <es><![CDATA[]]></es>
+    </d211>
+    <d212 puppet="slappy" sound="mill0212.mp3">
+      <en><![CDATA[Sure! Feel free to drop by any time if you want to talk or have a nap in that old hammock of mine!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Валяй! И заходи в любое время, если захочется вздремнуть в моем старом гамаке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d212>
+  </d>
+</localize>

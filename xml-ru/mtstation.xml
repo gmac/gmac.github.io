@@ -1,0 +1,2542 @@
+﻿<localize>
+  <NOUNS><![CDATA[
+		Nouns state the title of an object that the player can mouse-over and interact with.
+		These are generally singular nouns.
+		Nouns may be blank.
+]]></NOUNS>
+  <n>
+    <n0>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n0>
+    <n1>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n1>
+    <n2>
+      <en><![CDATA[upper handle bar]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[верхняя рукоятка]]></ru>
+      <es><![CDATA[]]></es>
+    </n2>
+    <n3>
+      <en><![CDATA[booth door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь будки]]></ru>
+      <es><![CDATA[]]></es>
+    </n3>
+    <n4>
+      <en><![CDATA[booth door]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[дверь будки]]></ru>
+      <es><![CDATA[]]></es>
+    </n4>
+    <n5>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n5>
+    <n6>
+      <en><![CDATA[control panel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[панель управления]]></ru>
+      <es><![CDATA[]]></es>
+    </n6>
+    <n7>
+      <en><![CDATA[control panel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[панель управления]]></ru>
+      <es><![CDATA[]]></es>
+    </n7>
+    <n8>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n8>
+    <n9>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n9>
+    <n10>
+      <en><![CDATA[lower handle bar]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нижняя рукоятка]]></ru>
+      <es><![CDATA[]]></es>
+    </n10>
+    <n11>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n11>
+    <n12>
+      <en><![CDATA[train]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[поезд]]></ru>
+      <es><![CDATA[]]></es>
+    </n12>
+    <n13>
+      <en><![CDATA[train]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[поезд]]></ru>
+      <es><![CDATA[]]></es>
+    </n13>
+    <n14>
+      <en><![CDATA[train platform]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[перрон]]></ru>
+      <es><![CDATA[]]></es>
+    </n14>
+    <n15>
+      <en><![CDATA[train platform]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[перрон]]></ru>
+      <es><![CDATA[]]></es>
+    </n15>
+    <n16>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n16>
+    <n17>
+      <en><![CDATA[utility panel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[панель управления]]></ru>
+      <es><![CDATA[]]></es>
+    </n17>
+    <n18>
+      <en><![CDATA[power junction]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разъем питания]]></ru>
+      <es><![CDATA[]]></es>
+    </n18>
+    <n19>
+      <en><![CDATA[power junction]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[разъем питания]]></ru>
+      <es><![CDATA[]]></es>
+    </n19>
+    <n20>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n20>
+    <n21>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n21>
+    <n22>
+      <en><![CDATA[elevator]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лифт]]></ru>
+      <es><![CDATA[]]></es>
+    </n22>
+    <n23>
+      <en><![CDATA[elevator]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лифт]]></ru>
+      <es><![CDATA[]]></es>
+    </n23>
+    <n24>
+      <en><![CDATA[elevator]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[лифт]]></ru>
+      <es><![CDATA[]]></es>
+    </n24>
+    <n25>
+      <en><![CDATA[Dr. Coppelius]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Коппелиус]]></ru>
+      <es><![CDATA[]]></es>
+    </n25>
+    <n26>
+      <en><![CDATA[Dr. Coppelius]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Коппелиус]]></ru>
+      <es><![CDATA[]]></es>
+    </n26>
+    <n27>
+      <en><![CDATA[Dr. Coppelius]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Коппелиус]]></ru>
+      <es><![CDATA[]]></es>
+    </n27>
+    <n28>
+      <en><![CDATA[Dr. LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n28>
+    <n29>
+      <en><![CDATA[Dr. LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n29>
+    <n30>
+      <en><![CDATA[Dr. LeMue LaFayette]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Лемю Лафайетт]]></ru>
+      <es><![CDATA[]]></es>
+    </n30>
+    <n31>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n31>
+    <n32>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n32>
+    <n33>
+      <en><![CDATA[Nora]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[нора]]></ru>
+      <es><![CDATA[]]></es>
+    </n33>
+    <n34>
+      <en><![CDATA[Dr. Anthony Trelawney]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Энтони Трелони]]></ru>
+      <es><![CDATA[]]></es>
+    </n34>
+    <n35>
+      <en><![CDATA[Dr. Anthony Trelawney]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Энтони Трелони]]></ru>
+      <es><![CDATA[]]></es>
+    </n35>
+    <n36>
+      <en><![CDATA[Dr. Anthony Trelawney]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[доктор Энтони Трелони]]></ru>
+      <es><![CDATA[]]></es>
+    </n36>
+    <n37>
+      <en><![CDATA[nigel]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел]]></ru>
+      <es><![CDATA[]]></es>
+    </n37>
+    <n38>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n38>
+    <n39>
+      <en><![CDATA[food rations]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[провизия]]></ru>
+      <es><![CDATA[]]></es>
+    </n39>
+    <n40>
+      <en><![CDATA[food rations]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[провизия]]></ru>
+      <es><![CDATA[]]></es>
+    </n40>
+    <n41>
+      <en><![CDATA[booth window]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[окно будки]]></ru>
+      <es><![CDATA[]]></es>
+    </n41>
+    <n42>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n42>
+    <n43>
+      <en><![CDATA[sign]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[знак]]></ru>
+      <es><![CDATA[]]></es>
+    </n43>
+    <n44>
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </n44>
+  </n>
+  <VERBS><![CDATA[
+		A verb summary describes an interaction that the player can perform on an object.
+		Formatting of the verb/noun wording is controlled globally through the verb dialect field.
+		Global verb dialect allows you to specify a "#verb# #noun#" formatting string that will govern how all verbs and nouns are joined together.
+]]></VERBS>
+  <v>
+    <v0 noun="upper handle bar">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v0>
+    <v1 noun="upper handle bar">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v1>
+    <v2 noun="upper handle bar">
+      <en><![CDATA[Pull]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тянуть]]></ru>
+      <es><![CDATA[]]></es>
+    </v2>
+    <v3 noun="booth door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v3>
+    <v4 noun="booth door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v4>
+    <v5 noun="booth door">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v5>
+    <v7 noun="booth door">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v7>
+    <v8 noun="booth door">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v8>
+    <v9 noun="booth door">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v9>
+    <v11 noun="control panel">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v11>
+    <v12 noun="control panel">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v12>
+    <v13 noun="control panel">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v13>
+    <v14 noun="control panel">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v14>
+    <v15 noun="control panel">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v15>
+    <v16 noun="control panel">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v16>
+    <v17 noun="lower handle bar">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v17>
+    <v18 noun="lower handle bar">
+      <en><![CDATA[Lick]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лизнуть]]></ru>
+      <es><![CDATA[]]></es>
+    </v18>
+    <v19 noun="lower handle bar">
+      <en><![CDATA[Pull]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тянуть]]></ru>
+      <es><![CDATA[]]></es>
+    </v19>
+    <v20 noun="train">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v20>
+    <v21 noun="train">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v21>
+    <v22 noun="train">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v22>
+    <v23 noun="train">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v23>
+    <v24 noun="train">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v24>
+    <v25 noun="train">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v25>
+    <v26 noun="train platform">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v26>
+    <v27 noun="train platform">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v27>
+    <v28 noun="train platform">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v28>
+    <v29 noun="train platform">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v29>
+    <v30 noun="train platform">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v30>
+    <v31 noun="train platform">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v31>
+    <v32 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v32>
+    <v33 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v33>
+    <v34 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v34>
+    <v35 noun="utility panel">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v35>
+    <v36 noun="utility panel">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v36>
+    <v37 noun="utility panel">
+      <en><![CDATA[Open]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Открыть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v37>
+    <v42 noun="power junction">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v42>
+    <v43 noun="power junction">
+      <en><![CDATA[Lick]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лизнуть]]></ru>
+      <es><![CDATA[]]></es>
+    </v43>
+    <v44 noun="power junction">
+      <en><![CDATA[Reconnect]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Переподключить]]></ru>
+      <es><![CDATA[]]></es>
+    </v44>
+    <v49 noun="power junction">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v49>
+    <v50 noun="power junction">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v50>
+    <v51 noun="power junction">
+      <en><![CDATA[disconnect]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[отключить]]></ru>
+      <es><![CDATA[]]></es>
+    </v51>
+    <v52 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v52>
+    <v53 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v53>
+    <v54 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v54>
+    <v55 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v55>
+    <v56 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v56>
+    <v57 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v57>
+    <v58 noun="elevator">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v58>
+    <v59 noun="elevator">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v59>
+    <v60 noun="elevator">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v60>
+    <v61 noun="elevator">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v61>
+    <v62 noun="elevator">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v62>
+    <v63 noun="elevator">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v63>
+    <v64 noun="elevator">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v64>
+    <v65 noun="elevator">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v65>
+    <v66 noun="elevator">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v66>
+    <v67 noun="Dr. Coppelius">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v67>
+    <v68 noun="Dr. Coppelius">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v68>
+    <v69 noun="Dr. Coppelius">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v69>
+    <v70 noun="Dr. Coppelius">
+      <en><![CDATA[@state:main]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:main]]></ru>
+      <es><![CDATA[]]></es>
+    </v70>
+    <v71 noun="Dr. Coppelius">
+      <en><![CDATA[@state:main]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:main]]></ru>
+      <es><![CDATA[]]></es>
+    </v71>
+    <v72 noun="Dr. Coppelius">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v72>
+    <v73 noun="Dr. Coppelius">
+      <en><![CDATA[@state:main]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[@state:main]]></ru>
+      <es><![CDATA[]]></es>
+    </v73>
+    <v74 noun="Dr. Coppelius">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v74>
+    <v75 noun="Dr. Coppelius">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v75>
+    <v76 noun="Dr. Coppelius">
+      <en><![CDATA[endgame]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[эндшпиль@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </v76>
+    <v77 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v77>
+    <v78 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v78>
+    <v79 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v79>
+    <v80 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v80>
+    <v81 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v81>
+    <v82 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v82>
+    <v83 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v83>
+    <v84 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v84>
+    <v85 noun="Dr. LeMue LaFayette">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v85>
+    <v86 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v86>
+    <v87 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v87>
+    <v88 noun="Nora">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v88>
+    <v89 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v89>
+    <v90 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v90>
+    <v91 noun="Nora">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v91>
+    <v92 noun="Nora">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v92>
+    <v93 noun="Nora">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v93>
+    <v94 noun="Nora">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v94>
+    <v95 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v95>
+    <v96 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v96>
+    <v97 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v97>
+    <v98 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v98>
+    <v99 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v99>
+    <v100 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v100>
+    <v101 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v101>
+    <v102 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v102>
+    <v103 noun="Dr. Anthony Trelawney">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v103>
+    <v104 noun="food rations">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v104>
+    <v105 noun="food rations">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v105>
+    <v106 noun="food rations">
+      <en><![CDATA[Pick up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поднять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v106>
+    <v107 noun="food rations">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v107>
+    <v108 noun="food rations">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v108>
+    <v109 noun="food rations">
+      <en><![CDATA[Pick up]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поднять:]]></ru>
+      <es><![CDATA[]]></es>
+    </v109>
+    <v110 noun="booth window">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v110>
+    <v111 noun="booth window">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v111>
+    <v112 noun="booth window">
+      <en><![CDATA[Break glass of]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Разбить стекло:]]></ru>
+      <es><![CDATA[]]></es>
+    </v112>
+    <v113 noun="">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v113>
+    <v114 noun="">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v114>
+    <v115 noun="">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v115>
+    <v116 noun="sign">
+      <en><![CDATA[Look at]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Осмотреть:]]></ru>
+      <es><![CDATA[]]></es>
+    </v116>
+    <v117 noun="sign">
+      <en><![CDATA[Talk to]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Поговорить:]]></ru>
+      <es><![CDATA[]]></es>
+    </v117>
+    <v118 noun="sign">
+      <en><![CDATA[Use]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Использовать:]]></ru>
+      <es><![CDATA[]]></es>
+    </v118>
+  </v>
+  <CONTEXTS><![CDATA[
+		A contextual summary describes an item's interaction with an object.
+		This summary includes placeholder tokens (#noun# and #item#) for dynamic elements in the sentence.
+		When translating, you may change the order and/or position of the placeholder tokens within the sentence.
+		However, **DO NOT** translate the placeholder token text. They MUST be left as #noun# and #item#.
+]]></CONTEXTS>
+  <c>
+    <c6 noun="booth door" item="mtstation_key">
+      <en><![CDATA[Unlock #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: отпереть с помощью предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c6>
+    <c10 noun="booth door" item="mtstation_key">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c10>
+    <c38 noun="utility panel" item="power_connector1">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c38>
+    <c39 noun="utility panel" item="power_connector2">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c39>
+    <c40 noun="utility panel" item="power_connector3">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c40>
+    <c41 noun="utility panel" item="handlebar">
+      <en><![CDATA[]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[]]></ru>
+      <es><![CDATA[]]></es>
+    </c41>
+    <c45 noun="power junction" item="power_connector3">
+      <en><![CDATA[Fix #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: починить при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c45>
+    <c46 noun="power junction" item="power_connector1">
+      <en><![CDATA[Fix #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: починить при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c46>
+    <c47 noun="power junction" item="power_connector2">
+      <en><![CDATA[Fix #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: починить при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c47>
+    <c48 noun="power junction" item="handlebar">
+      <en><![CDATA[Fix #noun# with #item#]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[#noun#: починить при помощи предмета (#item#)]]></ru>
+      <es><![CDATA[]]></es>
+    </c48>
+  </c>
+  <DIALOGUE><![CDATA[
+		Dialogue subtitles deliver game narrative and player discussion.
+		 Each dialogue subtitle includes an associated sound file that should be recorded and grouped by language.
+]]></DIALOGUE>
+  <d>
+    <d0 puppet="_avatar" sound="mtstation0000.mp3">
+      <en><![CDATA[Ooops. I think I broke it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ой. По-моему, я его сломал.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d0>
+    <d1 puppet="_avatar" sound="mtstation0001.mp3">
+      <en><![CDATA[The door is closed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь закрыта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d1>
+    <d2 puppet="_avatar" sound="mtstation0002.mp3">
+      <en><![CDATA[It’s locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заперто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d2>
+    <d3 puppet="_avatar" sound="mtstation0003.mp3">
+      <en><![CDATA[Here we go.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ну вот.]]></ru>
+      <es><![CDATA[]]></es>
+    </d3>
+    <d4 puppet="_avatar" sound="mtstation0004.mp3">
+      <en><![CDATA[The door is closed.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Дверь закрыта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d4>
+    <d5 puppet="_avatar" sound="mtstation0005.mp3">
+      <en><![CDATA[It’s locked.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Заперто.]]></ru>
+      <es><![CDATA[]]></es>
+    </d5>
+    <d6 puppet="_avatar" sound="mtstation0006.mp3">
+      <en><![CDATA[That should work!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Должно получиться!]]></ru>
+      <es><![CDATA[]]></es>
+    </d6>
+    <d7 puppet="_avatar" sound="mtstation0007.mp3">
+      <en><![CDATA[It looks like some kind of control panel for channeling power around the station, although it doesn’t appear to be operational. It looks like it needs power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это пульт для распределения энергии по станции, только он не работает. Ему нужно питание.]]></ru>
+      <es><![CDATA[]]></es>
+    </d7>
+    <d8 puppet="_avatar" sound="mtstation0008.mp3">
+      <en><![CDATA[Actually, now that I think about it, it looks like this entire station has been powered down! I wonder if there’s a way to restore the power...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вообще-то, похоже, что вся станция обесточена! Как бы ее запитать заново...]]></ru>
+      <es><![CDATA[]]></es>
+    </d8>
+    <d9 puppet="_avatar" sound="mtstation0009.mp3">
+      <en><![CDATA[This control panel is useless without power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Без питания панель управления бесполезна.]]></ru>
+      <es><![CDATA[]]></es>
+    </d9>
+    <d10 puppet="_avatar" sound="mtstation0010.mp3">
+      <en><![CDATA[It’s a cold insulated handle bar.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это холодная изолированная рукоятка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d10>
+    <d11 puppet="_avatar" sound="mtstation0011.mp3">
+      <en><![CDATA[No way, I’m not falling for that again! Some kids back in school dared me to lick the flag pole and I was stuck there for hours.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ни за что, мне на это больше не купишь! Еще в школе я поспорил с пацанами, что смогу лизнуть флагшток и в итоге проторчал у него несколько часов.]]></ru>
+      <es><![CDATA[]]></es>
+    </d11>
+    <d12 puppet="_avatar" sound="mtstation0012.mp3">
+      <en><![CDATA[... it was traumatic.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[... болезненное воспоминание.]]></ru>
+      <es><![CDATA[]]></es>
+    </d12>
+    <d13 puppet="_avatar" sound="mtstation0013.mp3">
+      <en><![CDATA[Yep, it’s sturdy.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ага, прочный.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d13>
+    <d14 puppet="_avatar" sound="mtstation0014.mp3">
+      <en><![CDATA[Amazing technology ... this doesn’t look like any of the trains I’ve been riding on so far.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Удивительная технология ... я таких поездов никогда в жизни не видел.]]></ru>
+      <es><![CDATA[]]></es>
+    </d14>
+    <d15 puppet="_avatar" sound="mtstation0015.mp3">
+      <en><![CDATA[We are not done here yet!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы еще здесь не закончили!]]></ru>
+      <es><![CDATA[]]></es>
+    </d15>
+    <d16 puppet="_avatar" sound="mtstation0016.mp3">
+      <en><![CDATA[Also I hope that we’ll be able to use Dr. LeMue LaFayette’s zeppelin on the way back.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И я надеюсь, мы сможем вернуться на дирижабле доктора Лемю Лафайетта.]]></ru>
+      <es><![CDATA[]]></es>
+    </d16>
+    <d17 puppet="_avatar" sound="mtstation0017.mp3">
+      <en><![CDATA[It’s the control pedestal for the train platform, although it doesn’t appear to be operational. It looks like it needs power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Центральный пульт управления перроном, только он не работает - нужно питание.]]></ru>
+      <es><![CDATA[]]></es>
+    </d17>
+    <d18 puppet="_avatar" sound="mtstation0018.mp3">
+      <en><![CDATA[I’d better not touch it. I wouldn’t know what to do with it even if it had power and was operational.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше его@@@ не трогать. Я не знаю, что с ним делать, даже если удастся его запитать и подключить.]]></ru>
+      <es><![CDATA[]]></es>
+    </d18>
+    <d19 puppet="_avatar" sound="mtstation0019.mp3">
+      <en><![CDATA[It’s the control pedestal for the train platform.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Центральный пульт управления перроном.]]></ru>
+      <es><![CDATA[]]></es>
+    </d19>
+    <d20 puppet="_avatar" sound="mtstation0020.mp3">
+      <en><![CDATA[I’d better not. I wouldn’t want to be responsible for a run-away train.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не стоит. Не хватало, чтобы из-за меня поезд сошел с рельс.]]></ru>
+      <es><![CDATA[]]></es>
+    </d20>
+    <d21 puppet="_avatar" sound="mtstation0021.mp3">
+      <en><![CDATA[It’s a utility panel with some sort of warning symbol on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это служебная панель с каким-то предупреждающим символом на ней.]]></ru>
+      <es><![CDATA[]]></es>
+    </d21>
+    <d22 puppet="_avatar" sound="mtstation0022.mp3">
+      <en><![CDATA[Hmm. I think I’ve found the reason that none of the utilities around this station have power.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хм-м. По-моему, я понял, почему на станции ничего не работает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d22>
+    <d23 puppet="_avatar" sound="mtstation0023.mp3">
+      <en><![CDATA[I’ll need to open the panel before I can do any work on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде чем работать с панелью, ее нужно открыть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d23>
+    <d24 puppet="_avatar" sound="mtstation0024.mp3">
+      <en><![CDATA[I’ll need to open the panel before I can do any work on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде чем работать с панелью, ее нужно открыть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d24>
+    <d25 puppet="_avatar" sound="mtstation0025.mp3">
+      <en><![CDATA[I’ll need to open the panel before I can do any work on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде чем работать с панелью, ее нужно открыть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d25>
+    <d26 puppet="_avatar" sound="mtstation0026.mp3">
+      <en><![CDATA[I’ll need to open the panel before I can do any work on it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Прежде чем работать с панелью, ее нужно открыть.]]></ru>
+      <es><![CDATA[]]></es>
+    </d26>
+    <d27 puppet="_avatar" sound="mtstation0027.mp3">
+      <en><![CDATA[It’s the power supply for this station.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это источник питания станции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d27>
+    <d28 puppet="_avatar" sound="mtstation0028.mp3">
+      <en><![CDATA[While there’s power coming into the facility, this broken junction is preventing power from reaching any of the station’s utilities.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[На станцию подается энергия, но из-за сломанного контакта она не доходит до оборудования.]]></ru>
+      <es><![CDATA[]]></es>
+    </d28>
+    <d29 puppet="coppelius" sound="mtstation0029.mp3">
+      <en><![CDATA[This sabotage must be the work of Vincent! He must have overcharged the junction to keep anyone from interfering with his rift experiment.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не иначе, Винсент устроил! Он, должно быть, перегрузил контакт, чтобы никто не помешал ему открыть разрыв.]]></ru>
+      <es><![CDATA[]]></es>
+    </d29>
+    <d30 puppet="_avatar" sound="mtstation0030.mp3">
+      <en><![CDATA[I’m having a hard time thinking of a worse idea.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хуже идеи я даже придумать не могу.]]></ru>
+      <es><![CDATA[]]></es>
+    </d30>
+    <d31 puppet="_avatar" sound="mtstation0031.mp3">
+      <en><![CDATA[With what? I’ll need some kind of jumper to connect the two sockets.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Чем? Чтобы соединить два патрона, нужна какая-нибудь перемычка.]]></ru>
+      <es><![CDATA[]]></es>
+    </d31>
+    <d32 puppet="_avatar" sound="mtstation0032.mp3">
+      <en><![CDATA[Okay, let’s hope this works.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, посмотрим, что получится.]]></ru>
+      <es><![CDATA[]]></es>
+    </d32>
+    <d33 puppet="_avatar" sound="mtstation0033.mp3">
+      <en><![CDATA[That seems to have powered up this train station.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энергия пошла на железнодорожную станцию.]]></ru>
+      <es><![CDATA[]]></es>
+    </d33>
+    <d34 puppet="trelawney" sound="mtstation0034.mp3">
+      <en><![CDATA[Who’s there??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кто здесь?]]></ru>
+      <es><![CDATA[]]></es>
+    </d34>
+    <d35 puppet="trelawney" sound="mtstation0035.mp3">
+      <en><![CDATA[Why did you lock me in the elevator!?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Зачем меня заперли в лифте?]]></ru>
+      <es><![CDATA[]]></es>
+    </d35>
+    <d36 puppet="_avatar" sound="mtstation0036.mp3">
+      <en><![CDATA[Aaargh!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А-а-а-а!]]></ru>
+      <es><![CDATA[]]></es>
+    </d36>
+    <d37 puppet="nora" sound="mtstation0037.mp3">
+      <en><![CDATA[Step back! Don’t you dare touch him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Назад? Не смейте прикасаться к нему!@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d37>
+    <d38 puppet="coppelius" sound="mtstation0038.mp3">
+      <en><![CDATA[Anthony Trelawney?! Is that you? ... ALIVE?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони Трелони?! Это ты? ...Ты жив?]]></ru>
+      <es><![CDATA[]]></es>
+    </d38>
+    <d39 puppet="slappy" sound="mtstation0039.mp3">
+      <en><![CDATA[Anthony! Good to see you still kicking old chap!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони! Старина, как я рад тебя видеть!]]></ru>
+      <es><![CDATA[]]></es>
+    </d39>
+    <d40 puppet="trelawney" sound="mtstation0040.mp3">
+      <en><![CDATA[Dear me ... William? ... Henry? It’s good to see you old friends! But you’re not who I was expecting ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Господи... Уильям?... Анри? Я тоже рад вас видеть! Но я ждал не вас...]]></ru>
+      <es><![CDATA[]]></es>
+    </d40>
+    <d41 puppet="coppelius" sound="mtstation0041.mp3">
+      <en><![CDATA[Confound it Anthony, what’s going on here?! What are you doing up here, and why would you fake your own death?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони, что здесь происходит? Как ты здесь оказался и зачем разыграл собственную смерть?]]></ru>
+      <es><![CDATA[]]></es>
+    </d41>
+    <d42 puppet="trelawney" sound="mtstation0042.mp3">
+      <en><![CDATA[Well, that’s a long story ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это долгая история...]]></ru>
+      <es><![CDATA[]]></es>
+    </d42>
+    <d43 puppet="coppelius" sound="mtstation0043.mp3">
+      <en><![CDATA[Then speak quickly; we’re running out of time.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тогда поторопись, у нас мало времени.]]></ru>
+      <es><![CDATA[]]></es>
+    </d43>
+    <d44 puppet="trelawney" sound="mtstation0044.mp3">
+      <en><![CDATA[Alright ... well I’m sure you remember when we closed the Smith Institute and agreed to destroy our research before going our separate ways.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно... помните, как мы закрыли смитовский институт и согласились уничтожить свои изобретения и разойтись своими дорогами?]]></ru>
+      <es><![CDATA[]]></es>
+    </d44>
+    <d45 puppet="coppelius" sound="mtstation0045.mp3">
+      <en><![CDATA[Yes, I remember. We had to keep our plans and prototypes away from that power-hungry maniac, Vincent.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, конечно. Чтобы наши планы и прототипы не попали в руки к этому алчному маньяку Винсенту.]]></ru>
+      <es><![CDATA[]]></es>
+    </d45>
+    <d46 puppet="trelawney" sound="mtstation0046.mp3">
+      <en><![CDATA[Well in addition to my own research, I was also responsible for dismantling the Time Rift Apparatus up here on Mount Misery. But ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так вот, помимо своих собственных исследований, я должен был уничтожить генератор временного разрыва, находящийся здесь, на Горе Несчастья. Но...]]></ru>
+      <es><![CDATA[]]></es>
+    </d46>
+    <d47 puppet="coppelius" sound="mtstation0047.mp3">
+      <en><![CDATA[... but WHAT??]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...что &quot;но&quot;?!!]]></ru>
+      <es><![CDATA[]]></es>
+    </d47>
+    <d48 puppet="trelawney" sound="mtstation0048.mp3">
+      <en><![CDATA[Well, I didn’t dismantle it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[В общем, я этого не сделал.]]></ru>
+      <es><![CDATA[]]></es>
+    </d48>
+    <d49 puppet="slappy" sound="mtstation0049.mp3">
+      <en><![CDATA[Anthony!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Энтони!]]></ru>
+      <es><![CDATA[]]></es>
+    </d49>
+    <d50 puppet="trelawney" sound="mtstation0050.mp3">
+      <en><![CDATA[I couldn’t.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я не мог.]]></ru>
+      <es><![CDATA[]]></es>
+    </d50>
+    <d51 puppet="coppelius" sound="mtstation0051.mp3">
+      <en><![CDATA[What lunacy! Why would you leave such a dangerous apparatus intact?!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ты спятил, что ли? Как ты мог оставить в целости такой опасный аппарат?]]></ru>
+      <es><![CDATA[]]></es>
+    </d51>
+    <d52 puppet="trelawney" sound="mtstation0052.mp3">
+      <en><![CDATA[Because, it was my hope of turning the clocks back; to recover the only thing that should ever have mattered in my life ... my son, Nigel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Потому что он был моей последней надеждой вернуть то единственное, что для меня имело значение в жизни... моего сына Найджела.]]></ru>
+      <es><![CDATA[]]></es>
+    </d52>
+    <d53 puppet="coppelius" sound="mtstation0053.mp3">
+      <en><![CDATA[Mercy me, Anthony ... you’ve risked the entire legacy of the Smith Institute by not destroying that device!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Господи, помилуй, Энтони... ты же поставил на кон все наследие смитовского института!]]></ru>
+      <es><![CDATA[]]></es>
+    </d53>
+    <d54 puppet="trelawney" sound="mtstation0054.mp3">
+      <en><![CDATA[I know. I knew the danger a year ago when Professor Smith wrote me to warn that Vincent was back. But even then I couldn’t do it ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Знаю. Я осознал опасность еще год назад, когда профессор Смит написал мне, что Винсент вернулся. Но даже тогда мне не хватило духу...]]></ru>
+      <es><![CDATA[]]></es>
+    </d54>
+    <d55 puppet="trelawney" sound="mtstation0055.mp3">
+      <en><![CDATA[Instead, I faked my own death to hide from Vincent ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Вместо этого я инсценировал свою смерить, чтобы спрятаться от Винсента...]]></ru>
+      <es><![CDATA[]]></es>
+    </d55>
+    <d56 puppet="trelawney" sound="mtstation0056.mp3">
+      <en><![CDATA[... I changed the train’s call code so that he couldn’t come here ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...я поменял код вызова поезда, чтобы он не смог добраться сюда...]]></ru>
+      <es><![CDATA[]]></es>
+    </d56>
+    <d57 puppet="trelawney" sound="mtstation0057.mp3">
+      <en><![CDATA[... And then I retreated up to this cold mountaintop to guard the Apparatus ... just in case.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[...а сам отправился сюда, в горы, охранять Генератор... на всякий случай.]]></ru>
+      <es><![CDATA[]]></es>
+    </d57>
+    <d58 puppet="_avatar" sound="mtstation0058.mp3">
+      <en><![CDATA[What about the photograph with that note you sent to Nigel? &quot;A Stitch in Time Saves Nine?&quot;]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А зачем ты отправил Найджелу фотографию с запиской? &quot;A Stitch in Time Saves Nine&quot;?@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d58>
+    <d59 puppet="trelawney" sound="mtstation0059.mp3">
+      <en><![CDATA[Indeed. I changed the train’s call code to spell &quot;Nigel Come&quot;, and then encrypted those letters in my note. I hoped he’d understand and come find me here ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я поменял код вызова поезда на &quot;Nigel Come&quot;@@@ и зашифровал эти слова в записке. Я надеялся, что он ее разгадает и приедет искать меня...]]></ru>
+      <es><![CDATA[]]></es>
+    </d59>
+    <d60 puppet="trelawney" sound="mtstation0060.mp3">
+      <en><![CDATA[You see, I thought that if Nigel and I could establish a future together, then I’d finally be able to let go of the past ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Понимаете, я подумал, что, если мы с Найджелом будем вместе, я смогу наконец-то расстаться с прошлым...]]></ru>
+      <es><![CDATA[]]></es>
+    </d60>
+    <d61 puppet="trelawney" sound="mtstation0061.mp3">
+      <en><![CDATA[Together with my son, I could finally dismantle the Apparatus!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И вместе с сыном мы бы наконец-то уничтожили Генератор!]]></ru>
+      <es><![CDATA[]]></es>
+    </d61>
+    <d62 puppet="trelawney" sound="mtstation0062.mp3">
+      <en><![CDATA[And the stitch in time that brought us back together would save the legacy of the Smith Institute and its nine founding members.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Стежок во времени, соединивший нас, спас бы наследие института и его девятерых основателей.]]></ru>
+      <es><![CDATA[]]></es>
+    </d62>
+    <d63 puppet="trelawney" sound="mtstation0063.mp3">
+      <en><![CDATA[And for me, I’d finally be able to tell Nigel that ... that I’m sorry.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А я бы наконец-то смог сказать Найджелу, как... как я сожалею обо всем.]]></ru>
+      <es><![CDATA[]]></es>
+    </d63>
+    <d64 puppet="coppelius" sound="mtstation0064.mp3">
+      <en><![CDATA[Well I’m sorry to tell you this, Anthony, but Vincent is probably up there on top of Mount Misery right now ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Не хочу тебя расстраивать, Энтони, но Винсент уже, наверное, на вершине Горы Несчастья...]]></ru>
+      <es><![CDATA[]]></es>
+    </d64>
+    <d65 puppet="trelawney" sound="mtstation0065.mp3">
+      <en><![CDATA[What? No ... how could he get here? I changed the train code!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Что? Не может быть... как он туда добрался? Я же поменял код!]]></ru>
+      <es><![CDATA[]]></es>
+    </d65>
+    <d66 puppet="slappy" sound="mtstation0066.mp3">
+      <en><![CDATA[He stole my Zeppelin ... and he kidnapped Nigel ... your son Nigel. He came to Ravenhollow to handle your estate Anthony, and he fell right in Vincent’s trap.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Он украл мой дирижабль... и похитил Найджела... твоего сына Найджела. Он приехал в Рейвенхоллоу, чтобы вступить во владением твоим наследством, и угодил прямиком в ловушку Винсента.]]></ru>
+      <es><![CDATA[]]></es>
+    </d66>
+    <d67 puppet="trelawney" sound="mtstation0067.mp3">
+      <en><![CDATA[No!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет!]]></ru>
+      <es><![CDATA[]]></es>
+    </d67>
+    <d68 puppet="coppelius" sound="mtstation0068.mp3">
+      <en><![CDATA[And if I had to guess, I’d say that Vincent’s arrival here is the reason you were locked in that elevator.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[И я могу предположить, что именно в следствие его прибытия, ты и оказался заперт в лифте.]]></ru>
+      <es><![CDATA[]]></es>
+    </d68>
+    <d69 puppet="trelawney" sound="mtstation0069.mp3">
+      <en><![CDATA[Nigel!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Найджел!]]></ru>
+      <es><![CDATA[]]></es>
+    </d69>
+    <d70 puppet="trelawney" sound="mtstation0070.mp3">
+      <en><![CDATA[I’m responsible ... I am responsible for all this ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это я виноват... во всем виноват...]]></ru>
+      <es><![CDATA[]]></es>
+    </d70>
+    <d71 puppet="_avatar" sound="mtstation0071.mp3">
+      <en><![CDATA[That would probably kill me ... the cable’s insulation is almost completely gone!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это самоубийство... на кабеле почти не осталось изоляции!]]></ru>
+      <es><![CDATA[]]></es>
+    </d71>
+    <d72 puppet="_avatar" sound="mtstation0072.mp3">
+      <en><![CDATA[I wonder if there’s some way to insulate this power connector?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Как бы этот разъем изолировать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d72>
+    <d73 puppet="_avatar" sound="mtstation0073.mp3">
+      <en><![CDATA[These loose electrical components won’t do much by themselves ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Сама по себе эта электрика мало на что годится... ]]></ru>
+      <es><![CDATA[]]></es>
+    </d73>
+    <d74 puppet="_avatar" sound="mtstation0074.mp3">
+      <en><![CDATA[I need to find some way to reassemble them into an insulated power connector.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Из нее нужно собрать изолированный разъем питания.]]></ru>
+      <es><![CDATA[]]></es>
+    </d74>
+    <d75 puppet="_avatar" sound="mtstation0075.mp3">
+      <en><![CDATA[Good idea, but this handlebar doesn’t have the connectors needed to plug into the power sockets.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хорошая идея, но рукоятку нечем вставлять в патроны.]]></ru>
+      <es><![CDATA[]]></es>
+    </d75>
+    <d76 puppet="_avatar" sound="mtstation0076.mp3">
+      <en><![CDATA[It’s the junction of power for this whole train station.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это разъем питания для всей станции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d76>
+    <d77 puppet="_avatar" sound="mtstation0077.mp3">
+      <en><![CDATA[I’ve repaired the power connection to bring the station online.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я починил разъем питания - теперь станцию можно ввести в строй.]]></ru>
+      <es><![CDATA[]]></es>
+    </d77>
+    <d78 puppet="_avatar" sound="mtstation0078.mp3">
+      <en><![CDATA[No way! I’ve risked electrocution just trying to activate this power junction.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет уж! Я мог получить удар током даже когда пытался подключить разъем питания.]]></ru>
+      <es><![CDATA[]]></es>
+    </d78>
+    <d79 puppet="_avatar" sound="mtstation0079.mp3">
+      <en><![CDATA[I think I’ll stop tampering with it while I’m still ahead... and alive.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Пожалуй, не стоит с ней@@@ больше возиться, пока все идет по плану...а я еще жив.]]></ru>
+      <es><![CDATA[]]></es>
+    </d79>
+    <d80 puppet="_avatar" sound="mtstation0080.mp3">
+      <en><![CDATA[That’s the elevator that leads to the lab on the top of Mount Misery. I wonder if Vincent and Nigel are up there now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это лифт, ведущий к лаборатории на вершине Горы Несчастья. Интересно, Винсент и Найджел уже там?]]></ru>
+      <es><![CDATA[]]></es>
+    </d80>
+    <d81 puppet="_avatar" sound="mtstation0081.mp3">
+      <en><![CDATA[As long as the elevator has no power I can’t use it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Без питания лифт работать не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d81>
+    <d82 puppet="_avatar" sound="mtstation0082.mp3">
+      <en><![CDATA[The doors opened for a second, but the power is still down. I guess the door mechanism was only activated by a short power feedback when I fixed the grid.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Двери на секунду приоткрылись, но питания все еще нет. Наверное, сработал кратковременный всплеск энергии, когда я починил контур.]]></ru>
+      <es><![CDATA[]]></es>
+    </d82>
+    <d83 puppet="_avatar" sound="mtstation0083.mp3">
+      <en><![CDATA[As long as the elevator has no power I can’t use it.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Без питания лифт работать не будет.]]></ru>
+      <es><![CDATA[]]></es>
+    </d83>
+    <d84 puppet="_avatar" sound="mtstation0084.mp3">
+      <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his old research lab.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Кажется, только вчера я впервые встретил Нору и доктора Коппелиуса на пшеничном поле за его старой лабораторией.]]></ru>
+      <es><![CDATA[]]></es>
+    </d84>
+    <d85 puppet="_avatar" sound="mtstation0085.mp3">
+      <en><![CDATA[Dr. Coppelius, what should I do now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Коппелиус, что мне теперь делать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d85>
+    <d86 puppet="coppelius" sound="mtstation0086.mp3">
+      <en><![CDATA[Nathan, find a way to draw as much power as possible away from the mountaintop lab!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, придумай, как откачать из горной лаборатории как можно больше энергии!]]></ru>
+      <es><![CDATA[]]></es>
+    </d86>
+    <d87 puppet="coppelius" sound="mtstation0087.mp3">
+      <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s time rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если перенаправить достаточно энергии сюда, на станцию, временной разрыв дестабилизируется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d87>
+    <d88 puppet="_avatar" sound="mtstation0088.mp3">
+      <en><![CDATA[Dr. Coppelius, what should I do now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Коппелиус, что мне теперь делать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d88>
+    <d89 puppet="coppelius" sound="mtstation0089.mp3">
+      <en><![CDATA[Nathan, find a way to draw as much power as possible away from the mountaintop lab!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, придумай, как откачать из горной лаборатории как можно больше энергии!]]></ru>
+      <es><![CDATA[]]></es>
+    </d89>
+    <d90 puppet="coppelius" sound="mtstation0090.mp3">
+      <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s time rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если перенаправить достаточно энергии сюда, на станцию, временной разрыв дестабилизируется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d90>
+    <d91 puppet="_avatar" sound="mtstation0091.mp3">
+      <en><![CDATA[I did it! I activated all devices down here, now the station should drain enough energy away from the Time Rift Apparatus!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Получилось! Все оборудование подключено, теперь станция активно откачивает энергию от генератора временного разрыва!]]></ru>
+      <es><![CDATA[]]></es>
+    </d91>
+    <d92 puppet="coppelius" sound="mtstation0092.mp3">
+      <en><![CDATA[Very good! That should destabilize the time rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Молодец! Это должно дестабилизировать разрыв!]]></ru>
+      <es><![CDATA[]]></es>
+    </d92>
+    <d93 puppet="nora" sound="mtstation0093.mp3">
+      <en><![CDATA[I hope we are not too late!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Надеюсь, мы не опоздали!]]></ru>
+      <es><![CDATA[]]></es>
+    </d93>
+    <d94 puppet="coppelius" sound="mtstation0094.mp3">
+      <en><![CDATA[There’s only one way to find out. Let’s head up and face Vincent!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Это нетрудно выяснить. Скорее наверх, к Винсенту!]]></ru>
+      <es><![CDATA[]]></es>
+    </d94>
+    <d95 puppet="slappy" sound="mtstation0095.mp3">
+      <en><![CDATA[I will stay down here with Anthony ... we will come after you in a minute.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я останусь здесь с Энтони... мы вас догоним через минуту.]]></ru>
+      <es><![CDATA[]]></es>
+    </d95>
+    <d96 puppet="_avatar" sound="mtstation0096.mp3">
+      <en><![CDATA[Dr. LeMue LaFayette looks kind of relaxed but I bet he’s pretty worried about Nigel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Лемю Лафайетт выглядит спокойным, но он наверняка тревожится за Найджела.]]></ru>
+      <es><![CDATA[]]></es>
+    </d96>
+    <d97 puppet="_avatar" sound="mtstation0097.mp3">
+      <en><![CDATA[Do you have any idea what I can do to bring the power back on?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть идеи как заново подключить питание?]]></ru>
+      <es><![CDATA[]]></es>
+    </d97>
+    <d98 puppet="slappy" sound="mtstation0098.mp3">
+      <en><![CDATA[You will have to find out why the grid is down and fix the problem.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тебе придется найти неполадку в электросистеме и устранить ее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d98>
+    <d99 puppet="slappy" sound="mtstation0099.mp3">
+      <en><![CDATA[Then you should be able to manage the power flow using the control panel in the maintenance booth.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тогда ты сможешь перенаправить поток энергии при помощи панели управления в аппаратной будке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d99>
+    <d100 puppet="_avatar" sound="mtstation0100.mp3">
+      <en><![CDATA[Dr. LeMue LaFayette looks kind of relaxed but I bet he’s pretty worried about Nigel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Лемю Лафайетт выглядит спокойным, но он наверняка тревожится за Найджела.]]></ru>
+      <es><![CDATA[]]></es>
+    </d100>
+    <d101 puppet="_avatar" sound="mtstation0101.mp3">
+      <en><![CDATA[Do you have any idea what I can do to bring the power back on?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Есть идеи как заново подключить питание?]]></ru>
+      <es><![CDATA[]]></es>
+    </d101>
+    <d102 puppet="slappy" sound="mtstation0102.mp3">
+      <en><![CDATA[You will have to find out why the grid is down and fix the problem.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тебе придется найти неполадку в электросистеме и устранить ее.]]></ru>
+      <es><![CDATA[]]></es>
+    </d102>
+    <d103 puppet="slappy" sound="mtstation0103.mp3">
+      <en><![CDATA[Then you should be able to manage the power flow using the control panel in the maintenance booth.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тогда ты сможешь перенаправить поток энергии при помощи панели управления в аппаратной будке.]]></ru>
+      <es><![CDATA[]]></es>
+    </d103>
+    <d104 puppet="_avatar" sound="mtstation0104.mp3">
+      <en><![CDATA[Dr. LeMue LaFayette looks kind of relaxed but I bet he’s pretty worried about Nigel.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Лемю Лафайетт выглядит спокойным, но он наверняка тревожится за Найджела.]]></ru>
+      <es><![CDATA[]]></es>
+    </d104>
+    <d105 puppet="_avatar" sound="mtstation0105.mp3">
+      <en><![CDATA[Say, what do I have to do now?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Так, а теперь что мне делать?]]></ru>
+      <es><![CDATA[]]></es>
+    </d105>
+    <d106 puppet="slappy" sound="mtstation0106.mp3">
+      <en><![CDATA[You will have to manually reroute the energy from the lightning collectors to the station down here to do destabilize the time rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Тебе нужно вручную перенаправить поток энергии от молниеприемников сюда, на станцию, чтобы дестабилизировать временной разрыв!]]></ru>
+      <es><![CDATA[]]></es>
+    </d106>
+    <d107 puppet="_avatar" sound="mtstation0107.mp3">
+      <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she traveled through time AND doesn’t seem to be freezing even though she’s only wearing a shirt with short sleeves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... у Норы механическое сердце, она путешествовала во времени, и ей, похоже, не холодно даже в футболке без рукавов.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d107>
+    <d108 puppet="_avatar" sound="mtstation0108.mp3">
+      <en><![CDATA[I have no time for chit chat! We need to stop Vincent!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Некогда болтать! Мы должны остановить Винсента!]]></ru>
+      <es><![CDATA[]]></es>
+    </d108>
+    <d109 puppet="_avatar" sound="mtstation0109.mp3">
+      <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she traveled through time AND doesn’t seem to be freezing even though she’s only wearing a shirt with short sleeves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... у Норы механическое сердце, она путешествовала во времени, и ей, похоже, не холодно даже в футболке без рукавов.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d109>
+    <d110 puppet="_avatar" sound="mtstation0110.mp3">
+      <en><![CDATA[I have no time for chit chat! We need to stop Vincent!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Некогда болтать! Мы должны остановить Винсента!]]></ru>
+      <es><![CDATA[]]></es>
+    </d110>
+    <d111 puppet="_avatar" sound="mtstation0111.mp3">
+      <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she traveled through time AND doesn’t seem to be freezing even though she’s only wearing a shirt with short sleeves.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Невероятно... у Норы механическое сердце, она путешествовала во времени, и ей, похоже, не холодно даже в футболке без рукавов.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d111>
+    <d112 puppet="_avatar" sound="mtstation0112.mp3">
+      <en><![CDATA[I have no time for chit chat! We need to stop Vincent!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Некогда болтать! Мы должны остановить Винсента!]]></ru>
+      <es><![CDATA[]]></es>
+    </d112>
+    <d113 puppet="_avatar" sound="mtstation0113.mp3">
+      <en><![CDATA[Dr. Trelawney looks like he has given up hope of doing the right thing, once and for all.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У доктора Трелони вид человека, раз и навсегда оставившего надежду поступить правильно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d113>
+    <d114 puppet="_avatar" sound="mtstation0114.mp3">
+      <en><![CDATA[Dr. Trelawney, is there a way we can reach the mountaintop lab?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Трелони, есть способ добраться до лаборатории на вершине?]]></ru>
+      <es><![CDATA[]]></es>
+    </d114>
+    <d115 puppet="trelawney" sound="mtstation0115.mp3">
+      <en><![CDATA[Yes, please help Nigel ... Here, take this key to the station’s control booth.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Да, пожалуйста, помогите Найджелу... вот, возьмите ключ от аппаратной будки на станции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d115>
+    <d116 puppet="trelawney" sound="mtstation0116.mp3">
+      <en><![CDATA[Inside that booth is the station’s power control panel. You can use that panel to activate the elevator.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Там внутри панель управления питанием станции. С нее можно включить лифт.]]></ru>
+      <es><![CDATA[]]></es>
+    </d116>
+    <d117 puppet="coppelius" sound="mtstation0117.mp3">
+      <en><![CDATA[Wait ... if the elevator is powered down, would that mean Vincent has channeled all of the station’s power into his rift?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Постойте... если лифт не работает, значит Винсент направил всю энергию станции на питание разрыва?]]></ru>
+      <es><![CDATA[]]></es>
+    </d117>
+    <d118 puppet="trelawney" sound="mtstation0118.mp3">
+      <en><![CDATA[I’m afraid so. He must be channeling power directly from the lightning collectors ... There’s no stopping him!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Боюсь, что так. Он, должно быть, качает энергию прямо от молниеприемников... Тогда его не остановить!]]></ru>
+      <es><![CDATA[]]></es>
+    </d118>
+    <d119 puppet="coppelius" sound="mtstation0119.mp3">
+      <en><![CDATA[Ah ha ... but maybe there is!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ха... это мы еще посмотрим!]]></ru>
+      <es><![CDATA[]]></es>
+    </d119>
+    <d120 puppet="coppelius" sound="mtstation0120.mp3">
+      <en><![CDATA[If we could activate enough devices down here in the station, then we may draw off enough power to destabilize his rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Если мы включим здесь достаточно аппаратуры, она оттянет на себя энергию, и разрыв дестабилизируется!]]></ru>
+      <es><![CDATA[]]></es>
+    </d120>
+    <d121 puppet="slappy" sound="mtstation0121.mp3">
+      <en><![CDATA[Bravo, Coppelius! That’s a smashing idea ... an unstable rift would warp Vincent into oblivion!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Браво, Коппелиус! Блестящая идея... а нестабильный разрыв может затянуть Винсента в никуда!]]></ru>
+      <es><![CDATA[]]></es>
+    </d121>
+    <d122 puppet="coppelius" sound="mtstation0122.mp3">
+      <en><![CDATA[Indeed. NATHAN! It’s time to live up to your potential ... We need to draw power away from that rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Именно так. Натан! Пора показать, на что ты способен... Нужно оттянуть энергию от разрыва!]]></ru>
+      <es><![CDATA[]]></es>
+    </d122>
+    <d123 puppet="coppelius" sound="mtstation0123.mp3">
+      <en><![CDATA[You’ll need to go outside and manually flip the lightning collectors’ routing switches to divert their power into the station.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Иди наружу и перенаправь поток энергии на станцию - переключи распределители молниеприемников.]]></ru>
+      <es><![CDATA[]]></es>
+    </d123>
+    <d124 puppet="coppelius" sound="mtstation0124.mp3">
+      <en><![CDATA[After that, use the power control panel to drain as much power as possible away from the rift!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[После этого с панели управления откачай из разрыва как можно больше энергии!]]></ru>
+      <es><![CDATA[]]></es>
+    </d124>
+    <d125 puppet="_avatar" sound="mtstation0125.mp3">
+      <en><![CDATA[Okay, I guess I have work to do ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Ладно, тогда мне пора за дело...]]></ru>
+      <es><![CDATA[]]></es>
+    </d125>
+    <d126 puppet="_avatar" sound="mtstation0126.mp3">
+      <en><![CDATA[Dr. Trelawney looks like he has given up hope of doing the right thing, once and for all.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[У доктора Трелони вид человека, раз и навсегда оставившего надежду поступить правильно.]]></ru>
+      <es><![CDATA[]]></es>
+    </d126>
+    <d127 puppet="_avatar" sound="mtstation0127.mp3">
+      <en><![CDATA[Dr. Trelawney?]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Доктор Трелони?]]></ru>
+      <es><![CDATA[]]></es>
+    </d127>
+    <d128 puppet="_avatar" sound="mtstation0128.mp3">
+      <en><![CDATA[I guess I should leave him alone for now.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Я пока оставлю его одного.]]></ru>
+      <es><![CDATA[]]></es>
+    </d128>
+    <d129 puppet="_avatar" sound="mtstation0129.mp3">
+      <en><![CDATA[Apparently this is the food supply for anyone working up here in this facility...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А здесь, судя по всему, провизия для работников станции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d129>
+    <d130 puppet="_avatar" sound="mtstation0130.mp3">
+      <en><![CDATA[Let’s hope they like noodles.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Будем надеяться, они любят лапшу.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d130>
+    <d131 puppet="_avatar" sound="mtstation0131.mp3">
+      <en><![CDATA[Yum! I love instant noodles.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[М-м-м! Обожаю лапшу быстрого приготовления!]]></ru>
+      <es><![CDATA[]]></es>
+    </d131>
+    <d132 puppet="_avatar" sound="mtstation0132.mp3">
+      <en><![CDATA[Apparently this is the food supply for anyone working up here in this facility...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А здесь, судя по всему, провизия для работников станции.]]></ru>
+      <es><![CDATA[]]></es>
+    </d132>
+    <d133 puppet="_avatar" sound="mtstation0133.mp3">
+      <en><![CDATA[Let’s hope they like noodles.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Будем надеяться, они любят лапшу.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d133>
+    <d134 puppet="_avatar" sound="mtstation0134.mp3">
+      <en><![CDATA[I’d better not. I’ve already taken my fair share of the food supply.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Лучше не стоит. Провизией я себя обеспечил.]]></ru>
+      <es><![CDATA[]]></es>
+    </d134>
+    <d135 puppet="_avatar" sound="mtstation0135.mp3">
+      <en><![CDATA[There seems to be some sort of control console in there ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здесь какая-то панель управления...]]></ru>
+      <es><![CDATA[]]></es>
+    </d135>
+    <d136 puppet="_avatar" sound="mtstation0136.mp3">
+      <en><![CDATA[No. I’d probably just cut myself on the glass.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Нет. Я только порежусь.]]></ru>
+      <es><![CDATA[]]></es>
+    </d136>
+    <d137 puppet="slappy" sound="mtstation0137.mp3">
+      <en><![CDATA[Mh. No sign of Vincent or the others ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Хм. Не видно ни Винсента, ни остальных.]]></ru>
+      <es><![CDATA[]]></es>
+    </d137>
+    <d138 puppet="slappy" sound="mtstation0138.mp3">
+      <en><![CDATA[All clear! You can come over here.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Все чисто! Идите сюда.@@@]]></ru>
+      <es><![CDATA[]]></es>
+    </d138>
+    <d139 puppet="_avatar" sound="mtstation0139.mp3">
+      <en><![CDATA[It’s pretty cold up here!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Холодно здесь!]]></ru>
+      <es><![CDATA[]]></es>
+    </d139>
+    <d140 puppet="slappy" sound="mtstation0140.mp3">
+      <en><![CDATA[We are right underneath the top of Mount Misery. ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Мы прямо под вершиной Горы Несчастья.]]></ru>
+      <es><![CDATA[]]></es>
+    </d140>
+    <d141 puppet="nora" sound="mtstation0141.mp3">
+      <en><![CDATA[This place feels strange ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Странное место...]]></ru>
+      <es><![CDATA[]]></es>
+    </d141>
+    <d142 puppet="_avatar" sound="mtstation0142.mp3">
+      <en><![CDATA[I know what you mean. I get the feeling that someone is watching us.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Понимаю. У меня такое чувство, будто за нами следят.]]></ru>
+      <es><![CDATA[]]></es>
+    </d142>
+    <d143 puppet="coppelius" sound="mtstation0143.mp3">
+      <en><![CDATA[It’s just your imagination … there hasn’t been a soul up here for over six years.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Скажешь тоже... здесь уже шесть лет как ни души.]]></ru>
+      <es><![CDATA[]]></es>
+    </d143>
+    <d144 puppet="nora" sound="mtstation0144.mp3">
+      <en><![CDATA[All the lights around here are out ... ]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Здесь нет света...]]></ru>
+      <es><![CDATA[]]></es>
+    </d144>
+    <d145 puppet="coppelius" sound="mtstation0145.mp3">
+      <en><![CDATA[The power grid is down ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Электросистема отключена...]]></ru>
+      <es><![CDATA[]]></es>
+    </d145>
+    <d146 puppet="slappy" sound="mtstation0146.mp3">
+      <en><![CDATA[That means the elevator that leads to the test site on top of the mountain isn’t working either.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[А значит, и лифт, ведущий на полигон на вершине горы тоже не работает.]]></ru>
+      <es><![CDATA[]]></es>
+    </d146>
+    <d147 puppet="coppelius" sound="mtstation0147.mp3">
+      <en><![CDATA[Nathan, we have to find a way to restore the power down here! We need to use the elevator to get to the Time Rift Apparatus and stop Vincent!]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Натан, нужно найти способ восстановить питание! Только тогда мы сможем поднять к лаборатории и остановить Винсента!]]></ru>
+      <es><![CDATA[]]></es>
+    </d147>
+    <d148 puppet="_avatar" sound="mtstation0148.mp3">
+      <en><![CDATA[Station TRA. Time Rift Apparatus ...]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Станция ГВР. Генератор временного разрыва...]]></ru>
+      <es><![CDATA[]]></es>
+    </d148>
+    <d149 puppet="_avatar" sound="mtstation0149.mp3">
+      <en><![CDATA[I wonder how many people know about this place.]]></en>
+      <de><![CDATA[]]></de>
+      <fr><![CDATA[]]></fr>
+      <it><![CDATA[]]></it>
+      <ru><![CDATA[Интересно, много людей знают про это место?]]></ru>
+      <es><![CDATA[]]></es>
+    </d149>
+  </d>
+</localize>
