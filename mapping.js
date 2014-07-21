@@ -48,6 +48,7 @@ module.exports.caches = {
 
 module.exports.omitIndices = {
   'boathouse': [0, 1, 2, 3, 4, 53, 54],
+  'campfire': [38, 39],
   'cliff': [47],
   'trelawney': [20]
 };
