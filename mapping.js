@@ -50,6 +50,7 @@ module.exports.omitIndices = {
   'boathouse': [0, 1, 2, 3, 4, 53, 54],
   'campfire': [38, 39],
   'cliff': [47],
+  'harbor': [487, 517],
   'trelawney': [20]
 };
 
