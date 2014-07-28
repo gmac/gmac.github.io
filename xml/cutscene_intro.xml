@@ -1,64 +1,91 @@
-<room id="cutscene_intro" coreLibs="lib/cutscene_intro.swf" voiceLibs="" enterScript="_enter" exitScript="_exit" grid="base" sound1="" sound2=""><grids><grid id="base"><boxes/><nodes/></grid></grids><positions/><filters><filter id="_main" axis="y" enabled="1"><pole x="-1" y="-1" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="-1" y="-1" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters>
-<scripts><script id="_enter">
-<curtain blackout="0"/>
+<room id="cutscene_intro" coreLibs="lib/cutscene_intro.swf" voiceLibs="lib/cutscene_intro_voice.swf" enterScript="_enter" exitScript="_exit" grid="base" sound1="" sound2=""><grids><grid id="base"><boxes/><nodes/></grid></grids><positions/><filters><filter id="_main" axis="y" enabled="1"><pole x="-1" y="-1" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="-1" y="-1" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters><scripts><script id="_enter"><curtain blackout="0"/><puppet target="intro" callAction="0"/></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><sound playback="stopAll"/><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param turnTo="5" mouse="0" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
+<layer id="intro" type="puppet" asset="lib/cutscene_intro.swf:IntroMovie" depth="1" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param turnTo="8" mapX="512" mapY="384" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title>
+<dialog>
+<dia puppet="nora" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_000">
+  <en><![CDATA[Who are you?]]></en>
+  <de><![CDATA[Wer sind Sie?]]></de>
+</dia>
+<dia puppet="nora" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_001">
+  <en><![CDATA[What do you want from me?]]></en>
+  <de><![CDATA[Was wollen Sie von mir?]]></de>
+</dia>
+<dia puppet="vincent" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_002">
+  <en><![CDATA[Don't worry, I just want to know ...]]></en>
+  <de><![CDATA[Keine Sorge, ich frage mich nur ...]]></de>
+</dia>
+<dia puppet="vincent" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_003">
+  <en><![CDATA[What makes you tick?]]></en>
+  <de><![CDATA[Was dich im Innersten bewegt?]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_004">
+  <en><![CDATA[The next day, a young man's adventure will begin.]]></en>
+  <de><![CDATA[Am nächsten Tag beginnt das Abenteuer eines jungen Mannes.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_005">
+  <en><![CDATA[Here he comes.]]></en>
+  <de><![CDATA[Hier kommt er schon.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_006">
+  <en><![CDATA[This young man's name is Nigel Trelawney.]]></en>
+  <de><![CDATA[Sein Name ist Nigel Trelawney.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_007">
+  <en><![CDATA[Upon receiving notice of his father's death, Nigel has traveled to the town of Ravenhollow.]]></en>
+  <de><![CDATA[Nachdem er von dem Ableben seines Vaters erfahren hat,
+reist Nigel in die kleine Stadt Ravenhollow.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_008">
+  <en><![CDATA[He has come to settle his father's estate.]]></en>
+  <de><![CDATA[Er ist gekommen, um das Erbe seines Vaters anzutreten.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_009">
+  <en><![CDATA[However, Nigel will soon discover that the shadow of a nearby castle has fallen over this small town and its inhabitants.]]></en>
+  <de><![CDATA[Doch schon bald wird Nigel merken, dass der Schatten eines nahe
+gelegenen Schlosses über der Stadt und ihren Einwohnern liegt.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_010">
+  <en><![CDATA[Little does Nigel expect that his quest may shape the fate of Ravenhollow, and that of a kidnapped girl.]]></en>
+  <de><![CDATA[Noch ahnt Nigel nicht, dass das Schicksal eines entführten Mädchens und der ganzen Stadt in seinen Händen liegt.]]></de>
+</dia>
+<dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_011">
+  <en><![CDATA[... or that along his path, adventure awaits him.]]></en>
+  <de><![CDATA[... und dass seine Reise ihn geradewegs ins Abenteuer führt.]]></de>
+</dia>
+</dialog>
+<script>
 <sequence skip="1">
-  <layerSprite target="intro" animFrame="play" waitForComplete="1"/>
+  <layerSprite target="intro" animFrame="play" waitForComplete="0"/>
+  <wait stageEvent="cutscene_intro_000"/>
+  <dialogue playList="0" skipable="0"/>
+  <wait stageEvent="cutscene_intro_001"/>
+  <dialogue playList="1" skipable="0"/>
+  <wait stageEvent="cutscene_intro_002"/>
+  <dialogue playList="2" skipable="0"/>
+  <wait stageEvent="cutscene_intro_003"/>
+  <dialogue playList="3" skipable="0"/>
+  <wait stageEvent="cutscene_intro_004"/>
+  <dialogue playList="4" skipable="0"/>
+  <wait stageEvent="cutscene_intro_005"/>
+  <dialogue playList="5" skipable="0"/>
+  <wait stageEvent="cutscene_intro_006"/>
+  <dialogue playList="6" skipable="0"/>
+  <wait stageEvent="cutscene_intro_007"/>
+  <dialogue playList="7" skipable="0"/>
+  <wait stageEvent="cutscene_intro_008"/>
+  <dialogue playList="8" skipable="0"/>
+  <wait stageEvent="cutscene_intro_009"/>
+  <dialogue playList="9" skipable="0"/>
+  <wait stageEvent="cutscene_intro_010"/>
+  <dialogue playList="10" skipable="0"/>
+  <wait stageEvent="cutscene_intro_011"/>
+  <dialogue playList="11" skipable="0"/>
+  <wait stageEvent="lassieAnimComplete"/>
   <layerSprite target="intro" animFrame="end" waitForComplete="0"/>
 </sequence>
 <game room="harbor_intro:join_world"/>
-</script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><sound playback="stopAll"/><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="0" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
-
-<layer id="intro" type="puppet" asset="lib/cutscene_intro.swf:IntroMovie" depth="1" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mapX="512" mapY="384" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
-
-<layer id="narrator" type="puppet" asset="" depth="2" visible="1" state="main"><states><state id="main" x="512" y="700" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1" hitH="1" shape="rect"><param mapX="0" mapY="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title>
-<dialog><dia puppet="nora" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[Who are you?]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="nora" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[What do you want from me?]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="vincent" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[Don't worry, I just want to know ...]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="vincent" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[What makes you tick?]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[The next day, a young man's adventure will begin.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[Here he comes.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[This young man's name is Nigel Trelawney.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[Upon receiving notice of his father's death, Nigel has traveled to the town of Ravenhollow.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[He has come to settle his father's estate.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[However, Nigel will soon discover that the shadow of a nearby castle has fallen over this small town and its inhabitants.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[Little does Nigel expect that his quest may shape the fate of a kidnapped girl and all of Ravenhollow.]]></en>
-<de><![CDATA[]]></de>
-</dia>
-<dia puppet="narrator" frame="" sound="voice/intro_voice.swf:fishing0001">
-<en><![CDATA[... or that along his path, adventure awaits him.]]></en>
-<de><![CDATA[]]></de>
-</dia></dialog><script>
-<dialogue play="*"/>
-</script></action></actions><items/></state></states></layer>
+</script>
+</action></actions><items/></state></states></layer>
+<layer id="narrator" type="puppet" asset="" depth="2" visible="1" state="main"><states><state id="main" x="512" y="700" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1" hitH="1" shape="rect"><param turnTo="4" mapX="0" mapY="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
+<layer id="vincent" type="puppet" asset="" depth="2" visible="1" state="main"><states><state id="main" x="512" y="700" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1" hitH="1" shape="rect"><param turnTo="4" mapX="0" mapY="0" cursor="" onclick="-1" prefix="" subtitle="0x99CC99" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
+<layer id="nora" type="puppet" asset="" depth="2" visible="1" state="main"><states><state id="main" x="512" y="700" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1" hitH="1" shape="rect"><param turnTo="4" mapX="0" mapY="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFF99" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer>
 </layers><trees/></room>
