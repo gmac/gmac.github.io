@@ -6,7 +6,7 @@
   <de><![CDATA[Wer sind Sie?]]></de>
 </dia>
 <dia puppet="nora" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_001">
-  <en><![CDATA[What do you want from me?]]></en>
+  <en><![CDATA[What do you want?]]></en>
   <de><![CDATA[Was wollen Sie von mir?]]></de>
 </dia>
 <dia puppet="vincent" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_002">

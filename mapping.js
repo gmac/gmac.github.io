@@ -50,6 +50,7 @@ module.exports.omitIndices = {
   'boathouse': [0, 1, 2, 3, 4, 53, 54],
   'campfire': [38, 39],
   'cliff': [47],
+  'global': [120, 197, 200, 607, 608, 609],
   'harbor': [487, 517],
   'trelawney': [20]
 };
@@ -161,8 +162,8 @@ module.exports.owners = {
   envelope: 'nigel',
   envelope2: 'nigel',
   feathers: 'nigel',
-  firefly_jar1: 'nathan',
-  firefly_jar2: 'nathan',
+  firefly_jar1: 'nigel',
+  firefly_jar2: 'nigel',
   fish2: 'nigel',
   fish_bucket: 'nigel',
   fish_nathan: 'nathan',

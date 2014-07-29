@@ -257,6 +257,16 @@ function parseGlobal(id, done) {
     var dup = 0;
     var globalHTML = '<h1>global</h1><div class="splash"><img src="assets/global.jpg" alt="global"></div>';
     
+    // Get the next valid dialog index to use within the scene:
+    function nextIndex() {
+      var index = count;
+      if (omits['global']) {
+        while( omits['global'].hasOwnProperty(String(index)) ) index++;
+      }
+      count = index + 1;
+      return index;
+    }
+
     // Parse in voice library reference:
     XML = XML.replace(/voiceLibs=".*?"/g, 'voiceLibs="lib/global_voice.swf"');
     
@@ -277,7 +287,7 @@ function parseGlobal(id, done) {
           var duplicate = !!soundPath;
           
           if (!soundPath) {
-            soundPath = cache[actor][subtitle] = ['lib/global_voice.swf:global_', ('0000' + count++).substr(-3)].join('');
+            soundPath = cache[actor][subtitle] = ['lib/global_voice.swf:global_', ('0000' + nextIndex()).substr(-3)].join('');
           } else {
           	dup++;
           }
@@ -312,7 +322,7 @@ function parseGlobal(id, done) {
           var duplicate = !!soundPath;
           
           if (!soundPath) {
-            soundPath = cache[actor][subtitle] = ['lib/global_voice.swf:global_', ('0000' + count++).substr(-3)].join(''); 
+            soundPath = cache[actor][subtitle] = ['lib/global_voice.swf:global_', ('0000' + nextIndex()).substr(-3)].join(''); 
           } else {
           	dup++;
           }
@@ -344,7 +354,7 @@ function parseGlobal(id, done) {
         var duplicate = !!soundPath;
         
         if (!soundPath) {
-          soundPath = cache[actor][subtitle] = ['lib/global_voice.swf:global_', ('0000' + count++).substr(-3)].join('');
+          soundPath = cache[actor][subtitle] = ['lib/global_voice.swf:global_', ('0000' + nextIndex()).substr(-3)].join('');
         } else {
           dup++;
         }
