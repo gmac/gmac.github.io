@@ -435,7 +435,7 @@ fs.readFile('./template.html', 'utf8', function(err, data) {
     */
     
     if (all) {
-      var content = '<ul>' + _.reduce(files, function(memo, id) {
+      var content = '<ul class="scenes">' + _.reduce(files, function(memo, id) {
         return memo + ['<li class="dialog ', _.keys(ACTORS_BY_FILE[id]).join(' '), '"><a href="', id, '.html">', id, '</a></li>'].join('');
       }, '') + '</ul>';
 
