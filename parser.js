@@ -50,8 +50,8 @@ function turnView(a, b) {
 }
 
 function renderDoc(id, content, cast) {
-  cast = _.reduce(_.keys(cast), function(memo, value) {
-    return memo + ['<option value="', value, '">', value, '</option>'].join('');
+  cast = _.reduce(_.keys(cast).sort(), function(memo, actor) {
+    return memo + ['<option value="', actor, '">', actor, '</option>'].join('');
   }, '');
 
   var doc = TEMPLATE.replace('{{ id }}', id);
@@ -440,6 +440,12 @@ fs.readFile('./template.html', 'utf8', function(err, data) {
       }, '') + '</ul>';
 
       renderDoc('index', content, ACTORS);
+
+      var data = _.map(ACTORS, function(val, key) {
+        return {cast_id: key, count: val};
+      });
+
+      fs.writeFile(SCREENPLAY_DIR+'assets/cast_data.js', 'var cast_data = '+ JSON.stringify(data) +';');
     }
   });
 });

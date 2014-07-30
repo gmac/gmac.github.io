@@ -15,7 +15,7 @@ module.exports.actors = {
   'exit_mill': 'slappy',
   'henry': 'slappy',
   'radio': 'slappy',
-  'guard': 'faker',
+  'guard': 'holdup',
   'juggler': 'greg',
   'nora2': 'nora',
   'MB_Caro': 'mrs_caro',
@@ -50,7 +50,7 @@ module.exports.omitIndices = {
   'boathouse': [0, 1, 2, 3, 4, 53, 54],
   'campfire': [38, 39],
   'cliff': [47],
-  'global': [120, 197, 200, 607, 608, 609],
+  'global': [120, 194, 196, 197, 200, 607, 608, 609],
   'harbor': [487, 517],
   'trelawney': [20]
 };
