@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Makes You Tick: A Stitch in Time</title>
+  <link rel="stylesheet" href="assets/screenplay.css">
+</head>
+<body>
+  <div class="header">
+    <p class="queue-title" id="queue-title"></p>
+    <h1>What Makes You Tick: A Stitch in Time</h1>
+    <p><a href="index.html">Index</a></p>
+  </div>
+  <div class="content">
+    <h1>Recording Manager</h1>
+    <table id="actors">
+      <thead>
+        <tr>
+          <th data-sort="cast_id">Cast ID</th>
+          <th data-sort="total">Total</th>
+          <th data-sort="completed">Completed</th>
+          <th data-sort="actor">Actor</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+      <tfoot>
+        <tr>
+          <td>TOTALS:</td>
+          <td id="grand-total"></td>
+          <td id="completed-total"></td>
+          <td id="completed-percent"></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  
+  <script type="text/template" id="actor-tmpl">
+  <tr data-id="<%= cast_id %>">
+    <td><%= index %>. <%= cast_id %></td>
+    <td><%= total %></td>
+    <td><input type="number" value="<%= completed %>" class="completed"></td>
+    <td><input type="text" value="<%= actor %>" class="actor"></td>
+  </tr>
+  </script>
+
+  <script src="assets/cast_data.js"></script>
+  <script src="assets/jquery.js"></script>
+  <script src="assets/underscore.js"></script>
+  <script src="assets/backbone.js"></script>
+  <script src="assets/backbone-localstorage.js"></script>
+  <script src="assets/manager.js"></script>
+</body>
+</html>

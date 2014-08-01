@@ -14,7 +14,7 @@ var ACTORS_BY_FILE = {};
 var TEMPLATE = '';
 var SRC_DIR = './xml/';
 var OUT_DIR = '../xml/';
-var SCREENPLAY_DIR = '../screenplay/';
+var SCREENPLAY_DIR = './screenplay/';
 
 var counts = {};
 var dups = {};

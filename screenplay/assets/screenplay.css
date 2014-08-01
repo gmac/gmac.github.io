@@ -1,0 +1,183 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0 50px;
+}
+
+body > div {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 1em 0 0;
+}
+
+h2 {
+  font-size: 1.43em;
+  margin: 1.5em 0 0.5em;
+}
+
+h3 {
+  font-size: 1em;
+  margin: 1em 0 0;
+}
+
+p {
+  margin: 0.1em 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+table {
+  margin: 15px 0 100px;
+  width: 100%;
+}
+
+tfoot td {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px 0 0;
+}
+
+th {
+  text-align: left;
+  padding: 0 0 10px;
+  width: 20%;
+}
+
+th[data-sort="actor"] {
+  width: 40%;
+}
+
+td input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  padding: 4px 6px;
+  width: 75px;
+}
+
+td input.actor {
+  width: 100%;
+}
+
+.splash {
+  width: 100%;
+}
+
+.header h1 {
+  border-bottom: 1px solid #ccc;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.25em;
+}
+
+.header select {
+  margin-right: 2em;
+}
+
+.queue-title {
+  float: right;
+  font-size: 1.5em;
+  font-style: italic;
+  line-height: 1.75;
+}
+
+.room {
+  margin-bottom: 80px;
+  page-break-after: always;
+}
+
+.dialog {
+  border-bottom: 1px solid #eee;
+  padding: 0.5em;
+  page-break-inside: avoid;
+  margin-left: 0.5em;
+  position: relative;
+}
+
+.dialog tt {
+  border-radius: 4px;
+  color: #999;
+  display: block;
+  font-family: courier, monospace;
+  font-size: 0.72em;
+  float: right;
+  line-height: 21px;
+  margin-left: 1em;
+  padding: 1px 0.25em;
+}
+
+.dialog b {
+  font-weight: bold;
+  padding-right: 0.5em;
+}
+
+.dialog.active {
+  background-color: #FAF7E8;
+}
+
+a {
+  color: #663300;
+}
+
+a.nav {
+  border-right: 1px solid #ccc;
+  margin-right: 15px;
+  padding-right: 15px;
+  /* &laquo; */
+}
+
+ul.scenes {
+  padding: 15px;
+}
+
+#index a.home {
+  display: none;
+}
+
+#index ul {
+  margin-bottom: 100px;
+}
+
+@media print {
+  body {
+    font-size: 15px;
+    margin: 10px 30px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-bottom: 0.5em;
+    margin-top: 0;
+    padding-bottom: 0.25em;
+  }
+  
+  h2 {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+  }
+  
+  .filters {
+    display: none;
+  }
+  
+  .dialog {
+    margin-bottom: 0;
+    margin-left: 10px;
+    padding-left: 10px;
+  }
+  
+  .dialog.active b {
+    color: #DB9A00;
+  }
+}
