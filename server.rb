@@ -4,7 +4,6 @@ require 'sinatra/reloader'
 require 'sinatra/activerecord'
 require 'json'
 
-set :port, 8888
 db = URI.parse('postgres://localhost/stitch_recording')
 
 ActiveRecord::Base.establish_connection(
