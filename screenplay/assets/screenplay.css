@@ -44,12 +44,18 @@ tfoot td {
   font-size: 18px;
   font-weight: bold;
   padding: 15px 0 0;
+  vertical-align: top;
 }
 
 th {
+  cursor: default;
   text-align: left;
   padding: 0 0 10px;
   width: 20%;
+}
+
+th:hover {
+  text-decoration: underline;
 }
 
 th[data-sort="actor"] {

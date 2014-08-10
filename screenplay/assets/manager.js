@@ -31,12 +31,15 @@ var Recordings = Backbone.Collection.extend({
       compare = function(a, b) { return b.get(field) - a.get(field); };
     } else {
       compare = function(a, b) {
-        if (!a.get(field) && b.get(field)) {
+        a = a.get(field) || '';
+        b = b.get(field) || '';
+
+        if (!a && b) {
           return 1;
-        } else if (a.get(field) && !b.get(field)) {
+        } else if (a && !b) {
           return -1;
         }
-        return a.get(field).localeCompare(b.get(field));
+        return a.localeCompare(b);
       };
     }
 
@@ -59,7 +62,7 @@ var RecordingsView = Backbone.View.extend({
 
   initialize: function() {
     this.listenTo(this.collection, 'reset sort', this.render);
-    this.listenTo(this.collection, 'change:completed', this.tally);
+    this.listenTo(this.collection, 'change:completed change:actor', this.tally);
     this.render();
   },
 
@@ -77,15 +80,24 @@ var RecordingsView = Backbone.View.extend({
   tally: function() {
     var total = 0;
     var completed = 0;
+    var cast = 0;
 
     this.collection.each(function(model) {
       total += model.get('total');
       completed += model.get('completed');
+
+      if (model.get('actor')) {
+        cast += model.get('total');
+      }
     }, this);
 
     this.$('#grand-total').html(total.toLocaleString());
     this.$('#completed-total').html(completed.toLocaleString());
-    this.$('#completed-percent').html(Math.round(completed / total * 100) + '%');
+
+    completed =  Math.round(completed / total * 100);
+    cast =  Math.round(cast / total * 100);
+
+    this.$('#completed-percent').html('Completed: ' + completed + '%<br>Cast: ' + cast + '%');
   },
 
   events: {
