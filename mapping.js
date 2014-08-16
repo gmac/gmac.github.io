@@ -53,6 +53,7 @@ module.exports.omitIndices = {
   'cliff': [47],
   'global': [120, 194, 196, 197, 200, 607, 608, 609],
   'harbor': [487, 517],
+  'treehouse': [162],
   'trelawney': [20]
 };
 
