@@ -102,6 +102,7 @@ function parseRoom(id, done) {
     XML = data;
     XML = XML.replace(/&#8222;/g, "“");
     XML = XML.replace(/&#8220;/g, "”");
+    XML = XML.replace(/\s*\.\.\./g, "&nbsp;...");
     console.log(id);
     parseXML(data, onParse);
   }
@@ -245,6 +246,9 @@ function parseGlobal(id, done) {
   fs.readFile(SRC_DIR+'global.xml', 'utf8', function(err, data) {
     if (err) throw err;
     XML = data;
+    XML = XML.replace(/&#8222;/g, "“");
+    XML = XML.replace(/&#8220;/g, "”");
+    XML = XML.replace(/\s*\.\.\./g, "&nbsp;...");
     parseXML(data, onParse);
   });
   
