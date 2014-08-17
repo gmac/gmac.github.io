@@ -132,6 +132,10 @@ td input.actor {
   background-color: #FAF7E8;
 }
 
+.dialog.dup {
+  text-decoration: line-through;
+}
+
 a {
   color: #663300;
 }

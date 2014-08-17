@@ -22,11 +22,14 @@ function updateView() {
   
   $('#queue-title').text(cast);
   location.hash = '/'+[cast].join('/');
+  localStorage.setItem('stitch-cast', cast);
   $body.show();
 }
 
-var params = location.hash.match(/^#\/(.*?)\/*$/);
-if (params) {
-  $cast.val(params[1]);
+// Set initial hash selection...
+//var params = location.hash.match(/^#\/(.*?)\/*$/);
+var selection = localStorage.getItem('stitch-cast');
+if (selection && $cast.find('option[value="'+selection+'"]').length) {
+  $cast.val(selection);
   updateView();
 }

@@ -65,19 +65,18 @@ function renderDialog(subtitle, actor, sound, duplicate) {
   
   if (duplicate) {
     DUPLICATE_DIALOG++;
-    
-  } else if (subtitle) {
+  }
+  else if (subtitle) {
     if (!ACTORS.hasOwnProperty(actor)) ACTORS[actor] = 0;
     ACTORS[actor]++;
     UNIQUE_DIALOG++;
-    
+
     subtitle = subtitle.replace(/’/g, "'");
     subtitle = subtitle.replace(/&#8222;|&#8220;|“|”/g, '"');
-    var del1 = duplicate ? '<del>' : '';
-    var del2 = duplicate ? '</del>' : '';
-    return ['<div class="dialog ', actor, '"><tt>', sound.split(':').pop(), '</tt><p>', del1, '<b>', actor, ':</b> ', subtitle, del2, '</p></div>'].join('');
-  
-  } else {
+    var dup = duplicate ? ' dup' : '';
+    return ['<div class="dialog ', actor, dup, '"><tt>', sound.split(':').pop(), '</tt><p><b>', actor, ':</b> ', subtitle, '</p></div>'].join('');
+  }
+  else {
     EMPTY_DIALOG++;
   }
   return '';
