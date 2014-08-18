@@ -47,7 +47,7 @@ module.exports.caches = {
 };
 
 module.exports.omitIndices = {
-  'antique': [374],
+  'antique': [302, 328, 333, 334, 335, 344, 374, 390],
   'boathouse': [0, 1, 2, 3, 4, 53, 54],
   'campfire': [38, 39],
   'castle': [151],
