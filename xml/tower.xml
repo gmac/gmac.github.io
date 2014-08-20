@@ -79,7 +79,7 @@
   <scripts>
     <script id="_enter">
       <curtain blackout="0" />
-      <method call="controls" enabled="0" />
+      <method call="controls" enabled="0" cursor="1" />
       <puppet target="nathan" callAction="0" />
     </script>
     <script id="_exit">
@@ -992,85 +992,87 @@
                 </dia>
               </dialog>
               <script>
-                <layerState target="_current:_avatar:main" turnView="6" />
-                <dialogue playBatch="5" />
-                <layer target="_current:nathan" visible="1" />
-                <puppetTween target="nathan" type="move" to="position:nathan1" waitForComplete="1" />
-                <layer target="_current:_avatar" visible="1" />
-                <puppetTween target="_avatar" type="move" to="position:join_baron" waitForComplete="1" />
-                <dialogue playBatch="1" />
-                <layerState target="_current:cain:main" turnView="4" />
-                <dialogue playBatch="4" />
-                <layer target="_current:nora" visible="1" />
-                <puppetTween target="nora" type="move" to="position:nora" waitForComplete="1" />
-                <dialogue playBatch="6" />
-                <puppetTween target="cain" type="move" to="position:cain1" waitForComplete="1" />
-                <layerState target="_current:cain:main" turnView="4" />
-                <dialogue playBatch="1" />
-                <sound soundtrack1="lib/music_vincent.swf:VincentMusic" />
-                <puppetTween target="vincent" type="move" to="position:vincent" waitForComplete="1" />
-                <dialogue playBatch="1" />
-                <layerState target="_current:vincent:main" restState="lrest2" />
-                <dialogue playBatch="6" />
-                <layerState target="_current:vincent:main" restState="hrest2" />
-                <dialogue playBatch="10" />
-                <layerSprite target="ratnfaker" animFrame="attack" waitForComplete="1" />
-                <layerSprite target="ratnfaker" animFrame="rest2" waitForComplete="0" />
-                <layer target="_current:manbreaker" visible="1" />
-                <puppetTween target="manbreaker" type="move" to="position:manbreaker2" waitForComplete="1" />
-                <dialogue playBatch="7" />
-                <layer target="_current:manbreaker" visible="0" />
-                <layerSprite target="vincent" animFrame="manbreaker" waitForComplete="1" />
-                <layerSprite target="vincent" animFrame="lrest2" waitForComplete="0" />
-                <layerSprite target="ratnfaker" animFrame="collapse" waitForComplete="1" />
-                <puppetTween target="cain" type="move" to="position:cain2" waitForComplete="1" />
-                <layerState target="_current:cain:main" turnView="4" />
-                <dialogue playBatch="1" />
-                <dialogue playBatch="2" />
-                <puppetTween target="vincent" type="move" to="position:vincent2" waitForComplete="1" />
-                <layerSprite target="vincent" animFrame="flash1a" waitForComplete="1" />
-                <layerSprite target="white" animFrame="whiteout" waitForComplete="1" />
-                <layerSprite target="cain" animFrame="flashed" waitForComplete="0" />
-                <layerSprite target="white" animFrame="whiteaway" waitForComplete="1" />
-                <layerSprite target="vincent" animFrame="flash1b" waitForComplete="1" />
-                <dialogue playBatch="16" />
-                <puppetTween target="_avatar" type="move" to="position:nigelfin" waitForComplete="1" />
-                <dialogue playBatch="7" />
-                <dialogue playBatch="5" />
-                <layerSprite target="vincent" animFrame="flash2" waitForComplete="1" />
-                <layerSprite target="white" animFrame="whiteout" waitForComplete="1" />
-                <layer target="_current:vincent" state="escape" />
-                <layer target="_current:smith" visible="0" omit="1" />
-                <layer target="_current:_avatar" visible="0" omit="1" />
-                <layer target="_current:nigelsstuff" visible="1" />
-                <layerSprite target="white" animFrame="whiteaway" waitForComplete="1" />
-                <wait seconds="2" />
-                <puppetTween target="nathan" type="move" to="layer:nigelsstuff" waitForComplete="1" />
-                <layerState target="_current:nathan:main" turnView="1" />
-                <layerState target="_current:nora:main" turnView="1" />
-                <sound soundtrack1="lib/music_rift.swf:RiftMusic" />
-                <layerSprite target="vincent" animFrame="escape" waitForComplete="1" />
-                <layer target="_current:vincent" visible="0" omit="1" />
-                <dialogue playBatch="1" />
-                <layerSprite target="zeppelin" animFrame="passby" waitForComplete="0" />
-                <wait seconds="3" />
-                <layer target="_current:slappy" visible="1" />
-                <puppetTween target="slappy" type="move" to="position:nathan1" waitForComplete="1" />
-                <layerState target="_current:slappy:main" turnView="6" />
-                <dialogue playBatch="1" />
-                <layerState target="_current:nora:main" turnView="4" />
-                <dialogue playBatch="2" />
-                <layerState target="_current:nathan:main" turnView="6" />
-                <dialogue playBatch="1" />
-                <layerSprite target="nathan" animFrame="kneel_out" waitForComplete="1" />
-                <layer target="_current:nigelsstuff" visible="0" />
-                <layerSprite target="nathan" animFrame="kneel_in" waitForComplete="1" />
-                <dialogue playBatch="1" />
-                <puppetTween target="nathan" type="move" to="position:vincent" waitForComplete="1" />
-                <layerState target="_current:nathan:main" turnView="6" />
-                <dialogue playBatch="1" />
-                <layerState target="_current:nathan:main" turnView="5" />
-                <dialogue playBatch="1" />
+                <sequence skip="1">
+                  <layerState target="_current:_avatar:main" turnView="6" />
+                  <dialogue playBatch="5" />
+                  <layer target="_current:nathan" visible="1" />
+                  <puppetTween target="nathan" type="move" to="position:nathan1" waitForComplete="1" />
+                  <layer target="_current:_avatar" visible="1" />
+                  <puppetTween target="_avatar" type="move" to="position:join_baron" waitForComplete="1" />
+                  <dialogue playBatch="1" />
+                  <layerState target="_current:cain:main" turnView="4" />
+                  <dialogue playBatch="4" />
+                  <layer target="_current:nora" visible="1" />
+                  <puppetTween target="nora" type="move" to="position:nora" waitForComplete="1" />
+                  <dialogue playBatch="6" />
+                  <puppetTween target="cain" type="move" to="position:cain1" waitForComplete="1" />
+                  <layerState target="_current:cain:main" turnView="4" />
+                  <dialogue playBatch="1" />
+                  <sound soundtrack1="lib/music_vincent.swf:VincentMusic" />
+                  <puppetTween target="vincent" type="move" to="position:vincent" waitForComplete="1" />
+                  <dialogue playBatch="1" />
+                  <layerState target="_current:vincent:main" restState="lrest2" />
+                  <dialogue playBatch="6" />
+                  <layerState target="_current:vincent:main" restState="hrest2" />
+                  <dialogue playBatch="10" />
+                  <layerSprite target="ratnfaker" animFrame="attack" waitForComplete="1" />
+                  <layerSprite target="ratnfaker" animFrame="rest2" waitForComplete="0" />
+                  <layer target="_current:manbreaker" visible="1" />
+                  <puppetTween target="manbreaker" type="move" to="position:manbreaker2" waitForComplete="1" />
+                  <dialogue playBatch="7" />
+                  <layer target="_current:manbreaker" visible="0" />
+                  <layerSprite target="vincent" animFrame="manbreaker" waitForComplete="1" />
+                  <layerSprite target="vincent" animFrame="lrest2" waitForComplete="0" />
+                  <layerSprite target="ratnfaker" animFrame="collapse" waitForComplete="1" />
+                  <puppetTween target="cain" type="move" to="position:cain2" waitForComplete="1" />
+                  <layerState target="_current:cain:main" turnView="4" />
+                  <dialogue playBatch="1" />
+                  <dialogue playBatch="2" />
+                  <puppetTween target="vincent" type="move" to="position:vincent2" waitForComplete="1" />
+                  <layerSprite target="vincent" animFrame="flash1a" waitForComplete="1" />
+                  <layerSprite target="white" animFrame="whiteout" waitForComplete="1" />
+                  <layerSprite target="cain" animFrame="flashed" waitForComplete="0" />
+                  <layerSprite target="white" animFrame="whiteaway" waitForComplete="1" />
+                  <layerSprite target="vincent" animFrame="flash1b" waitForComplete="1" />
+                  <dialogue playBatch="16" />
+                  <puppetTween target="_avatar" type="move" to="position:nigelfin" waitForComplete="1" />
+                  <dialogue playBatch="7" />
+                  <dialogue playBatch="5" />
+                  <layerSprite target="vincent" animFrame="flash2" waitForComplete="1" />
+                  <layerSprite target="white" animFrame="whiteout" waitForComplete="1" />
+                  <layer target="_current:vincent" state="escape" />
+                  <layer target="_current:smith" visible="0" omit="1" />
+                  <layer target="_current:_avatar" visible="0" omit="1" />
+                  <layer target="_current:nigelsstuff" visible="1" />
+                  <layerSprite target="white" animFrame="whiteaway" waitForComplete="1" />
+                  <wait seconds="2" />
+                  <puppetTween target="nathan" type="move" to="layer:nigelsstuff" waitForComplete="1" />
+                  <layerState target="_current:nathan:main" turnView="1" />
+                  <layerState target="_current:nora:main" turnView="1" />
+                  <sound soundtrack1="lib/music_rift.swf:RiftMusic" />
+                  <layerSprite target="vincent" animFrame="escape" waitForComplete="1" />
+                  <layer target="_current:vincent" visible="0" omit="1" />
+                  <dialogue playBatch="1" />
+                  <layerSprite target="zeppelin" animFrame="passby" waitForComplete="0" />
+                  <wait seconds="3" />
+                  <layer target="_current:slappy" visible="1" />
+                  <puppetTween target="slappy" type="move" to="position:nathan1" waitForComplete="1" />
+                  <layerState target="_current:slappy:main" turnView="6" />
+                  <dialogue playBatch="1" />
+                  <layerState target="_current:nora:main" turnView="4" />
+                  <dialogue playBatch="2" />
+                  <layerState target="_current:nathan:main" turnView="6" />
+                  <dialogue playBatch="1" />
+                  <layerSprite target="nathan" animFrame="kneel_out" waitForComplete="1" />
+                  <layer target="_current:nigelsstuff" visible="0" />
+                  <layerSprite target="nathan" animFrame="kneel_in" waitForComplete="1" />
+                  <dialogue playBatch="1" />
+                  <puppetTween target="nathan" type="move" to="position:vincent" waitForComplete="1" />
+                  <layerState target="_current:nathan:main" turnView="6" />
+                  <dialogue playBatch="1" />
+                  <layerState target="_current:nathan:main" turnView="5" />
+                  <dialogue playBatch="1" />
+                </sequence>
                 <game room="catwalk3:join_smith" actor="nathan" />
               </script>
             </action>

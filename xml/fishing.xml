@@ -1,48 +1,171 @@
-<room id="fishing" coreLibs="lib/fishing.swf" voiceLibs="voice/fishing_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2=""><grids><grid id="main"><boxes/><nodes/></grid></grids><positions/><filters><filter id="_main" axis="y" enabled="1"><pole x="147" y="384" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="147" y="512" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters><scripts><script id="_enter"><curtain blackout="0"/><method call="controls" enabled="0"/><keyboard enableKey="left"/><cursor gameMouse="1" wait="0"/></script><script id="_exit"><method call="controls" enabled="1"/><curtain blackout="1"/></script><script id="_cleanup"><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="fishing" type="plane" asset="lib/fishing.swf:FishingMiniGame" depth="1" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="1" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="wavetamer" type="puppet" asset="lib/fishing.swf:FishingWavetamer" depth="2" visible="1" state="main"><states><state id="main" x="619" y="48" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-29" hitY="0" hitW="31" hitH="23" shape="rect"><param mapX="610" mapY="100" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions>
-<action id="act0"><title><en><![CDATA[boot]]></en><de><![CDATA[Boot]]></de></title><dialog><dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0000"><en><![CDATA[Congratulations Nigel, you caught a boot!]]></en><de><![CDATA[Herzlichen Glückwunsch Nigel, du hast einen Stiefel gefangen!]]></de></dia></dialog><script><inventory add="boot_laced"/><tree omitTopic="square:MB:boots:1"/><dialogue play="*"/></script></action>
-<action id="act1"><title><en><![CDATA[snapper]]></en><de><![CDATA[Schnapper]]></de></title><dialog><dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001"><en><![CDATA[Wow, a red snapper! This might be the last one in these waters!]]></en><de><![CDATA[Wow, ein Roter Schnapper! Das könnte der letzte in diesen Gewässern sein!]]></de></dia></dialog><script><inventory add="fish2"/><dialogue play="*"/></script></action>
-<action id="act2"><title><en><![CDATA[intro]]></en><de><![CDATA[intro]]></de></title><dialog>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Ahoy Nigel! Here's what you need to know ...]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[A common bass is worth up to 10 coins.]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Golden breams are worth 50 coins!]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[To catch a fish, place your hook under its mouth and then pull it up into my net.]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Beware of jellyfish! They'll stun a fish on your line, and catching one will spoil part of our catch.]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Time is money! The faster you can pull fish into my net, the more they're worth.]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[You have 30 seconds to catch all the fish you can. Catch 300 coins worth of fish and the take is yours!]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-</dialog><script><dialogue play="*"/></script></action>
-<action id="act3"><title><en><![CDATA[events]]></en><de><![CDATA[events]]></de></title><dialog>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Get Ready!]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Fish!]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-<dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
-  <en><![CDATA[Time Up!]]></en>
-  <de><![CDATA[]]></de>
-</dia>
-</dialog><script><dialogue play="*"/></script></action></actions>
-<items/></state></states></layer></layers><trees/></room>
+<room id="fishing" coreLibs="lib/fishing.swf" voiceLibs="voice/fishing_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="">
+  <grids>
+    <grid id="main">
+      <boxes />
+      <nodes />
+    </grid>
+  </grids>
+  <positions />
+  <filters>
+    <filter id="_main" axis="y" enabled="1">
+      <pole x="147" y="384" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5" />
+      <pole x="147" y="512" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <curtain blackout="0" />
+      <method call="controls" enabled="0" />
+      <keyboard enableKey="left" />
+      <cursor gameMouse="1" wait="0" />
+    </script>
+    <script id="_exit">
+      <method call="controls" enabled="1" />
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="fishing" type="plane" asset="lib/fishing.swf:FishingMiniGame" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="1" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="wavetamer" type="puppet" asset="lib/fishing.swf:FishingWavetamer" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="619" y="48" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-29" hitY="0" hitW="31" hitH="23" shape="rect">
+          <param mapX="610" mapY="100" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[boot]]></en>
+                <de><![CDATA[Boot]]></de>
+              </title>
+              <dialog>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0000">
+                  <en><![CDATA[Congratulations Nigel, you caught a boot!]]></en>
+                  <de><![CDATA[Herzlichen Glückwunsch Nigel, du hast einen Stiefel gefangen!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <inventory add="boot_laced" />
+                <tree omitTopic="square:MB:boots:1" />
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[snapper]]></en>
+                <de><![CDATA[Schnapper]]></de>
+              </title>
+              <dialog>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Wow, a red snapper! This might be the last one in these waters!]]></en>
+                  <de><![CDATA[Wow, ein Roter Schnapper! Das könnte der letzte in diesen Gewässern sein!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <inventory add="fish2" />
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[intro]]></en>
+                <de><![CDATA[intro]]></de>
+              </title>
+              <dialog>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Ahoy Nigel! Here's what you need to know ...]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[A common bass is worth up to 10 coins.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Golden breams are worth 50 coins!]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[To catch a fish, place your hook under its mouth and then pull it up into my net.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Beware of jellyfish! They'll stun a fish on your line, and catching one will spoil part of our catch.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Time is money! The faster you can pull fish into my net, the more they're worth.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[You have 30 seconds to catch all the fish you can. Catch 300 coins worth of fish and the take is yours!]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act3">
+              <title>
+                <en><![CDATA[events]]></en>
+                <de><![CDATA[events]]></de>
+              </title>
+              <dialog>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Get Ready!]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Fish!]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/fishing_voice.swf:fishing0001">
+                  <en><![CDATA[Time Up!]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees />
+</room>
