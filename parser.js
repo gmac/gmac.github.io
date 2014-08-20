@@ -103,6 +103,7 @@ function parseRoom(id, done) {
     XML = XML.replace(/&#8222;/g, "“");
     XML = XML.replace(/&#8220;/g, "”");
     XML = XML.replace(/\s*\.\.\./g, "&nbsp;...");
+    XML = XML.replace(/>(\s*?)</g, '><');
     console.log(id);
     parseXML(data, onParse);
   }

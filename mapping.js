@@ -113,7 +113,7 @@ module.exports.scenes = {
   'woods': 'nigel',
   'woods3': 'nathan',
   'world': 'nigel',
-  'world3': 'nathan',
+  //'world3': 'nathan',
   'yard': 'nigel',
   'yard3': 'nathan'
 };
