@@ -755,12 +755,12 @@
                   <de><![CDATA[Einem &#8222;Tick&#8220; folgt mit Sicherheit immer ein &#8222;Tack&#8220; und Dummheit wie eure spielt mir mit Sicherheit immer in die Hände.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="lspeak" sound="voice/tower_voice.swf:tower0021">
-                  <en><![CDATA[That is perhaps the most scientifically-profound sentence I’ve ever heard from you ...]]></en>
-                  <de><![CDATA[Das ist vielleicht der tiefschürfendste wissenschaftliche Satz, den ich je von Ihnen gehört habe ...]]></de>
+                  <en><![CDATA[Ha, what a scientifically-profound sentence ...]]></en>
+                  <de><![CDATA[Ha, das ist vielleicht der tiefschürfendste wissenschaftliche Satz ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0022">
-                  <en><![CDATA[and I suppose your lackluster science is why you steal your colleagues’ inventions instead of developing your own, Vincent Goodchild!]]></en>
-                  <de><![CDATA[Und ich nehme an, Ihre wissenschaftliche Glanzlosigkeit ist der Grund, warum Sie die Erfindungen Ihrer Kollegen stehlen mussten, anstatt eigene zu entwickeln, Vincent Goodchild!]]></de>
+                  <en><![CDATA[I suppose your lackluster science is why you steal your colleagues’ inventions instead of developing your own, Vincent Goodchild!]]></en>
+                  <de><![CDATA[Ich nehme an, Ihre wissenschaftliche Glanzlosigkeit ist der Grund, warum Sie die Erfindungen Ihrer Kollegen stehlen mussten, anstatt eigene zu entwickeln, Vincent Goodchild!]]></de>
                 </dia>
                 <dia puppet="cain" frame="" sound="voice/tower_voice.swf:tower0023">
                   <en><![CDATA[Enough.]]></en>
@@ -795,7 +795,7 @@
                   <de><![CDATA[Aber in Ihrer Arroganz vergessen Sie, dass der Quell Ihrer Macht über Ravenhollow die Erfindung ist, die ICH Ihnen gab.]]></de>
                 </dia>
                 <dia puppet="cain" frame="pointspeak" sound="voice/tower_voice.swf:tower0031">
-                  <en><![CDATA[Yes, your brain-wave devices were quite helpful; but you clearly still overrate your role here, Goodchild.  You still need me to put your colleagues’ inventions to use.]]></en>
+                  <en><![CDATA[Yes, your hypnosis device was quite helpful; but you clearly still overrate your role here, Goodchild. You still need me to put your colleagues’ inventions to use.]]></en>
                   <de><![CDATA[Ja, Ihre Gehirnwäschegeräte waren recht hilfreich; aber ganz offensichtlich überschätzen Sie Ihre eigene Rolle hier, Goodchild.]]></de>
                 </dia>
                 <dia puppet="cain" frame="" sound="voice/tower_voice.swf:tower0032">
@@ -807,7 +807,7 @@
                   <de><![CDATA[Schlosswachen? Verhaftet diesen Mann! Ich brauche ihn nicht mehr!]]></de>
                 </dia>
                 <dia puppet="smith" frame="" sound="voice/tower_voice.swf:tower0034">
-                  <en><![CDATA[Watch out! Vincent is wearing a strength-enhancing suit like the one we developed for Professor Von Sternberg ...]]></en>
+                  <en><![CDATA[Watch out! Vincent is wearing a strength-enhancing suit, like the one we developed for Professor Von Sternberg ...]]></en>
                   <de><![CDATA[Vorsicht! Vincent trägt einen Anzug, der die Körperkraft steigert ... so wie der, den wir für Professor Von Sternberg entwickelt haben ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0035">
@@ -871,7 +871,7 @@
                   <de><![CDATA[Wir haben unsere Forschung und unsere Erfindungen vernichtet, nachdem das Institut geschlossen wurde.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0050">
-                  <en><![CDATA[We knew that we couldn’t let them fall into your hands. Your plan to recover our work failed years ago.]]></en>
+                  <en><![CDATA[We knew that we couldn’t let that knowledge fall into your hands. Your plan to recover our work failed years ago.]]></en>
                   <de><![CDATA[Wir wussten, dass wir sie Ihnen nicht in die Hände fallen lassen durften. Ihr Plan ist schon vor Jahren gescheitert.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0051">

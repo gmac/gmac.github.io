@@ -1,1 +1,2077 @@
-<room id="square" coreLibs="lib/square.swf,lib/square_fx.swf,lib/music_village.swf,lib/music_mandelbaum.swf,lib/entertainers.swf,lib/music_night1.swf,lib/mb_caro.swf,lib/cecily.swf" voiceLibs="voice/square_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2=""><grids><grid id="main"><boxes><box x="309" y="458" w="476" h="37" nodes="n12,n13,n14,n15,n16,n19,n23,n29"/><box x="263" y="540" w="766" h="52" nodes="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37"/><box x="694" y="473" w="158" h="77" nodes="n9,n10,n11,n12,n13,n18,n22"/><box x="288" y="485" w="266" h="64" nodes="n6,n7,n8,n14,n15,n16"/><box x="484" y="542" w="225" h="106" nodes="n0,n1,n2,n4,n5,n8,n11,n32,n37"/><box x="161" y="630" w="698" h="549" nodes="n0,n1,n2,n3,n21,n24,n26,n33,n34"/><box x="850" y="581" w="218" h="266" nodes="n3,n30,n31,n33,n34,n35"/></boxes><nodes><node id="n0" x="690" y="640" join="n1,n2,n4,n5,n8,n11,n32,n37,n3,n21,n24,n26,n33,n34" trap="0"/><node id="n1" x="603" y="642" join="n0,n2,n4,n5,n8,n11,n32,n37,n3,n21,n24,n26,n33,n34" trap="0"/><node id="n2" x="510" y="640" join="n0,n1,n4,n5,n8,n11,n32,n37,n3,n21,n24,n26,n33,n34" trap="0"/><node id="n3" x="855" y="636" join="n0,n1,n2,n21,n24,n26,n33,n34,n30,n31,n35" trap="0"/><node id="n4" x="600" y="585" join="n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n0,n1,n2" trap="0"/><node id="n5" x="525" y="585" join="n4,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n0,n1,n2" trap="0"/><node id="n6" x="295" y="545" join="n4,n5,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n14,n15,n16" trap="0"/><node id="n7" x="400" y="545" join="n4,n5,n6,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n14,n15,n16" trap="0"/><node id="n8" x="515" y="545" join="n4,n5,n6,n7,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n14,n15,n16,n0,n1,n2" trap="0"/><node id="n9" x="845" y="545" join="n4,n5,n6,n7,n8,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n12,n13,n18,n22" trap="0"/><node id="n10" x="775" y="545" join="n4,n5,n6,n7,n8,n9,n11,n17,n25,n27,n30,n31,n32,n35,n37,n12,n13,n18,n22" trap="0"/><node id="n11" x="705" y="545" join="n4,n5,n6,n7,n8,n9,n10,n17,n25,n27,n30,n31,n32,n35,n37,n12,n13,n18,n22,n0,n1,n2" trap="0"/><node id="n12" x="775" y="490" join="n13,n14,n15,n16,n19,n23,n29,n9,n10,n11,n18,n22" trap="0"/><node id="n13" x="700" y="490" join="n12,n14,n15,n16,n19,n23,n29,n9,n10,n11,n18,n22" trap="0"/><node id="n14" x="525" y="490" join="n12,n13,n15,n16,n19,n23,n29,n6,n7,n8" trap="0"/><node id="n15" x="325" y="490" join="n12,n13,n14,n16,n19,n23,n29,n6,n7,n8" trap="0"/><node id="n16" x="420" y="490" join="n12,n13,n14,n15,n19,n23,n29,n6,n7,n8" trap="0"/><node id="n17" x="920" y="545" join="n18,n4,n5,n6,n7,n8,n9,n10,n11,n25,n27,n30,n31,n32,n35,n37" trap="0"/><node id="n18" x="845" y="500" join="n17,n9,n10,n11,n12,n13,n22" trap="0"/><node id="n19" x="730" y="462" join="n12,n13,n14,n15,n16,n23,n29" trap="0" name="join_treehouse"/><node id="n20" x="410" y="330" join="n28" trap="1" name="join_yard"/><node id="n21" x="568" y="1174" join="n0,n1,n2,n3,n24,n26,n33,n34" trap="0" name="join_harbor"/><node id="n22" x="830" y="481" join="n9,n10,n11,n12,n13,n18" trap="0" name="join_inn"/><node id="n23" x="530" y="465" join="n12,n13,n14,n15,n16,n19,n29" trap="0" name="join_mask"/><node id="n24" x="306" y="640" join="n25,n0,n1,n2,n3,n21,n26,n33,n34" trap="0"/><node id="n25" x="343" y="588" join="n24,n4,n5,n6,n7,n8,n9,n10,n11,n17,n27,n30,n31,n32,n35,n37" trap="0"/><node id="n26" x="815" y="640" join="n27,n0,n1,n2,n3,n21,n24,n33,n34" trap="0"/><node id="n27" x="799" y="590" join="n26,n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n30,n31,n32,n35,n37" trap="0"/><node id="n28" x="400" y="390" join="n29,n20" trap="1"/><node id="n29" x="395" y="460" join="n28,n12,n13,n14,n15,n16,n19,n23" trap="0" color="0x000000" tint="0"/><node id="n30" x="1021" y="587" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n31,n32,n35,n37,n3,n33,n34" trap="0"/><node id="n31" x="863" y="588" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n32,n35,n37,n3,n33,n34" trap="0"/><node id="n32" x="683" y="588" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n35,n37,n0,n1,n2" trap="0"/><node id="n33" x="857" y="755" join="n0,n1,n2,n3,n21,n24,n26,n34,n30,n31,n35" trap="0"/><node id="n34" x="856" y="696" join="n0,n1,n2,n3,n21,n24,n26,n33,n30,n31,n35" trap="0"/><node id="n35" x="939" y="590" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n37,n3,n33,n34" trap="0"/><node id="n37" x="583" y="585" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n0,n1,n2" trap="0" name="preflash"/></nodes></grid></grids><positions><position id="join_treehouse" turn="5" x="730" y="462"/><position id="join_yard" turn="5" x="410" y="330"/><position id="join_harbor" turn="1" x="568" y="1174"/><position id="join_inn" turn="6" x="830" y="481"/><position id="join_mask" turn="5" x="530" y="465"/><position id="preflash" turn="1" x="583" y="585"/></positions><filters><filter id="_scale" axis="y" enabled="1"><pole x="423" y="341" scale="0.15" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="423" y="1195" scale="1.55" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter><filter id="_lightday" axis="r" enabled="1"><pole x="570" y="1175" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.31"/><pole x="571" y="905" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0"/></filter><filter id="_lightnight" axis="r" enabled="1"><pole x="425" y="406" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.46"/><pole x="413" y="233" scale="1" rate="1" blur="5" color="0x000000" tint="0.13"/></filter></filters><scripts><script id="_enter"><logic><if eval="[nighttime] EQ 1"><layerSprite target="_bg" frameOffset="1"/><layerSprite target="inn" frameOffset="1"/><layerSprite target="posts" frameOffset="1"/><layerSprite target="statue" frameOffset="1"/><sound soundtrack1="lib/music_night1.swf:Night1Music"/><sound soundtrack2="lib/square_fx.swf:SquareNightFx"/><layerState target="square:_avatar:main" colorFilter="_lightnight"/><layer target="square:MB_Caro" visible="0"/><layer target="square:cecily" visible="0"/></if><else><sound soundtrack1="lib/music_village.swf:VillageMusic"/><sound soundtrack2="lib/square_fx.swf:SquareDayFx"/><layerState target="square:_avatar:main" colorFilter="_lightday"/><layer target="square:MB_Caro" visible="1"/><layer target="square:cecily" visible="1"/></else></logic><curtain blackout="0"/><logic><if eval="([nighttime] EQ 1) AND ({getLayerProp:_current,mandelbaum_light,visible} NE 1)"><layer target="_current:exit_mask" state="closed"/></if><else><layer target="_current:exit_mask" state="main"/></else></logic><logic><if eval="([mandelbaum_silenced] NE 1) AND ({getLayerProp:_current,mandelbaum_light,visible} EQ 1)"><method call="controls" enabled="0"/><puppetTween target="_avatar" type="move" to="position:preflash" waitForComplete="1"/><layerSprite target="mandelbaum_light" animFrame="flashing" waitForComplete="1"/><cache field="mandelbaum_silenced" value="1"/><puppet target="flashing" callAction="0"/></if></logic></script><script id="_exit"><curtain blackout="1"/></script><script id="_prerender"><room target="_current" soundtrack1="_null" soundtrack2="_null"/><logic><if eval="[nighttime] EQ 1"><layer target="_current:MB_Caro" render="0"/></if><else><layer target="_current:MB_Caro" render="1"/></else></logic></script><script id="_cleanup"><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="lib/square.swf:SquareBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1228" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="mandelbaum_light" type="puppet" asset="lib/square.swf:SquareMaskShopLight" depth="1" visible="0" state="main"><states><state id="main" x="557" y="319" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="0" hitX="11" hitY="-65" hitW="16" hitH="152" shape="rect"><param mapX="512" mapY="384" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="clock2" type="plane" asset="lib/global.swf:ClockWedge" depth="2" visible="1" state="main"><states><state id="main" x="484" y="5" img="1" imgX="0" imgY="0" imgW="0.06" imgH="0.1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="exit_yard" type="puppet" asset="" depth="3" visible="1" state="main"><states><state id="main" x="425" y="189" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-73" hitY="-3" hitW="126" hitH="252" shape="rect"><param mapX="410" mapY="330" turnTo="5" turn="0" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="yard:join_square"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="exit_treehouse" type="puppet" asset="" depth="4" visible="1" state="main"><states><state id="main" x="686" y="252" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="123" hitH="215" shape="rect"><param mapX="730" mapY="462" turnTo="5" turn="0" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="treehouse:join_square"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="exit_harbor" type="puppet" asset="" depth="5" visible="1" state="main"><states><state id="main" x="532" y="1191" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-185" hitY="-552" hitW="478" hitH="128" shape="rect"><param mapX="568" mapY="1174" turnTo="5" turn="0" cursor="exit5" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="harbor:join_square"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="manhole" type="puppet" asset="" depth="6" visible="1" state="main"><states><state id="main" x="606" y="676" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-64" hitY="-50" hitW="125" hitH="53" shape="rect"><param mapX="525" mapY="645" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[manhole cover]]></en><de><![CDATA[Gullydeckel]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0000"><en><![CDATA[It’s a manhole cover, presumably leading to the sewers ...]]></en><de><![CDATA[Das ist ein Gullydeckel, der wahrscheinlich in die Kanalisation führt ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0001"><en><![CDATA[But why is it round?]]></en><de><![CDATA[Aber warum ist es rund?]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Open]]></en><de><![CDATA[Öffne]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0002"><en><![CDATA[Some doors are not meant to be opened ... the same holds true for manhole covers.]]></en><de><![CDATA[Manche Türen sollte man nicht öffnen ... Das gilt auch für Gullydeckel.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="mandelbaums" type="puppet" asset="" depth="7" visible="1" state="main"><states><state id="main" x="444" y="506" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="45" hitY="-462" hitW="200" hitH="408" shape="rect"><param mapX="408" mapY="480" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[mask shop]]></en><de><![CDATA[Maskenladen]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0003"><en><![CDATA[No post office in sight, no train station around for miles ...]]></en><de><![CDATA[Kein Postamt in Sicht, weit und breit kein Bahnhof ...]]></de></dia><dia puppet="_avatar" frame="hspeak5" sound="voice/square_voice.swf:square0004"><en><![CDATA[... but at least the locals have a secure supply of one of the most vital commodities of modern civilization:]]></en><de><![CDATA[... aber wenigstens haben die Einwohner immer genug von einem der wichtigsten Güter der modernen Zivilisation:]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0005"><en><![CDATA[... hand&#8212;carved masks.]]></en><de><![CDATA[... handgeschnitzte Masken.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="exit_mask" type="puppet" asset="" depth="8" visible="1" state="main"><states><state id="main" x="499" y="271" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="70" hitH="184" shape="rect"><param mapX="530" mapY="465" turnTo="5" turn="0" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><curtain blackout="1"/><sound effect="lib/sound_effects.swf:doorOpen" waitForComplete="1"/><game room="mask:join_square"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state><state id="closed" x="499" y="271" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="70" hitH="184" shape="rect"><param mapX="530" mapY="465" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[mask shop door]]></en><de><![CDATA[Tür des Maskenladens]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0006"><en><![CDATA[It’s dark in there. No wonder, I bet it’s already past midnight.]]></en><de><![CDATA[Da drin ist es dunkel. Kein Wunder, ich wette, es ist schon nach Mitternacht.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Open]]></en><de><![CDATA[Öffne]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0007"><en><![CDATA[The mask shop is closed. Mr. Mandelbaum is probably asleep already.]]></en><de><![CDATA[Der Maskenladen ist geschlossen. Herr Mandelbaum schläft wahrscheinlich schon.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="statue" type="plane" asset="lib/square.swf:SquareStatue" depth="9" visible="1" state="main"><states><state id="main" x="625" y="515" img="1" imgX="-60" imgY="-369" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="posts" type="plane" asset="lib/square.swf:SquarePosts" depth="10" visible="1" state="main"><states><state id="main" x="457" y="609" img="1" imgX="-15" imgY="-147" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="inn" type="plane" asset="lib/square.swf:SquareInnWall" depth="11" visible="1" state="main"><states><state id="main" x="873" y="469" img="1" imgX="-2" imgY="-247" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="inn2" type="puppet" asset="" depth="12" visible="1" state="main"><states><state id="main" x="753" y="526" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="57" hitY="-370" hitW="253" hitH="304" shape="rect"><param mapX="725" mapY="515" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Inn]]></en><de><![CDATA[Ravenhollow Inn]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0008"><en><![CDATA[The Ravenhollow Inn looks cozy.]]></en><de><![CDATA[Das &#8222;Ravenhollow Inn&#8220; sieht gemütlich aus.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="nofruit" type="puppet" asset="" depth="13" visible="1" state="main"><states><state id="main" x="988" y="571" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="12" hitY="-175" hitW="250" hitH="192" shape="rect"><param mapX="936" mapY="561" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[sparsely&#8212;filled fruit crates]]></en><de><![CDATA[spärlich gefüllte Obstkisten]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0009"><en><![CDATA[Even the most daring optimists will have a hard time to see half filled crates of fruit ... they are empty!]]></en><de><![CDATA[Sogar der überzeugteste Optimist wird Schwierigkeiten haben, hier halbvolle Obstkisten zu sehen ... sie sind leer!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0010"><en><![CDATA[Aside from potatoes the store owners seem to have run out of fruit and vegetables to sell.]]></en><de><![CDATA[Außer Kartoffeln scheint den Ladenbesitzern alles Obst und Gemüse ausgegangen zu sein.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take from]]></en><de><![CDATA[Nimm aus]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0011"><en><![CDATA[They are empty!]]></en><de><![CDATA[Sie sind leer!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="cecily" type="puppet" asset="lib/cecily.swf:cecily" depth="14" visible="1" state="main"><states><state id="main" x="998" y="554" img="1" imgX="-171" imgY="-84" imgW="-0.84" imgH="0.84" frame="4" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-25" hitY="-211" hitW="46" hitH="222" shape="rect"><param mapX="936" mapY="561" turnTo="5" turn="0" cursor="" onclick="-1" prefix="standsad_" subtitle="0xCCFFCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[absent&#8212;minded girl]]></en><de><![CDATA[geistesabwesendes Mädchen]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0012"><en><![CDATA[She looks very thoughtful.]]></en><de><![CDATA[Sie sieht wirklich sehr nachdenklich aus.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0013"><en><![CDATA[Hi there.]]></en><de><![CDATA[Hallo.]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0014"><en><![CDATA[Stig?]]></en><de><![CDATA[Stig?]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0015"><en><![CDATA[Oh, hello.]]></en><de><![CDATA[Oh, hallo.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0016"><en><![CDATA[You’ve been expecting someone else, haven’t you ...]]></en><de><![CDATA[Du hast jemand anderen erwartet, nicht wahr ...]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0017"><en><![CDATA[Well ... not really.]]></en><de><![CDATA[Naja ... nicht wirklich.]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0018"><en><![CDATA[I’m sorry could you talk to mother? I’m a bit distracted today ... and I’m already behind schedule.]]></en><de><![CDATA[Entschuldigung, könntest Du mit meiner Mutter sprechen? Ich bin heute ein bisschen durcheinander ... und ich bin schon spät dran.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0019"><en><![CDATA[Sure, don’t worry.]]></en><de><![CDATA[Klar, kein Problem.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Hug]]></en><de><![CDATA[Umarme]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0020"><en><![CDATA[Nah, I feel very odd hugging strangers.]]></en><de><![CDATA[Lieber nicht, Fremde zu umarmen ist mir unangenehm.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state><state id="happy" x="998" y="554" img="1" imgX="165" imgY="-86" imgW="0.84" imgH="0.84" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-25" hitY="-211" hitW="46" hitH="222" shape="rect"><param mapX="936" mapY="561" turnTo="5" turn="0" cursor="" onclick="-1" prefix="standhappy_" subtitle="0xCCFFCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Cecily Caro]]></en><de><![CDATA[Cecily Caro]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0021"><en><![CDATA[Cecily looks much happier than last time.]]></en><de><![CDATA[Cecily sieht viel fröhlicher aus als letztes Mal.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0022"><en><![CDATA[Hi there.]]></en><de><![CDATA[Hallo.]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0023"><en><![CDATA[Oh, it’s you! Thank you for giving Stig my message earlier!]]></en><de><![CDATA[Oh, du bist es! Danke, dass du Stig meine Nachricht gegeben hast!]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0024"><en><![CDATA[I can’t thank you enough!]]></en><de><![CDATA[Ich kann dir nicht genug danken!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0025"><en><![CDATA[Don’t mention it. I hope you two will be happy together!]]></en><de><![CDATA[Keine Ursache. Ich hoffe, ihr zwei werdet glücklich miteinander!]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0026"><en><![CDATA[We will! Oh, I’m sure we will ...]]></en><de><![CDATA[Ganz bestimmt! Oh, ich bin ganz sicher ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0027"><en><![CDATA[Well, see you.]]></en><de><![CDATA[Bis dann.]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0028"><en><![CDATA[See you! And thanks again! We’ll invite you to the wedding!]]></en><de><![CDATA[Bis dann! Und nochmal danke! Du musst zu unserer Hochzeit kommen!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Hug]]></en><de><![CDATA[Umarme]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0029"><en><![CDATA[Nah, I feel very odd hugging strangers.]]></en><de><![CDATA[Lieber nicht, Fremde zu umarmen ist mir unangenehm.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="15" visible="1" state="main"><states><state id="main" x="420" y="744" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="_scale" color="_lightnight" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="fruitwindow" type="puppet" asset="" depth="16" visible="1" state="main"><states><state id="main" x="1080" y="584" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="13" hitY="-330" hitW="148" hitH="154" shape="rect"><param mapX="1059" mapY="607" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[store window]]></en><de><![CDATA[Schaufenster]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0030"><en><![CDATA[Mh... inside the shop the choice of products looks just as sad as out here.]]></en><de><![CDATA[Hm ... Im Laden wirkt die Auswahl an Produkten genauso traurig wie hier draußen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0031"><en><![CDATA[Wait, I think I see a cucumber in there!]]></en><de><![CDATA[Moment, ich glaube, ich sehe da drin eine Gurke!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0032"><en><![CDATA[Oh, no. Forget it ... that was just the neck of an old wine bottle. No vitamins today ...]]></en><de><![CDATA[Ach, nein. Fehlalarm ... Das war nur der Hals einer alten Weinflasche. Keine Vitamine heute ...]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="MB_Caro" type="puppet" asset="lib/mb_caro.swf:MB_Caro" depth="17" visible="1" state="main"><states><state id="main" x="1042" y="813" img="1" imgX="63" imgY="-345" imgW="1.45" imgH="1.45" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="7" hitY="-445" hitW="120" hitH="260" shape="round"><param mapX="937" mapY="798" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFCC33" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[greengrocer]]></en><de><![CDATA[Gemüsehändlerin]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0033"><en><![CDATA[Either the fruit market has collapsed, or else this poor grocer has nothing to sell but potatoes.]]></en><de><![CDATA[Entweder ist der Obstmarkt zusammengebrochen, oder diese arme Händlerin hat nichts zu verkaufen außer Kartoffeln.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0034"><en><![CDATA[Sorry?]]></en><de><![CDATA[Entschuldigung?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0035"><en><![CDATA[Yes?]]></en><de><![CDATA[Ja?]]></de></dia></dialog><script><dialogue playBatch="1"/><layerState target="_current:MB_Caro:main" restState="pause"/><dialogue play="*"/><tree load="MB"/></script></action><action id="act2"><title><en><![CDATA[Hug]]></en><de><![CDATA[Umarme]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0036"><en><![CDATA[Nah, I feel very odd hugging strangers.]]></en><de><![CDATA[Lieber nicht, Fremde zu umarmen ist mir unangenehm.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0037"><en><![CDATA[Besides, I worry that she might actually welcome my advances.]]></en><de><![CDATA[Außerdem befürchte ich, dass ihr meine Annäherungsversuche nachher noch ganz angenehm sind.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="fish2"><title><en><![CDATA[Give #item# to #noun#]]></en><de><![CDATA[Gib der #noun# den #item#]]></de></title><dialog><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0038"><en><![CDATA[You caught a Red Snapper for me!]]></en><de><![CDATA[Sie haben einen Schnapperfisch für mich gefangen!]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0039"><en><![CDATA[Obviously I underestimated your fishing skills, young man!]]></en><de><![CDATA[Offensichtlich habe ich Ihre Angelkünste unterschätzt, junger Mann!]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0040"><en><![CDATA[You deserve a reward! Here, take this!]]></en><de><![CDATA[Sie verdienen eine Belohnung! Hier, nehmen Sie den!]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0041"><en><![CDATA[That is my last juicy apple ... a rarity these days!]]></en><de><![CDATA[Das ist mein letzter saftiger Apfel ... eine Rarität heutzutage!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0042"><en><![CDATA[And full of vitamins, too, I guess.]]></en><de><![CDATA[Und auch noch voller Vitamine, schätze ich.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0043"><en><![CDATA[You can bet your sideburns on that, handsome. Thanks for the fish!]]></en><de><![CDATA[Darauf können Sie Ihre Koteletten verwetten, mein Hübscher. Danke für den Fisch!]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerState target="_current:MB_Caro:main" restState="pause"/><dialogue playList="0,1,2"/><inventory remove="fish2"/><inventory display="show"/><inventory scrollTo="_blank"/><wait seconds="1"/><inventory add="apple"/><tree enableTopic="square:MB:products1:0"/><tree enableTopic="square:MB:help:0"/><tree enableTopic="square:MB:products2:1"/><wait seconds="1"/><inventory display="hide"/><wait seconds="1"/><dialogue playList="3,4,5"/><layerState target="_current:MB_Caro:main" restState="rest"/><method call="controls" enabled="1"/></script></action><action id="fish_bucket"><title><en><![CDATA[Offer #item# to #noun#]]></en><de><![CDATA[Biete der #noun# den #item# an]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0044"><en><![CDATA[Can I interest you in this bucket of fish?]]></en><de><![CDATA[Kann ich Sie für diesen Eimer voller Fische begeistern?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0045"><en><![CDATA[You sure can interest me, handsome, but unfortunately I don’t have the means to purchase that much fish.]]></en><de><![CDATA[Begeistern können Sie mich, mein Hübscher, aber leider habe ich nicht das Geld, so viel Fisch zu kaufen.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0046"><en><![CDATA[You might try offering that to Captain Amayi ... she’s always looking for sea rations, and she has the money to pay for them!]]></en><de><![CDATA[Versuchen Sie doch, ihn Captain Amayi anzubieten ... Sie braucht immer Bordverpflegung, und sie hat das Geld, um dafür zu bezahlen!]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0047"><en><![CDATA[Keep your eyes open for a Red Snapper though ...]]></en><de><![CDATA[Aber halten Sie Ausschau nach einem Schnapperfisch ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0048"><en><![CDATA[That’s the key ingredient of my famous fish stew, so I’ll find something to barter if you can catch me one.]]></en><de><![CDATA[Das ist die Hauptzutat für meinen berühmten Fischeintopf. Wenn Sie mir einen fangen, finde ich etwas, das ich dagegen eintauschen kann.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0049"><en><![CDATA[Catch a red snapper ... got it.]]></en><de><![CDATA[Einen Schnapperfisch fangen ... verstanden.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state></states></layer><layer id="potatoes" type="plane" asset="lib/square.swf:SquareFg" depth="18" visible="1" state="main"><states><state id="main" x="889" y="909" img="1" imgX="-8" imgY="-398" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="clock" type="puppet" asset="lib/global.swf:ClockModern" depth="19" visible="1" state="main"><states><state id="main" x="403" y="529" img="1" imgX="-228" imgY="-325" imgW="0.35" imgH="0.6" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-275" hitY="-383" hitW="70" hitH="113" shape="round"><param mapX="436" mapY="514" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="21" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[large clock]]></en><de><![CDATA[große Uhr]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="hspeak" sound="voice/square_voice.swf:square0050"><en><![CDATA[It’s already THAT late?]]></en><de><![CDATA[SO SPÄT ist es schon?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0051"><en><![CDATA[... that can’t be right.]]></en><de><![CDATA[... das kann nicht stimmen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0052"><en><![CDATA[I don’t think the clock shows the correct time.]]></en><de><![CDATA[Ich glaube nicht, dass die Uhr die richtige Zeit anzeigt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="streetsign1" type="puppet" asset="" depth="20" visible="1" state="main"><states><state id="main" x="322" y="282" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="35" hitH="24" shape="rect"><param mapX="374" mapY="469" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[street sign]]></en><de><![CDATA[Straßenschild]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0053"><en><![CDATA[That street’s name is &#8222;Raven Road&#8220;.]]></en><de><![CDATA[Diese Straße heißt &#8222;Rabengasse&#8220;.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="streetsign2" type="puppet" asset="" depth="21" visible="1" state="main"><states><state id="main" x="685" y="310" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="35" hitH="24" shape="rect"><param mapX="697" mapY="478" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[street sign]]></en><de><![CDATA[Straßenschild]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0054"><en><![CDATA[This street is called &#8222;Turtle Lane&#8220;...]]></en><de><![CDATA[Diese Straße heißt &#8222;Schildkrötenweg&#8220; ...]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="exit_inn" type="puppet" asset="" depth="22" visible="1" state="main"><states><state id="main" x="818" y="266" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="70" hitH="205" shape="rect"><param mapX="834" mapY="476" turnTo="5" turn="0" cursor="exit2" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><curtain blackout="1"/><sound effect="lib/sound_effects.swf:doorOpen" waitForComplete="1"/><game room="inn:join_square"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="clockwindow" type="puppet" asset="" depth="23" visible="1" state="main"><states><state id="main" x="338" y="499" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-43" hitY="-237" hitW="34" hitH="122" shape="rect"><param mapX="361" mapY="480" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[shop window]]></en><de><![CDATA[Schaufenster]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0055"><en><![CDATA[Not surprisingly, the clock shop has clocks on display in the clock shop window.]]></en><de><![CDATA[Wie zu erwarten war, hat der Uhrenladen Uhren in seinem Uhrenschaufenster ausgestellt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0056"><en><![CDATA[I am not in the mood for window shopping ...]]></en><de><![CDATA[Ich bin nicht in Stimmung für einen Einkaufsbummel ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0057"><en><![CDATA[... or for smashing the window in with a brick and running off with these clocks.]]></en><de><![CDATA[... und Lust, das Fenster mit einem Ziegelstein einzuschlagen und mit diesen Uhren davonzulaufen, habe ich auch nicht.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="clockshopdoor" type="puppet" asset="" depth="24" visible="1" state="main"><states><state id="main" x="277" y="525" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-53" hitY="-273" hitW="67" hitH="222" shape="rect"><param mapX="308" mapY="505" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[clock shop door]]></en><de><![CDATA[Tür des Uhrenladens]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0058"><en><![CDATA[Moore’s clock shop is closed ... I wonder when the store opens up again.]]></en><de><![CDATA[Moores Uhrenladen ist geschlossen ... Wann der Laden wohl wieder öffnet?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0059"><en><![CDATA[I don’t see any information on their business hours.]]></en><de><![CDATA[Ich sehe keine Information über die Öffnungszeiten.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Open]]></en><de><![CDATA[Öffne]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0060"><en><![CDATA[It’s closed.]]></en><de><![CDATA[Geschlossen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="cart" type="puppet" asset="" depth="25" visible="1" state="main"><states><state id="main" x="284" y="614" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-350" hitY="-389" hitW="310" hitH="426" shape="rect"><param mapX="288" mapY="579" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[wooden cart]]></en><de><![CDATA[Holzkarren]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0061"><en><![CDATA[&#8222;Matt & Greg’s Amazing Entertainment Cart&#8220; ...]]></en><de><![CDATA[&#8222;Matt & Gregs Großartiger Vergnügungswagen&#8220; ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0062"><en><![CDATA[Well, I’m not impressed ... doesn’t look that amazing to me.]]></en><de><![CDATA[Also, ich bin nicht beeindruckt ... so großartig sieht der gar nicht aus.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0063"><en><![CDATA[The cart is locked ... ]]></en><de><![CDATA[Der Wagen ist verschlossen ...]]></de></dia><dia puppet="_avatar" frame="hspeak5" sound="voice/square_voice.swf:square0064"><en><![CDATA[... and I would need at least one strong horse, or six well-trained pigs, or a sociable group of monkeys to move this cart around.]]></en><de><![CDATA[... und ich bräuchte mindestens ein starkes Pferd oder sechs dressierte Schweine oder eine gesellige Gruppe Affen, um diesen Wagen zu bewegen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0065"><en><![CDATA[Hopeless, I say!]]></en><de><![CDATA[Hoffnungslos, will ich meinen!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="statue2" type="puppet" asset="" depth="26" visible="1" state="main"><states><state id="main" x="618" y="156" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-43" hitY="-11" hitW="110" hitH="372" shape="rect"><param mapX="620" mapY="610" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[strange statue]]></en><de><![CDATA[seltsame Statue]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0066"><en><![CDATA[That must be Baron Northwest himself ...]]></en><de><![CDATA[Das muss Baron Nordwest höchstpersönlich sein ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0067"><en><![CDATA[The statue looks fairly new ... and I can still smell the fresh concrete they used to fix the statue to the ground.]]></en><de><![CDATA[Die Statue sieht ziemlich neu aus ... man kann sogar noch den frischen Zement riechen, den sie verwendet haben, um die Statue zu befestigen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0068"><en><![CDATA[I should try to find the man himself and ask him about my problem instead of wasting my time talking to a lump of stone.]]></en><de><![CDATA[Ich sollte den echten Baron finden, anstatt meine Zeit mit dem Versuch zu verschwenden, mit diesem Steinklotz zu sprechen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0069"><en><![CDATA[... although I have to admit that it looks surprisingly lifelike.]]></en><de><![CDATA[... obwohl ich zugeben muss, dass er überraschend lebensecht wirkt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items><action id="crayonPaper"><title><en><![CDATA[Draw #noun# with #item#]]></en><de><![CDATA[Zeichne #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0070"><en><![CDATA[I’d surely be arrested for impersonating the baron if Mandelbaum were to make me this mask.]]></en><de><![CDATA[Ich werde sicher verhaftet, wenn Mandelbaum mir diese Maske macht, weil sie dann denken, dass ich mich für den Baron ausgeben will.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="crayon"><title><en><![CDATA[Draw #noun# with #item#]]></en><de><![CDATA[Zeichne #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0071"><en><![CDATA[I’ll need to pair this crayon with a piece of paper before I can draw anything with it.]]></en><de><![CDATA[Ich muss diesen Stift zusammen mit einem Stück Papier verwenden, bevor ich damit etwas zeichnen kann.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0072"><en><![CDATA[Even then, this is probably not the thing to draw ...]]></en><de><![CDATA[Aber auch dann ist das wahrscheinlich kein gutes Motiv ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0073"><en><![CDATA[I’d surely be arrested for impersonating the baron if Mandelbaum were to make me this mask.]]></en><de><![CDATA[Ich werde sicher verhaftet, wenn Mandelbaum mir diese Maske macht, weil sie dann denken, dass ich mich für den Baron ausgeben will.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state></states></layer><layer id="potatoes2" type="puppet" asset="" depth="27" visible="1" state="main"><states><state id="main" x="986" y="853" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-101" hitY="-283" hitW="339" hitH="265" shape="rect"><param mapX="887" mapY="790" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[a lot of potatoes]]></en><de><![CDATA[ne ganze Menge Kartoffeln]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0074"><en><![CDATA[Mh ... the greengrocer either has too many potatoes or not enough potato&#8212;buying customers.]]></en><de><![CDATA[Hm ... entweder hat die Gemüsehändlerin zu viele Kartoffeln oder nicht genug Kartoffeln kaufende Kunden.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Eat one of]]></en><de><![CDATA[Iss eine der]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0075"><en><![CDATA[Raw potatoes are pretty disgusting ... I will stick to my Pretzeljax for now.]]></en><de><![CDATA[Rohe Kartoffeln sind ziemlich eklig ... Ich bleibe momentan lieber bei meinen Knusperbretzeln.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take some of]]></en><de><![CDATA[Nimm ein paar von den]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0076"><en><![CDATA[I am REALLY not into potatoes ... nor into stealing.]]></en><de><![CDATA[Ich bin ECHT nicht so wild auf Kartoffeln ... oder aufs Stehlen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0077"><en><![CDATA[Ok, maybe I borrow seemingly useful items from time to time that just lie around &#8212; but these potatoes are meant to be bought.]]></en><de><![CDATA[Ok, vielleicht leihe ich mir manchmal scheinbar nützliche Dinge aus, die einfach so herumliegen – aber diese Kartoffeln sind zum Verkauf gedacht.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0078"><en><![CDATA[... or ignored, which I usually tend to do with potatoes anyway.]]></en><de><![CDATA[... oder zum Ignorieren, was ich normalerweise sowieso mit Kartoffeln tue.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="flashing" type="puppet" asset="" depth="28" visible="1" state="main"><states><state id="main" x="643" y="107" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="43" hitH="36" shape="rect"><param mapX="463" mapY="516" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0079"><en><![CDATA[What was that flashing in Mandelbaum’s shop!?]]></en><de><![CDATA[Was hat da in Mandelbaums Laden aufgeblitzt!?]]></de></dia></dialog><script><method call="controls" enable="0"/><dialogue play="*"/><puppet target="exit_mask" callAction="0"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer></layers><trees><tree id="MB"><tier key="r" id=""><topic key="t0" id="_0" enabled="1" hold="0" expose="" go="0"><title><en><![CDATA[Are you selling fruits and vegetables?]]></en><de><![CDATA[Verkaufen Sie Obst und Gemüse?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0080"><en><![CDATA[Are you selling fruits and vegetables?]]></en><de><![CDATA[Verkaufen Sie Obst und Gemüse?]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0081"><en><![CDATA[No, I’m a 54&#8212;year old performance artist who plays someone who sells fruit and vegetables.]]></en><de><![CDATA[Nein. Ich bin eine 54-jährige Performancekünstlerin, die jemanden spielt, der Obst und Gemüse verkauft.]]></de></dia><dia puppet="_avatar" frame="lspeak" sound="voice/square_voice.swf:square0082"><en><![CDATA[Really?]]></en><de><![CDATA[Wirklich?]]></de></dia><dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0083"><en><![CDATA[No. I’m a 54&#8212;year old performance artist who’s career took a downturn 35 years ago and who now earns her money selling fruits and vegetables.]]></en><de><![CDATA[Nein. Ich bin eine 54-jährige Performancekünstlerin, deren Karriereknick seit 35 Jahren andauert und die jetzt ihr Geld mit dem Verkauf von Obst und Gemüse verdient.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0084"><en><![CDATA[Okay, well either way&#8212;you are quite convincing in your role.]]></en><de><![CDATA[Ok, in beiden Fällen sind sie ziemlich überzeugend in Ihrer Rolle.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0085"><en><![CDATA[Thank you, my boy.]]></en><de><![CDATA[Danke, mein Junge.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0086"><en><![CDATA[And how is business?]]></en><de><![CDATA[Und wie läuft das Geschäft so?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0087"><en><![CDATA[Well ever since Cain and the Baron turned Ravenhollow upside down, most of my customers prefer to stay at home ... so business is NOT good.]]></en><de><![CDATA[Naja, seit Ravenhollow von Cain und dem Baron umgekrempelt wurde, bleiben die meisten meiner Kunden lieber zuhause ... nein, das Geschäft läuft NICHT gut.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t2" id="cecily1" enabled="1" hold="1" expose="" go="0"><title><en><![CDATA[About your daughter ...]]></en><de><![CDATA[Wegen Ihrer Tochter ...]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0088"><en><![CDATA[About your daughter ...]]></en><de><![CDATA[Wegen Ihrer Tochter ...]]></de></dia><dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0089"><en><![CDATA[Isn’t she lovely? ]]></en><de><![CDATA[Ist sie nicht entzückend?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0090"><en><![CDATA[Unfortunately our Cecily has already given her heart away to her childhood friend Stig Sigmundson.]]></en><de><![CDATA[Leider hat unsere Cecily ihr Herz schon an ihren Jugendfreund, Stig Sigmundson, vergeben.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0091"><en><![CDATA[In the last days she’s been a little absent minded ... I wonder why. ]]></en><de><![CDATA[In den letzten Tagen war sie etwas geistesabwesend ... Ich frage mich, warum.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0092"><en><![CDATA[Love has always been a mystery to me ...]]></en><de><![CDATA[Die Liebe war mir immer ein Rätsel ...]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0093"><en><![CDATA[And that won’t change even as time goes by. Believe me.]]></en><de><![CDATA[Und das ändert sich auch später nicht. Glauben Sie mir.]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0094"><en><![CDATA[Unfortunately Cecily doesn’t like to talk about her feelings with her mother. These things are too precious to be talked about when you are young, I suppose.]]></en><de><![CDATA[Leider spricht Cecily nicht gerne mit ihrer Mutter über ihre Gefühle. Wenn man jung ist, sind diese Dinge wohl zu wertvoll, um darüber zu sprechen.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0095"><en><![CDATA[I wish I could be young again. I’d surely put an eye on you ...]]></en><de><![CDATA[Ich wünschte, ich könnte nochmal jung sein. Dann würde ich sicherlich ein Auge auf Sie werfen ...]]></de></dia><dia puppet="_avatar" frame="lspeak" sound="voice/square_voice.swf:square0096"><en><![CDATA[Erm ... That’s very kind of you to say ...]]></en><de><![CDATA[Ähem ... Sehr nett, dass Sie das sagen ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0097"><en><![CDATA[You surely have your own affairs d’amour, don’t you?]]></en><de><![CDATA[Sicher haben Sie eigene Liebschaften, oder?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0098"><en><![CDATA[Well, there was this girl in the boathouse who took something important from me and simply left me behind ...]]></en><de><![CDATA[Also, da war dieses Mädchen im Bootshaus, das mir etwas Wichtiges weggenommen hat und mich dann einfach alleine zurückließ ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0099"><en><![CDATA[... erm.]]></en><de><![CDATA[... ähm.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0100"><en><![CDATA[Maybe we can discuss this another time.]]></en><de><![CDATA[Vielleicht können wir ein andermal darüber reden.]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0101"><en><![CDATA[Men.]]></en><de><![CDATA[Männer.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0102"><en><![CDATA[Anyway, the fact that Cecily sits around in the backyard of my brother’s antique shop all night tells me that her heart is restless.]]></en><de><![CDATA[Jedenfalls sagt mir die Tatsache, dass Cecily die ganze Nacht im Hinterhof des Antiquitätenladens meines Bruders herumsitzt, dass ihr Herz rastlos ist.]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0103"><en><![CDATA[I surely hope that Stig treats her right ... otherwise ...]]></en><de><![CDATA[Ich hoffe sehr, dass Stig sie anständig behandelt ... sonst ...]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t3" id="cecily2" enabled="0" hold="1" expose="" go="0"><title><en><![CDATA[About Cecily ...]]></en><de><![CDATA[Wegen Cecily ...]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0104"><en><![CDATA[About Cecily ...]]></en><de><![CDATA[Wegen Cecily ...]]></de></dia><dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0105"><en><![CDATA[Oh, my dear Cecily will marry! Her Stig proposed to her and she said yes! Isn’t that lovely!]]></en><de><![CDATA[Oh, meine liebe Cecily wird heiraten! Ihr Stig hat ihr einen Antrag gemacht und sie hat ja gesagt! Ist das nicht wunderbar!]]></de></dia><dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0106"><en><![CDATA[Ma! I told you ...]]></en><de><![CDATA[Mama! Ich hab dir doch gesagt ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0107"><en><![CDATA[She doesn’t like it if I talk about these things behind her back. But I’m so happy! ]]></en><de><![CDATA[Sie mag es nicht, wenn ich hinter ihrem Rücken über so etwas rede. Aber ich bin so glücklich!]]></de></dia><dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0108"><en><![CDATA[Stig and Cecily will marry, isn’t it wonderful! Oh, my little girl grew up so fast ...]]></en><de><![CDATA[Stig und Cecily heiraten, ist das nicht wundervoll? Oh, mein kleines Mädchen ist so schnell erwachsen geworden ...]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t4" id="products1" enabled="1" hold="0" expose="products2,help,boots" go="0"><title><en><![CDATA[Your sign says &#8222;Fruits and Vegetables&#8220;, but I only see potatoes. Why?]]></en><de><![CDATA[Auf Ihrem Schild steht &#8222;Obst und Gemüse&#8220;, aber ich sehe nur Kartoffeln. Warum?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0109"><en><![CDATA[Your sign says &#8222;Fruits and Vegetables&#8220;, but I only see potatoes. Why?]]></en><de><![CDATA[Auf Ihrem Schild steht &#8222;Obst und Gemüse&#8220;, aber ich sehe nur Kartoffeln. Warum?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0110"><en><![CDATA[As I suspected, you aren’t from around here. ]]></en><de><![CDATA[Ich dachte mir schon, dass Sie nicht von hier sind.]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0111"><en><![CDATA[We are running short on everything ... the trade with the outside world has almost come to a complete halt after the Castle took over.]]></en><de><![CDATA[Bei uns werden alle Waren knapp ... Der Handel mit der Außenwelt ist fast völlig zum Erliegen gekommen, seit das Schloss die Macht übernommen hat.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0112"><en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en><de><![CDATA[Sogar Fisch ist Mangelware, seit das Schloss angefangen hat, den Tagesfang zu beschlagnahmen.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0113"><en><![CDATA[Cecily still goes down to the harbor each day but there isn’t anything left to buy.]]></en><de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es gibt nichts mehr zu kaufen.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0114"><en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that. These days I make my famous fish stew and we invite him and his father over for dinner.]]></en><de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht. An diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0115"><en><![CDATA[Is there anything I can do to help?]]></en><de><![CDATA[Kann ich irgendwie helfen?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0116"><en><![CDATA[Do you know how to fish?]]></en><de><![CDATA[Können Sie angeln?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0117"><en><![CDATA[Well ... a bit, I presume.]]></en><de><![CDATA[Naja ... einigermaßen, glaube ich.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0118"><en><![CDATA[If you can catch a Red Snapper for me, I will give you a reward!]]></en><de><![CDATA[Wenn Sie einen roten Schnapperfisch für mich fangen, gebe ich Ihnen eine Belohnung!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0119"><en><![CDATA[A red snapper ... that shouldn’t be a problem!]]></en><de><![CDATA[Ein Schnapperfisch ... das sollte kein Problem sein!]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0120"><en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught ...]]></en><de><![CDATA[Die letzten drei Fischer, die das zu mir sagten, brachten alle bloß alte Stiefel zurück, die sie gefangen hatten ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0121"><en><![CDATA[I guess there still must be hundreds of boots out there after the trading ship of &#8222;Shuster & Shuster Shoes&#8220; sunk in the bay twenty years ago.]]></en><de><![CDATA[Ich schätze, da draußen müssen noch hunderte von Stiefeln herumtreiben, nachdem das Handelsschiff von &#8222;Shuster & Shuster Shoes&#8220; vor zwanzig Jahren in der Bucht gesunken ist.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t5" id="products2" enabled="0" hold="1" expose="" go="0"><title><en><![CDATA[Again, why do you have only potatoes to sell?]]></en><de><![CDATA[Warum haben Sie nochmal nur Kartoffeln zu verkaufen?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0122"><en><![CDATA[Again, why do you have only potatoes to sell?]]></en><de><![CDATA[Warum haben Sie nochmal nur Kartoffeln zu verkaufen?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0123"><en><![CDATA[As I suspected, you aren’t from around here. ]]></en><de><![CDATA[Ich dachte mir schon, dass Sie nicht von hier sind.]]></de></dia><dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0124"><en><![CDATA[We are running short on everything ... the trade with the outside world has almost come to a complete halt after the Castle took over.]]></en><de><![CDATA[Bei uns werden alle Waren knapp ... der Handel mit der Außenwelt ist fast völlig zum Erliegen gekommen, nachdem das Schloss die Macht übernommen hat.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0125"><en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en><de><![CDATA[Sogar Fisch ist Mangelware, seit das Schloss angefangen hat, den Tagesfang zu beschlagnahmen.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0126"><en><![CDATA[Cecily still goes down to the harbor each day, though there’s never anything left to buy.]]></en><de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es ist nie etwas zu kaufen da.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0127"><en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that – on those days I make my famous fish stew and we invite him and his father over for dinner.]]></en><de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht – an diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t6" id="help" enabled="0" hold="1" expose="" go="0"><title><en><![CDATA[How can I help you again?]]></en><de><![CDATA[Wie kann ich Ihnen nochmal helfen?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0128"><en><![CDATA[How can I help you again?]]></en><de><![CDATA[Wie kann ich Ihnen nochmal helfen?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0129"><en><![CDATA[If you can catch a Red Snapper for me, I will give you a reward!]]></en><de><![CDATA[Wenn Sie einen roten Schnapperfisch für mich fangen, gebe ich Ihnen eine Belohnung!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0130"><en><![CDATA[A red snapper ... that shouldn’t be a problem!]]></en><de><![CDATA[Ein Schnapperfisch ... das sollte kein Problem sein!]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0131"><en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught ...]]></en><de><![CDATA[Die letzten drei Fischer, die das zu mir sagten, brachten alle bloß alte Stiefel zurück, die sie gefangen hatten ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0132"><en><![CDATA[I guess after the trading ship of &#8222;Shuster & Shuster Shoes&#8220; sunk in the Ravenhollow Bay fifty years ago there must still be hundreds of boots out there.]]></en><de><![CDATA[Ich schätze, nachdem das Handelsschiff von &#8222;Shuster & Shuster Shoes&#8220; vor zwanzig Jahren in der Bucht von Ravenhollow gesunken ist, müssen da draußen noch hunderte von Stiefeln herumtreiben.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t8" id="boots" enabled="0" hold="1" expose="" go="0"><title><en><![CDATA[What did you say about a ship full of boots sinking in the bay?]]></en><de><![CDATA[Wie war das mit dem Schiff voller Stiefel, das in der Bucht gesunken ist?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0133"><en><![CDATA[What did you say about a ship full of boots sinking in the bay?]]></en><de><![CDATA[Wie war das mit dem Schiff voller Stiefel, das in der Bucht gesunken ist?]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0134"><en><![CDATA[Ah yes, that was a trading vessel for The Shuster & Shuster Shoe Company called &#8222;Zapito&#8220;.]]></en><de><![CDATA[Ah, ja, das war ein Handelsschiff der Shuster & Shuster Shoe Company namens &#8222;Zapito&#8220;.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0135"><en><![CDATA[She and her cargo of boots foundered on an unmarked shoal in Ravenhollow bay about twenty years ago.]]></en><de><![CDATA[Das Schiff ist vor etwa zwanzig Jahren mit seiner Ladung an einer unmarkierten Untiefe gesunken.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0136"><en><![CDATA[How horrible! Think of all the honest, hard&#8212;working souls who were denied quality footware as a result of the incident.]]></en><de><![CDATA[Wie entsetzlich! Denken Sie an all die ehrlichen, hart arbeitenden Seelen, denen als Folge des Zwischenfalls Qualitätsschuhe vorenthalten blieben.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0137"><en><![CDATA[Yes, but at least it’s given Ravenhollow an economic boost over the years ...]]></en><de><![CDATA[Ja, aber wenigstens hat es Ravenhollow über die Jahre zu einem wirtschaftlichen Boom verholfen ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0138"><en><![CDATA[While no one wants to buy the water&#8212;logged boots that keep washing ashore, a market has sprung up for shoelaces and scrap leather.]]></en><de><![CDATA[Obwohl niemand die aufgeweichten Stiefel kaufen will, die immer noch angespült werden, ist ein Markt für Schnürsenkel und Lederreste entstanden.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0139"><en><![CDATA[What an odd tale ... It almost inspires me to give up my life pursuits and seek riches in buried footwear.]]></en><de><![CDATA[Was für eine seltsame Geschichte ... Ich fühle mich fast inspiriert, meine Lebensziele aufzugeben und in der Branche versunkenen Schuhwerks mein Glück zu suchen.]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0140"><en><![CDATA[Well keep your eyes open, handsome ... I’m sure you can still find at least one of those old boots lying around.]]></en><de><![CDATA[Halten Sie die Augen offen, mein Hübscher ... Ich bin sicher, Sie finden zumindest einen dieser alten Stiefel irgendwo herumliegen.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t1" id="_1" enabled="1" hold="1" expose="" go="-2"><title><en><![CDATA[Well, I have to go ...]]></en><de><![CDATA[Also, ich muss los ...]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0141"><en><![CDATA[Well, I have to go ...]]></en><de><![CDATA[Also, ich muss los ...]]></de></dia><dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0142"><en><![CDATA[Come again!]]></en><de><![CDATA[Beehren Sie uns wieder!]]></de></dia></dialog><script><dialogue play="*"/><layerState target="_current:MB_Caro:main" restState="rest"/></script></topic></tier></tree></trees></room>
+<room id="square" coreLibs="lib/square.swf,lib/square_fx.swf,lib/music_village.swf,lib/music_mandelbaum.swf,lib/entertainers.swf,lib/music_night1.swf,lib/mb_caro.swf,lib/cecily.swf" voiceLibs="voice/square_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="">
+  <grids>
+    <grid id="main">
+      <boxes>
+        <box x="309" y="458" w="476" h="37" nodes="n12,n13,n14,n15,n16,n19,n23,n29" />
+        <box x="263" y="540" w="766" h="52" nodes="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37" />
+        <box x="694" y="473" w="158" h="77" nodes="n9,n10,n11,n12,n13,n18,n22" />
+        <box x="288" y="485" w="266" h="64" nodes="n6,n7,n8,n14,n15,n16" />
+        <box x="484" y="542" w="225" h="106" nodes="n0,n1,n2,n4,n5,n8,n11,n32,n37" />
+        <box x="161" y="630" w="698" h="549" nodes="n0,n1,n2,n3,n21,n24,n26,n33,n34" />
+        <box x="850" y="581" w="218" h="266" nodes="n3,n30,n31,n33,n34,n35" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="690" y="640" join="n1,n2,n4,n5,n8,n11,n32,n37,n3,n21,n24,n26,n33,n34" trap="0" />
+        <node id="n1" x="603" y="642" join="n0,n2,n4,n5,n8,n11,n32,n37,n3,n21,n24,n26,n33,n34" trap="0" />
+        <node id="n2" x="510" y="640" join="n0,n1,n4,n5,n8,n11,n32,n37,n3,n21,n24,n26,n33,n34" trap="0" />
+        <node id="n3" x="855" y="636" join="n0,n1,n2,n21,n24,n26,n33,n34,n30,n31,n35" trap="0" />
+        <node id="n4" x="600" y="585" join="n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n0,n1,n2" trap="0" />
+        <node id="n5" x="525" y="585" join="n4,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n0,n1,n2" trap="0" />
+        <node id="n6" x="295" y="545" join="n4,n5,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n14,n15,n16" trap="0" />
+        <node id="n7" x="400" y="545" join="n4,n5,n6,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n14,n15,n16" trap="0" />
+        <node id="n8" x="515" y="545" join="n4,n5,n6,n7,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n14,n15,n16,n0,n1,n2" trap="0" />
+        <node id="n9" x="845" y="545" join="n4,n5,n6,n7,n8,n10,n11,n17,n25,n27,n30,n31,n32,n35,n37,n12,n13,n18,n22" trap="0" />
+        <node id="n10" x="775" y="545" join="n4,n5,n6,n7,n8,n9,n11,n17,n25,n27,n30,n31,n32,n35,n37,n12,n13,n18,n22" trap="0" />
+        <node id="n11" x="705" y="545" join="n4,n5,n6,n7,n8,n9,n10,n17,n25,n27,n30,n31,n32,n35,n37,n12,n13,n18,n22,n0,n1,n2" trap="0" />
+        <node id="n12" x="775" y="490" join="n13,n14,n15,n16,n19,n23,n29,n9,n10,n11,n18,n22" trap="0" />
+        <node id="n13" x="700" y="490" join="n12,n14,n15,n16,n19,n23,n29,n9,n10,n11,n18,n22" trap="0" />
+        <node id="n14" x="525" y="490" join="n12,n13,n15,n16,n19,n23,n29,n6,n7,n8" trap="0" />
+        <node id="n15" x="325" y="490" join="n12,n13,n14,n16,n19,n23,n29,n6,n7,n8" trap="0" />
+        <node id="n16" x="420" y="490" join="n12,n13,n14,n15,n19,n23,n29,n6,n7,n8" trap="0" />
+        <node id="n17" x="920" y="545" join="n18,n4,n5,n6,n7,n8,n9,n10,n11,n25,n27,n30,n31,n32,n35,n37" trap="0" />
+        <node id="n18" x="845" y="500" join="n17,n9,n10,n11,n12,n13,n22" trap="0" />
+        <node id="n19" x="730" y="462" join="n12,n13,n14,n15,n16,n23,n29" trap="0" name="join_treehouse" />
+        <node id="n20" x="410" y="330" join="n28" trap="1" name="join_yard" />
+        <node id="n21" x="568" y="1174" join="n0,n1,n2,n3,n24,n26,n33,n34" trap="0" name="join_harbor" />
+        <node id="n22" x="830" y="481" join="n9,n10,n11,n12,n13,n18" trap="0" name="join_inn" />
+        <node id="n23" x="530" y="465" join="n12,n13,n14,n15,n16,n19,n29" trap="0" name="join_mask" />
+        <node id="n24" x="306" y="640" join="n25,n0,n1,n2,n3,n21,n26,n33,n34" trap="0" />
+        <node id="n25" x="343" y="588" join="n24,n4,n5,n6,n7,n8,n9,n10,n11,n17,n27,n30,n31,n32,n35,n37" trap="0" />
+        <node id="n26" x="815" y="640" join="n27,n0,n1,n2,n3,n21,n24,n33,n34" trap="0" />
+        <node id="n27" x="799" y="590" join="n26,n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n30,n31,n32,n35,n37" trap="0" />
+        <node id="n28" x="400" y="390" join="n29,n20" trap="1" />
+        <node id="n29" x="395" y="460" join="n28,n12,n13,n14,n15,n16,n19,n23" trap="0" color="0x000000" tint="0" />
+        <node id="n30" x="1021" y="587" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n31,n32,n35,n37,n3,n33,n34" trap="0" />
+        <node id="n31" x="863" y="588" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n32,n35,n37,n3,n33,n34" trap="0" />
+        <node id="n32" x="683" y="588" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n35,n37,n0,n1,n2" trap="0" />
+        <node id="n33" x="857" y="755" join="n0,n1,n2,n3,n21,n24,n26,n34,n30,n31,n35" trap="0" />
+        <node id="n34" x="856" y="696" join="n0,n1,n2,n3,n21,n24,n26,n33,n30,n31,n35" trap="0" />
+        <node id="n35" x="939" y="590" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n37,n3,n33,n34" trap="0" />
+        <node id="n37" x="583" y="585" join="n4,n5,n6,n7,n8,n9,n10,n11,n17,n25,n27,n30,n31,n32,n35,n0,n1,n2" trap="0" name="preflash" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="join_treehouse" turn="5" x="730" y="462" />
+    <position id="join_yard" turn="5" x="410" y="330" />
+    <position id="join_harbor" turn="1" x="568" y="1174" />
+    <position id="join_inn" turn="6" x="830" y="481" />
+    <position id="join_mask" turn="5" x="530" y="465" />
+    <position id="preflash" turn="1" x="583" y="585" />
+  </positions>
+  <filters>
+    <filter id="_scale" axis="y" enabled="1">
+      <pole x="423" y="341" scale="0.15" rate="0.5" blur="1" color="0x000000" tint="0.5" />
+      <pole x="423" y="1195" scale="1.55" rate="1" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+    <filter id="_lightday" axis="r" enabled="1">
+      <pole x="570" y="1175" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.31" />
+      <pole x="571" y="905" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0" />
+    </filter>
+    <filter id="_lightnight" axis="r" enabled="1">
+      <pole x="425" y="406" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.46" />
+      <pole x="413" y="233" scale="1" rate="1" blur="5" color="0x000000" tint="0.13" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <logic>
+        <if eval="[nighttime] EQ 1">
+          <layerSprite target="_bg" frameOffset="1" />
+          <layerSprite target="inn" frameOffset="1" />
+          <layerSprite target="posts" frameOffset="1" />
+          <layerSprite target="statue" frameOffset="1" />
+          <sound soundtrack1="lib/music_night1.swf:Night1Music" />
+          <sound soundtrack2="lib/square_fx.swf:SquareNightFx" />
+          <layerState target="square:_avatar:main" colorFilter="_lightnight" />
+          <layer target="square:MB_Caro" visible="0" />
+          <layer target="square:cecily" visible="0" />
+        </if>
+        <else>
+          <sound soundtrack1="lib/music_village.swf:VillageMusic" />
+          <sound soundtrack2="lib/square_fx.swf:SquareDayFx" />
+          <layerState target="square:_avatar:main" colorFilter="_lightday" />
+          <layer target="square:MB_Caro" visible="1" />
+          <layer target="square:cecily" visible="1" />
+        </else>
+      </logic>
+      <curtain blackout="0" />
+      <logic>
+        <if eval="([nighttime] EQ 1) AND ({getLayerProp:_current,mandelbaum_light,visible} NE 1)">
+          <layer target="_current:exit_mask" state="closed" />
+        </if>
+        <else>
+          <layer target="_current:exit_mask" state="main" />
+        </else>
+      </logic>
+      <logic>
+        <if eval="([mandelbaum_silenced] NE 1) AND ({getLayerProp:_current,mandelbaum_light,visible} EQ 1)">
+          <method call="controls" enabled="0" />
+          <puppetTween target="_avatar" type="move" to="position:preflash" waitForComplete="1" />
+          <layerSprite target="mandelbaum_light" animFrame="flashing" waitForComplete="1" />
+          <cache field="mandelbaum_silenced" value="1" />
+          <puppet target="flashing" callAction="0" />
+        </if>
+      </logic>
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_prerender">
+      <room target="_current" soundtrack1="_null" soundtrack2="_null" />
+      <logic>
+        <if eval="[nighttime] EQ 1">
+          <layer target="_current:MB_Caro" render="0" />
+        </if>
+        <else>
+          <layer target="_current:MB_Caro" render="1" />
+        </else>
+      </logic>
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/square.swf:SquareBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1228" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="mandelbaum_light" type="puppet" asset="lib/square.swf:SquareMaskShopLight" depth="1" visible="0" state="main">
+      <states>
+        <state id="main" x="557" y="319" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="0" hitX="11" hitY="-65" hitW="16" hitH="152" shape="rect">
+          <param mapX="512" mapY="384" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="clock2" type="plane" asset="lib/global.swf:ClockWedge" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="484" y="5" img="1" imgX="0" imgY="0" imgW="0.06" imgH="0.1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_yard" type="puppet" asset="" depth="3" visible="1" state="main">
+      <states>
+        <state id="main" x="425" y="189" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-73" hitY="-3" hitW="126" hitH="252" shape="rect">
+          <param mapX="410" mapY="330" turnTo="5" turn="0" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="yard:join_square" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_treehouse" type="puppet" asset="" depth="4" visible="1" state="main">
+      <states>
+        <state id="main" x="686" y="252" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="123" hitH="215" shape="rect">
+          <param mapX="730" mapY="462" turnTo="5" turn="0" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="treehouse:join_square" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_harbor" type="puppet" asset="" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="532" y="1191" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-185" hitY="-552" hitW="478" hitH="128" shape="rect">
+          <param mapX="568" mapY="1174" turnTo="5" turn="0" cursor="exit5" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="harbor:join_square" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="manhole" type="puppet" asset="" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="606" y="676" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-64" hitY="-50" hitW="125" hitH="53" shape="rect">
+          <param mapX="525" mapY="645" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[manhole cover]]></en>
+            <de><![CDATA[Gullydeckel]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0000">
+                  <en><![CDATA[It’s a manhole cover, presumably leading to the sewers ...]]></en>
+                  <de><![CDATA[Das ist ein Gullydeckel, der wahrscheinlich in die Kanalisation führt ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0001">
+                  <en><![CDATA[But why is it round?]]></en>
+                  <de><![CDATA[Aber warum ist es rund?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Open]]></en>
+                <de><![CDATA[Öffne]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0002">
+                  <en><![CDATA[Some doors are not meant to be opened ... the same holds true for manhole covers.]]></en>
+                  <de><![CDATA[Manche Türen sollte man nicht öffnen ... Das gilt auch für Gullydeckel.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="mandelbaums" type="puppet" asset="" depth="7" visible="1" state="main">
+      <states>
+        <state id="main" x="444" y="506" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="45" hitY="-462" hitW="200" hitH="408" shape="rect">
+          <param mapX="408" mapY="480" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[mask shop]]></en>
+            <de><![CDATA[Maskenladen]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0003">
+                  <en><![CDATA[No post office in sight, no train station around for miles ...]]></en>
+                  <de><![CDATA[Kein Postamt in Sicht, weit und breit kein Bahnhof ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="hspeak5" sound="voice/square_voice.swf:square0004">
+                  <en><![CDATA[... but at least the locals have a secure supply of one of the most vital commodities of modern civilization:]]></en>
+                  <de><![CDATA[... aber wenigstens haben die Einwohner immer genug von einem der wichtigsten Güter der modernen Zivilisation:]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0005">
+                  <en><![CDATA[... hand&#8212;carved masks.]]></en>
+                  <de><![CDATA[... handgeschnitzte Masken.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_mask" type="puppet" asset="" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="499" y="271" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="70" hitH="184" shape="rect">
+          <param mapX="530" mapY="465" turnTo="5" turn="0" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <curtain blackout="1" />
+                <sound effect="lib/sound_effects.swf:doorOpen" waitForComplete="1" />
+                <game room="mask:join_square" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="closed" x="499" y="271" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="70" hitH="184" shape="rect">
+          <param mapX="530" mapY="465" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[mask shop door]]></en>
+            <de><![CDATA[Tür des Maskenladens]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0006">
+                  <en><![CDATA[It’s dark in there. No wonder, I bet it’s already past midnight.]]></en>
+                  <de><![CDATA[Da drin ist es dunkel. Kein Wunder, ich wette, es ist schon nach Mitternacht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Open]]></en>
+                <de><![CDATA[Öffne]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0007">
+                  <en><![CDATA[The mask shop is closed. Mr. Mandelbaum is probably asleep already.]]></en>
+                  <de><![CDATA[Der Maskenladen ist geschlossen. Herr Mandelbaum schläft wahrscheinlich schon.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="statue" type="plane" asset="lib/square.swf:SquareStatue" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="625" y="515" img="1" imgX="-60" imgY="-369" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="posts" type="plane" asset="lib/square.swf:SquarePosts" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="457" y="609" img="1" imgX="-15" imgY="-147" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="inn" type="plane" asset="lib/square.swf:SquareInnWall" depth="11" visible="1" state="main">
+      <states>
+        <state id="main" x="873" y="469" img="1" imgX="-2" imgY="-247" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="inn2" type="puppet" asset="" depth="12" visible="1" state="main">
+      <states>
+        <state id="main" x="753" y="526" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="57" hitY="-370" hitW="253" hitH="304" shape="rect">
+          <param mapX="725" mapY="515" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Inn]]></en>
+            <de><![CDATA[Ravenhollow Inn]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0008">
+                  <en><![CDATA[The Ravenhollow Inn looks cozy.]]></en>
+                  <de><![CDATA[Das &#8222;Ravenhollow Inn&#8220; sieht gemütlich aus.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="nofruit" type="puppet" asset="" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="988" y="571" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="12" hitY="-175" hitW="250" hitH="192" shape="rect">
+          <param mapX="936" mapY="561" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[sparsely&#8212;filled fruit crates]]></en>
+            <de><![CDATA[spärlich gefüllte Obstkisten]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0009">
+                  <en><![CDATA[Even the most daring optimists will have a hard time to see half filled crates of fruit ... they are empty!]]></en>
+                  <de><![CDATA[Sogar der überzeugteste Optimist wird Schwierigkeiten haben, hier halbvolle Obstkisten zu sehen ... sie sind leer!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0010">
+                  <en><![CDATA[Aside from potatoes the store owners seem to have run out of fruit and vegetables to sell.]]></en>
+                  <de><![CDATA[Außer Kartoffeln scheint den Ladenbesitzern alles Obst und Gemüse ausgegangen zu sein.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take from]]></en>
+                <de><![CDATA[Nimm aus]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0011">
+                  <en><![CDATA[They are empty!]]></en>
+                  <de><![CDATA[Sie sind leer!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="cecily" type="puppet" asset="lib/cecily.swf:cecily" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="998" y="554" img="1" imgX="-171" imgY="-84" imgW="-0.84" imgH="0.84" frame="4" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-25" hitY="-211" hitW="46" hitH="222" shape="rect">
+          <param mapX="936" mapY="561" turnTo="5" turn="0" cursor="" onclick="-1" prefix="standsad_" subtitle="0xCCFFCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[absent&#8212;minded girl]]></en>
+            <de><![CDATA[geistesabwesendes Mädchen]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0012">
+                  <en><![CDATA[She looks very thoughtful.]]></en>
+                  <de><![CDATA[Sie sieht wirklich sehr nachdenklich aus.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0013">
+                  <en><![CDATA[Hi there.]]></en>
+                  <de><![CDATA[Hallo.]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0014">
+                  <en><![CDATA[Stig?]]></en>
+                  <de><![CDATA[Stig?]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0015">
+                  <en><![CDATA[Oh, hello.]]></en>
+                  <de><![CDATA[Oh, hallo.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0016">
+                  <en><![CDATA[You’ve been expecting someone else, haven’t you ...]]></en>
+                  <de><![CDATA[Du hast jemand anderen erwartet, nicht wahr ...]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0017">
+                  <en><![CDATA[Well ... not really.]]></en>
+                  <de><![CDATA[Naja ... nicht wirklich.]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0018">
+                  <en><![CDATA[I’m sorry could you talk to mother? I’m a bit distracted today ... and I’m already behind schedule.]]></en>
+                  <de><![CDATA[Entschuldigung, könntest Du mit meiner Mutter sprechen? Ich bin heute ein bisschen durcheinander ... und ich bin schon spät dran.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0019">
+                  <en><![CDATA[Sure, don’t worry.]]></en>
+                  <de><![CDATA[Klar, kein Problem.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Hug]]></en>
+                <de><![CDATA[Umarme]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0020">
+                  <en><![CDATA[Nah, I feel very odd hugging strangers.]]></en>
+                  <de><![CDATA[Lieber nicht, Fremde zu umarmen ist mir unangenehm.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="happy" x="998" y="554" img="1" imgX="165" imgY="-86" imgW="0.84" imgH="0.84" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-25" hitY="-211" hitW="46" hitH="222" shape="rect">
+          <param mapX="936" mapY="561" turnTo="5" turn="0" cursor="" onclick="-1" prefix="standhappy_" subtitle="0xCCFFCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Cecily Caro]]></en>
+            <de><![CDATA[Cecily Caro]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0021">
+                  <en><![CDATA[Cecily looks much happier than last time.]]></en>
+                  <de><![CDATA[Cecily sieht viel fröhlicher aus als letztes Mal.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0022">
+                  <en><![CDATA[Hi there.]]></en>
+                  <de><![CDATA[Hallo.]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0023">
+                  <en><![CDATA[Oh, it’s you! Thank you for giving Stig my message earlier!]]></en>
+                  <de><![CDATA[Oh, du bist es! Danke, dass du Stig meine Nachricht gegeben hast!]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0024">
+                  <en><![CDATA[I can’t thank you enough!]]></en>
+                  <de><![CDATA[Ich kann dir nicht genug danken!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0025">
+                  <en><![CDATA[Don’t mention it. I hope you two will be happy together!]]></en>
+                  <de><![CDATA[Keine Ursache. Ich hoffe, ihr zwei werdet glücklich miteinander!]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0026">
+                  <en><![CDATA[We will! Oh, I’m sure we will ...]]></en>
+                  <de><![CDATA[Ganz bestimmt! Oh, ich bin ganz sicher ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0027">
+                  <en><![CDATA[Well, see you.]]></en>
+                  <de><![CDATA[Bis dann.]]></de>
+                </dia>
+                <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0028">
+                  <en><![CDATA[See you! And thanks again! We’ll invite you to the wedding!]]></en>
+                  <de><![CDATA[Bis dann! Und nochmal danke! Du musst zu unserer Hochzeit kommen!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Hug]]></en>
+                <de><![CDATA[Umarme]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0029">
+                  <en><![CDATA[Nah, I feel very odd hugging strangers.]]></en>
+                  <de><![CDATA[Lieber nicht, Fremde zu umarmen ist mir unangenehm.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="420" y="744" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="_scale" color="_lightnight" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="fruitwindow" type="puppet" asset="" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="1080" y="584" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="13" hitY="-330" hitW="148" hitH="154" shape="rect">
+          <param mapX="1059" mapY="607" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[store window]]></en>
+            <de><![CDATA[Schaufenster]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0030">
+                  <en><![CDATA[Mh... inside the shop the choice of products looks just as sad as out here.]]></en>
+                  <de><![CDATA[Hm ... Im Laden wirkt die Auswahl an Produkten genauso traurig wie hier draußen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0031">
+                  <en><![CDATA[Wait, I think I see a cucumber in there!]]></en>
+                  <de><![CDATA[Moment, ich glaube, ich sehe da drin eine Gurke!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0032">
+                  <en><![CDATA[Oh, no. Forget it ... that was just the neck of an old wine bottle. No vitamins today ...]]></en>
+                  <de><![CDATA[Ach, nein. Fehlalarm ... Das war nur der Hals einer alten Weinflasche. Keine Vitamine heute ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="MB_Caro" type="puppet" asset="lib/mb_caro.swf:MB_Caro" depth="17" visible="1" state="main">
+      <states>
+        <state id="main" x="1042" y="813" img="1" imgX="63" imgY="-345" imgW="1.45" imgH="1.45" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="7" hitY="-445" hitW="120" hitH="260" shape="round">
+          <param mapX="937" mapY="798" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFCC33" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[greengrocer]]></en>
+            <de><![CDATA[Gemüsehändlerin]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0033">
+                  <en><![CDATA[Either the fruit market has collapsed, or else this poor grocer has nothing to sell but potatoes.]]></en>
+                  <de><![CDATA[Entweder ist der Obstmarkt zusammengebrochen, oder diese arme Händlerin hat nichts zu verkaufen außer Kartoffeln.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0034">
+                  <en><![CDATA[Sorry?]]></en>
+                  <de><![CDATA[Entschuldigung?]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0035">
+                  <en><![CDATA[Yes?]]></en>
+                  <de><![CDATA[Ja?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playBatch="1" />
+                <layerState target="_current:MB_Caro:main" restState="pause" />
+                <dialogue play="*" />
+                <tree load="MB" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Hug]]></en>
+                <de><![CDATA[Umarme]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0036">
+                  <en><![CDATA[Nah, I feel very odd hugging strangers.]]></en>
+                  <de><![CDATA[Lieber nicht, Fremde zu umarmen ist mir unangenehm.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0037">
+                  <en><![CDATA[Besides, I worry that she might actually welcome my advances.]]></en>
+                  <de><![CDATA[Außerdem befürchte ich, dass ihr meine Annäherungsversuche nachher noch ganz angenehm sind.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="fish2">
+              <title>
+                <en><![CDATA[Give #item# to #noun#]]></en>
+                <de><![CDATA[Gib der #noun# den #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0038">
+                  <en><![CDATA[You caught a Red Snapper for me!]]></en>
+                  <de><![CDATA[Sie haben einen Schnapperfisch für mich gefangen!]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0039">
+                  <en><![CDATA[Obviously I underestimated your fishing skills, young man!]]></en>
+                  <de><![CDATA[Offensichtlich habe ich Ihre Angelkünste unterschätzt, junger Mann!]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0040">
+                  <en><![CDATA[You deserve a reward! Here, take this!]]></en>
+                  <de><![CDATA[Sie verdienen eine Belohnung! Hier, nehmen Sie den!]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0041">
+                  <en><![CDATA[That is my last juicy apple ... a rarity these days!]]></en>
+                  <de><![CDATA[Das ist mein letzter saftiger Apfel ... eine Rarität heutzutage!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0042">
+                  <en><![CDATA[And full of vitamins, too, I guess.]]></en>
+                  <de><![CDATA[Und auch noch voller Vitamine, schätze ich.]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0043">
+                  <en><![CDATA[You can bet your sideburns on that, handsome. Thanks for the fish!]]></en>
+                  <de><![CDATA[Darauf können Sie Ihre Koteletten verwetten, mein Hübscher. Danke für den Fisch!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerState target="_current:MB_Caro:main" restState="pause" />
+                <dialogue playList="0,1,2" />
+                <inventory remove="fish2" />
+                <inventory display="show" />
+                <inventory scrollTo="_blank" />
+                <wait seconds="1" />
+                <inventory add="apple" />
+                <tree enableTopic="square:MB:products1:0" />
+                <tree enableTopic="square:MB:help:0" />
+                <tree enableTopic="square:MB:products2:1" />
+                <wait seconds="1" />
+                <inventory display="hide" />
+                <wait seconds="1" />
+                <dialogue playList="3,4,5" />
+                <layerState target="_current:MB_Caro:main" restState="rest" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+            <action id="fish_bucket">
+              <title>
+                <en><![CDATA[Offer #item# to #noun#]]></en>
+                <de><![CDATA[Biete der #noun# den #item# an]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0044">
+                  <en><![CDATA[Can I interest you in this bucket of fish?]]></en>
+                  <de><![CDATA[Kann ich Sie für diesen Eimer voller Fische begeistern?]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0045">
+                  <en><![CDATA[You sure can interest me, handsome, but unfortunately I don’t have the means to purchase that much fish.]]></en>
+                  <de><![CDATA[Begeistern können Sie mich, mein Hübscher, aber leider habe ich nicht das Geld, so viel Fisch zu kaufen.]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0046">
+                  <en><![CDATA[You might try offering that to Captain Amayi ... she’s always looking for sea rations, and she has the money to pay for them!]]></en>
+                  <de><![CDATA[Versuchen Sie doch, ihn Captain Amayi anzubieten ... Sie braucht immer Bordverpflegung, und sie hat das Geld, um dafür zu bezahlen!]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0047">
+                  <en><![CDATA[Keep your eyes open for a Red Snapper though ...]]></en>
+                  <de><![CDATA[Aber halten Sie Ausschau nach einem Schnapperfisch ...]]></de>
+                </dia>
+                <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0048">
+                  <en><![CDATA[That’s the key ingredient of my famous fish stew, so I’ll find something to barter if you can catch me one.]]></en>
+                  <de><![CDATA[Das ist die Hauptzutat für meinen berühmten Fischeintopf. Wenn Sie mir einen fangen, finde ich etwas, das ich dagegen eintauschen kann.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0049">
+                  <en><![CDATA[Catch a red snapper ... got it.]]></en>
+                  <de><![CDATA[Einen Schnapperfisch fangen ... verstanden.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="potatoes" type="plane" asset="lib/square.swf:SquareFg" depth="18" visible="1" state="main">
+      <states>
+        <state id="main" x="889" y="909" img="1" imgX="-8" imgY="-398" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="clock" type="puppet" asset="lib/global.swf:ClockModern" depth="19" visible="1" state="main">
+      <states>
+        <state id="main" x="403" y="529" img="1" imgX="-228" imgY="-325" imgW="0.35" imgH="0.6" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-275" hitY="-383" hitW="70" hitH="113" shape="round">
+          <param mapX="436" mapY="514" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="21" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[large clock]]></en>
+            <de><![CDATA[große Uhr]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="hspeak" sound="voice/square_voice.swf:square0050">
+                  <en><![CDATA[It’s already THAT late?]]></en>
+                  <de><![CDATA[SO SPÄT ist es schon?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0051">
+                  <en><![CDATA[... that can’t be right.]]></en>
+                  <de><![CDATA[... das kann nicht stimmen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0052">
+                  <en><![CDATA[I don’t think the clock shows the correct time.]]></en>
+                  <de><![CDATA[Ich glaube nicht, dass die Uhr die richtige Zeit anzeigt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="streetsign1" type="puppet" asset="" depth="20" visible="1" state="main">
+      <states>
+        <state id="main" x="322" y="282" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="35" hitH="24" shape="rect">
+          <param mapX="374" mapY="469" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[street sign]]></en>
+            <de><![CDATA[Straßenschild]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0053">
+                  <en><![CDATA[That street’s name is &#8222;Raven Road&#8220;.]]></en>
+                  <de><![CDATA[Diese Straße heißt &#8222;Rabengasse&#8220;.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="streetsign2" type="puppet" asset="" depth="21" visible="1" state="main">
+      <states>
+        <state id="main" x="685" y="310" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="35" hitH="24" shape="rect">
+          <param mapX="697" mapY="478" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[street sign]]></en>
+            <de><![CDATA[Straßenschild]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0054">
+                  <en><![CDATA[This street is called &#8222;Turtle Lane&#8220;...]]></en>
+                  <de><![CDATA[Diese Straße heißt &#8222;Schildkrötenweg&#8220; ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_inn" type="puppet" asset="" depth="22" visible="1" state="main">
+      <states>
+        <state id="main" x="818" y="266" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="70" hitH="205" shape="rect">
+          <param mapX="834" mapY="476" turnTo="5" turn="0" cursor="exit2" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <curtain blackout="1" />
+                <sound effect="lib/sound_effects.swf:doorOpen" waitForComplete="1" />
+                <game room="inn:join_square" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="clockwindow" type="puppet" asset="" depth="23" visible="1" state="main">
+      <states>
+        <state id="main" x="338" y="499" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-43" hitY="-237" hitW="34" hitH="122" shape="rect">
+          <param mapX="361" mapY="480" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[shop window]]></en>
+            <de><![CDATA[Schaufenster]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0055">
+                  <en><![CDATA[Not surprisingly, the clock shop has clocks on display in the clock shop window.]]></en>
+                  <de><![CDATA[Wie zu erwarten war, hat der Uhrenladen Uhren in seinem Uhrenschaufenster ausgestellt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0056">
+                  <en><![CDATA[I am not in the mood for window shopping ...]]></en>
+                  <de><![CDATA[Ich bin nicht in Stimmung für einen Einkaufsbummel ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0057">
+                  <en><![CDATA[... or for smashing the window in with a brick and running off with these clocks.]]></en>
+                  <de><![CDATA[... und Lust, das Fenster mit einem Ziegelstein einzuschlagen und mit diesen Uhren davonzulaufen, habe ich auch nicht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="clockshopdoor" type="puppet" asset="" depth="24" visible="1" state="main">
+      <states>
+        <state id="main" x="277" y="525" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-53" hitY="-273" hitW="67" hitH="222" shape="rect">
+          <param mapX="308" mapY="505" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[clock shop door]]></en>
+            <de><![CDATA[Tür des Uhrenladens]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0058">
+                  <en><![CDATA[Moore’s clock shop is closed ... I wonder when the store opens up again.]]></en>
+                  <de><![CDATA[Moores Uhrenladen ist geschlossen ... Wann der Laden wohl wieder öffnet?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0059">
+                  <en><![CDATA[I don’t see any information on their business hours.]]></en>
+                  <de><![CDATA[Ich sehe keine Information über die Öffnungszeiten.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Open]]></en>
+                <de><![CDATA[Öffne]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0060">
+                  <en><![CDATA[It’s closed.]]></en>
+                  <de><![CDATA[Geschlossen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="cart" type="puppet" asset="" depth="25" visible="1" state="main">
+      <states>
+        <state id="main" x="284" y="614" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-350" hitY="-389" hitW="310" hitH="426" shape="rect">
+          <param mapX="288" mapY="579" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[wooden cart]]></en>
+            <de><![CDATA[Holzkarren]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0061">
+                  <en><![CDATA[&#8222;Matt & Greg’s Amazing Entertainment Cart&#8220; ...]]></en>
+                  <de><![CDATA[&#8222;Matt & Gregs Großartiger Vergnügungswagen&#8220; ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0062">
+                  <en><![CDATA[Well, I’m not impressed ... doesn’t look that amazing to me.]]></en>
+                  <de><![CDATA[Also, ich bin nicht beeindruckt ... so großartig sieht der gar nicht aus.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0063">
+                  <en><![CDATA[The cart is locked ... ]]></en>
+                  <de><![CDATA[Der Wagen ist verschlossen ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="hspeak5" sound="voice/square_voice.swf:square0064">
+                  <en><![CDATA[... and I would need at least one strong horse, or six well-trained pigs, or a sociable group of monkeys to move this cart around.]]></en>
+                  <de><![CDATA[... und ich bräuchte mindestens ein starkes Pferd oder sechs dressierte Schweine oder eine gesellige Gruppe Affen, um diesen Wagen zu bewegen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0065">
+                  <en><![CDATA[Hopeless, I say!]]></en>
+                  <de><![CDATA[Hoffnungslos, will ich meinen!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="statue2" type="puppet" asset="" depth="26" visible="1" state="main">
+      <states>
+        <state id="main" x="618" y="156" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-43" hitY="-11" hitW="110" hitH="372" shape="rect">
+          <param mapX="620" mapY="610" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[strange statue]]></en>
+            <de><![CDATA[seltsame Statue]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0066">
+                  <en><![CDATA[That must be Baron Northwest himself ...]]></en>
+                  <de><![CDATA[Das muss Baron Nordwest höchstpersönlich sein ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0067">
+                  <en><![CDATA[The statue looks fairly new ... and I can still smell the fresh concrete they used to fix the statue to the ground.]]></en>
+                  <de><![CDATA[Die Statue sieht ziemlich neu aus ... man kann sogar noch den frischen Zement riechen, den sie verwendet haben, um die Statue zu befestigen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0068">
+                  <en><![CDATA[I should try to find the man himself and ask him about my problem instead of wasting my time talking to a lump of stone.]]></en>
+                  <de><![CDATA[Ich sollte den echten Baron finden, anstatt meine Zeit mit dem Versuch zu verschwenden, mit diesem Steinklotz zu sprechen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0069">
+                  <en><![CDATA[... although I have to admit that it looks surprisingly lifelike.]]></en>
+                  <de><![CDATA[... obwohl ich zugeben muss, dass er überraschend lebensecht wirkt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="crayonPaper">
+              <title>
+                <en><![CDATA[Draw #noun# with #item#]]></en>
+                <de><![CDATA[Zeichne #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0070">
+                  <en><![CDATA[I’d surely be arrested for impersonating the baron if Mandelbaum were to make me this mask.]]></en>
+                  <de><![CDATA[Ich werde sicher verhaftet, wenn Mandelbaum mir diese Maske macht, weil sie dann denken, dass ich mich für den Baron ausgeben will.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="crayon">
+              <title>
+                <en><![CDATA[Draw #noun# with #item#]]></en>
+                <de><![CDATA[Zeichne #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0071">
+                  <en><![CDATA[I’ll need to pair this crayon with a piece of paper before I can draw anything with it.]]></en>
+                  <de><![CDATA[Ich muss diesen Stift zusammen mit einem Stück Papier verwenden, bevor ich damit etwas zeichnen kann.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0072">
+                  <en><![CDATA[Even then, this is probably not the thing to draw ...]]></en>
+                  <de><![CDATA[Aber auch dann ist das wahrscheinlich kein gutes Motiv ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0073">
+                  <en><![CDATA[I’d surely be arrested for impersonating the baron if Mandelbaum were to make me this mask.]]></en>
+                  <de><![CDATA[Ich werde sicher verhaftet, wenn Mandelbaum mir diese Maske macht, weil sie dann denken, dass ich mich für den Baron ausgeben will.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="potatoes2" type="puppet" asset="" depth="27" visible="1" state="main">
+      <states>
+        <state id="main" x="986" y="853" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-101" hitY="-283" hitW="339" hitH="265" shape="rect">
+          <param mapX="887" mapY="790" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[a lot of potatoes]]></en>
+            <de><![CDATA[ne ganze Menge Kartoffeln]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0074">
+                  <en><![CDATA[Mh ... the greengrocer either has too many potatoes or not enough potato&#8212;buying customers.]]></en>
+                  <de><![CDATA[Hm ... entweder hat die Gemüsehändlerin zu viele Kartoffeln oder nicht genug Kartoffeln kaufende Kunden.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Eat one of]]></en>
+                <de><![CDATA[Iss eine der]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0075">
+                  <en><![CDATA[Raw potatoes are pretty disgusting ... I will stick to my Pretzeljax for now.]]></en>
+                  <de><![CDATA[Rohe Kartoffeln sind ziemlich eklig ... Ich bleibe momentan lieber bei meinen Knusperbretzeln.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take some of]]></en>
+                <de><![CDATA[Nimm ein paar von den]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0076">
+                  <en><![CDATA[I am REALLY not into potatoes ... nor into stealing.]]></en>
+                  <de><![CDATA[Ich bin ECHT nicht so wild auf Kartoffeln ... oder aufs Stehlen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0077">
+                  <en><![CDATA[Ok, maybe I borrow seemingly useful items from time to time that just lie around &#8212; but these potatoes are meant to be bought.]]></en>
+                  <de><![CDATA[Ok, vielleicht leihe ich mir manchmal scheinbar nützliche Dinge aus, die einfach so herumliegen – aber diese Kartoffeln sind zum Verkauf gedacht.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0078">
+                  <en><![CDATA[... or ignored, which I usually tend to do with potatoes anyway.]]></en>
+                  <de><![CDATA[... oder zum Ignorieren, was ich normalerweise sowieso mit Kartoffeln tue.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="flashing" type="puppet" asset="" depth="28" visible="1" state="main">
+      <states>
+        <state id="main" x="643" y="107" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="43" hitH="36" shape="rect">
+          <param mapX="463" mapY="516" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0079">
+                  <en><![CDATA[What was that flashing in Mandelbaum’s shop!?]]></en>
+                  <de><![CDATA[Was hat da in Mandelbaums Laden aufgeblitzt!?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enable="0" />
+                <dialogue play="*" />
+                <puppet target="exit_mask" callAction="0" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees>
+    <tree id="MB">
+      <tier key="r" id="">
+        <topic key="t0" id="_0" enabled="1" hold="0" expose="" go="0">
+          <title>
+            <en><![CDATA[Are you selling fruits and vegetables?]]></en>
+            <de><![CDATA[Verkaufen Sie Obst und Gemüse?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0080">
+              <en><![CDATA[Are you selling fruits and vegetables?]]></en>
+              <de><![CDATA[Verkaufen Sie Obst und Gemüse?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0081">
+              <en><![CDATA[No, I’m a 54&#8212;year old performance artist who plays someone who sells fruit and vegetables.]]></en>
+              <de><![CDATA[Nein. Ich bin eine 54-jährige Performancekünstlerin, die jemanden spielt, der Obst und Gemüse verkauft.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/square_voice.swf:square0082">
+              <en><![CDATA[Really?]]></en>
+              <de><![CDATA[Wirklich?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0083">
+              <en><![CDATA[No. I’m a 54&#8212;year old performance artist who’s career took a downturn 35 years ago and who now earns her money selling fruits and vegetables.]]></en>
+              <de><![CDATA[Nein. Ich bin eine 54-jährige Performancekünstlerin, deren Karriereknick seit 35 Jahren andauert und die jetzt ihr Geld mit dem Verkauf von Obst und Gemüse verdient.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0084">
+              <en><![CDATA[Okay, well either way&#8212;you are quite convincing in your role.]]></en>
+              <de><![CDATA[Ok, in beiden Fällen sind sie ziemlich überzeugend in Ihrer Rolle.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0085">
+              <en><![CDATA[Thank you, my boy.]]></en>
+              <de><![CDATA[Danke, mein Junge.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0086">
+              <en><![CDATA[And how is business?]]></en>
+              <de><![CDATA[Und wie läuft das Geschäft so?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0087">
+              <en><![CDATA[Well ever since Cain and the Baron turned Ravenhollow upside down, most of my customers prefer to stay at home ... so business is NOT good.]]></en>
+              <de><![CDATA[Naja, seit Ravenhollow von Cain und dem Baron umgekrempelt wurde, bleiben die meisten meiner Kunden lieber zuhause ... nein, das Geschäft läuft NICHT gut.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t2" id="cecily1" enabled="1" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[About your daughter ...]]></en>
+            <de><![CDATA[Wegen Ihrer Tochter ...]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0088">
+              <en><![CDATA[About your daughter ...]]></en>
+              <de><![CDATA[Wegen Ihrer Tochter ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0089">
+              <en><![CDATA[Isn’t she lovely? ]]></en>
+              <de><![CDATA[Ist sie nicht entzückend?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0090">
+              <en><![CDATA[Unfortunately our Cecily has already given her heart away to her childhood friend Stig Sigmundson.]]></en>
+              <de><![CDATA[Leider hat unsere Cecily ihr Herz schon an ihren Jugendfreund, Stig Sigmundson, vergeben.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0091">
+              <en><![CDATA[In the last days she’s been a little absent minded ... I wonder why. ]]></en>
+              <de><![CDATA[In den letzten Tagen war sie etwas geistesabwesend ... Ich frage mich, warum.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0092">
+              <en><![CDATA[Love has always been a mystery to me ...]]></en>
+              <de><![CDATA[Die Liebe war mir immer ein Rätsel ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0093">
+              <en><![CDATA[And that won’t change even as time goes by. Believe me.]]></en>
+              <de><![CDATA[Und das ändert sich auch später nicht. Glauben Sie mir.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0094">
+              <en><![CDATA[Unfortunately Cecily doesn’t like to talk about her feelings with her mother. These things are too precious to be talked about when you are young, I suppose.]]></en>
+              <de><![CDATA[Leider spricht Cecily nicht gerne mit ihrer Mutter über ihre Gefühle. Wenn man jung ist, sind diese Dinge wohl zu wertvoll, um darüber zu sprechen.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0095">
+              <en><![CDATA[I wish I could be young again. I’d surely put an eye on you ...]]></en>
+              <de><![CDATA[Ich wünschte, ich könnte nochmal jung sein. Dann würde ich sicherlich ein Auge auf Sie werfen ...]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/square_voice.swf:square0096">
+              <en><![CDATA[Erm ... That’s very kind of you to say ...]]></en>
+              <de><![CDATA[Ähem ... Sehr nett, dass Sie das sagen ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0097">
+              <en><![CDATA[You surely have your own affairs d’amour, don’t you?]]></en>
+              <de><![CDATA[Sicher haben Sie eigene Liebschaften, oder?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0098">
+              <en><![CDATA[Well, there was this girl in the boathouse who took something important from me and simply left me behind ...]]></en>
+              <de><![CDATA[Also, da war dieses Mädchen im Bootshaus, das mir etwas Wichtiges weggenommen hat und mich dann einfach alleine zurückließ ...]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0099">
+              <en><![CDATA[... erm.]]></en>
+              <de><![CDATA[... ähm.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0100">
+              <en><![CDATA[Maybe we can discuss this another time.]]></en>
+              <de><![CDATA[Vielleicht können wir ein andermal darüber reden.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0101">
+              <en><![CDATA[Men.]]></en>
+              <de><![CDATA[Männer.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0102">
+              <en><![CDATA[Anyway, the fact that Cecily sits around in the backyard of my brother’s antique shop all night tells me that her heart is restless.]]></en>
+              <de><![CDATA[Jedenfalls sagt mir die Tatsache, dass Cecily die ganze Nacht im Hinterhof des Antiquitätenladens meines Bruders herumsitzt, dass ihr Herz rastlos ist.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0103">
+              <en><![CDATA[I surely hope that Stig treats her right ... otherwise ...]]></en>
+              <de><![CDATA[Ich hoffe sehr, dass Stig sie anständig behandelt ... sonst ...]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t3" id="cecily2" enabled="0" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[About Cecily ...]]></en>
+            <de><![CDATA[Wegen Cecily ...]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0104">
+              <en><![CDATA[About Cecily ...]]></en>
+              <de><![CDATA[Wegen Cecily ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0105">
+              <en><![CDATA[Oh, my dear Cecily will marry! Her Stig proposed to her and she said yes! Isn’t that lovely!]]></en>
+              <de><![CDATA[Oh, meine liebe Cecily wird heiraten! Ihr Stig hat ihr einen Antrag gemacht und sie hat ja gesagt! Ist das nicht wunderbar!]]></de>
+            </dia>
+            <dia puppet="cecily" frame="" sound="voice/square_voice.swf:square0106">
+              <en><![CDATA[Ma! I told you ...]]></en>
+              <de><![CDATA[Mama! Ich hab dir doch gesagt ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0107">
+              <en><![CDATA[She doesn’t like it if I talk about these things behind her back. But I’m so happy! ]]></en>
+              <de><![CDATA[Sie mag es nicht, wenn ich hinter ihrem Rücken über so etwas rede. Aber ich bin so glücklich!]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="hspeak" sound="voice/square_voice.swf:square0108">
+              <en><![CDATA[Stig and Cecily will marry, isn’t it wonderful! Oh, my little girl grew up so fast ...]]></en>
+              <de><![CDATA[Stig und Cecily heiraten, ist das nicht wundervoll? Oh, mein kleines Mädchen ist so schnell erwachsen geworden ...]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t4" id="products1" enabled="1" hold="0" expose="products2,help,boots" go="0">
+          <title>
+            <en><![CDATA[Your sign says &#8222;Fruits and Vegetables&#8220;, but I only see potatoes. Why?]]></en>
+            <de><![CDATA[Auf Ihrem Schild steht &#8222;Obst und Gemüse&#8220;, aber ich sehe nur Kartoffeln. Warum?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0109">
+              <en><![CDATA[Your sign says &#8222;Fruits and Vegetables&#8220;, but I only see potatoes. Why?]]></en>
+              <de><![CDATA[Auf Ihrem Schild steht &#8222;Obst und Gemüse&#8220;, aber ich sehe nur Kartoffeln. Warum?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0110">
+              <en><![CDATA[As I suspected, you aren’t from around here. ]]></en>
+              <de><![CDATA[Ich dachte mir schon, dass Sie nicht von hier sind.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0111">
+              <en><![CDATA[We are running short on everything ... the trade with the outside world has almost come to a complete halt after the Castle took over.]]></en>
+              <de><![CDATA[Bei uns werden alle Waren knapp ... Der Handel mit der Außenwelt ist fast völlig zum Erliegen gekommen, seit das Schloss die Macht übernommen hat.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0112">
+              <en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en>
+              <de><![CDATA[Sogar Fisch ist Mangelware, seit das Schloss angefangen hat, den Tagesfang zu beschlagnahmen.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0113">
+              <en><![CDATA[Cecily still goes down to the harbor each day but there isn’t anything left to buy.]]></en>
+              <de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es gibt nichts mehr zu kaufen.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0114">
+              <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that. These days I make my famous fish stew and we invite him and his father over for dinner.]]></en>
+              <de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht. An diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0115">
+              <en><![CDATA[Is there anything I can do to help?]]></en>
+              <de><![CDATA[Kann ich irgendwie helfen?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0116">
+              <en><![CDATA[Do you know how to fish?]]></en>
+              <de><![CDATA[Können Sie angeln?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0117">
+              <en><![CDATA[Well ... a bit, I presume.]]></en>
+              <de><![CDATA[Naja ... einigermaßen, glaube ich.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0118">
+              <en><![CDATA[If you can catch a Red Snapper for me, I will give you a reward!]]></en>
+              <de><![CDATA[Wenn Sie einen roten Schnapperfisch für mich fangen, gebe ich Ihnen eine Belohnung!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0119">
+              <en><![CDATA[A red snapper ... that shouldn’t be a problem!]]></en>
+              <de><![CDATA[Ein Schnapperfisch ... das sollte kein Problem sein!]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0120">
+              <en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught ...]]></en>
+              <de><![CDATA[Die letzten drei Fischer, die das zu mir sagten, brachten alle bloß alte Stiefel zurück, die sie gefangen hatten ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0121">
+              <en><![CDATA[I guess there still must be hundreds of boots out there after the trading ship of &#8222;Shuster & Shuster Shoes&#8220; sunk in the bay twenty years ago.]]></en>
+              <de><![CDATA[Ich schätze, da draußen müssen noch hunderte von Stiefeln herumtreiben, nachdem das Handelsschiff von &#8222;Shuster & Shuster Shoes&#8220; vor zwanzig Jahren in der Bucht gesunken ist.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t5" id="products2" enabled="0" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[Again, why do you have only potatoes to sell?]]></en>
+            <de><![CDATA[Warum haben Sie nochmal nur Kartoffeln zu verkaufen?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0122">
+              <en><![CDATA[Again, why do you have only potatoes to sell?]]></en>
+              <de><![CDATA[Warum haben Sie nochmal nur Kartoffeln zu verkaufen?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0123">
+              <en><![CDATA[As I suspected, you aren’t from around here. ]]></en>
+              <de><![CDATA[Ich dachte mir schon, dass Sie nicht von hier sind.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square_voice.swf:square0124">
+              <en><![CDATA[We are running short on everything ... the trade with the outside world has almost come to a complete halt after the Castle took over.]]></en>
+              <de><![CDATA[Bei uns werden alle Waren knapp ... der Handel mit der Außenwelt ist fast völlig zum Erliegen gekommen, nachdem das Schloss die Macht übernommen hat.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0125">
+              <en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en>
+              <de><![CDATA[Sogar Fisch ist Mangelware, seit das Schloss angefangen hat, den Tagesfang zu beschlagnahmen.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0126">
+              <en><![CDATA[Cecily still goes down to the harbor each day, though there’s never anything left to buy.]]></en>
+              <de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es ist nie etwas zu kaufen da.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0127">
+              <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that – on those days I make my famous fish stew and we invite him and his father over for dinner.]]></en>
+              <de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht – an diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t6" id="help" enabled="0" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[How can I help you again?]]></en>
+            <de><![CDATA[Wie kann ich Ihnen nochmal helfen?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0128">
+              <en><![CDATA[How can I help you again?]]></en>
+              <de><![CDATA[Wie kann ich Ihnen nochmal helfen?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0129">
+              <en><![CDATA[If you can catch a Red Snapper for me, I will give you a reward!]]></en>
+              <de><![CDATA[Wenn Sie einen roten Schnapperfisch für mich fangen, gebe ich Ihnen eine Belohnung!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0130">
+              <en><![CDATA[A red snapper ... that shouldn’t be a problem!]]></en>
+              <de><![CDATA[Ein Schnapperfisch ... das sollte kein Problem sein!]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0131">
+              <en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught ...]]></en>
+              <de><![CDATA[Die letzten drei Fischer, die das zu mir sagten, brachten alle bloß alte Stiefel zurück, die sie gefangen hatten ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0132">
+              <en><![CDATA[I guess after the trading ship of &#8222;Shuster & Shuster Shoes&#8220; sunk in the Ravenhollow Bay fifty years ago there must still be hundreds of boots out there.]]></en>
+              <de><![CDATA[Ich schätze, nachdem das Handelsschiff von &#8222;Shuster & Shuster Shoes&#8220; vor zwanzig Jahren in der Bucht von Ravenhollow gesunken ist, müssen da draußen noch hunderte von Stiefeln herumtreiben.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t8" id="boots" enabled="0" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[What did you say about a ship full of boots sinking in the bay?]]></en>
+            <de><![CDATA[Wie war das mit dem Schiff voller Stiefel, das in der Bucht gesunken ist?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0133">
+              <en><![CDATA[What did you say about a ship full of boots sinking in the bay?]]></en>
+              <de><![CDATA[Wie war das mit dem Schiff voller Stiefel, das in der Bucht gesunken ist?]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0134">
+              <en><![CDATA[Ah yes, that was a trading vessel for The Shuster & Shuster Shoe Company called &#8222;Zapito&#8220;.]]></en>
+              <de><![CDATA[Ah, ja, das war ein Handelsschiff der Shuster & Shuster Shoe Company namens &#8222;Zapito&#8220;.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0135">
+              <en><![CDATA[She and her cargo of boots foundered on an unmarked shoal in Ravenhollow bay about twenty years ago.]]></en>
+              <de><![CDATA[Das Schiff ist vor etwa zwanzig Jahren mit seiner Ladung an einer unmarkierten Untiefe gesunken.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0136">
+              <en><![CDATA[How horrible! Think of all the honest, hard&#8212;working souls who were denied quality footware as a result of the incident.]]></en>
+              <de><![CDATA[Wie entsetzlich! Denken Sie an all die ehrlichen, hart arbeitenden Seelen, denen als Folge des Zwischenfalls Qualitätsschuhe vorenthalten blieben.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0137">
+              <en><![CDATA[Yes, but at least it’s given Ravenhollow an economic boost over the years ...]]></en>
+              <de><![CDATA[Ja, aber wenigstens hat es Ravenhollow über die Jahre zu einem wirtschaftlichen Boom verholfen ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0138">
+              <en><![CDATA[While no one wants to buy the water&#8212;logged boots that keep washing ashore, a market has sprung up for shoelaces and scrap leather.]]></en>
+              <de><![CDATA[Obwohl niemand die aufgeweichten Stiefel kaufen will, die immer noch angespült werden, ist ein Markt für Schnürsenkel und Lederreste entstanden.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0139">
+              <en><![CDATA[What an odd tale ... It almost inspires me to give up my life pursuits and seek riches in buried footwear.]]></en>
+              <de><![CDATA[Was für eine seltsame Geschichte ... Ich fühle mich fast inspiriert, meine Lebensziele aufzugeben und in der Branche versunkenen Schuhwerks mein Glück zu suchen.]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0140">
+              <en><![CDATA[Well keep your eyes open, handsome ... I’m sure you can still find at least one of those old boots lying around.]]></en>
+              <de><![CDATA[Halten Sie die Augen offen, mein Hübscher ... Ich bin sicher, Sie finden zumindest einen dieser alten Stiefel irgendwo herumliegen.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t1" id="_1" enabled="1" hold="1" expose="" go="-2">
+          <title>
+            <en><![CDATA[Well, I have to go ...]]></en>
+            <de><![CDATA[Also, ich muss los ...]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0141">
+              <en><![CDATA[Well, I have to go ...]]></en>
+              <de><![CDATA[Also, ich muss los ...]]></de>
+            </dia>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0142">
+              <en><![CDATA[Come again!]]></en>
+              <de><![CDATA[Beehren Sie uns wieder!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+            <layerState target="_current:MB_Caro:main" restState="rest" />
+          </script>
+        </topic>
+      </tier>
+    </tree>
+  </trees>
+</room>

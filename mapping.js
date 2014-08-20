@@ -26,6 +26,45 @@ module.exports.actors = {
   'narrative': 'nathan'
 };
 
+module.exports.subtitles = {
+  'amayi': '0xCCCCCC',
+  'bill': '0x99CCCC',
+  'cain': '0xFFCC33',
+  'caro': '0xFFCC99',
+  'cecily': '0xCCFFCC',
+  'coppelius': '0xCCCCCC',
+  'ed': '0x99CCCC',
+  'eve': '0xFFCCCC',
+  'faker': '0xFFFF99',
+  'forkbeard': '0x99CCFF',
+  'greg': '0x99CCFF',
+  'holdup': '0xFFFF99',
+  'juego': '0xFFCC66',
+  'kid1': '0xCCFFCC',
+  'kid2': '0x99CCFF',
+  'kid3': '0xFFCCCC',
+  'lars': '0x99CCCC',
+  'lionstone': '0xFFCC99',
+  'manbreaker': '0xFFFF99',
+  'mandelbaum': '0xD699AD',
+  'matt': '0xFF6666',
+  'mcmanus': '0x99CCCC',
+  'mrs_caro': '0xFFCC33',
+  'narrator': '0xFFFFFF',
+  'nathan': '0xFFEEDD',
+  'nigel': '0xCCCCFF',
+  'nora': '0xFFFF99',
+  'rat': '0xFFFF99',
+  'shroom': '0xFFEEDD',
+  'slappy': '0xFFCC99',
+  'smith': '0xCCCCCC',
+  'stig': '0xFFCC99',
+  'trelawney': '0x99CCFF',
+  'vincent': '0xAAFFAA',
+  'wavetamer': '0x99CCCC',
+  'webb': '0x99CCFF'
+};
+
 module.exports.sceneIds = {
   'docks_intro': 'docks',
   'harbor_intro': 'harbor',

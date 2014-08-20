@@ -1,1 +1,1694 @@
-<room id="docks_intro" coreLibs="lib/docks.swf,lib/harbor_fx.swf,lib/cain.swf,lib/castle_manbreaker.swf,lib/coppelius.swf,lib/mcmanus.swf,lib/shroom.swf,lib/music_castle.swf" voiceLibs="voice/docks_intro_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="lib/harbor_fx.swf:HarborDayFx"><grids><grid id="main"><boxes><box x="410" y="1143" w="166" h="68" nodes="n10,n23"/><box x="117" y="888" w="161" h="17" nodes="n22,n30"/><box x="51" y="1029" w="173" h="49" nodes="n4,n6,n24"/><box x="139" y="1067" w="281" h="263" nodes="n6,n7,n10,n23,n24,n27,n28,n29"/><box x="122" y="896" w="45" h="48" nodes="n30"/><box x="216" y="889" w="58" h="189" nodes="n7,n9,n25,n31"/></boxes><nodes><node id="n4" x="215" y="1033" join="n9,n7,n6,n24" trap="0"/><node id="n5" x="395" y="878" join="n18,n8,n19" trap="1"/><node id="n6" x="215" y="1075" join="n4,n24,n7,n10,n23,n27,n28,n29" trap="0"/><node id="n7" x="265" y="1075" join="n4,n25,n6,n10,n23,n24,n27,n28,n29,n9,n31" trap="0"/><node id="n8" x="350" y="895" join="n9,n22,n5" trap="1"/><node id="n9" x="265" y="938" join="n8,n22,n4,n25,n7,n31" trap="0"/><node id="n10" x="415" y="1150" join="n23,n6,n7,n24,n27,n28,n29" trap="0"/><node id="n14" x="356" y="818" join="n19,n33" trap="0" name="join_harbor"/><node id="n16" x="489" y="838" join="n18" trap="0" name="join_boathouse"/><node id="n18" x="454" y="854" join="n16,n5,n19" trap="1" name="barrel"/><node id="n19" x="405" y="840" join="n14,n18,n5" trap="1" name="poster"/><node id="n22" x="274" y="896" join="n9,n8,n30" trap="1"/><node id="n23" x="415" y="1205" join="n10,n6,n7,n24,n27,n28,n29" trap="0"/><node id="n24" x="152" y="1074" join="n4,n6,n7,n10,n23,n27,n28,n29" trap="0"/><node id="n25" x="261" y="987" join="n7,n9,n31" trap="0" name="crates"/><node id="n27" x="154" y="1204" join="n6,n7,n10,n23,n24,n28,n29" trap="0" name="cain_stop"/><node id="n28" x="225" y="1188" join="n6,n7,n10,n23,n24,n27,n29" trap="0" name="manbreaker_stop"/><node id="n29" x="295" y="1203" join="n6,n7,n10,n23,n24,n27,n28" trap="0" name="nigel_stop"/><node id="n30" x="139" y="901" join="n22" trap="0"/><node id="n31" x="218" y="987" join="n7,n9,n25" trap="0" name="nathan_stop1"/><node id="n33" x="309" y="802" join="n14" trap="0" name="exit"/></nodes></grid></grids><positions><position id="join_harbor" turn="4" x="356" y="818"/><position id="join_boathouse" turn="4" x="489" y="838"/><position id="barrel" turn="4" x="454" y="854"/><position id="poster" turn="4" x="405" y="840"/><position id="crates" turn="4" x="261" y="987"/><position id="cain_stop" turn="4" x="154" y="1204"/><position id="manbreaker_stop" turn="4" x="225" y="1188"/><position id="nigel_stop" turn="4" x="295" y="1203"/><position id="nathan_stop1" turn="4" x="218" y="987"/><position id="exit" turn="4" x="309" y="802"/></positions><filters><filter id="baseScale" axis="y" enabled="1"><pole x="364" y="841" scale="0.19" rate="0.2" blur="1" color="0x000000" tint="0.5"/><pole x="363" y="1322" scale="0.8" rate="0.15" blur="5" color="0xFFFFFF" tint="0.5"/></filter><filter id="cainscale" axis="y" enabled="1"><pole x="368" y="817" scale="0.22" rate="0.13" blur="1" color="0x000000" tint="0.5"/><pole x="368" y="1200" scale="0.93" rate="0.13" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters><scripts><script id="_enter"><method call="controls" enabled="0"/><ui load="ui_photo" display="hide" tween="0"/><curtain blackout="0" waitForComplete="1"/><puppet target="coppelius" callAction="0"/></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><ui unload="ui_photo"/><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="lib/docks.swf:DocksBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="1416" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="450" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="water" type="plane" asset="lib/docks.swf:DocksWater" depth="1" visible="1" state="main"><states><state id="main" x="403" y="829" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="boathouse_door" type="puppet" asset="lib/docks.swf:DocksBoathouseDoor" depth="2" visible="1" state="closed"><states><state id="closed" x="516" y="825" img="1" imgX="-16" imgY="-94" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-22" hitY="-100" hitW="60" hitH="106" shape="rect"><param mapX="489" mapY="838" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="slingshot" type="plane" asset="lib/docks.swf:DocksSlingshot" depth="3" visible="0" state="main"><states><state id="main" x="516" y="775" img="1" imgX="-17" imgY="-31" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="boat" type="puppet" asset="lib/docks.swf:DocksBoat" depth="4" visible="1" state="main"><states><state id="main" x="439" y="922" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="580" hitH="250" shape="rect"><param mapX="542" mapY="1164" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[boat]]></en><de><![CDATA[Boot]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="windmill" type="plane" asset="lib/docks.swf:DocksWindmill" depth="5" visible="1" state="main"><states><state id="main" x="610" y="403" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="lighthouse_door" type="puppet" asset="lib/docks.swf:DocksLighthouseDoor" depth="6" visible="1" state="main"><states><state id="main" x="250" y="870" img="1" imgX="-26" imgY="-113" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-26" hitY="-113" hitW="48" hitH="126" shape="rect"><param mapX="268" mapY="890" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[lighthouse door]]></en><de><![CDATA[Leuchtturmtür]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0000"><en><![CDATA[This door leads into the lighthouse.]]></en><de><![CDATA[Diese Tür führt in den Leuchtturm.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0001"><en><![CDATA[Is anyone in there?]]></en><de><![CDATA[Ist jemand hier drin?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0002"><en><![CDATA[Hello?]]></en><de><![CDATA[Hallo?]]></de></dia><dia puppet="_avatar" frame="lspeak5" sound="voice/docks_intro_voice.swf:docks_intro0003"><en><![CDATA[I don’t think there’s anyone inside the lighthouse.]]></en><de><![CDATA[Ich glaube nicht, dass im Leuchtturm jemand ist.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Open]]></en><de><![CDATA[Öffne]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0004"><en><![CDATA[The lighthouse door is locked. What a surprise.]]></en><de><![CDATA[Die Tür zum Leuchtturm ist verschlossen. Wie überraschend.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="boat_patch" type="puppet" asset="lib/docks.swf:DocksBoatPatch" depth="7" visible="1" state="main"><states><state id="main" x="109" y="963" img="1" imgX="-19" imgY="-112" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-20" hitY="-117" hitW="40" hitH="50" shape="rect"><param mapX="131" mapY="936" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[boat patch]]></en><de><![CDATA[Bootsflicken]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0005"><en><![CDATA[It seems the boat had been patched already before it was finally damaged like this.]]></en><de><![CDATA[Sieht so aus, als wäre das Boot schon einmal geflickt worden, bevor es so beschädigt wurde.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0006"><en><![CDATA[Let’s see if I can break this patch loose ...]]></en><de><![CDATA[Mal sehen, ob ich diesen Flicken abkriege ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0007"><en><![CDATA[Well, that was easier than I expected.]]></en><de><![CDATA[Na, das war einfacher als erwartet.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="table" type="plane" asset="lib/docks.swf:DocksTable" depth="8" visible="1" state="main"><states><state id="main" x="110" y="1113" img="1" imgX="-110" imgY="-225" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="tar_bucket" type="puppet" asset="lib/docks.swf:DocksTarBucket" depth="9" visible="1" state="main"><states><state id="main" x="80" y="1124" img="1" imgX="-25" imgY="-97" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-26" hitY="-97" hitW="70" hitH="101" shape="rect"><param mapX="132" mapY="1097" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[bucket o’ tar]]></en><de><![CDATA[Eimer mit Teer]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0008"><en><![CDATA[It’s a bucket filled with thick, sticky tar.]]></en><de><![CDATA[Es ist ein Eimer, der mit dickem, klebrigem Teer gefüllt ist.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0009"><en><![CDATA[A bucket o’ tar might come in handy.]]></en><de><![CDATA[Ein Eimer mit Teer könnte nützlich sein.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="arch" type="puppet" asset="lib/docks.swf:DocksArch" depth="10" visible="1" state="main"><states><state id="main" x="355" y="846" img="1" imgX="-85" imgY="-214" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-30" hitY="-124" hitW="89" hitH="115" shape="rect"><param mapX="315" mapY="815" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="1" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="harbor:join_docks"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="crates" type="puppet" asset="lib/docks.swf:DocksCrate" depth="11" visible="1" state="main"><states><state id="main" x="299" y="1005" img="1" imgX="-16" imgY="-164" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-3" hitY="-104" hitW="104" hitH="152" shape="rect"><param mapX="261" mapY="987" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[crates]]></en><de><![CDATA[Kisten]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0010"><en><![CDATA[The crates smell of rotting wood and salt water. They are filled with wet fishing nets.]]></en><de><![CDATA[Die Kisten riechen nach verfaultem Holz und Salzwasser. Sie sind voll mit nassen Fischernetzen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Taste]]></en><de><![CDATA[Probiere]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0011"><en><![CDATA[No thanks. If the contents of these crates taste half as disgusting as they smell, I’ll gladly pass.]]></en><de><![CDATA[Nein danke. Wenn der Inhalt dieser Kisten nur halb so scheußlich schmeckt wie er riecht, verzichte ich gerne.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take nets from]]></en><de><![CDATA[Nimm Netze aus]]></de></title><dialog><dia puppet="_avatar" frame="lspeak4" sound="voice/docks_intro_voice.swf:docks_intro0012"><en><![CDATA[The fishing nets are damp and smelly and all in knots ...]]></en><de><![CDATA[Die Fischernetze sind feucht und stinken und sind völlig verheddert ...]]></de></dia><dia puppet="_avatar" frame="lspeak4" sound="voice/docks_intro_voice.swf:docks_intro0013"><en><![CDATA[...  they are useless and offensive to the senses, if you ask me.]]></en><de><![CDATA[... Meiner Meinung nach sind sie sind nutzlos und eine Beleidigung für die Sinne.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="nathan" type="puppet" asset="lib/nathan.swf:nathan" depth="12" visible="1" state="main"><states><state id="main" x="283" y="1190" img="1" imgX="0" imgY="0" imgW="0.99" imgH="0.99" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-63" hitY="-447" hitW="116" hitH="480" shape="rect"><param mapX="298" mapY="1198" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="baseScale" color="" rate="" blur=""/><vars/><title><en><![CDATA[nathan]]></en><de><![CDATA[Nathan]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="mcmanus" type="puppet" asset="lib/mcmanus.swf:McManus" depth="13" visible="1" state="main"><states><state id="main" x="350" y="875" img="1" imgX="-6" imgY="-7" imgW="1" imgH="1" frame="4" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-126" hitY="-5" hitW="101" hitH="322" shape="rect"><param mapX="512" mapY="922" cursor="" onclick="-1" prefix="normal_" subtitle="0x99CCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[mcmanus]]></en><de><![CDATA[McManus]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state><state id="turned" x="486" y="873" img="1" imgX="-6" imgY="-7" imgW="-1" imgH="1" frame="8" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-126" hitY="-5" hitW="101" hitH="322" shape="rect"><param mapX="512" mapY="922" cursor="" onclick="-1" prefix="" subtitle="0x99CCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[mcmanus]]></en><de><![CDATA[McManus]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="shroom" type="puppet" asset="lib/shroom.swf:Shroom" depth="14" visible="1" state="main"><states><state id="main" x="376" y="1040" img="1" imgX="0" imgY="0" imgW="1.18" imgH="1.18" frame="4" blend="normal" alpha="1" bitmap="0" hit="0" hitX="61" hitY="25" hitW="100" hitH="100" shape="rect"><param mapX="409" mapY="1211" cursor="" onclick="-1" prefix="tag_" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[shroom]]></en><de><![CDATA[Shroom]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="coppelius" type="puppet" asset="lib/coppelius.swf:coppelius" depth="15" visible="1" state="main"><states><state id="main" x="563" y="1195" img="1" imgX="1" imgY="1" imgW="-1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-47" hitY="-255" hitW="101" hitH="274" shape="rect"><param mapX="260" mapY="986" cursor="" onclick="-1" prefix="" subtitle="0xCCCCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0014"><en><![CDATA[Mh. Maybe the guys over there can help me to find the lawyer who sent me the will.]]></en><de><![CDATA[Hm. Vielleicht können mir die Jungs da drüben helfen, den Rechtsanwalt zu finden, der mir das Testament geschickt hat.]]></de></dia><dia puppet="nathan" frame="speak4" sound="voice/docks_intro_voice.swf:docks_intro0015"><en><![CDATA[Vincent left the boat here. It’s possible that someone around here has seen him or Nora.]]></en><de><![CDATA[Vincent hat das Boot hiergelassen. Es ist möglich, dass er oder Nora von jemandem hier gesehen wurde.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0016"><en><![CDATA[Time is running out, we have to find him.]]></en><de><![CDATA[Die Zeit wird knapp, wir müssen die beiden finden.]]></de></dia><dia puppet="nathan" frame="speak4" sound="voice/docks_intro_voice.swf:docks_intro0017"><en><![CDATA[I’ll have a look around the village.]]></en><de><![CDATA[Ich sehe mich im Dorf um.]]></de></dia><dia puppet="nathan" frame="speak5" sound="voice/docks_intro_voice.swf:docks_intro0018"><en><![CDATA[I wonder what new adventures lie ahead.]]></en><de><![CDATA[Was mich wohl für neue Abenteuer erwarten?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0019"><en><![CDATA[Nathan, if you’re serious about finding Nora then you’d better stop talking to yourself and get going.]]></en><de><![CDATA[Nathan, wenn Sie Nora ernsthaft finden wollen, hören Sie besser damit auf, Selbstgespräche zu führen und legen Sie los.]]></de></dia><dia puppet="nathan" frame="speak4" sound="voice/docks_intro_voice.swf:docks_intro0020"><en><![CDATA[Hello there.]]></en><de><![CDATA[Guten Tag!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0021"><en><![CDATA[How do you do.]]></en><de><![CDATA[Oh, Guten Tag.]]></de></dia><dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0022"><en><![CDATA[Your friend Vincent surely was done with me ship. He messed up the motor before he left her here.]]></en><de><![CDATA[Ihr Freund Vincent hatte wohl keine Verwendung mehr für mein Schiff. Er hat den Motor lahmgelegt, bevor er sich aus dem Staub gemacht hat.]]></de></dia><dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0023"><en><![CDATA[I fear we won’t be going out to sea again too soon, Shroom, old boy.]]></en><de><![CDATA[Ich fürchte, wir fahren so schnell nicht mehr auf See raus, Shroom, alter Junge.]]></de></dia><dia puppet="shroom" frame="bark" sound="voice/docks_intro_voice.swf:docks_intro0024"><en><![CDATA[Bark!]]></en><de><![CDATA[Wuff!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0025"><en><![CDATA[Excuse me ...]]></en><de><![CDATA[Entschuldigung ...]]></de></dia><dia puppet="coppelius" frame="speak_cane" sound="voice/docks_intro_voice.swf:docks_intro0026"><en><![CDATA[Young man, since you seem to be idle enough to overhear our conversation, maybe you can be so kind as to point us to a policeman or any other local law-defending authority?]]></en><de><![CDATA[Junger Mann, da Sie offensichtlich die Zeit haben, unserer Konversation zu lauschen, könnten Sie uns freundlicherweise den Weg weisen zu einem Polizisten oder einem anderweitig verantworlichen Gesetzeshüter?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0027"><en><![CDATA[Sorry. I’m not from Ravenhollow.]]></en><de><![CDATA[Tut mir leid. Ich bin nicht aus Ravenhollow.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0028"><en><![CDATA[Excuse me, maybe I’m making a mistake here, but ...]]></en><de><![CDATA[Entschuldigung, vielleicht irre ich mich ja, aber ...]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0029"><en><![CDATA[Yes, young man? What is the matter?]]></en><de><![CDATA[Ja, junger Mann? Raus mit der Sprache.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0030"><en><![CDATA[I just recognized you ... from this photograph.]]></en><de><![CDATA[Das sind doch Sie auf diesem Foto, oder?.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0031"><en><![CDATA[That’s you standing in front of my father, Dr. Trelawney, isn’t it?]]></en><de><![CDATA[Sie sind der Mann, der vor meinem Vater, Dr. Trelawney, steht, nicht wahr?]]></de></dia><dia puppet="coppelius" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0032"><en><![CDATA[Well I’ll be! I recognize that photograph, I have one just like it.]]></en><de><![CDATA[Na, so etwas! Ich kenne das Foto, ich besitze selbst eine Kopie davon.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0033"><en><![CDATA[Indeed. Dr. Trelawney and I were both working at the Smith Institute here in Ravenhollow. If I remember correctly Anthony Trelawney’s wife left him with their son more than ... ]]></en><de><![CDATA[In der Tat. Dr. Trelawney und ich haben beide am Smith-Institut hier in Ravenhollow gearbeitet. Wenn ich mich recht erinnere, verließ Anthony Trelawneys Frau ihn mit ihrem Sohn vor mehr als ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0034"><en><![CDATA[... twenty years ago, yes. And since then I haven’t heard a word from father. My name is Nigel Trelawney. What a coincidence to meet you here.]]></en><de><![CDATA[... zwanzig Jahren, ja. Und seit damals habe ich kein Wort von meinem Vater gehört. Mein Name ist Nigel Trelawney. Was für ein Zufall, dass ich Sie hier treffe.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0035"><en><![CDATA[Coppelius, Dr. William Coppelius.]]></en><de><![CDATA[Coppelius, Dr. William Coppelius.]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0036"><en><![CDATA[There are no coincidences involved I fear.]]></en><de><![CDATA[Und ich fürchte mit Zufall hat das keineswegs zu tun.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0037"><en><![CDATA[This is Mr. McManus.  The naive-looking young man who just walked off was my assistant Nathan.]]></en><de><![CDATA[Das ist Herr McManus.  Der naiv aussehende junge Mann, der gerade weggegangen ist, war mein Assistent Nathan.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0038"><en><![CDATA[Excuse me if I’m being forward, but what are you doing in Ravenhollow, Mr. Trelawney? Have you come to see your father?]]></en><de><![CDATA[Entschuldigen Sie die Neugier, aber was machen Sie in Ravenhollow, Herr Trelawney? Wollen Sie Ihren Vater besuchen?]]></de></dia><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0039"><en><![CDATA[I fear it’s too late for that, Dr. Coppelius. My father died ten months ago. I have come to settle my father’s estate.]]></en><de><![CDATA[Ich fürchte, dafür ist es zu spät, Dr. Coppelius. Mein Vater ist vor zehn Monaten gestorben. Ich bin hier, um den Nachlass meines Vaters zu regeln.]]></de></dia></dialog><script><sequence skip="1"><dialogue playList="0,1,2,3"/><layerState target="_current:nathan:main" turnView="5"/><dialogue playList="4"/><layerState target="_current:nathan:main" turnView="4"/><dialogue playList="5"/><puppetTween target="nathan" type="move" to="position:nathan_stop1" waitForComplete="1"/><layerState target="_current:nathan:main" turnView="4"/><layerState target="_current:_avatar:main" turnView="6"/><wait seconds="1"/><dialogue playList="6,7"/><process><puppetTween target="nathan" type="move" to="position:exit" waitForComplete="1"/><layerSprite target="_current:nathan" visible="0"/></process><wait seconds="1.5"/><dialogue playList="8,9"/><sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0"/><dialogue playList="10"/><puppetTween target="_avatar" type="moveThenTurn" to="position:nigel_stop" toView="4" waitForComplete="1"/><dialogue playList="11,12,13,14,15,16,17"/><ui target="ui_photo" display="show"/><wait seconds="2"/><dialogue playList="18"/><ui target="ui_photo" display="hide"/><wait seconds="2"/><dialogue playList="19,20,21,22,23,24,25,26"/></sequence><tree load="intro"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="cain" type="puppet" asset="lib/cain.swf:LowellCain" depth="16" visible="1" state="main"><states><state id="main" x="321" y="816" img="1" imgX="-6" imgY="-7" imgW="0.74" imgH="0.74" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-46" hitY="-151" hitW="100" hitH="100" shape="rect"><param mapX="324" mapY="1188" cursor="" onclick="-1" prefix="" subtitle="0xFFCC33" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="cainscale" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="manbreaker" type="puppet" asset="lib/castle_manbreaker.swf:manbreaker" depth="17" visible="1" state="main"><states><state id="main" x="297" y="822" img="1" imgX="0" imgY="0" imgW="0.74" imgH="0.74" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-46" hitY="-151" hitW="100" hitH="100" shape="rect"><param mapX="512" mapY="894" cursor="" onclick="-1" prefix="" subtitle="0xFFFF99" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="cainscale" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="18" visible="1" state="main"><states><state id="main" x="367" y="1192" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="baseScale" color="" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="starfish" type="plane" asset="lib/docks.swf:DocksFg" depth="19" visible="1" state="main"><states><state id="main" x="0" y="1330" img="1" imgX="0" imgY="-95" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer></layers><trees><tree id="intro"><tier key="r" id=""><topic key="t0" id="who" enabled="1" hold="0" expose="" go="0"><title><en><![CDATA[Sorry, but who are you again?]]></en><de><![CDATA[Entschuldigung, wer sind Sie nochmal?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0040"><en><![CDATA[Sorry, but who are you again?]]></en><de><![CDATA[Entschuldigung, wer sind Sie nochmal?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0041"><en><![CDATA[Coppelius, Dr. William Coppelius. I’m traveling with my companions, Nathan and Mr. MacManus.]]></en><de><![CDATA[Coppelius, Dr. William Coppelius. Ich bin mit meinen Begleitern Nathan und McManus unterwegs.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0042"><en><![CDATA[Your father, Dr. Trelawney, and I used to work here at the Smith Institute in Ravenhollow.]]></en><de><![CDATA[Ihr Vater, Dr. Trelawney, und ich haben beide am Smith-Institut hier in Ravenhollow gearbeitet.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0043"><en><![CDATA[Ah. Now I remember. For a second there it had slipped my mind.]]></en><de><![CDATA[Ah. Jetzt weiß ich wieder. Einen Moment lang war es mir entfallen.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t3" id="smith" enabled="1" hold="0" expose="" go="0"><title><en><![CDATA[So are you still working at the Smith Institute here in Ravenhollow?]]></en><de><![CDATA[Arbeiten Sie immer noch am Smith-Institut hier in Ravenhollow?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0044"><en><![CDATA[So are you still working at the Smith Institute here in Ravenhollow?]]></en><de><![CDATA[Arbeiten Sie immer noch am Smith-Institut hier in Ravenhollow?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0045"><en><![CDATA[No. After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en><de><![CDATA[Nein. Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t4" id="dad" enabled="1" hold="0" expose="" go="0"><title><en><![CDATA[Shouldn’t you have heard about my father’s death by now?]]></en><de><![CDATA[Hätten Sie nicht inzwischen vom Tod meines Vaters gehört haben müssen?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0046"><en><![CDATA[Shouldn’t you have heard about my father’s death by now?]]></en><de><![CDATA[Hätten Sie nicht inzwischen vom Tod meines Vaters gehört haben müssen?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0047"><en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of the other colleagues in this photograph until recently. ]]></en><de><![CDATA[Ich war in den letzten Jahren nicht in Ravenhollow. Und von den anderen Kollegen auf dem Foto habe ich auch bis vor Kurzem nichts mehr gehört.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0048"><en><![CDATA[Do you know how your father died? Did he ever mention a man named Vincent?]]></en><de><![CDATA[Wissen Sie, wie Ihr Vater gestorben ist? Hat er jemals einen Mann namens Vincent erwähnt?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0049"><en><![CDATA[No, I don’t know how he died; I’ll have to ask this Lionstone lawyer fellow about that.]]></en><de><![CDATA[Nein, ich weiß nicht, wie er starb. Ich will diesen Rechtsanwalt, Lionstone, danach fragen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0050"><en><![CDATA[You see, the only message that I got from father was this photograph that he left me in his will. His lawyer mailed it to me after his death.]]></en><de><![CDATA[Die einzige Nachricht, die ich von meinem Vater bekam, war dieses Foto, das er mir in seinem Testament vermachte. Sein Rechtsanwalt schickte es mir nach seinem Tod.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0051"><en><![CDATA[That note? “A Stitch in Time Saves Nine”?]]></en><de><![CDATA[Diese Notiz? “A Stitch in Time Saves Nine” ... Ein geflickter Riss zur rechten Zeit spart neunfach Müh und Leid&#8220;?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0052"><en><![CDATA[Quite a piece of wisdom, uh?]]></en><de><![CDATA[Schöne Binsenweisheit, was?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0053"><en><![CDATA[Young man. Don’t underestimate your father. He may not have been a family man, but he was a most remarkable thinker.]]></en><de><![CDATA[Junger Mann. Unterschätzen Sie Ihren Vater nicht. Er war vielleicht kein mustergültiger Vater, aber ein äußerst bemerkenswerter Denker.]]></de></dia><dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0054"><en><![CDATA[I’ve heard about many a strong man getting soft up there in the brain when he got old.]]></en><de><![CDATA[Es soll nicht selten vorkommen, dass auch die Klügsten im Alter weich in der Birne werden.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0055"><en><![CDATA[Anthony Trelawney was 8 years my junior. And I surely haven’t started to lose my mind have I?]]></en><de><![CDATA[Anthony Trelawney war 8 Jahre jünger als ich. Und ich bin sicherlich weit davon entfernt, den Verstand zu verlieren, oder?]]></de></dia><dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0056"><en><![CDATA[Nay.]]></en><de><![CDATA[Jo.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0057"><en><![CDATA[I think the capitalization of the letters is a morse code message summoning me here. But still it doesn’t make much sense.]]></en><de><![CDATA[Ich glaube, die groß geschriebenen Buchstaben sind eine Nachricht in Morsecode: Ich soll hierher kommen. Aber es ergibt trotzdem nicht viel Sinn.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t8" id="dad2" enabled="0" hold="1" expose="" go="0"><title><en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en><de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0058"><en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en><de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0059"><en><![CDATA[I have neither been in Ravenhollow in the last years, nor have I heard from any of my colleagues in that photograph until recently.]]></en><de><![CDATA[Ich war in den letzten Jahren weder in Ravenhollow, noch habe ich von den anderen Kollegen auf dem Foto etwas gehört. Bis vor Kurzem.]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0060"><en><![CDATA[After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en><de><![CDATA[Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0061"><en><![CDATA[I see. Thanks for clarifying that.]]></en><de><![CDATA[Verstehe. Danke für die Klarstellung.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t9" id="task" enabled="1" hold="1" expose="" go="-2"><title><en><![CDATA[Why are you searching for the police? What’s the trouble?]]></en><de><![CDATA[Warum fragen Sie nach der Polizei? Stimmt etwas nicht?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0062"><en><![CDATA[Why are you searching for the police? What’s the trouble?]]></en><de><![CDATA[Warum fragen Sie nach der Polizei? Stimmt etwas nicht?]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0063"><en><![CDATA[We are searching for a man named Vincent.]]></en><de><![CDATA[Wir suchen nach einem Mann namens Vincent.]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0064"><en><![CDATA[He was one of our colleagues. One of the nine founding members of the Smith Institute. A most dangerous man as it turned out.]]></en><de><![CDATA[Er war einer unserer Kollegen. Eines der neun Gründungsmitglieder des Smith-Instituts. Ein äußerst gefährlicher Mann, wie sich herausstellte.]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0065"><en><![CDATA[He kidnapped my granddaughter, Nora ....]]></en><de><![CDATA[Er hat meine Enkelin Nora entführt ...]]></de></dia><dia puppet="mcmanus" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0066"><en><![CDATA[... and me ship, aye!]]></en><de><![CDATA[... und mein Schiff, jawoll!]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0067"><en><![CDATA[We found the ship here ... it’s hard to tell when Vincent actually arrived in Ravenhollow, but maybe he’s still around. We have to find him.]]></en><de><![CDATA[Wir haben das Schiff hier gefunden ... Es ist unklar, wann Vincent hier in Ravenhollow vor Anker ging, aber vielleicht ist er noch hier. Wir müssen ihn finden.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0068"><en><![CDATA[He kidnapped your granddaughter ... why?]]></en><de><![CDATA[Er hat Ihre Enkelin entführt ... warum?]]></de></dia><dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0069"><en><![CDATA[That is a complicated story ... and I fear it’s possible that Vincent was involved in your father’s death, too. He swore vengeance against ...]]></en><de><![CDATA[Das ist eine komplizierte Geschichte ... und ich fürchte, dass Vincent vielleicht auch etwas mit dem Tod Ihres Vaters zu tun hat. Er schwor, Rache an ...]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0070"><en><![CDATA[None of you gentlemen carry permission by the Castle to enter this town or to linger around the docks, but still that’s exactly what I find you doing. Why is that?]]></en><de><![CDATA[Keiner der Herren hat eine Genehmigung des Schlosses, diese Stadt zu betreten oder an den Docks herumzulungern. Doch genau das tun Sie gerade. Wie erklären Sie sich das?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0071"><en><![CDATA[Who wants to know that?]]></en><de><![CDATA[Wer will das wissen?]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0072"><en><![CDATA[The name is Cain, Lowell Cain. I’m commander in chief of the Northwest Restoration law enforcement.]]></en><de><![CDATA[Mein Name ist Cain, Lowell Cain. Ich bin der Oberbefehlshaber der Nordwest-Restauration-Strafverfolgungsbehörden.]]></de></dia><dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0073"><en><![CDATA[Woof!]]></en><de><![CDATA[Wuff!]]></de></dia></dialog><script><method call="controls" enabled="0"/><dialogue playList="0,1,2,3,4,5,6,7"/><cursor visible="0"/><sound soundtrack1="lib/music_castle.swf:CastleMusic"/><process><puppetTween target="cain" type="move" to="position:cain_stop" waitForComplete="1"/><layerState target="_current:cain:main" turnView="4"/></process><wait seconds="1.5"/><puppetTween target="manbreaker" type="move" to="position:manbreaker_stop" waitForComplete="1"/><layerState target="_current:manbreaker:main" turnView="4"/><puppetTween target="_avatar" type="moveThenTurn" to="point:317,1185" toView="6" waitForComplete="1"/><layerState target="_current:mcmanus:turned" restState="normal_pause"/><layer target="_current:mcmanus" state="turned"/><cursor visible="1"/><layerSprite target="shroom" animFrame="togrowl" waitForComplete="1"/><sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0"/><layerState target="_current:shroom:main" restState="growl"/><dialogue playList="11"/><dialogue playList="8,9,10"/><method call="controls" enabled="1" cursor="1"/><tree load="intro2"/></script></topic></tier></tree><tree id="intro2"><tier key="r_t0_t4_t0" id="step4"><topic key="t0" id="_12" enabled="1" hold="1" expose="" go="0"><title><en><![CDATA[Hey, don’t you dare force the Doctor! We will leave now!]]></en><de><![CDATA[He, wagen Sie es nicht, den Doktor zu zwingen! Wir gehen jetzt!]]></de></title><dialog><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0089"><en><![CDATA[Hey, don’t you dare force the Doctor! We will leave now!]]></en><de><![CDATA[He, wagen Sie es nicht, den Doktor zu zwingen! Wir gehen jetzt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0090"><en><![CDATA[Not so fast ...]]></en><de><![CDATA[Nicht so schnell ...]]></de></dia><dia puppet="manbreaker" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0091"><en><![CDATA[Hey, you hit me!]]></en><de><![CDATA[He, hast du mir gerade eine gelangt!?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0092"><en><![CDATA[What?! I haven’t touched you!]]></en><de><![CDATA[Was?! Ich habe Sie nicht angerührt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0093"><en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en><de><![CDATA[Also, IRGENDETWAS habe ich gerade von hinten an den Kopf gekriegt und ...]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0094"><en><![CDATA[OWW!! That’s twice!]]></en><de><![CDATA[AUU! Schon wieder!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0095"><en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en><de><![CDATA[Ehrlich, ich war’s nicht. Ich hab keinen Finger gerührt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0096"><en><![CDATA[Shut up ... I’m done with you.]]></en><de><![CDATA[Klappe halten ... Du hast jetzt Feierabend.]]></de></dia><dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0097"><en><![CDATA[Woof!]]></en><de><![CDATA[Wuff!]]></de></dia></dialog><script><method call="controls" enabled="0"/><dialogue playList="0,1"/><sound effect="lib/sound_effects.swf:pock2" waitForComplete="1"/><layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1"/><dialogue playList="2,3,4"/><sound effect="lib/sound_effects.swf:pock2" waitForComplete="1"/><layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1"/><dialogue playList="5,6,7"/><layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1"/><sound effect="lib/sound_effects.swf:pock1" waitForComplete="1"/><sound effect="lib/sound_effects.swf:box1" waitForComplete="0"/><layerSprite target="_avatar" animFrame="nigel_ko" waitForComplete="1"/><sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0"/><dialogue playList="8"/><layerSprite target="slingshot" animFrame="throw" visible="1" waitForComplete="0"/><layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1"/><game room="boathouse:intro"/></script></topic><topic key="t1" id="_17" enabled="1" hold="1" expose="" go="0"><title><en><![CDATA[Dr. Coppelius, Mr. McManus, I think we should continue our conversation somewhere else.]]></en><de><![CDATA[Dr. Coppelius, Herr McManus, ich finde, wir sollten unsere Unterhaltung woanders weiterführen.]]></de></title><dialog><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0098"><en><![CDATA[Dr. Coppelius, Mr. McManus, I think we should continue our conversation somewhere else.]]></en><de><![CDATA[Dr. Coppelius, Herr McManus, ich finde, wir sollten unsere Unterhaltung woanders weiterführen.]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0099"><en><![CDATA[Not so fast ...]]></en><de><![CDATA[Nicht so schnell ...]]></de></dia><dia puppet="manbreaker" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0100"><en><![CDATA[Hey, you hit me!]]></en><de><![CDATA[He, hast du mir gerade eine gelangt!?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0101"><en><![CDATA[What?! I haven’t touched you!]]></en><de><![CDATA[Was?! Ich habe Sie nicht angerührt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0102"><en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en><de><![CDATA[Also, IRGENDETWAS habe ich gerade von hinten an den Kopf gekriegt und ...]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0103"><en><![CDATA[OWW!! That’s twice!]]></en><de><![CDATA[AUU! Schon wieder!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0104"><en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en><de><![CDATA[Ehrlich, ich war’s nicht. Ich hab keinen Finger gerührt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0105"><en><![CDATA[Shut up ... I’m done with you.]]></en><de><![CDATA[Klappe halten ... Du hast jetzt Feierabend.]]></de></dia><dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0106"><en><![CDATA[Woof!]]></en><de><![CDATA[Wuff!]]></de></dia></dialog><script><method call="controls" enabled="0"/><dialogue playList="0,1"/><sound effect="lib/sound_effects.swf:pock2" waitForComplete="1"/><layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1"/><dialogue playList="2,3,4"/><sound effect="lib/sound_effects.swf:pock2" waitForComplete="1"/><layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1"/><dialogue playList="5,6,7"/><layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1"/><sound effect="lib/sound_effects.swf:pock1" waitForComplete="1"/><sound effect="lib/sound_effects.swf:box1" waitForComplete="0"/><layerSprite target="_avatar" animFrame="nigel_ko" waitForComplete="1"/><sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0"/><dialogue playList="8"/><layerSprite target="slingshot" animFrame="throw" visible="1" waitForComplete="0"/><layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1"/><game room="boathouse:intro"/></script></topic><topic key="t2" id="_18" enabled="1" hold="1" expose="" go="0"><title><en><![CDATA[I just remembered I have a cake in the oven ... Dr. Coppelius, Mr. McManus, may I invite you?]]></en><de><![CDATA[Mir fällt gerade ein, ich habe einen Kuchen im Ofen ... Dr. Coppelius, Herr McManus, darf ich Sie einladen?]]></de></title><dialog><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0107"><en><![CDATA[I just remembered I have a cake in the oven ... Dr. Coppelius, Mr. McManus, may I invite you?]]></en><de><![CDATA[Mir fällt gerade ein, ich habe einen Kuchen im Ofen ... Dr. Coppelius, Herr McManus, darf ich Sie einladen?]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0108"><en><![CDATA[Not so fast ...]]></en><de><![CDATA[Nicht so schnell ...]]></de></dia><dia puppet="manbreaker" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0109"><en><![CDATA[Hey, you hit me!]]></en><de><![CDATA[He, hast du mir gerade eine gelangt!?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0110"><en><![CDATA[What?! I haven’t touched you!]]></en><de><![CDATA[Was?! Ich habe Sie nicht angerührt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0111"><en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en><de><![CDATA[Also, IRGENDETWAS habe ich gerade von hinten an den Kopf bekommen und ...]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0112"><en><![CDATA[OWW!! That’s twice!]]></en><de><![CDATA[AUU! Schon wieder!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0113"><en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en><de><![CDATA[Ehrlich, ich war’s nicht. Ich hab keinen Finger gerührt!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0114"><en><![CDATA[Shut up ... I’m done with you.]]></en><de><![CDATA[Klappe halten ... Du hast jetzt Feierabend.]]></de></dia><dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0115"><en><![CDATA[Woof!]]></en><de><![CDATA[Wuff!]]></de></dia></dialog><script><method call="controls" enabled="0"/><dialogue playList="0,1"/><sound effect="lib/sound_effects.swf:pock2" waitForComplete="1"/><layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1"/><dialogue playList="2,3,4"/><sound effect="lib/sound_effects.swf:pock2" waitForComplete="1"/><layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1"/><dialogue playList="5,6,7"/><layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1"/><sound effect="lib/sound_effects.swf:pock1" waitForComplete="1"/><sound effect="lib/sound_effects.swf:box1" waitForComplete="0"/><layerSprite target="_avatar" animFrame="nigel_ko" waitForComplete="1"/><sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0"/><dialogue playList="8"/><layerSprite target="slingshot" animFrame="throw" visible="1" waitForComplete="0"/><layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1"/><game room="boathouse:intro"/></script></topic></tier><tier key="r_t0_t4" id="step3"><topic key="t0" id="_9" enabled="1" hold="1" expose="" go="step4"><title><en><![CDATA[Coming and going as you please is a pretty popular concept these days ... it’s called freedom, I think!]]></en><de><![CDATA[Nach Belieben kommen und gehen ist heutzutage ein recht verbreitetes Konzept ... ich glaube, das nennt sich Freiheit!]]></de></title><dialog><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0083"><en><![CDATA[Coming and going as you please is a pretty popular concept these days ... it’s called freedom, I think!]]></en><de><![CDATA[Nach Belieben kommen und gehen ist heutzutage ein recht verbreitetes Konzept ... ich glaube, das nennt sich Freiheit!]]></de></dia><dia puppet="manbreaker" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0084"><en><![CDATA[My fist is starting to itch, boy.]]></en><de><![CDATA[Mir juckt langsam die Faust, Junge.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0085"><en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius ...]]></en><de><![CDATA[Genug! Ich muss Sie und Ihre Freunde bitten, mich zum Schloss zu begleiten, Dr. Coppelius ...]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0086"><en><![CDATA[Very interesting ... How do you know my name?]]></en><de><![CDATA[Sehr interessant ... Woher wissen Sie, wie ich heiße?]]></de></dia><dia puppet="mcmanus" frame="normal_lspeak" sound="voice/docks_intro_voice.swf:docks_intro0087"><en><![CDATA[Have ye been expectin’ us?]]></en><de><![CDATA[Ich glaub diese Landratten haben hier schon auf uns gewartet ...]]></de></dia><dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0088"><en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en><de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t1" id="_10" enabled="1" hold="1" expose="" go="step4"><title><en><![CDATA[Global criminality? You mean there are more of your kind running around out there?]]></en><de><![CDATA[Globale Kriminalität? Sie meinen, es laufen noch mehr von Ihrer Sorte da draußen rum?]]></de></title><dialog><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0116"><en><![CDATA[Global criminality? You mean there are more of your kind running around out there?]]></en><de><![CDATA[Globale Kriminalität? Sie meinen, es laufen noch mehr von Ihrer Sorte da draußen rum?]]></de></dia><dia puppet="manbreaker" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0117"><en><![CDATA[My fist is starting to itch, boy.]]></en><de><![CDATA[Mir juckt langsam die Faust, Junge.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0118"><en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius ...]]></en><de><![CDATA[Genug! Ich muss Sie und Ihre Freunde bitten, mich zum Schloss zu begleiten, Dr. Coppelius ...]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0119"><en><![CDATA[Very interesting ... How do you know my name?]]></en><de><![CDATA[Sehr interessant ... Woher wissen Sie, wie ich heiße?]]></de></dia><dia puppet="mcmanus" frame="normal_lspeak" sound="voice/docks_intro_voice.swf:docks_intro0120"><en><![CDATA[Have ye been expectin’ us?]]></en><de><![CDATA[Ich glaub diese Landratten haben hier schon auf uns gewartet ...]]></de></dia><dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0121"><en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en><de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t2" id="_11" enabled="1" hold="1" expose="" go="step4"><title><en><![CDATA[Nice armband ... is there a souvenir shop around where I can buy one?]]></en><de><![CDATA[Nette Armbinde ... Gibt es hier einen Souvenirladen, wo ich so eine kaufen kann?]]></de></title><dialog><dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0122"><en><![CDATA[Nice armband ... is there a souvenir shop around where I can buy one?]]></en><de><![CDATA[Nette Armbinde ... Gibt es hier einen Souvenirladen, wo ich so eine kaufen kann?]]></de></dia><dia puppet="manbreaker" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0123"><en><![CDATA[My fist is starting to itch, boy.]]></en><de><![CDATA[Mir juckt langsam die Faust, Junge.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0124"><en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius ...]]></en><de><![CDATA[Genug! Ich muss Sie und Ihre Freunde bitten, mich zum Schloss zu begleiten, Dr. Coppelius ...]]></de></dia><dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0125"><en><![CDATA[Very interesting ... How do you know my name?]]></en><de><![CDATA[Sehr interessant ... Woher wissen Sie, wie ich heiße?]]></de></dia><dia puppet="mcmanus" frame="normal_lspeak" sound="voice/docks_intro_voice.swf:docks_intro0126"><en><![CDATA[Have ye been expectin’ us?]]></en><de><![CDATA[Ich glaub diese Landratten haben hier schon auf uns gewartet ...]]></de></dia><dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0127"><en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en><de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de></dia></dialog><script><dialogue play="*"/></script></topic></tier><tier key="r_t0" id="step2"><topic key="t4" id="_8" enabled="1" hold="1" expose="" go="step3"><title><en><![CDATA[Re-subjugated? Northwest Castle? Seems like you skipped politics class once too often.]]></en><de><![CDATA[Unterworfen? Schloss Nordwest? Sie haben in der Schule im Politikunterricht wohl etwas zu oft gefehlt.]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0078"><en><![CDATA[Re-subjugated? Northwest Castle? Seems like you skipped politics class once too often.]]></en><de><![CDATA[Unterworfen? Schloss Nordwest? Sie haben in der Schule im Politikunterricht wohl etwas zu oft gefehlt.]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0079"><en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en><de><![CDATA[Damit haste dir ein paar Stunden bewusstloses Rumliegen im Bootshaus verdient, Freundchen.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0080"><en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en><de><![CDATA[Noch nicht. Wir können Fremden nicht vorhalten, dass sie nichts von den Veränderungen wissen, die sich in unserem geliebten Ravenhollow ereignet haben.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0081"><en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en><de><![CDATA[Durch die Nordwest-Restauration stellt das Schloss sicher, dass in dieser Stadt Frieden und Ordnung aufrecht erhalten werden.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0082"><en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en><de><![CDATA[Sie verstehen sicher, dass wir in diesen gefährlichen Zeiten globaler Kriminalität Fremden nicht erlauben können, nach Belieben zu kommen und zu gehen.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t3" id="_7" enabled="1" hold="1" expose="" go="step3"><title><en><![CDATA[You want to try to reason with me? You already gave me reason enough to sue you for threatening us.]]></en><de><![CDATA[Sie wollen zivilisiert mit mir reden? Ich werde Sie für Ihre Drohungen ganz zivilisiert verklagen.]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0128"><en><![CDATA[You want to try to reason with me? You already gave me reason enough to sue you for threatening us.]]></en><de><![CDATA[Sie wollen zivilisiert mit mir reden? Ich werde Sie für Ihre Drohungen ganz zivilisiert verklagen.]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0129"><en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en><de><![CDATA[Damit haste dir ein paar Stunden bewusstloses Rumliegen im Bootshaus verdient, Freundchen.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0130"><en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en><de><![CDATA[Noch nicht. Wir können Fremden nicht vorhalten, dass sie nichts von den Veränderungen wissen, die sich in unserem geliebten Ravenhollow ereignet haben.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0131"><en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en><de><![CDATA[Durch die Nordwest-Restauration stellt das Schloss sicher, dass in dieser Stadt Frieden und Ordnung aufrecht erhalten werden.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0132"><en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en><de><![CDATA[Sie verstehen sicher, dass wir in diesen gefährlichen Zeiten globaler Kriminalität Fremden nicht erlauben können, nach Belieben zu kommen und zu gehen.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t2" id="_6" enabled="1" hold="1" expose="" go="step3"><title><en><![CDATA[Last time I checked, wearing a uniform did not entitle you to push people around.]]></en><de><![CDATA[Soweit ich unterrichtet bin, gibt Ihnen eine Uniform nicht das Recht, Leute zu schikanieren.]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0133"><en><![CDATA[Last time I checked, wearing a uniform did not entitle you to push people around.]]></en><de><![CDATA[Soweit ich unterrichtet bin, gibt Ihnen eine Uniform nicht das Recht, Leute zu schikanieren.]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0134"><en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en><de><![CDATA[Damit haste dir ein paar Stunden bewusstloses Rumliegen im Bootshaus verdient, Freundchen.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0135"><en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en><de><![CDATA[Noch nicht. Wir können Fremden nicht vorhalten, dass sie nichts von den Veränderungen wissen, die sich in unserem geliebten Ravenhollow ereignet haben.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0136"><en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en><de><![CDATA[Durch die Nordwest-Restauration stellt das Schloss sicher, dass in dieser Stadt Frieden und Ordnung aufrecht erhalten werden.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0137"><en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en><de><![CDATA[Sie verstehen sicher, dass wir in diesen gefährlichen Zeiten globaler Kriminalität Fremden nicht erlauben können, nach Belieben zu kommen und zu gehen.]]></de></dia></dialog><script><dialogue play="*"/></script></topic></tier><tier key="r" id="main"><topic key="t0" id="1" enabled="1" hold="1" expose="" go="step2"><title><en><![CDATA[You are asking for our permission to enter Ravenhollow? You must be joking.]]></en><de><![CDATA[Sie meinen, wir brauchen eine Genehmigung, um Ravenhollow zu betreten? Das ist doch wohl ein Scherz.]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0074"><en><![CDATA[You are asking for our permission to enter Ravenhollow? You must be joking.]]></en><de><![CDATA[Sie meinen, wir brauchen eine Genehmigung, um Ravenhollow zu betreten? Das ist doch wohl ein Scherz.]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0075"><en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en><de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0076"><en><![CDATA[Let’s try to reason with him first.]]></en><de><![CDATA[Versuchen wir erst, ob er zivillisiert auf die Stimme der Vernunft anspricht.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0077"><en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en><de><![CDATA[Es ist ihm offensichtlich nicht klar, dass die Stadt Ravenhollow nebst Umgebung rechtmäßig wieder der Autorität von Baron Nordwest von Schloss Nordwest unterworfen wurden.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t4" id="_13" enabled="1" hold="1" expose="" go="step2"><title><en><![CDATA[Please don’t bother us, we were just in the middle of a conversation.]]></en><de><![CDATA[Bitte stören Sie uns nicht, wir sind gerade mitten in einer Unterhaltung.]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0138"><en><![CDATA[Please don’t bother us, we were just in the middle of a conversation.]]></en><de><![CDATA[Bitte stören Sie uns nicht, wir sind gerade mitten in einer Unterhaltung.]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0139"><en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en><de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0140"><en><![CDATA[Let’s try to reason with him first.]]></en><de><![CDATA[Versuchen wir erst, ob er zivillisiert auf die Stimme der Vernunft anspricht.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0141"><en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en><de><![CDATA[Es ist ihm offensichtlich nicht klar, dass die Stadt Ravenhollow nebst Umgebung rechtmäßig wieder der Autorität von Baron Nordwest von Schloss Nordwest unterworfen wurden.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t5" id="_14" enabled="1" hold="1" expose="" go="step2"><title><en><![CDATA[We are not lingering. But maybe you are!]]></en><de><![CDATA[Wir lungern nicht herum. Aber vielleicht lungern Sie ja herum!]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0142"><en><![CDATA[We are not lingering. But maybe you are!]]></en><de><![CDATA[Wir lungern nicht herum. Aber vielleicht lungern Sie ja herum!]]></de></dia><dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0143"><en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en><de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0144"><en><![CDATA[Let’s try to reason with him first.]]></en><de><![CDATA[Versuchen wir erst, ob er zivillisiert auf die Stimme der Vernunft anspricht.]]></de></dia><dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0145"><en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en><de><![CDATA[Es ist ihm offensichtlich nicht klar, dass die Stadt Ravenhollow nebst Umgebung rechtmäßig wieder der Autorität von Baron Nordwest von Schloss Nordwest unterworfen wurden.]]></de></dia></dialog><script><dialogue play="*"/></script></topic></tier></tree></trees></room>
+<room id="docks_intro" coreLibs="lib/docks.swf,lib/harbor_fx.swf,lib/cain.swf,lib/castle_manbreaker.swf,lib/coppelius.swf,lib/mcmanus.swf,lib/shroom.swf,lib/music_castle.swf" voiceLibs="voice/docks_intro_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="lib/harbor_fx.swf:HarborDayFx">
+  <grids>
+    <grid id="main">
+      <boxes>
+        <box x="410" y="1143" w="166" h="68" nodes="n10,n23" />
+        <box x="117" y="888" w="161" h="17" nodes="n22,n30" />
+        <box x="51" y="1029" w="173" h="49" nodes="n4,n6,n24" />
+        <box x="139" y="1067" w="281" h="263" nodes="n6,n7,n10,n23,n24,n27,n28,n29" />
+        <box x="122" y="896" w="45" h="48" nodes="n30" />
+        <box x="216" y="889" w="58" h="189" nodes="n7,n9,n25,n31" />
+      </boxes>
+      <nodes>
+        <node id="n4" x="215" y="1033" join="n9,n7,n6,n24" trap="0" />
+        <node id="n5" x="395" y="878" join="n18,n8,n19" trap="1" />
+        <node id="n6" x="215" y="1075" join="n4,n24,n7,n10,n23,n27,n28,n29" trap="0" />
+        <node id="n7" x="265" y="1075" join="n4,n25,n6,n10,n23,n24,n27,n28,n29,n9,n31" trap="0" />
+        <node id="n8" x="350" y="895" join="n9,n22,n5" trap="1" />
+        <node id="n9" x="265" y="938" join="n8,n22,n4,n25,n7,n31" trap="0" />
+        <node id="n10" x="415" y="1150" join="n23,n6,n7,n24,n27,n28,n29" trap="0" />
+        <node id="n14" x="356" y="818" join="n19,n33" trap="0" name="join_harbor" />
+        <node id="n16" x="489" y="838" join="n18" trap="0" name="join_boathouse" />
+        <node id="n18" x="454" y="854" join="n16,n5,n19" trap="1" name="barrel" />
+        <node id="n19" x="405" y="840" join="n14,n18,n5" trap="1" name="poster" />
+        <node id="n22" x="274" y="896" join="n9,n8,n30" trap="1" />
+        <node id="n23" x="415" y="1205" join="n10,n6,n7,n24,n27,n28,n29" trap="0" />
+        <node id="n24" x="152" y="1074" join="n4,n6,n7,n10,n23,n27,n28,n29" trap="0" />
+        <node id="n25" x="261" y="987" join="n7,n9,n31" trap="0" name="crates" />
+        <node id="n27" x="154" y="1204" join="n6,n7,n10,n23,n24,n28,n29" trap="0" name="cain_stop" />
+        <node id="n28" x="225" y="1188" join="n6,n7,n10,n23,n24,n27,n29" trap="0" name="manbreaker_stop" />
+        <node id="n29" x="295" y="1203" join="n6,n7,n10,n23,n24,n27,n28" trap="0" name="nigel_stop" />
+        <node id="n30" x="139" y="901" join="n22" trap="0" />
+        <node id="n31" x="218" y="987" join="n7,n9,n25" trap="0" name="nathan_stop1" />
+        <node id="n33" x="309" y="802" join="n14" trap="0" name="exit" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="join_harbor" turn="4" x="356" y="818" />
+    <position id="join_boathouse" turn="4" x="489" y="838" />
+    <position id="barrel" turn="4" x="454" y="854" />
+    <position id="poster" turn="4" x="405" y="840" />
+    <position id="crates" turn="4" x="261" y="987" />
+    <position id="cain_stop" turn="4" x="154" y="1204" />
+    <position id="manbreaker_stop" turn="4" x="225" y="1188" />
+    <position id="nigel_stop" turn="4" x="295" y="1203" />
+    <position id="nathan_stop1" turn="4" x="218" y="987" />
+    <position id="exit" turn="4" x="309" y="802" />
+  </positions>
+  <filters>
+    <filter id="baseScale" axis="y" enabled="1">
+      <pole x="364" y="841" scale="0.19" rate="0.2" blur="1" color="0x000000" tint="0.5" />
+      <pole x="363" y="1322" scale="0.8" rate="0.15" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+    <filter id="cainscale" axis="y" enabled="1">
+      <pole x="368" y="817" scale="0.22" rate="0.13" blur="1" color="0x000000" tint="0.5" />
+      <pole x="368" y="1200" scale="0.93" rate="0.13" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <method call="controls" enabled="0" />
+      <ui load="ui_photo" display="hide" tween="0" />
+      <curtain blackout="0" waitForComplete="1" />
+      <puppet target="coppelius" callAction="0" />
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <ui unload="ui_photo" />
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/docks.swf:DocksBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="1416" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="450" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="water" type="plane" asset="lib/docks.swf:DocksWater" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="403" y="829" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="boathouse_door" type="puppet" asset="lib/docks.swf:DocksBoathouseDoor" depth="2" visible="1" state="closed">
+      <states>
+        <state id="closed" x="516" y="825" img="1" imgX="-16" imgY="-94" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-22" hitY="-100" hitW="60" hitH="106" shape="rect">
+          <param mapX="489" mapY="838" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="slingshot" type="plane" asset="lib/docks.swf:DocksSlingshot" depth="3" visible="0" state="main">
+      <states>
+        <state id="main" x="516" y="775" img="1" imgX="-17" imgY="-31" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="boat" type="puppet" asset="lib/docks.swf:DocksBoat" depth="4" visible="1" state="main">
+      <states>
+        <state id="main" x="439" y="922" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="580" hitH="250" shape="rect">
+          <param mapX="542" mapY="1164" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[boat]]></en>
+            <de><![CDATA[Boot]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="windmill" type="plane" asset="lib/docks.swf:DocksWindmill" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="610" y="403" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="lighthouse_door" type="puppet" asset="lib/docks.swf:DocksLighthouseDoor" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="250" y="870" img="1" imgX="-26" imgY="-113" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-26" hitY="-113" hitW="48" hitH="126" shape="rect">
+          <param mapX="268" mapY="890" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[lighthouse door]]></en>
+            <de><![CDATA[Leuchtturmtür]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0000">
+                  <en><![CDATA[This door leads into the lighthouse.]]></en>
+                  <de><![CDATA[Diese Tür führt in den Leuchtturm.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0001">
+                  <en><![CDATA[Is anyone in there?]]></en>
+                  <de><![CDATA[Ist jemand hier drin?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0002">
+                  <en><![CDATA[Hello?]]></en>
+                  <de><![CDATA[Hallo?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="lspeak5" sound="voice/docks_intro_voice.swf:docks_intro0003">
+                  <en><![CDATA[I don’t think there’s anyone inside the lighthouse.]]></en>
+                  <de><![CDATA[Ich glaube nicht, dass im Leuchtturm jemand ist.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Open]]></en>
+                <de><![CDATA[Öffne]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0004">
+                  <en><![CDATA[The lighthouse door is locked. What a surprise.]]></en>
+                  <de><![CDATA[Die Tür zum Leuchtturm ist verschlossen. Wie überraschend.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="boat_patch" type="puppet" asset="lib/docks.swf:DocksBoatPatch" depth="7" visible="1" state="main">
+      <states>
+        <state id="main" x="109" y="963" img="1" imgX="-19" imgY="-112" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-20" hitY="-117" hitW="40" hitH="50" shape="rect">
+          <param mapX="131" mapY="936" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[boat patch]]></en>
+            <de><![CDATA[Bootsflicken]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0005">
+                  <en><![CDATA[It seems the boat had been patched already before it was finally damaged like this.]]></en>
+                  <de><![CDATA[Sieht so aus, als wäre das Boot schon einmal geflickt worden, bevor es so beschädigt wurde.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0006">
+                  <en><![CDATA[Let’s see if I can break this patch loose ...]]></en>
+                  <de><![CDATA[Mal sehen, ob ich diesen Flicken abkriege ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0007">
+                  <en><![CDATA[Well, that was easier than I expected.]]></en>
+                  <de><![CDATA[Na, das war einfacher als erwartet.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="table" type="plane" asset="lib/docks.swf:DocksTable" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="110" y="1113" img="1" imgX="-110" imgY="-225" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="tar_bucket" type="puppet" asset="lib/docks.swf:DocksTarBucket" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="80" y="1124" img="1" imgX="-25" imgY="-97" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-26" hitY="-97" hitW="70" hitH="101" shape="rect">
+          <param mapX="132" mapY="1097" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[bucket o’ tar]]></en>
+            <de><![CDATA[Eimer mit Teer]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0008">
+                  <en><![CDATA[It’s a bucket filled with thick, sticky tar.]]></en>
+                  <de><![CDATA[Es ist ein Eimer, der mit dickem, klebrigem Teer gefüllt ist.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0009">
+                  <en><![CDATA[A bucket o’ tar might come in handy.]]></en>
+                  <de><![CDATA[Ein Eimer mit Teer könnte nützlich sein.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="arch" type="puppet" asset="lib/docks.swf:DocksArch" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="355" y="846" img="1" imgX="-85" imgY="-214" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-30" hitY="-124" hitW="89" hitH="115" shape="rect">
+          <param mapX="315" mapY="815" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="1" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="harbor:join_docks" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="crates" type="puppet" asset="lib/docks.swf:DocksCrate" depth="11" visible="1" state="main">
+      <states>
+        <state id="main" x="299" y="1005" img="1" imgX="-16" imgY="-164" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="1" hitX="-3" hitY="-104" hitW="104" hitH="152" shape="rect">
+          <param mapX="261" mapY="987" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[crates]]></en>
+            <de><![CDATA[Kisten]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0010">
+                  <en><![CDATA[The crates smell of rotting wood and salt water. They are filled with wet fishing nets.]]></en>
+                  <de><![CDATA[Die Kisten riechen nach verfaultem Holz und Salzwasser. Sie sind voll mit nassen Fischernetzen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Taste]]></en>
+                <de><![CDATA[Probiere]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0011">
+                  <en><![CDATA[No thanks. If the contents of these crates taste half as disgusting as they smell, I’ll gladly pass.]]></en>
+                  <de><![CDATA[Nein danke. Wenn der Inhalt dieser Kisten nur halb so scheußlich schmeckt wie er riecht, verzichte ich gerne.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take nets from]]></en>
+                <de><![CDATA[Nimm Netze aus]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="lspeak4" sound="voice/docks_intro_voice.swf:docks_intro0012">
+                  <en><![CDATA[The fishing nets are damp and smelly and all in knots ...]]></en>
+                  <de><![CDATA[Die Fischernetze sind feucht und stinken und sind völlig verheddert ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="lspeak4" sound="voice/docks_intro_voice.swf:docks_intro0013">
+                  <en><![CDATA[...  they are useless and offensive to the senses, if you ask me.]]></en>
+                  <de><![CDATA[... Meiner Meinung nach sind sie sind nutzlos und eine Beleidigung für die Sinne.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="nathan" type="puppet" asset="lib/nathan.swf:nathan" depth="12" visible="1" state="main">
+      <states>
+        <state id="main" x="283" y="1190" img="1" imgX="0" imgY="0" imgW="0.99" imgH="0.99" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-63" hitY="-447" hitW="116" hitH="480" shape="rect">
+          <param mapX="298" mapY="1198" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="baseScale" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nathan]]></en>
+            <de><![CDATA[Nathan]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="mcmanus" type="puppet" asset="lib/mcmanus.swf:McManus" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="350" y="875" img="1" imgX="-6" imgY="-7" imgW="1" imgH="1" frame="4" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-126" hitY="-5" hitW="101" hitH="322" shape="rect">
+          <param mapX="512" mapY="922" cursor="" onclick="-1" prefix="normal_" subtitle="0x99CCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[mcmanus]]></en>
+            <de><![CDATA[McManus]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="turned" x="486" y="873" img="1" imgX="-6" imgY="-7" imgW="-1" imgH="1" frame="8" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-126" hitY="-5" hitW="101" hitH="322" shape="rect">
+          <param mapX="512" mapY="922" cursor="" onclick="-1" prefix="" subtitle="0x99CCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[mcmanus]]></en>
+            <de><![CDATA[McManus]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="shroom" type="puppet" asset="lib/shroom.swf:Shroom" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="376" y="1040" img="1" imgX="0" imgY="0" imgW="1.18" imgH="1.18" frame="4" blend="normal" alpha="1" bitmap="0" hit="0" hitX="61" hitY="25" hitW="100" hitH="100" shape="rect">
+          <param mapX="409" mapY="1211" cursor="" onclick="-1" prefix="tag_" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[shroom]]></en>
+            <de><![CDATA[Shroom]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="coppelius" type="puppet" asset="lib/coppelius.swf:coppelius" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="563" y="1195" img="1" imgX="1" imgY="1" imgW="-1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-47" hitY="-255" hitW="101" hitH="274" shape="rect">
+          <param mapX="260" mapY="986" cursor="" onclick="-1" prefix="" subtitle="0xCCCCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0014">
+                  <en><![CDATA[Mh. Maybe the guys over there can help me to find the lawyer who sent me the will.]]></en>
+                  <de><![CDATA[Hm. Vielleicht können mir die Jungs da drüben helfen, den Rechtsanwalt zu finden, der mir das Testament geschickt hat.]]></de>
+                </dia>
+                <dia puppet="nathan" frame="speak4" sound="voice/docks_intro_voice.swf:docks_intro0015">
+                  <en><![CDATA[Vincent left the boat here. It’s possible that someone around here has seen him or Nora.]]></en>
+                  <de><![CDATA[Vincent hat das Boot hiergelassen. Es ist möglich, dass er oder Nora von jemandem hier gesehen wurde.]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0016">
+                  <en><![CDATA[Time is running out, we have to find him.]]></en>
+                  <de><![CDATA[Die Zeit wird knapp, wir müssen die beiden finden.]]></de>
+                </dia>
+                <dia puppet="nathan" frame="speak4" sound="voice/docks_intro_voice.swf:docks_intro0017">
+                  <en><![CDATA[I’ll have a look around the village.]]></en>
+                  <de><![CDATA[Ich sehe mich im Dorf um.]]></de>
+                </dia>
+                <dia puppet="nathan" frame="speak5" sound="voice/docks_intro_voice.swf:docks_intro0018">
+                  <en><![CDATA[I wonder what new adventures lie ahead.]]></en>
+                  <de><![CDATA[Was mich wohl für neue Abenteuer erwarten?]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0019">
+                  <en><![CDATA[Nathan, if you’re serious about finding Nora then you’d better stop talking to yourself and get going.]]></en>
+                  <de><![CDATA[Nathan, wenn Sie Nora ernsthaft finden wollen, hören Sie besser damit auf, Selbstgespräche zu führen und legen Sie los.]]></de>
+                </dia>
+                <dia puppet="nathan" frame="speak4" sound="voice/docks_intro_voice.swf:docks_intro0020">
+                  <en><![CDATA[Hello there.]]></en>
+                  <de><![CDATA[Guten Tag!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0021">
+                  <en><![CDATA[How do you do.]]></en>
+                  <de><![CDATA[Oh, Guten Tag.]]></de>
+                </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0022">
+                  <en><![CDATA[Your friend Vincent surely was done with me ship. He messed up the motor before he left her here.]]></en>
+                  <de><![CDATA[Ihr Freund Vincent hatte wohl keine Verwendung mehr für mein Schiff. Er hat den Motor lahmgelegt, bevor er sich aus dem Staub gemacht hat.]]></de>
+                </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0023">
+                  <en><![CDATA[I fear we won’t be going out to sea again too soon, Shroom, old boy.]]></en>
+                  <de><![CDATA[Ich fürchte, wir fahren so schnell nicht mehr auf See raus, Shroom, alter Junge.]]></de>
+                </dia>
+                <dia puppet="shroom" frame="bark" sound="voice/docks_intro_voice.swf:docks_intro0024">
+                  <en><![CDATA[Bark!]]></en>
+                  <de><![CDATA[Wuff!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0025">
+                  <en><![CDATA[Excuse me ...]]></en>
+                  <de><![CDATA[Entschuldigung ...]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="speak_cane" sound="voice/docks_intro_voice.swf:docks_intro0026">
+                  <en><![CDATA[Young man, since you seem to be idle enough to overhear our conversation, maybe you can be so kind as to point us to a policeman or any other local law-defending authority?]]></en>
+                  <de><![CDATA[Junger Mann, da Sie offensichtlich die Zeit haben, unserer Konversation zu lauschen, könnten Sie uns freundlicherweise den Weg weisen zu einem Polizisten oder einem anderweitig verantworlichen Gesetzeshüter?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0027">
+                  <en><![CDATA[Sorry. I’m not from Ravenhollow.]]></en>
+                  <de><![CDATA[Tut mir leid. Ich bin nicht aus Ravenhollow.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0028">
+                  <en><![CDATA[Excuse me, maybe I’m making a mistake here, but ...]]></en>
+                  <de><![CDATA[Entschuldigung, vielleicht irre ich mich ja, aber ...]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0029">
+                  <en><![CDATA[Yes, young man? What is the matter?]]></en>
+                  <de><![CDATA[Ja, junger Mann? Raus mit der Sprache.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0030">
+                  <en><![CDATA[I just recognized you ... from this photograph.]]></en>
+                  <de><![CDATA[Das sind doch Sie auf diesem Foto, oder?.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0031">
+                  <en><![CDATA[That’s you standing in front of my father, Dr. Trelawney, isn’t it?]]></en>
+                  <de><![CDATA[Sie sind der Mann, der vor meinem Vater, Dr. Trelawney, steht, nicht wahr?]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0032">
+                  <en><![CDATA[Well I’ll be! I recognize that photograph, I have one just like it.]]></en>
+                  <de><![CDATA[Na, so etwas! Ich kenne das Foto, ich besitze selbst eine Kopie davon.]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0033">
+                  <en><![CDATA[Indeed. Dr. Trelawney and I were both working at the Smith Institute here in Ravenhollow. If I remember correctly Anthony Trelawney’s wife left him with their son more than ... ]]></en>
+                  <de><![CDATA[In der Tat. Dr. Trelawney und ich haben beide am Smith-Institut hier in Ravenhollow gearbeitet. Wenn ich mich recht erinnere, verließ Anthony Trelawneys Frau ihn mit ihrem Sohn vor mehr als ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0034">
+                  <en><![CDATA[... twenty years ago, yes. And since then I haven’t heard a word from father. My name is Nigel Trelawney. What a coincidence to meet you here.]]></en>
+                  <de><![CDATA[... zwanzig Jahren, ja. Und seit damals habe ich kein Wort von meinem Vater gehört. Mein Name ist Nigel Trelawney. Was für ein Zufall, dass ich Sie hier treffe.]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0035">
+                  <en><![CDATA[Coppelius, Dr. William Coppelius.]]></en>
+                  <de><![CDATA[Coppelius, Dr. William Coppelius.]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0036">
+                  <en><![CDATA[There are no coincidences involved I fear.]]></en>
+                  <de><![CDATA[Und ich fürchte mit Zufall hat das keineswegs zu tun.]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0037">
+                  <en><![CDATA[This is Mr. McManus.  The naive-looking young man who just walked off was my assistant Nathan.]]></en>
+                  <de><![CDATA[Das ist Herr McManus.  Der naiv aussehende junge Mann, der gerade weggegangen ist, war mein Assistent Nathan.]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0038">
+                  <en><![CDATA[Excuse me if I’m being forward, but what are you doing in Ravenhollow, Mr. Trelawney? Have you come to see your father?]]></en>
+                  <de><![CDATA[Entschuldigen Sie die Neugier, aber was machen Sie in Ravenhollow, Herr Trelawney? Wollen Sie Ihren Vater besuchen?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0039">
+                  <en><![CDATA[I fear it’s too late for that, Dr. Coppelius. My father died ten months ago. I have come to settle my father’s estate.]]></en>
+                  <de><![CDATA[Ich fürchte, dafür ist es zu spät, Dr. Coppelius. Mein Vater ist vor zehn Monaten gestorben. Ich bin hier, um den Nachlass meines Vaters zu regeln.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <sequence skip="1">
+                  <dialogue playList="0,1,2,3" />
+                  <layerState target="_current:nathan:main" turnView="5" />
+                  <dialogue playList="4" />
+                  <layerState target="_current:nathan:main" turnView="4" />
+                  <dialogue playList="5" />
+                  <puppetTween target="nathan" type="move" to="position:nathan_stop1" waitForComplete="1" />
+                  <layerState target="_current:nathan:main" turnView="4" />
+                  <layerState target="_current:_avatar:main" turnView="6" />
+                  <wait seconds="1" />
+                  <dialogue playList="6,7" />
+                  <process>
+                    <puppetTween target="nathan" type="move" to="position:exit" waitForComplete="1" />
+                    <layerSprite target="_current:nathan" visible="0" />
+                  </process>
+                  <wait seconds="1.5" />
+                  <dialogue playList="8,9" />
+                  <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+                  <dialogue playList="10" />
+                  <puppetTween target="_avatar" type="moveThenTurn" to="position:nigel_stop" toView="4" waitForComplete="1" />
+                  <dialogue playList="11,12,13,14,15,16,17" />
+                  <ui target="ui_photo" display="show" />
+                  <wait seconds="2" />
+                  <dialogue playList="18" />
+                  <ui target="ui_photo" display="hide" />
+                  <wait seconds="2" />
+                  <dialogue playList="19,20,21,22,23,24,25,26" />
+                </sequence>
+                <tree load="intro" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="cain" type="puppet" asset="lib/cain.swf:LowellCain" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="321" y="816" img="1" imgX="-6" imgY="-7" imgW="0.74" imgH="0.74" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-46" hitY="-151" hitW="100" hitH="100" shape="rect">
+          <param mapX="324" mapY="1188" cursor="" onclick="-1" prefix="" subtitle="0xFFCC33" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="cainscale" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="manbreaker" type="puppet" asset="lib/castle_manbreaker.swf:manbreaker" depth="17" visible="1" state="main">
+      <states>
+        <state id="main" x="297" y="822" img="1" imgX="0" imgY="0" imgW="0.74" imgH="0.74" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-46" hitY="-151" hitW="100" hitH="100" shape="rect">
+          <param mapX="512" mapY="894" cursor="" onclick="-1" prefix="" subtitle="0xFFFF99" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="cainscale" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="18" visible="1" state="main">
+      <states>
+        <state id="main" x="367" y="1192" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="baseScale" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="starfish" type="plane" asset="lib/docks.swf:DocksFg" depth="19" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="1330" img="1" imgX="0" imgY="-95" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees>
+    <tree id="intro">
+      <tier key="r" id="">
+        <topic key="t0" id="who" enabled="1" hold="0" expose="" go="0">
+          <title>
+            <en><![CDATA[Sorry, but who are you again?]]></en>
+            <de><![CDATA[Entschuldigung, wer sind Sie nochmal?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0040">
+              <en><![CDATA[Sorry, but who are you again?]]></en>
+              <de><![CDATA[Entschuldigung, wer sind Sie nochmal?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0041">
+              <en><![CDATA[Coppelius, Dr. William Coppelius. I’m traveling with my companions, Nathan and Mr. MacManus.]]></en>
+              <de><![CDATA[Coppelius, Dr. William Coppelius. Ich bin mit meinen Begleitern Nathan und McManus unterwegs.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0042">
+              <en><![CDATA[Your father, Dr. Trelawney, and I used to work here at the Smith Institute in Ravenhollow.]]></en>
+              <de><![CDATA[Ihr Vater, Dr. Trelawney, und ich haben beide am Smith-Institut hier in Ravenhollow gearbeitet.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0043">
+              <en><![CDATA[Ah. Now I remember. For a second there it had slipped my mind.]]></en>
+              <de><![CDATA[Ah. Jetzt weiß ich wieder. Einen Moment lang war es mir entfallen.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t3" id="smith" enabled="1" hold="0" expose="" go="0">
+          <title>
+            <en><![CDATA[So are you still working at the Smith Institute here in Ravenhollow?]]></en>
+            <de><![CDATA[Arbeiten Sie immer noch am Smith-Institut hier in Ravenhollow?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0044">
+              <en><![CDATA[So are you still working at the Smith Institute here in Ravenhollow?]]></en>
+              <de><![CDATA[Arbeiten Sie immer noch am Smith-Institut hier in Ravenhollow?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0045">
+              <en><![CDATA[No. After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en>
+              <de><![CDATA[Nein. Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t4" id="dad" enabled="1" hold="0" expose="" go="0">
+          <title>
+            <en><![CDATA[Shouldn’t you have heard about my father’s death by now?]]></en>
+            <de><![CDATA[Hätten Sie nicht inzwischen vom Tod meines Vaters gehört haben müssen?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0046">
+              <en><![CDATA[Shouldn’t you have heard about my father’s death by now?]]></en>
+              <de><![CDATA[Hätten Sie nicht inzwischen vom Tod meines Vaters gehört haben müssen?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0047">
+              <en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of the other colleagues in this photograph until recently. ]]></en>
+              <de><![CDATA[Ich war in den letzten Jahren nicht in Ravenhollow. Und von den anderen Kollegen auf dem Foto habe ich auch bis vor Kurzem nichts mehr gehört.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0048">
+              <en><![CDATA[Do you know how your father died? Did he ever mention a man named Vincent?]]></en>
+              <de><![CDATA[Wissen Sie, wie Ihr Vater gestorben ist? Hat er jemals einen Mann namens Vincent erwähnt?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0049">
+              <en><![CDATA[No, I don’t know how he died; I’ll have to ask this Lionstone lawyer fellow about that.]]></en>
+              <de><![CDATA[Nein, ich weiß nicht, wie er starb. Ich will diesen Rechtsanwalt, Lionstone, danach fragen.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0050">
+              <en><![CDATA[You see, the only message that I got from father was this photograph that he left me in his will. His lawyer mailed it to me after his death.]]></en>
+              <de><![CDATA[Die einzige Nachricht, die ich von meinem Vater bekam, war dieses Foto, das er mir in seinem Testament vermachte. Sein Rechtsanwalt schickte es mir nach seinem Tod.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0051">
+              <en><![CDATA[That note? “A Stitch in Time Saves Nine”?]]></en>
+              <de><![CDATA[Diese Notiz? “A Stitch in Time Saves Nine” ... Ein geflickter Riss zur rechten Zeit spart neunfach Müh und Leid&#8220;?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0052">
+              <en><![CDATA[Quite a piece of wisdom, uh?]]></en>
+              <de><![CDATA[Schöne Binsenweisheit, was?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0053">
+              <en><![CDATA[Young man. Don’t underestimate your father. He may not have been a family man, but he was a most remarkable thinker.]]></en>
+              <de><![CDATA[Junger Mann. Unterschätzen Sie Ihren Vater nicht. Er war vielleicht kein mustergültiger Vater, aber ein äußerst bemerkenswerter Denker.]]></de>
+            </dia>
+            <dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0054">
+              <en><![CDATA[I’ve heard about many a strong man getting soft up there in the brain when he got old.]]></en>
+              <de><![CDATA[Es soll nicht selten vorkommen, dass auch die Klügsten im Alter weich in der Birne werden.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0055">
+              <en><![CDATA[Anthony Trelawney was 8 years my junior. And I surely haven’t started to lose my mind have I?]]></en>
+              <de><![CDATA[Anthony Trelawney war 8 Jahre jünger als ich. Und ich bin sicherlich weit davon entfernt, den Verstand zu verlieren, oder?]]></de>
+            </dia>
+            <dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0056">
+              <en><![CDATA[Nay.]]></en>
+              <de><![CDATA[Jo.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0057">
+              <en><![CDATA[I think the capitalization of the letters is a morse code message summoning me here. But still it doesn’t make much sense.]]></en>
+              <de><![CDATA[Ich glaube, die groß geschriebenen Buchstaben sind eine Nachricht in Morsecode: Ich soll hierher kommen. Aber es ergibt trotzdem nicht viel Sinn.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t8" id="dad2" enabled="0" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en>
+            <de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0058">
+              <en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en>
+              <de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0059">
+              <en><![CDATA[I have neither been in Ravenhollow in the last years, nor have I heard from any of my colleagues in that photograph until recently.]]></en>
+              <de><![CDATA[Ich war in den letzten Jahren weder in Ravenhollow, noch habe ich von den anderen Kollegen auf dem Foto etwas gehört. Bis vor Kurzem.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0060">
+              <en><![CDATA[After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en>
+              <de><![CDATA[Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0061">
+              <en><![CDATA[I see. Thanks for clarifying that.]]></en>
+              <de><![CDATA[Verstehe. Danke für die Klarstellung.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t9" id="task" enabled="1" hold="1" expose="" go="-2">
+          <title>
+            <en><![CDATA[Why are you searching for the police? What’s the trouble?]]></en>
+            <de><![CDATA[Warum fragen Sie nach der Polizei? Stimmt etwas nicht?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0062">
+              <en><![CDATA[Why are you searching for the police? What’s the trouble?]]></en>
+              <de><![CDATA[Warum fragen Sie nach der Polizei? Stimmt etwas nicht?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0063">
+              <en><![CDATA[We are searching for a man named Vincent.]]></en>
+              <de><![CDATA[Wir suchen nach einem Mann namens Vincent.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0064">
+              <en><![CDATA[He was one of our colleagues. One of the nine founding members of the Smith Institute. A most dangerous man as it turned out.]]></en>
+              <de><![CDATA[Er war einer unserer Kollegen. Eines der neun Gründungsmitglieder des Smith-Instituts. Ein äußerst gefährlicher Mann, wie sich herausstellte.]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0065">
+              <en><![CDATA[He kidnapped my granddaughter, Nora ....]]></en>
+              <de><![CDATA[Er hat meine Enkelin Nora entführt ...]]></de>
+            </dia>
+            <dia puppet="mcmanus" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0066">
+              <en><![CDATA[... and me ship, aye!]]></en>
+              <de><![CDATA[... und mein Schiff, jawoll!]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0067">
+              <en><![CDATA[We found the ship here ... it’s hard to tell when Vincent actually arrived in Ravenhollow, but maybe he’s still around. We have to find him.]]></en>
+              <de><![CDATA[Wir haben das Schiff hier gefunden ... Es ist unklar, wann Vincent hier in Ravenhollow vor Anker ging, aber vielleicht ist er noch hier. Wir müssen ihn finden.]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0068">
+              <en><![CDATA[He kidnapped your granddaughter ... why?]]></en>
+              <de><![CDATA[Er hat Ihre Enkelin entführt ... warum?]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0069">
+              <en><![CDATA[That is a complicated story ... and I fear it’s possible that Vincent was involved in your father’s death, too. He swore vengeance against ...]]></en>
+              <de><![CDATA[Das ist eine komplizierte Geschichte ... und ich fürchte, dass Vincent vielleicht auch etwas mit dem Tod Ihres Vaters zu tun hat. Er schwor, Rache an ...]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0070">
+              <en><![CDATA[None of you gentlemen carry permission by the Castle to enter this town or to linger around the docks, but still that’s exactly what I find you doing. Why is that?]]></en>
+              <de><![CDATA[Keiner der Herren hat eine Genehmigung des Schlosses, diese Stadt zu betreten oder an den Docks herumzulungern. Doch genau das tun Sie gerade. Wie erklären Sie sich das?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0071">
+              <en><![CDATA[Who wants to know that?]]></en>
+              <de><![CDATA[Wer will das wissen?]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0072">
+              <en><![CDATA[The name is Cain, Lowell Cain. I’m commander in chief of the Northwest Restoration law enforcement.]]></en>
+              <de><![CDATA[Mein Name ist Cain, Lowell Cain. Ich bin der Oberbefehlshaber der Nordwest-Restauration-Strafverfolgungsbehörden.]]></de>
+            </dia>
+            <dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0073">
+              <en><![CDATA[Woof!]]></en>
+              <de><![CDATA[Wuff!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <method call="controls" enabled="0" />
+            <dialogue playList="0,1,2,3,4,5,6,7" />
+            <cursor visible="0" />
+            <sound soundtrack1="lib/music_castle.swf:CastleMusic" />
+            <process>
+              <puppetTween target="cain" type="move" to="position:cain_stop" waitForComplete="1" />
+              <layerState target="_current:cain:main" turnView="4" />
+            </process>
+            <wait seconds="1.5" />
+            <puppetTween target="manbreaker" type="move" to="position:manbreaker_stop" waitForComplete="1" />
+            <layerState target="_current:manbreaker:main" turnView="4" />
+            <puppetTween target="_avatar" type="moveThenTurn" to="point:317,1185" toView="6" waitForComplete="1" />
+            <layerState target="_current:mcmanus:turned" restState="normal_pause" />
+            <layer target="_current:mcmanus" state="turned" />
+            <cursor visible="1" />
+            <layerSprite target="shroom" animFrame="togrowl" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+            <layerState target="_current:shroom:main" restState="growl" />
+            <dialogue playList="11" />
+            <dialogue playList="8,9,10" />
+            <method call="controls" enabled="1" cursor="1" />
+            <tree load="intro2" />
+          </script>
+        </topic>
+      </tier>
+    </tree>
+    <tree id="intro2">
+      <tier key="r_t0_t4_t0" id="step4">
+        <topic key="t0" id="_12" enabled="1" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[Hey, don’t you dare force the Doctor! We will leave now!]]></en>
+            <de><![CDATA[He, wagen Sie es nicht, den Doktor zu zwingen! Wir gehen jetzt!]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0089">
+              <en><![CDATA[Hey, don’t you dare force the Doctor! We will leave now!]]></en>
+              <de><![CDATA[He, wagen Sie es nicht, den Doktor zu zwingen! Wir gehen jetzt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0090">
+              <en><![CDATA[Not so fast ...]]></en>
+              <de><![CDATA[Nicht so schnell ...]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0091">
+              <en><![CDATA[Hey, you hit me!]]></en>
+              <de><![CDATA[He, hast du mir gerade eine gelangt!?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0092">
+              <en><![CDATA[What?! I haven’t touched you!]]></en>
+              <de><![CDATA[Was?! Ich habe Sie nicht angerührt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0093">
+              <en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en>
+              <de><![CDATA[Also, IRGENDETWAS habe ich gerade von hinten an den Kopf gekriegt und ...]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0094">
+              <en><![CDATA[OWW!! That’s twice!]]></en>
+              <de><![CDATA[AUU! Schon wieder!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0095">
+              <en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en>
+              <de><![CDATA[Ehrlich, ich war’s nicht. Ich hab keinen Finger gerührt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0096">
+              <en><![CDATA[Shut up ... I’m done with you.]]></en>
+              <de><![CDATA[Klappe halten ... Du hast jetzt Feierabend.]]></de>
+            </dia>
+            <dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0097">
+              <en><![CDATA[Woof!]]></en>
+              <de><![CDATA[Wuff!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <method call="controls" enabled="0" />
+            <dialogue playList="0,1" />
+            <sound effect="lib/sound_effects.swf:pock2" waitForComplete="1" />
+            <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+            <dialogue playList="2,3,4" />
+            <sound effect="lib/sound_effects.swf:pock2" waitForComplete="1" />
+            <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+            <dialogue playList="5,6,7" />
+            <layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:pock1" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:box1" waitForComplete="0" />
+            <layerSprite target="_avatar" animFrame="nigel_ko" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+            <dialogue playList="8" />
+            <layerSprite target="slingshot" animFrame="throw" visible="1" waitForComplete="0" />
+            <layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1" />
+            <game room="boathouse:intro" />
+          </script>
+        </topic>
+        <topic key="t1" id="_17" enabled="1" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[Dr. Coppelius, Mr. McManus, I think we should continue our conversation somewhere else.]]></en>
+            <de><![CDATA[Dr. Coppelius, Herr McManus, ich finde, wir sollten unsere Unterhaltung woanders weiterführen.]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0098">
+              <en><![CDATA[Dr. Coppelius, Mr. McManus, I think we should continue our conversation somewhere else.]]></en>
+              <de><![CDATA[Dr. Coppelius, Herr McManus, ich finde, wir sollten unsere Unterhaltung woanders weiterführen.]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0099">
+              <en><![CDATA[Not so fast ...]]></en>
+              <de><![CDATA[Nicht so schnell ...]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0100">
+              <en><![CDATA[Hey, you hit me!]]></en>
+              <de><![CDATA[He, hast du mir gerade eine gelangt!?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0101">
+              <en><![CDATA[What?! I haven’t touched you!]]></en>
+              <de><![CDATA[Was?! Ich habe Sie nicht angerührt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0102">
+              <en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en>
+              <de><![CDATA[Also, IRGENDETWAS habe ich gerade von hinten an den Kopf gekriegt und ...]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0103">
+              <en><![CDATA[OWW!! That’s twice!]]></en>
+              <de><![CDATA[AUU! Schon wieder!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0104">
+              <en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en>
+              <de><![CDATA[Ehrlich, ich war’s nicht. Ich hab keinen Finger gerührt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0105">
+              <en><![CDATA[Shut up ... I’m done with you.]]></en>
+              <de><![CDATA[Klappe halten ... Du hast jetzt Feierabend.]]></de>
+            </dia>
+            <dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0106">
+              <en><![CDATA[Woof!]]></en>
+              <de><![CDATA[Wuff!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <method call="controls" enabled="0" />
+            <dialogue playList="0,1" />
+            <sound effect="lib/sound_effects.swf:pock2" waitForComplete="1" />
+            <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+            <dialogue playList="2,3,4" />
+            <sound effect="lib/sound_effects.swf:pock2" waitForComplete="1" />
+            <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+            <dialogue playList="5,6,7" />
+            <layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:pock1" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:box1" waitForComplete="0" />
+            <layerSprite target="_avatar" animFrame="nigel_ko" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+            <dialogue playList="8" />
+            <layerSprite target="slingshot" animFrame="throw" visible="1" waitForComplete="0" />
+            <layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1" />
+            <game room="boathouse:intro" />
+          </script>
+        </topic>
+        <topic key="t2" id="_18" enabled="1" hold="1" expose="" go="0">
+          <title>
+            <en><![CDATA[I just remembered I have a cake in the oven ... Dr. Coppelius, Mr. McManus, may I invite you?]]></en>
+            <de><![CDATA[Mir fällt gerade ein, ich habe einen Kuchen im Ofen ... Dr. Coppelius, Herr McManus, darf ich Sie einladen?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0107">
+              <en><![CDATA[I just remembered I have a cake in the oven ... Dr. Coppelius, Mr. McManus, may I invite you?]]></en>
+              <de><![CDATA[Mir fällt gerade ein, ich habe einen Kuchen im Ofen ... Dr. Coppelius, Herr McManus, darf ich Sie einladen?]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0108">
+              <en><![CDATA[Not so fast ...]]></en>
+              <de><![CDATA[Nicht so schnell ...]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="hspeak" sound="voice/docks_intro_voice.swf:docks_intro0109">
+              <en><![CDATA[Hey, you hit me!]]></en>
+              <de><![CDATA[He, hast du mir gerade eine gelangt!?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0110">
+              <en><![CDATA[What?! I haven’t touched you!]]></en>
+              <de><![CDATA[Was?! Ich habe Sie nicht angerührt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0111">
+              <en><![CDATA[Well, I just got nailed on the back of the head with SOMETHING and ...]]></en>
+              <de><![CDATA[Also, IRGENDETWAS habe ich gerade von hinten an den Kopf bekommen und ...]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0112">
+              <en><![CDATA[OWW!! That’s twice!]]></en>
+              <de><![CDATA[AUU! Schon wieder!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0113">
+              <en><![CDATA[Honestly, it wasn’t me. I haven’t moved!]]></en>
+              <de><![CDATA[Ehrlich, ich war’s nicht. Ich hab keinen Finger gerührt!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0114">
+              <en><![CDATA[Shut up ... I’m done with you.]]></en>
+              <de><![CDATA[Klappe halten ... Du hast jetzt Feierabend.]]></de>
+            </dia>
+            <dia puppet="shroom" frame="growl_bark" sound="voice/docks_intro_voice.swf:docks_intro0115">
+              <en><![CDATA[Woof!]]></en>
+              <de><![CDATA[Wuff!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <method call="controls" enabled="0" />
+            <dialogue playList="0,1" />
+            <sound effect="lib/sound_effects.swf:pock2" waitForComplete="1" />
+            <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+            <dialogue playList="2,3,4" />
+            <sound effect="lib/sound_effects.swf:pock2" waitForComplete="1" />
+            <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+            <dialogue playList="5,6,7" />
+            <layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:pock1" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:box1" waitForComplete="0" />
+            <layerSprite target="_avatar" animFrame="nigel_ko" waitForComplete="1" />
+            <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+            <dialogue playList="8" />
+            <layerSprite target="slingshot" animFrame="throw" visible="1" waitForComplete="0" />
+            <layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1" />
+            <game room="boathouse:intro" />
+          </script>
+        </topic>
+      </tier>
+      <tier key="r_t0_t4" id="step3">
+        <topic key="t0" id="_9" enabled="1" hold="1" expose="" go="step4">
+          <title>
+            <en><![CDATA[Coming and going as you please is a pretty popular concept these days ... it’s called freedom, I think!]]></en>
+            <de><![CDATA[Nach Belieben kommen und gehen ist heutzutage ein recht verbreitetes Konzept ... ich glaube, das nennt sich Freiheit!]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0083">
+              <en><![CDATA[Coming and going as you please is a pretty popular concept these days ... it’s called freedom, I think!]]></en>
+              <de><![CDATA[Nach Belieben kommen und gehen ist heutzutage ein recht verbreitetes Konzept ... ich glaube, das nennt sich Freiheit!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0084">
+              <en><![CDATA[My fist is starting to itch, boy.]]></en>
+              <de><![CDATA[Mir juckt langsam die Faust, Junge.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0085">
+              <en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius ...]]></en>
+              <de><![CDATA[Genug! Ich muss Sie und Ihre Freunde bitten, mich zum Schloss zu begleiten, Dr. Coppelius ...]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0086">
+              <en><![CDATA[Very interesting ... How do you know my name?]]></en>
+              <de><![CDATA[Sehr interessant ... Woher wissen Sie, wie ich heiße?]]></de>
+            </dia>
+            <dia puppet="mcmanus" frame="normal_lspeak" sound="voice/docks_intro_voice.swf:docks_intro0087">
+              <en><![CDATA[Have ye been expectin’ us?]]></en>
+              <de><![CDATA[Ich glaub diese Landratten haben hier schon auf uns gewartet ...]]></de>
+            </dia>
+            <dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0088">
+              <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
+              <de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t1" id="_10" enabled="1" hold="1" expose="" go="step4">
+          <title>
+            <en><![CDATA[Global criminality? You mean there are more of your kind running around out there?]]></en>
+            <de><![CDATA[Globale Kriminalität? Sie meinen, es laufen noch mehr von Ihrer Sorte da draußen rum?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0116">
+              <en><![CDATA[Global criminality? You mean there are more of your kind running around out there?]]></en>
+              <de><![CDATA[Globale Kriminalität? Sie meinen, es laufen noch mehr von Ihrer Sorte da draußen rum?]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0117">
+              <en><![CDATA[My fist is starting to itch, boy.]]></en>
+              <de><![CDATA[Mir juckt langsam die Faust, Junge.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0118">
+              <en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius ...]]></en>
+              <de><![CDATA[Genug! Ich muss Sie und Ihre Freunde bitten, mich zum Schloss zu begleiten, Dr. Coppelius ...]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0119">
+              <en><![CDATA[Very interesting ... How do you know my name?]]></en>
+              <de><![CDATA[Sehr interessant ... Woher wissen Sie, wie ich heiße?]]></de>
+            </dia>
+            <dia puppet="mcmanus" frame="normal_lspeak" sound="voice/docks_intro_voice.swf:docks_intro0120">
+              <en><![CDATA[Have ye been expectin’ us?]]></en>
+              <de><![CDATA[Ich glaub diese Landratten haben hier schon auf uns gewartet ...]]></de>
+            </dia>
+            <dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0121">
+              <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
+              <de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t2" id="_11" enabled="1" hold="1" expose="" go="step4">
+          <title>
+            <en><![CDATA[Nice armband ... is there a souvenir shop around where I can buy one?]]></en>
+            <de><![CDATA[Nette Armbinde ... Gibt es hier einen Souvenirladen, wo ich so eine kaufen kann?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0122">
+              <en><![CDATA[Nice armband ... is there a souvenir shop around where I can buy one?]]></en>
+              <de><![CDATA[Nette Armbinde ... Gibt es hier einen Souvenirladen, wo ich so eine kaufen kann?]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0123">
+              <en><![CDATA[My fist is starting to itch, boy.]]></en>
+              <de><![CDATA[Mir juckt langsam die Faust, Junge.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0124">
+              <en><![CDATA[Enough! I have to ask you and your friends to accompany me to the castle, Dr. Coppelius ...]]></en>
+              <de><![CDATA[Genug! Ich muss Sie und Ihre Freunde bitten, mich zum Schloss zu begleiten, Dr. Coppelius ...]]></de>
+            </dia>
+            <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0125">
+              <en><![CDATA[Very interesting ... How do you know my name?]]></en>
+              <de><![CDATA[Sehr interessant ... Woher wissen Sie, wie ich heiße?]]></de>
+            </dia>
+            <dia puppet="mcmanus" frame="normal_lspeak" sound="voice/docks_intro_voice.swf:docks_intro0126">
+              <en><![CDATA[Have ye been expectin’ us?]]></en>
+              <de><![CDATA[Ich glaub diese Landratten haben hier schon auf uns gewartet ...]]></de>
+            </dia>
+            <dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0127">
+              <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
+              <de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+      </tier>
+      <tier key="r_t0" id="step2">
+        <topic key="t4" id="_8" enabled="1" hold="1" expose="" go="step3">
+          <title>
+            <en><![CDATA[Re-subjugated? Northwest Castle? Seems like you skipped politics class once too often.]]></en>
+            <de><![CDATA[Unterworfen? Schloss Nordwest? Sie haben in der Schule im Politikunterricht wohl etwas zu oft gefehlt.]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0078">
+              <en><![CDATA[Re-subjugated? Northwest Castle? Seems like you skipped politics class once too often.]]></en>
+              <de><![CDATA[Unterworfen? Schloss Nordwest? Sie haben in der Schule im Politikunterricht wohl etwas zu oft gefehlt.]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0079">
+              <en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en>
+              <de><![CDATA[Damit haste dir ein paar Stunden bewusstloses Rumliegen im Bootshaus verdient, Freundchen.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0080">
+              <en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en>
+              <de><![CDATA[Noch nicht. Wir können Fremden nicht vorhalten, dass sie nichts von den Veränderungen wissen, die sich in unserem geliebten Ravenhollow ereignet haben.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0081">
+              <en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en>
+              <de><![CDATA[Durch die Nordwest-Restauration stellt das Schloss sicher, dass in dieser Stadt Frieden und Ordnung aufrecht erhalten werden.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0082">
+              <en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en>
+              <de><![CDATA[Sie verstehen sicher, dass wir in diesen gefährlichen Zeiten globaler Kriminalität Fremden nicht erlauben können, nach Belieben zu kommen und zu gehen.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t3" id="_7" enabled="1" hold="1" expose="" go="step3">
+          <title>
+            <en><![CDATA[You want to try to reason with me? You already gave me reason enough to sue you for threatening us.]]></en>
+            <de><![CDATA[Sie wollen zivilisiert mit mir reden? Ich werde Sie für Ihre Drohungen ganz zivilisiert verklagen.]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0128">
+              <en><![CDATA[You want to try to reason with me? You already gave me reason enough to sue you for threatening us.]]></en>
+              <de><![CDATA[Sie wollen zivilisiert mit mir reden? Ich werde Sie für Ihre Drohungen ganz zivilisiert verklagen.]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0129">
+              <en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en>
+              <de><![CDATA[Damit haste dir ein paar Stunden bewusstloses Rumliegen im Bootshaus verdient, Freundchen.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0130">
+              <en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en>
+              <de><![CDATA[Noch nicht. Wir können Fremden nicht vorhalten, dass sie nichts von den Veränderungen wissen, die sich in unserem geliebten Ravenhollow ereignet haben.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0131">
+              <en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en>
+              <de><![CDATA[Durch die Nordwest-Restauration stellt das Schloss sicher, dass in dieser Stadt Frieden und Ordnung aufrecht erhalten werden.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0132">
+              <en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en>
+              <de><![CDATA[Sie verstehen sicher, dass wir in diesen gefährlichen Zeiten globaler Kriminalität Fremden nicht erlauben können, nach Belieben zu kommen und zu gehen.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t2" id="_6" enabled="1" hold="1" expose="" go="step3">
+          <title>
+            <en><![CDATA[Last time I checked, wearing a uniform did not entitle you to push people around.]]></en>
+            <de><![CDATA[Soweit ich unterrichtet bin, gibt Ihnen eine Uniform nicht das Recht, Leute zu schikanieren.]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0133">
+              <en><![CDATA[Last time I checked, wearing a uniform did not entitle you to push people around.]]></en>
+              <de><![CDATA[Soweit ich unterrichtet bin, gibt Ihnen eine Uniform nicht das Recht, Leute zu schikanieren.]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0134">
+              <en><![CDATA[You just won yourself a ticket to lying unconscious in the boathouse for a couple of hours, pal. ]]></en>
+              <de><![CDATA[Damit haste dir ein paar Stunden bewusstloses Rumliegen im Bootshaus verdient, Freundchen.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0135">
+              <en><![CDATA[Not yet. We can’t blame strangers for being uninformed about the recent changes that took place here in our beloved Ravenhollow.]]></en>
+              <de><![CDATA[Noch nicht. Wir können Fremden nicht vorhalten, dass sie nichts von den Veränderungen wissen, die sich in unserem geliebten Ravenhollow ereignet haben.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0136">
+              <en><![CDATA[With the Northwest Restoration, the Castle makes sure that peace and order are maintained in this town.]]></en>
+              <de><![CDATA[Durch die Nordwest-Restauration stellt das Schloss sicher, dass in dieser Stadt Frieden und Ordnung aufrecht erhalten werden.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0137">
+              <en><![CDATA[You understand that in these dangerous times of global criminality we cannot tolerate strangers to come and go as they please.]]></en>
+              <de><![CDATA[Sie verstehen sicher, dass wir in diesen gefährlichen Zeiten globaler Kriminalität Fremden nicht erlauben können, nach Belieben zu kommen und zu gehen.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+      </tier>
+      <tier key="r" id="main">
+        <topic key="t0" id="1" enabled="1" hold="1" expose="" go="step2">
+          <title>
+            <en><![CDATA[You are asking for our permission to enter Ravenhollow? You must be joking.]]></en>
+            <de><![CDATA[Sie meinen, wir brauchen eine Genehmigung, um Ravenhollow zu betreten? Das ist doch wohl ein Scherz.]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0074">
+              <en><![CDATA[You are asking for our permission to enter Ravenhollow? You must be joking.]]></en>
+              <de><![CDATA[Sie meinen, wir brauchen eine Genehmigung, um Ravenhollow zu betreten? Das ist doch wohl ein Scherz.]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0075">
+              <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+              <de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0076">
+              <en><![CDATA[Let’s try to reason with him first.]]></en>
+              <de><![CDATA[Versuchen wir erst, ob er zivillisiert auf die Stimme der Vernunft anspricht.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0077">
+              <en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en>
+              <de><![CDATA[Es ist ihm offensichtlich nicht klar, dass die Stadt Ravenhollow nebst Umgebung rechtmäßig wieder der Autorität von Baron Nordwest von Schloss Nordwest unterworfen wurden.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t4" id="_13" enabled="1" hold="1" expose="" go="step2">
+          <title>
+            <en><![CDATA[Please don’t bother us, we were just in the middle of a conversation.]]></en>
+            <de><![CDATA[Bitte stören Sie uns nicht, wir sind gerade mitten in einer Unterhaltung.]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0138">
+              <en><![CDATA[Please don’t bother us, we were just in the middle of a conversation.]]></en>
+              <de><![CDATA[Bitte stören Sie uns nicht, wir sind gerade mitten in einer Unterhaltung.]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0139">
+              <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+              <de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0140">
+              <en><![CDATA[Let’s try to reason with him first.]]></en>
+              <de><![CDATA[Versuchen wir erst, ob er zivillisiert auf die Stimme der Vernunft anspricht.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0141">
+              <en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en>
+              <de><![CDATA[Es ist ihm offensichtlich nicht klar, dass die Stadt Ravenhollow nebst Umgebung rechtmäßig wieder der Autorität von Baron Nordwest von Schloss Nordwest unterworfen wurden.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t5" id="_14" enabled="1" hold="1" expose="" go="step2">
+          <title>
+            <en><![CDATA[We are not lingering. But maybe you are!]]></en>
+            <de><![CDATA[Wir lungern nicht herum. Aber vielleicht lungern Sie ja herum!]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0142">
+              <en><![CDATA[We are not lingering. But maybe you are!]]></en>
+              <de><![CDATA[Wir lungern nicht herum. Aber vielleicht lungern Sie ja herum!]]></de>
+            </dia>
+            <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0143">
+              <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+              <de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0144">
+              <en><![CDATA[Let’s try to reason with him first.]]></en>
+              <de><![CDATA[Versuchen wir erst, ob er zivillisiert auf die Stimme der Vernunft anspricht.]]></de>
+            </dia>
+            <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0145">
+              <en><![CDATA[He’s clearly not aware that the town of Ravenhollow and its adjoining areas have been legally re-subjugated under the authority of Baron Northwest of Northwest Castle.]]></en>
+              <de><![CDATA[Es ist ihm offensichtlich nicht klar, dass die Stadt Ravenhollow nebst Umgebung rechtmäßig wieder der Autorität von Baron Nordwest von Schloss Nordwest unterworfen wurden.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+      </tier>
+    </tree>
+  </trees>
+</room>

@@ -22,6 +22,7 @@ var docs = {};
 var omits = mappings.omitIndices;
 var caches = mappings.caches;
 var actors = mappings.actors;
+var subtitles = mappings.subtitles;
 var sceneIds = mappings.sceneIds;
 var scenes = mappings.scenes;
 var owners = mappings.owners;
@@ -97,6 +98,11 @@ function parseRoom(id, done) {
     return actor;
   }
   
+  function getSubtitleColor(puppetId) {
+    if (puppetId === '_avatar') return '0xFFFFFF';
+    return subtitles[getActor(puppetId)] || '0xCCCCCC';
+  }
+
   function onRead(err, data) {
     if (err) throw err;
     XML = data;
@@ -149,6 +155,7 @@ function parseRoom(id, done) {
           var turn = turnView(map, loc);
           XML = XML.replace(new RegExp('(<layer id="'+layer.$.id+'".+?<state id="'+state.$.id+'".+?<param.+?)turnTo="."'), '$1');
           XML = XML.replace(new RegExp('(<layer id="'+layer.$.id+'".+?<state id="'+state.$.id+'".+?<param )'), '$1turnTo="'+turn+'" ');
+          XML = XML.replace(new RegExp('(<layer id="'+layer.$.id+'".+?<state id="'+state.$.id+'".+?<param.+?subtitle=)"0x.+?"'), '$1"'+getSubtitleColor(layer.$.id)+'"');
         }
         
         _.each(actions.concat(items), function(action) {
