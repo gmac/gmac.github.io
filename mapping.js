@@ -51,7 +51,7 @@ module.exports.subtitles = {
   'mcmanus': '0x99CCCC',
   'mrs_caro': '0xFFCC33',
   'narrator': '0xFFFFFF',
-  'nathan': '0xFFEEDD',
+  'nathan': '0xC6C6a9',
   'nigel': '0xCCCCFF',
   'nora': '0xFFFF99',
   'rat': '0xFFFF99',

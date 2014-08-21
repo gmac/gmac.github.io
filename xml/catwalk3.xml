@@ -1160,7 +1160,7 @@
                   <de><![CDATA[Nein, die Frequenz. Wenn du nicht erst die Frequenz änderst, kannst du nicht ...]]></de>
                 </dia>
                 <dia puppet="slappy" frame="speak4" sound="voice/catwalk3_voice.swf:catwalk30019">
-                  <en><![CDATA[Could you stop your wavering? I know exactly what I’m doing ...]]></en>
+                  <en><![CDATA[Could you stop your quibbling? I know exactly what I’m doing ...]]></en>
                   <de><![CDATA[Kannst du mal einen Moment die Luft anhalten, William? Ich weiß genau, was ich hier mache ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30020">
@@ -1334,16 +1334,16 @@
                     <puppetTween target="slappy" type="move" to="position:to_swamp" waitForComplete="1" />
                   </process>
                   <puppetTween target="nora" type="move" to="position:downleft" waitForComplete="1" />
-                  <dialogue playBatch="2" />
-                  <process>
-                    <puppetTween target="nora" type="move" to="position:to_swamp" waitForComplete="1" />
-                  </process>
-                  <layerState target="_current:_avatar:main" turnView="5" />
-                  <dialogue playBatch="1" />
-                  <layerState target="_current:_avatar:main" turnView="6" />
-                  <dialogue playBatch="1" />
-                  <puppetTween target="_avatar" type="move" to="position:to_swamp" waitForComplete="1" />
                 </sequence>
+                <dialogue playBatch="2" />
+                <process>
+                  <puppetTween target="nora" type="move" to="position:to_swamp" waitForComplete="1" />
+                </process>
+                <layerState target="_current:_avatar:main" turnView="5" />
+                <dialogue playBatch="1" />
+                <layerState target="_current:_avatar:main" turnView="6" />
+                <dialogue playBatch="1" />
+                <puppetTween target="_avatar" type="move" to="position:to_swamp" waitForComplete="1" />
                 <game room="swamp3:join_catwalk" />
               </script>
             </action>

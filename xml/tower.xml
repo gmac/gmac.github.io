@@ -1063,16 +1063,16 @@
                   <dialogue playBatch="2" />
                   <layerState target="_current:nathan:main" turnView="6" />
                   <dialogue playBatch="1" />
-                  <layerSprite target="nathan" animFrame="kneel_out" waitForComplete="1" />
-                  <layer target="_current:nigelsstuff" visible="0" />
-                  <layerSprite target="nathan" animFrame="kneel_in" waitForComplete="1" />
-                  <dialogue playBatch="1" />
-                  <puppetTween target="nathan" type="move" to="position:vincent" waitForComplete="1" />
-                  <layerState target="_current:nathan:main" turnView="6" />
-                  <dialogue playBatch="1" />
-                  <layerState target="_current:nathan:main" turnView="5" />
-                  <dialogue playBatch="1" />
                 </sequence>
+                <layerSprite target="nathan" animFrame="kneel_out" waitForComplete="1" />
+                <layer target="_current:nigelsstuff" visible="0" />
+                <layerSprite target="nathan" animFrame="kneel_in" waitForComplete="1" />
+                <dialogue playBatch="1" />
+                <puppetTween target="nathan" type="move" to="position:vincent" waitForComplete="1" />
+                <layerState target="_current:nathan:main" turnView="6" />
+                <dialogue playBatch="1" />
+                <layerState target="_current:nathan:main" turnView="5" />
+                <dialogue playBatch="1" />
                 <game room="catwalk3:join_smith" actor="nathan" />
               </script>
             </action>

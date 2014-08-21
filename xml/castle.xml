@@ -306,7 +306,7 @@
       </logic>
       <logic>
         <if eval="[finale_act2] EQ 1">
-          <method call="controls" enabled="0" cursor="0" />
+          <method call="controls" enabled="0" cursor="1" />
           <curtain blackout="0" />
           <puppet target="nathan" callAction="0" />
         </if>
@@ -1065,7 +1065,7 @@
                   <de><![CDATA[Und vergiss nicht die Scheine aus den Umschlägen, die wir in der Post gefunden haben ...]]></de>
                 </dia>
                 <dia puppet="holdup" frame="" sound="voice/castle_voice.swf:castle0046">
-                  <en><![CDATA[Isn’t it great? Lowell Cain gives us a brain&#8212;washing device and lets us take anything we want from this stinking village, and then pays us a generous salary on top of it all!]]></en>
+                  <en><![CDATA[Isn’t it great? Lowell Cain gives us a brain-washing device and lets us take anything we want from this stinking village, and then pays us a generous salary on top of it all!]]></en>
                   <de><![CDATA[Toll, nicht wahr? Lowell Cain gibt uns ein Gerät für Gehirnwäschen, lässt uns aus diesem stinkenden Dorf nehmen, was wir wollen, und zahlt uns zudem ein großzügiges Gehalt!]]></de>
                 </dia>
                 <dia puppet="holdup" frame="" sound="voice/castle_voice.swf:castle0047">
@@ -1077,7 +1077,7 @@
                   <de><![CDATA[Klingt toll!]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/castle_voice.swf:castle0049">
-                  <en><![CDATA[Sounds great indeed! We just have to make sure we don’t run into the big city cops – we’re still wanted for fraud ...]]></en>
+                  <en><![CDATA[Sounds great indeed! We just have to make sure we don’t run into the big city cops &#8212; we’re still wanted for fraud ...]]></en>
                   <de><![CDATA[Klingt wirklich toll! Wir müssen nur aufpassen, dass wir da nicht der echten Polizei in die Arme laufen &#8212; wir werden immer noch wegen Betrugs gesucht ...]]></de>
                 </dia>
                 <dia puppet="rat" frame="" sound="voice/castle_voice.swf:castle0050">
@@ -1126,14 +1126,18 @@
                 </dia>
               </dialog>
               <script>
-                <dialogue playBatch="18" />
+                <sequence skip="1">
+                  <dialogue playBatch="18" />
+                </sequence>
                 <process>
                   <puppetTween target="nathan" type="move" to="position:balconyleft" waitForComplete="1" />
                   <layerState target="_current:nathan:main" turnView="4" />
                 </process>
                 <puppetTween target="_avatar" type="move" to="position:balcony" waitForComplete="1" />
                 <layerState target="_current:_avatar:main" turnView="6" />
-                <dialogue playBatch="7" />
+                <sequence skip="1">
+                  <dialogue playBatch="7" />
+                </sequence>
                 <process>
                   <puppetTween target="nathan" type="move" to="position:leave" waitForComplete="1" />
                   <layer target="_current:nathan" visible="0" omit="1" />

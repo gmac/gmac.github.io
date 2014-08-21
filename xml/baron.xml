@@ -96,7 +96,7 @@
         </elseif>
         <else>
           <cache field="intro_baron_played" value="1" />
-          <method call="controls" enabled="0" cursor="0" />
+          <method call="controls" enabled="0" cursor="1" />
           <layer target="_current:_avatar" visible="0" />
           <curtain blackout="0" waitForComplete="1" />
           <puppet target="dia" callAction="0" />
@@ -701,30 +701,32 @@
                 </dia>
               </dialog>
               <script>
-                <method call="controls" enabled="0" />
+                <method call="controls" enabled="0" cursor="1" />
                 <dialogue playList="0" />
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                <layerSprite target="baron" animFrame="situp" waitForComplete="1" />
-                <layerSprite target="baron" animFrame="rest2" waitForComplete="0" />
-                <dialogue playList="1,2,3,4" />
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <layerSprite target="baron" animFrame="rest2will" waitForComplete="0" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                <dialogue playList="5" />
-                <layerSprite target="baron" animFrame="sign" waitForComplete="1" />
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <layerSprite target="baron" animFrame="rest4" waitForComplete="0" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                <inventory replace="will_stamped:will_signed" />
-                <dialogue playList="6" />
-                <layerSprite target="baron" animFrame="note" waitForComplete="1" />
-                <dialogue playList="7,8,9,10,11,12" />
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <layerSprite target="baron" animFrame="rest6" waitForComplete="0" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                <inventory add="note" />
-                <dialogue playList="13,14,15" />
+                <sequence skip="1">
+                  <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                  <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                  <layerSprite target="baron" animFrame="situp" waitForComplete="1" />
+                  <layerSprite target="baron" animFrame="rest2" waitForComplete="0" />
+                  <dialogue playList="1,2,3,4" />
+                  <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                  <layerSprite target="baron" animFrame="rest2will" waitForComplete="0" />
+                  <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                  <dialogue playList="5" />
+                  <layerSprite target="baron" animFrame="sign" waitForComplete="1" />
+                  <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                  <layerSprite target="baron" animFrame="rest4" waitForComplete="0" />
+                  <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                  <inventory replace="will_stamped:will_signed" />
+                  <dialogue playList="6" />
+                  <layerSprite target="baron" animFrame="note" waitForComplete="1" />
+                  <dialogue playList="7,8,9,10,11,12" />
+                  <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                  <layerSprite target="baron" animFrame="rest6" waitForComplete="0" />
+                  <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                  <inventory add="note" />
+                  <dialogue playList="13,14,15" />
+                </sequence>
                 <layer target="_current:baron" state="after" />
                 <method call="controls" enabled="1" />
               </script>
@@ -1429,88 +1431,94 @@
               <script>
                 <logic>
                   <if eval="({getLayerProp:_current,tea,state} EQ main) OR ({getLayerProp:_current,tea,state} EQ nocup)">
-                    <method call="controls" enabled="0" />
+                    <method call="controls" enabled="0" cursor="1" />
                     <dialogue playList="0,1" />
-                    <puppetTween target="nathan" type="move" to="position:back3" waitForComplete="1" />
-                    <puppetTween target="nathan" type="move" to="position:screen1" waitForComplete="1" />
-                    <layerState target="_current:nathan:main" turnView="6" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <sound effect="lib/baron.swf:bell1" waitForComplete="0" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <dialogue playList="2" />
-                    <puppetTween target="_avatar" type="move" to="position:screen2" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="3" />
-                    <puppetTween target="manbreaker" type="move" to="position:manbreaker" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="6" />
-                    <dialogue playList="4" />
-                    <wait seconds="1" />
-                    <dialogue playList="5,6" />
-                    <wait seconds="1" />
-                    <dialogue playList="7" />
-                    <wait seconds="1" />
-                    <dialogue playList="8" />
-                    <puppetTween target="manbreaker" type="move" to="position:join_tower" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="8" />
-                    <dialogue playList="9,10,11" />
+                    <sequence skip="1">
+                      <puppetTween target="nathan" type="move" to="position:back3" waitForComplete="1" />
+                      <puppetTween target="nathan" type="move" to="position:screen1" waitForComplete="1" />
+                      <layerState target="_current:nathan:main" turnView="6" />
+                      <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                      <sound effect="lib/baron.swf:bell1" waitForComplete="0" />
+                      <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                      <dialogue playList="2" />
+                      <puppetTween target="_avatar" type="move" to="position:screen2" waitForComplete="1" />
+                      <layerState target="_current:_avatar:main" turnView="6" />
+                      <dialogue playList="3" />
+                      <puppetTween target="manbreaker" type="move" to="position:manbreaker" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="6" />
+                      <dialogue playList="4" />
+                      <wait seconds="1" />
+                      <dialogue playList="5,6" />
+                      <wait seconds="1" />
+                      <dialogue playList="7" />
+                      <wait seconds="1" />
+                      <dialogue playList="8" />
+                      <puppetTween target="manbreaker" type="move" to="position:join_tower" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="8" />
+                      <dialogue playList="9,10,11" />
+                    </sequence>
                     <puppetTween target="nathan" type="move" to="position:nathan" waitForComplete="1" />
                     <layerState target="_current:nathan:main" turnView="6" />
                     <method call="controls" enabled="1" />
                   </if>
                   <elseif eval="{getLayerProp:_current,tea,state} EQ empty">
-                    <method call="controls" enabled="0" />
+                    <method call="controls" enabled="0" cursor="1" />
                     <dialogue playList="12,1" />
-                    <puppetTween target="nathan" type="move" to="position:back3" waitForComplete="1" />
-                    <puppetTween target="nathan" type="move" to="position:screen1" waitForComplete="1" />
-                    <layerState target="_current:nathan:main" turnView="6" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <sound effect="lib/baron.swf:bell1" waitForComplete="0" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <puppetTween target="_avatar" type="move" to="position:screen2" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="3" />
-                    <puppetTween target="manbreaker" type="move" to="position:manbreaker" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="6" />
-                    <dialogue playList="4" />
-                    <wait seconds="1" />
-                    <dialogue playList="5,6" />
-                    <wait seconds="1" />
-                    <dialogue playList="7" />
-                    <wait seconds="1" />
-                    <dialogue playList="8" />
-                    <puppetTween target="manbreaker" type="move" to="position:join_tower" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="8" />
-                    <dialogue playList="9,10,13" />
+                    <sequence skip="1">
+                      <puppetTween target="nathan" type="move" to="position:back3" waitForComplete="1" />
+                      <puppetTween target="nathan" type="move" to="position:screen1" waitForComplete="1" />
+                      <layerState target="_current:nathan:main" turnView="6" />
+                      <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                      <sound effect="lib/baron.swf:bell1" waitForComplete="0" />
+                      <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                      <puppetTween target="_avatar" type="move" to="position:screen2" waitForComplete="1" />
+                      <layerState target="_current:_avatar:main" turnView="6" />
+                      <dialogue playList="3" />
+                      <puppetTween target="manbreaker" type="move" to="position:manbreaker" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="6" />
+                      <dialogue playList="4" />
+                      <wait seconds="1" />
+                      <dialogue playList="5,6" />
+                      <wait seconds="1" />
+                      <dialogue playList="7" />
+                      <wait seconds="1" />
+                      <dialogue playList="8" />
+                      <puppetTween target="manbreaker" type="move" to="position:join_tower" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="8" />
+                      <dialogue playList="9,10,13" />
+                    </sequence>
                     <puppetTween target="nathan" type="move" to="position:nathan" waitForComplete="1" />
                     <layerState target="_current:nathan:main" turnView="6" />
                     <method call="controls" enabled="1" />
                   </elseif>
                   <elseif eval="{getLayerProp:_current,tea,state} EQ emptynote">
-                    <method call="controls" enabled="0" />
+                    <method call="controls" enabled="0" cursor="1" />
                     <dialogue playList="12,1" />
-                    <puppetTween target="nathan" type="move" to="position:back3" waitForComplete="1" />
-                    <puppetTween target="nathan" type="move" to="position:screen1" waitForComplete="1" />
-                    <layerState target="_current:nathan:main" turnView="6" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <sound effect="lib/baron.swf:bell2" waitForComplete="1" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <puppetTween target="_avatar" type="move" to="position:screen2" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="3" />
-                    <puppetTween target="manbreaker" type="move" to="position:manbreaker" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="6" />
-                    <dialogue playList="5" />
-                    <wait seconds="1" />
-                    <dialogue playList="14,15" />
-                    <puppetTween target="manbreaker" type="move" to="position:nathan2" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="1" />
-                    <wait seconds="1" />
-                    <layer target="_current:tea" visible="0" />
-                    <puppetTween target="manbreaker" type="move" to="position:stairs" waitForComplete="1" />
-                    <layerState target="_current:manbreaker:main" turnView="4" />
-                    <dialogue playList="16" />
-                    <puppetTween target="manbreaker" type="move" to="position:exitmanbreaker" waitForComplete="1" />
-                    <layer target="_current:manbreaker" visible="0" />
+                    <sequence skip="1">
+                      <puppetTween target="nathan" type="move" to="position:back3" waitForComplete="1" />
+                      <puppetTween target="nathan" type="move" to="position:screen1" waitForComplete="1" />
+                      <layerState target="_current:nathan:main" turnView="6" />
+                      <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                      <sound effect="lib/baron.swf:bell2" waitForComplete="1" />
+                      <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                      <puppetTween target="_avatar" type="move" to="position:screen2" waitForComplete="1" />
+                      <layerState target="_current:_avatar:main" turnView="6" />
+                      <dialogue playList="3" />
+                      <puppetTween target="manbreaker" type="move" to="position:manbreaker" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="6" />
+                      <dialogue playList="5" />
+                      <wait seconds="1" />
+                      <dialogue playList="14,15" />
+                      <puppetTween target="manbreaker" type="move" to="position:nathan2" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="1" />
+                      <wait seconds="1" />
+                      <layer target="_current:tea" visible="0" />
+                      <puppetTween target="manbreaker" type="move" to="position:stairs" waitForComplete="1" />
+                      <layerState target="_current:manbreaker:main" turnView="4" />
+                      <dialogue playList="16" />
+                      <puppetTween target="manbreaker" type="move" to="position:exitmanbreaker" waitForComplete="1" />
+                      <layer target="_current:manbreaker" visible="0" />
+                    </sequence>
                     <dialogue playList="17,18" />
                     <process>
                       <puppetTween target="nathan" type="move" to="position:exitnathan" waitForComplete="1" />
@@ -1895,19 +1903,21 @@
                 </dia>
               </dialog>
               <script>
-                <puppetTween target="nathan" type="move" to="position:nathan2" waitForComplete="1" />
-                <dialogue playList="0" />
-                <layerState target="_current:_avatar:main" turnView="4" />
-                <layer target="_current:_avatar" visible="1" />
-                <puppetTween target="_avatar" type="move" to="position:left" waitForComplete="1" />
-                <dialogue playList="1" />
-                <layerState target="_current:_avatar:main" turnView="1" />
-                <dialogue playList="2" />
-                <puppetTween target="nathan" type="move" to="position:nathan" waitForComplete="1" />
-                <layerState target="_current:nathan:main" turnView="6" />
-                <dialogue playList="3" />
-                <wait seconds="2" />
-                <dialogue playList="4" />
+                <sequence skip="1">
+                  <puppetTween target="nathan" type="move" to="position:nathan2" waitForComplete="1" />
+                  <dialogue playList="0" />
+                  <layerState target="_current:_avatar:main" turnView="4" />
+                  <layer target="_current:_avatar" visible="1" />
+                  <puppetTween target="_avatar" type="move" to="position:left" waitForComplete="1" />
+                  <dialogue playList="1" />
+                  <layerState target="_current:_avatar:main" turnView="1" />
+                  <dialogue playList="2" />
+                  <puppetTween target="nathan" type="move" to="position:nathan" waitForComplete="1" />
+                  <layerState target="_current:nathan:main" turnView="6" />
+                  <dialogue playList="3" />
+                  <wait seconds="2" />
+                  <dialogue playList="4" />
+                </sequence>
                 <method call="controls" enabled="1" />
               </script>
             </action>
