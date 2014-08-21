@@ -742,7 +742,7 @@
                   <de><![CDATA[Ich bin schon ganz aufgeregt!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0028">
-                  <en><![CDATA[I can’t wait to see what my very own hand&#8212;carved mask looks like!]]></en>
+                  <en><![CDATA[I can’t wait to see what my very own hand-carved mask looks like!]]></en>
                   <de><![CDATA[Ich kann es kaum erwarten, meine eigene handgeschnitzte Maske zu sehen!]]></de>
                 </dia>
               </dialog>
@@ -935,7 +935,7 @@
                   <de><![CDATA[Guten Morgen, Herr Mandelbaum.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0046">
-                  <en><![CDATA[Oh, that must be it! My very own hand&#8212;carved eagle mask!]]></en>
+                  <en><![CDATA[Oh, that must be it! My very own hand-carved eagle mask!]]></en>
                   <de><![CDATA[Oh, das muss sie sein! Meine eigene handgeschnitzte Adlermaske!]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0047">
@@ -947,7 +947,7 @@
                   <de><![CDATA[Wie die meisten Statuen in Ravenhollow wurden sie vor über 300 Jahren von einem örtlichen Steinmetz namens Timothy Caro entworfen!]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0049">
-                  <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great&#8212;great&#8212;and&#8212;so&#8212;on&#8212;grandnephew.]]></en>
+                  <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great-great-and-so-on-grandnephew.]]></en>
                   <de><![CDATA[Wenn Sie an dieser Art von Geschichte interessiert sind, dann sollten Sie Stephan Caros Antiquitätenladen aufauchen. Er ist Timothy Caros Ur-Ur-und-so-weiter-Großneffe.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0050">

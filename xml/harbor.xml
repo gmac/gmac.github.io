@@ -446,7 +446,7 @@
                   <de><![CDATA[Ich werde versuchen, keines der Eier zu treffen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0006">
-                  <en><![CDATA[Wow, a handful of feathers! If I find any more I can re&#8212;stuff my pillow ...]]></en>
+                  <en><![CDATA[Wow, a handful of feathers! If I find any more I can re-stuff my pillow ...]]></en>
                   <de><![CDATA[Wow, eine Handvoll Federn! Wenn ich noch ein paar Federn finde, kann ich mein Kissen neu aufpolstern ...]]></de>
                 </dia>
               </dialog>
@@ -6844,7 +6844,7 @@
               <de><![CDATA[Lassen Sie mich raten ... Sie möchten mich als Gegenleistung um einen Gefallen bitten, nicht wahr?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0528">
-              <en><![CDATA[Well. Yes and no ... this is in your best interest as well.]]></en>
+              <en><![CDATA[Well, yes ... but this may be in your best interest as well.]]></en>
               <de><![CDATA[Nun. Ja und nein ... aber das ist auch in Ihrem besten Interesse.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0529">
