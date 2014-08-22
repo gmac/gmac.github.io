@@ -1,1 +1,987 @@
-<room id="catwalk" coreLibs="lib/catwalk.swf,lib/catwalk_fx.swf" voiceLibs="voice/catwalk_voice.swf" enterScript="_enter" exitScript="_exit" grid="catwalk" sound1="lib/catwalk_fx.swf:CatwalkMusic" sound2="lib/catwalk_fx.swf:CatwalkFx"><grids><grid id="catwalk"><boxes><box x="544" y="490" w="30" h="18" nodes="n3"/><box x="1175" y="559" w="120" h="34" nodes="n11,n12"/></boxes><nodes><node id="n0" x="238" y="521" join="n1,n16" trap="1" name="leftleft" scale="0.3"/><node id="n1" x="188" y="495" join="n0,n18" trap="1" name="join_trelawney" scale="0.25"/><node id="n3" x="560" y="500" join="n13,n17" trap="1"/><node id="n4" x="414" y="446" join="n16,n17" trap="1" name="left" scale="0.45"/><node id="n5" x="1072" y="528" join="n12,n15" trap="1"/><node id="n7" x="898" y="521" join="n14,n15" trap="1"/><node id="n8" x="715" y="485" join="n13,n14" trap="1" name="realmiddle"/><node id="n9" x="1330" y="520" join="n11" trap="0" name="join_smith" scale="0.37"/><node id="n11" x="1270" y="562" join="n9,n12" trap="0" scale="0.45"/><node id="n12" x="1180" y="565" join="n5,n11" trap="0"/><node id="n13" x="636" y="496" join="n8,n3" trap="1"/><node id="n14" x="801" y="504" join="n8,n7" trap="1"/><node id="n15" x="985" y="525" join="n7,n5" trap="1" name="middle"/><node id="n16" x="318" y="490" join="n0,n4" trap="1" scale="0.35"/><node id="n17" x="481" y="474" join="n4,n3" trap="1" name="pipe"/><node id="n18" x="176" y="478" join="n1" trap="0" name="birdlift" scale="0.25"/></nodes></grid><grid id="station"><boxes><box x="791" y="1015" w="108" h="24" nodes="n0,n3,n7"/><box x="934" y="968" w="69" h="19" nodes="n1,n12,n16"/><box x="914" y="1091" w="200" h="23" nodes="n2,n4,n9"/><box x="1069" y="998" w="138" h="38" nodes="n10,n11"/></boxes><nodes><node id="n0" x="896" y="1019" join="n1,n3,n11,n12,n10,n7" trap="0"/><node id="n1" x="938" y="984" join="n0,n12,n16" trap="0"/><node id="n2" x="995" y="1094" join="n4,n3,n9,n10,n12" trap="0"/><node id="n3" x="896" y="1036" join="n4,n2,n10,n0,n11,n7" trap="0"/><node id="n4" x="918" y="1095" join="n3,n2,n9" trap="0"/><node id="n5" x="123" y="1210" join="n6" trap="0" name="to_swamp" color="0x000000" tint="1"/><node id="n6" x="375" y="1161" join="n5,n14" trap="1" name="join_swamp" scale="0.45" color="0x000000" tint="0"/><node id="n7" x="795" y="1035" join="n15,n0,n3" trap="0"/><node id="n9" x="1110" y="1094" join="n10,n2,n4" trap="0"/><node id="n10" x="1072" y="1033" join="n9,n2,n3,n11,n12,n0" trap="0"/><node id="n11" x="1072" y="1001" join="n10,n3,n0,n12" trap="0"/><node id="n12" x="1002" y="985" join="n10,n0,n11,n2,n1,n16" trap="0"/><node id="n13" x="650" y="1090" join="n14,n15" trap="1"/><node id="n14" x="528" y="1120" join="n6,n13" trap="1" color="0x000000" tint="0"/><node id="n15" x="765" y="1050" join="n13,n7" trap="1"/><node id="n16" x="966" y="975" join="n1,n12" trap="0" name="join_mtstation" scale="0.45"/></nodes></grid></grids><positions><position id="leftleft" turn="4" x="238" y="521" scale="0.3"/><position id="join_trelawney" turn="4" x="188" y="495" scale="0.25"/><position id="left" turn="4" x="414" y="446" scale="0.45"/><position id="realmiddle" turn="4" x="715" y="485"/><position id="join_smith" turn="4" x="1330" y="520" scale="0.37"/><position id="middle" turn="4" x="985" y="525"/><position id="pipe" turn="4" x="481" y="474"/><position id="birdlift" turn="4" x="176" y="478" scale="0.25"/><position id="to_swamp" turn="4" x="123" y="1210" color="0x000000" tint="1"/><position id="join_swamp" turn="4" x="375" y="1161" scale="0.45" color="0x000000" tint="0"/><position id="join_mtstation" turn="4" x="966" y="975" scale="0.45"/></positions><filters><filter id="_scale" axis="x" enabled="1"><pole x="35" y="1167" scale="0.25" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="78" y="1167" scale="0.45" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters><scripts><script id="_enter"><logic><if eval="([_startPosition] EQ 'join_mtstation') OR ([_startPosition] EQ 'join_swamp')"><room grid="station"/><layer target="lift" state="down"/></if><else><room grid="catwalk"/><layer target="lift" state="up"/></else></logic><logic><if eval="[_startPosition] EQ 'birdlift'"><layer target="_current:liftdoor" state="gone"/><curtain blackout="0"/><method call="controls" enabled="0"/><wait seconds="2"/><layerSprite target="liftdoor" animFrame="down" waitForComplete="1"/><layer target="_current:liftdoor" state="there"/><method call="controls" enabled="1"/></if><else><curtain blackout="0"/></else></logic><logic><if eval="[catwalk_visited] EQ 1"><method call="controls" enabled="1" cursor="1"/></if><else><cache field="catwalk_visited" value="1"/><method call="controls" enabled="0" cursor="0"/><wait seconds="1"/><puppetTween target="_avatar" type="move" to="position:leftleft" waitForComplete="1"/><wait seconds="2"/><puppet target="welcome" callAction="2"/></else></logic></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="lib/catwalk.swf:CatwalkBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1500" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="0" scrollB="600"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="shadows" type="plane" asset="lib/catwalk.swf:CatwalkShadows" depth="1" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="bulb_glow" type="plane" asset="lib/catwalk.swf:CatwalkGlow" depth="2" visible="1" state="main"><states><state id="main" x="740" y="447" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="pipe" type="puppet" asset="lib/catwalk.swf:CatwalkBurstPipe" depth="3" visible="1" state="main"><states><state id="main" x="499" y="502" img="1" imgX="55" imgY="-156" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="29" hitY="-160" hitW="49" hitH="105" shape="rect"><param mapX="481" mapY="474" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[burst pipe]]></en><de><![CDATA[geplatztes Rohr]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0000"><en><![CDATA[This pipe has sprung a leak ... it seems to be draining water from somewhere in the village above.]]></en><de><![CDATA[Dieses Rohr hat ein Leck ... das Wasser muss irgendwo oben aus dem Dorf abfliessen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0001"><en><![CDATA[I could probably fabricate a patch to seal the leak.]]></en><de><![CDATA[Ich könnte vielleicht einen Flicken basteln, um das Leck zu stopfen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Drink from]]></en><de><![CDATA[Trinke aus]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0003"><en><![CDATA[No. For all I know this might be someone’s dirty dish water.]]></en><de><![CDATA[Nein. Vielleicht ist das Jemandes schmutziges Spülwasser.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Fix]]></en><de><![CDATA[Befestige]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0005"><en><![CDATA[Pressing my hand over the hole will not work as a permanent fix ...]]></en><de><![CDATA[Meine Hand über das Loch halten, kann keine dauerhafte Lösung sein ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0006"><en><![CDATA[I’ll need to fabricate some kind of patch to seal the leak.]]></en><de><![CDATA[Ich brauche eine Art Flicken, um das Leck zu schließen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="tar_bucket"><title><en><![CDATA[Plug #noun# with #item#]]></en><de><![CDATA[Stopfe #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0008"><en><![CDATA[Good idea, but tar alone won’t be enough to seal this leak ...]]></en><de><![CDATA[Gute Idee, aber Teer allein wird nicht ausreichen, um dieses Leck zu verschließen ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0009"><en><![CDATA[I’ll need to find a material to patch it with.]]></en><de><![CDATA[Ich muss Material finden, mit dem ich es flicken kann.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="ss9a"><title><en><![CDATA[Plug #noun# with #item#]]></en><de><![CDATA[Stopfe #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0011"><en><![CDATA[Clever, but I don’t think my old submarine could handle that much water pressure.]]></en><de><![CDATA[Schlau, aber ich glaube nicht, dass mein altes U-Boot so starkem Wasserdruck standhalten würde.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="ss9c"><title><en><![CDATA[Plug #noun# with #item#]]></en><de><![CDATA[Stopfe #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0013"><en><![CDATA[Clever, but I don’t think my old submarine could handle that much water pressure.]]></en><de><![CDATA[Schlau, aber ich glaube nicht, dass mein altes U-Boot so starkem Wasserdruck standhalten würde.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="kettle"><title><en><![CDATA[Fill #item# with water from #noun#]]></en><de><![CDATA[Fülle #item# mit Wasser aus #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0014"><en><![CDATA[I’ll fill the kettle with water.]]></en><de><![CDATA[Ich werde den Kessel mit Wasser füllen.]]></de></dia></dialog><script><method call="controls" enabled="0" cursor="1"/><dialogue playList="0"/><cursor item=""/><inventory target="nigel" replace="kettle:kettle2"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/><cursor item="kettle2"/></script></action><action id="boot_laced"><title><en><![CDATA[Patch #noun# with #item#]]></en><de><![CDATA[Flicke #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0015"><en><![CDATA[While the boot’s leather could patch the hole, it’s not sticky enough to glue onto the pipe.]]></en><de><![CDATA[Das Stiefelleder könnte zwar das Loch flicken, aber es ist nicht klebrig genug, um auf dem Rohr haften zu bleiben.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="boot_unlaced"><title><en><![CDATA[Patch #noun# with #item#]]></en><de><![CDATA[Flicke #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0016"><en><![CDATA[While these leather scraps could patch the hole, they’re not sticky enough to glue onto the pipe.]]></en><de><![CDATA[Diese Lederstücke könnten zwar das Loch flicken, aber sie sind nicht klebrig genug, um auf dem Rohr haften zu bleiben.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="boot_tar"><title><en><![CDATA[Patch #noun# with #item#]]></en><de><![CDATA[Flicke #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0017"><en><![CDATA[There, that patched the leak!]]></en><de><![CDATA[So, das hat das Leck geflickt!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0018"><en><![CDATA[I wonder if I will ever find out what I just fixed here? I mean, that water must be going SOMEplace now...]]></en><de><![CDATA[Ich frage mich, ob ich jemals herausfinden werde, was ich hier gerade repariert habe? Ich meine, das Wasser muss schließlich IRGENDWOHIN abfließen ...]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><inventory remove="boot_tar"/><sound effect="lib/sound_effects.swf:metalPipe" waitForComplete="0"/><layer target="_current:pipe" state="patched"/><layer target="yard:well2" state="water"/><layer target="yard:drywell" visible="0"/><layer target="yard:ball" visible="1"/><layer target="yard:ballsrc" visible="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><dialogue play="*"/><method call="controls" enabled="1"/></script></action></items></state><state id="patched" x="501" y="504" img="1" imgX="62" imgY="-158" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-182" hitW="54" hitH="54" shape="rect"><param mapX="481" mapY="474" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[patched pipe]]></en><de><![CDATA[geflicktes Rohr]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0020"><en><![CDATA[I patched the leak with leather from an old boot.]]></en><de><![CDATA[Ich habe das Leck mit dem Leder eines alten Stiefels geflickt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Puncture]]></en><de><![CDATA[Durchstich]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0022"><en><![CDATA[I’d better not. I suspect my repair job has done a service to Ravenhollow’s hydro system.]]></en><de><![CDATA[Lieber nicht. Ich finde, meine Reparatur war ein respektabler Dienst am Wassersystem von Ravenhollow.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="float_doorway" type="plane" asset="lib/catwalk.swf:CatwalkDoor" depth="4" visible="1" state="main"><states><state id="main" x="1345" y="528" img="1" imgX="-41" imgY="-279" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="darkness" type="puppet" asset="" depth="5" visible="1" state="main"><states><state id="main" x="696" y="688" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-819" hitY="-86" hitW="1524" hitH="364" shape="rect"><param mapX="715" mapY="485" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[darkness below]]></en><de><![CDATA[Dunkelheit unten]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0024"><en><![CDATA[It’s too dark to see what’s down there.]]></en><de><![CDATA[Es ist zu dunkel, um zu sehen, was da unten ist.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0025"><en><![CDATA[Is something down there, at all? I think I’m getting vertigo!]]></en><de><![CDATA[Ist überhaupt etwas da unten? Ich glaube, mir wird schwindlig.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0027"><en><![CDATA[Echo?]]></en><de><![CDATA[Echo?]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Jump into]]></en><de><![CDATA[Springe in]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0029"><en><![CDATA[I only have this one life and I’m trying to make the best of it!]]></en><de><![CDATA[Ich habe nur dieses eine Leben und ich glaube, ich mache das Beste daraus!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="lift2" type="puppet" asset="" depth="6" visible="1" state="main"><states><state id="main" x="69" y="488" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="2" hitY="-300" hitW="197" hitH="324" shape="rect"><param mapX="414" mapY="446" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[lift]]></en><de><![CDATA[Aufzug]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0031"><en><![CDATA[Oh boy ... looking at the elevator pod hanging there in the darkness gives me the creeps AND vertigo.]]></en><de><![CDATA[Oh Junge ... Wenn ich auf die Aufzugskapsel schaue, die da im Dunkeln hängt, kriege ich Gänsehaut UND Schwindelgefühle.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0033"><en><![CDATA[This echo is really unnerving.]]></en><de><![CDATA[Dieses Echo ist wirklich nervtötend.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><puppet target="welcome" callAction="0"/></script></action></actions><items/></state></states></layer><layer id="lift" type="plane" asset="lib/catwalk.swf:CatwalkLift" depth="7" visible="1" state="up"><states><state id="up" x="1341" y="528" img="1" imgX="-310" imgY="-102" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state><state id="down" x="1287" y="964" img="1" imgX="-310" imgY="-102" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="lift_well" type="plane" asset="lib/catwalk.swf:CatwalkLiftWell" depth="8" visible="1" state="main"><states><state id="main" x="979" y="1013" img="1" imgX="-47" imgY="-4" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="float_barricade" type="plane" asset="lib/catwalk.swf:CatwalkBarricade" depth="9" visible="1" state="main"><states><state id="main" x="787" y="1066" img="1" imgX="-5" imgY="-153" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="float_pod" type="plane" asset="lib/catwalk.swf:CatwalkPod" depth="10" visible="1" state="main"><states><state id="main" x="182" y="490" img="1" imgX="-108" imgY="-181" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="exit_smith" type="puppet" asset="" depth="11" visible="1" state="main"><states><state id="main" x="1317" y="526" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-31" hitY="-209" hitW="84" hitH="208" shape="rect"><param mapX="1430" mapY="425" cursor="exit2" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="smith:join_catwalk"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="liftdoor" type="puppet" asset="lib/catwalk.swf:CatwalkLiftDoor" depth="12" visible="1" state="there"><states><state id="gone" x="162" y="490" img="1" imgX="5" imgY="-79" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-35" hitY="-152" hitW="82" hitH="152" shape="rect"><param mapX="188" mapY="495" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><method call="controls" enabled="0"/><layerState target="_current:_avatar:main" turnView="4"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><cache field="using_birdlift" value="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><layerState target="_current:_avatar:main" turnView="6"/><layerSprite target="liftdoor" animFrame="come" waitForComplete="1"/><puppetTween target="_avatar" type="move" to="position:birdlift" waitForComplete="1"/><layerState target="_current:_avatar:main" turnView="5"/><wait seconds="2"/><layerState target="_current:_avatar:main" turnView="6"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><layerState target="_current:_avatar:main" turnView="5"/><layerSprite target="liftdoor" animFrame="go" waitForComplete="1"/><game room="trelawney:lift2"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state><state id="there" x="167" y="411" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-46" hitY="-74" hitW="88" hitH="158" shape="rect"><param mapX="188" mapY="495" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><method call="controls" enabled="0"/><puppetTween target="_avatar" type="move" to="position:birdlift" waitForComplete="1"/><layerState target="_current:_avatar:main" turnView="5"/><layerState target="_current:_avatar:main" turnView="6"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><layerState target="_current:_avatar:main" turnView="5"/><layerSprite target="liftdoor" animFrame="go" waitForComplete="1"/><layer target="catwalk:liftdoor" state="gone"/><game room="trelawney:lift2"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="lift_button_top" type="puppet" asset="" depth="13" visible="1" state="main"><states><state id="main" x="1248" y="478" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-25" hitY="-53" hitW="51" hitH="61" shape="rect"><param mapX="1195" mapY="565" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[buttons?]]></en><de><![CDATA[Knöpfe?]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0035"><en><![CDATA[What are these buttons for?]]></en><de><![CDATA[Wofür sind diese Knöpfe da?]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Press]]></en><de><![CDATA[Drücken]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0039"><en><![CDATA[Hmph ... nothing happens.]]></en><de><![CDATA[Nichts passiert ...]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><dialogue play="*"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="14" visible="1" state="main"><states><state id="main" x="236" y="480" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="_grid" color="_grid" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="fg_plank" type="plane" asset="lib/catwalk.swf:CatwalkPlank" depth="15" visible="1" state="main"><states><state id="main" x="189" y="533" img="1" imgX="-23" imgY="-94" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="fg_wires" type="plane" asset="lib/catwalk.swf:CatwalkWires" depth="16" visible="1" state="main"><states><state id="main" x="346" y="113" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="fg_station" type="plane" asset="lib/catwalk.swf:CatwalkFg" depth="17" visible="1" state="main"><states><state id="main" x="1437" y="450" img="1" imgX="-855" imgY="-9" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="welcome" type="puppet" asset="" depth="18" visible="1" state="main"><states><state id="main" x="443" y="478" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="67" hitH="63" shape="rect"><param mapX="414" mapY="446" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0041"><en><![CDATA[What is this place? Where am I?]]></en><de><![CDATA[Was ist denn das für ein Ort? Wo bin ich hier?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0045"><en><![CDATA[I’m somewhere below Ravenhollow, that’s for sure.]]></en><de><![CDATA[Ich bin irgendwo tief unter Ravenhollow, das ist sicher.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0046"><en><![CDATA[I hope this catwalk is still able to carry my weight ... there is nothing but darkness below me.]]></en><de><![CDATA[Ich hoffe, der Laufsteg hier kann mein Gewicht noch tragen ... unter mir ist nur tiefschwarze Dunkelheit zu erkennen.]]></de></dia></dialog><script><dialogue play="*"/><method call="controls" enabled="1" cursor="1"/></script></action></actions><items/></state></states></layer><layer id="echo" type="puppet" asset="" depth="19" visible="1" state="main"><states><state id="main" x="832" y="242" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-31" hitY="-22" hitW="66" hitH="47" shape="rect"><param mapX="512" mapY="403" cursor="" onclick="-1" prefix="" subtitle="0xCCCCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer></layers><trees/></room>
+<room id="catwalk" coreLibs="lib/catwalk.swf,lib/catwalk_fx.swf" voiceLibs="voice/catwalk_voice.swf" enterScript="_enter" exitScript="_exit" grid="catwalk" sound1="lib/catwalk_fx.swf:CatwalkMusic" sound2="lib/catwalk_fx.swf:CatwalkFx">
+  <grids>
+    <grid id="catwalk">
+      <boxes>
+        <box x="544" y="490" w="30" h="18" nodes="n3" />
+        <box x="1175" y="559" w="120" h="34" nodes="n11,n12" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="238" y="521" join="n1,n16" trap="1" name="leftleft" scale="0.3" />
+        <node id="n1" x="188" y="495" join="n0,n18" trap="1" name="join_trelawney" scale="0.25" />
+        <node id="n3" x="560" y="500" join="n13,n17" trap="1" />
+        <node id="n4" x="414" y="446" join="n16,n17" trap="1" name="left" scale="0.45" />
+        <node id="n5" x="1072" y="528" join="n12,n15" trap="1" />
+        <node id="n7" x="898" y="521" join="n14,n15" trap="1" />
+        <node id="n8" x="715" y="485" join="n13,n14" trap="1" name="realmiddle" />
+        <node id="n9" x="1330" y="520" join="n11" trap="0" name="join_smith" scale="0.37" />
+        <node id="n11" x="1270" y="562" join="n9,n12" trap="0" scale="0.45" />
+        <node id="n12" x="1180" y="565" join="n5,n11" trap="0" />
+        <node id="n13" x="636" y="496" join="n8,n3" trap="1" />
+        <node id="n14" x="801" y="504" join="n8,n7" trap="1" />
+        <node id="n15" x="985" y="525" join="n7,n5" trap="1" name="middle" />
+        <node id="n16" x="318" y="490" join="n0,n4" trap="1" scale="0.35" />
+        <node id="n17" x="481" y="474" join="n4,n3" trap="1" name="pipe" />
+        <node id="n18" x="176" y="478" join="n1" trap="0" name="birdlift" scale="0.25" />
+      </nodes>
+    </grid>
+    <grid id="station">
+      <boxes>
+        <box x="791" y="1015" w="108" h="24" nodes="n0,n3,n7" />
+        <box x="934" y="968" w="69" h="19" nodes="n1,n12,n16" />
+        <box x="914" y="1091" w="200" h="23" nodes="n2,n4,n9" />
+        <box x="1069" y="998" w="138" h="38" nodes="n10,n11" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="896" y="1019" join="n1,n3,n11,n12,n10,n7" trap="0" />
+        <node id="n1" x="938" y="984" join="n0,n12,n16" trap="0" />
+        <node id="n2" x="995" y="1094" join="n4,n3,n9,n10,n12" trap="0" />
+        <node id="n3" x="896" y="1036" join="n4,n2,n10,n0,n11,n7" trap="0" />
+        <node id="n4" x="918" y="1095" join="n3,n2,n9" trap="0" />
+        <node id="n5" x="123" y="1210" join="n6" trap="0" name="to_swamp" color="0x000000" tint="1" />
+        <node id="n6" x="375" y="1161" join="n5,n14" trap="1" name="join_swamp" scale="0.45" color="0x000000" tint="0" />
+        <node id="n7" x="795" y="1035" join="n15,n0,n3" trap="0" />
+        <node id="n9" x="1110" y="1094" join="n10,n2,n4" trap="0" />
+        <node id="n10" x="1072" y="1033" join="n9,n2,n3,n11,n12,n0" trap="0" />
+        <node id="n11" x="1072" y="1001" join="n10,n3,n0,n12" trap="0" />
+        <node id="n12" x="1002" y="985" join="n10,n0,n11,n2,n1,n16" trap="0" />
+        <node id="n13" x="650" y="1090" join="n14,n15" trap="1" />
+        <node id="n14" x="528" y="1120" join="n6,n13" trap="1" color="0x000000" tint="0" />
+        <node id="n15" x="765" y="1050" join="n13,n7" trap="1" />
+        <node id="n16" x="966" y="975" join="n1,n12" trap="0" name="join_mtstation" scale="0.45" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="leftleft" turn="4" x="238" y="521" scale="0.3" />
+    <position id="join_trelawney" turn="4" x="188" y="495" scale="0.25" />
+    <position id="left" turn="4" x="414" y="446" scale="0.45" />
+    <position id="realmiddle" turn="4" x="715" y="485" />
+    <position id="join_smith" turn="4" x="1330" y="520" scale="0.37" />
+    <position id="middle" turn="4" x="985" y="525" />
+    <position id="pipe" turn="4" x="481" y="474" />
+    <position id="birdlift" turn="4" x="176" y="478" scale="0.25" />
+    <position id="to_swamp" turn="4" x="123" y="1210" color="0x000000" tint="1" />
+    <position id="join_swamp" turn="4" x="375" y="1161" scale="0.45" color="0x000000" tint="0" />
+    <position id="join_mtstation" turn="4" x="966" y="975" scale="0.45" />
+  </positions>
+  <filters>
+    <filter id="_scale" axis="x" enabled="1">
+      <pole x="35" y="1167" scale="0.25" rate="0.5" blur="1" color="0x000000" tint="0.5" />
+      <pole x="78" y="1167" scale="0.45" rate="1" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <logic>
+        <if eval="([_startPosition] EQ 'join_mtstation') OR ([_startPosition] EQ 'join_swamp')">
+          <room grid="station" />
+          <layer target="lift" state="down" />
+        </if>
+        <else>
+          <room grid="catwalk" />
+          <layer target="lift" state="up" />
+        </else>
+      </logic>
+      <logic>
+        <if eval="[_startPosition] EQ 'birdlift'">
+          <layer target="_current:liftdoor" state="gone" />
+          <curtain blackout="0" />
+          <method call="controls" enabled="0" />
+          <wait seconds="2" />
+          <layerSprite target="liftdoor" animFrame="down" waitForComplete="1" />
+          <layer target="_current:liftdoor" state="there" />
+          <method call="controls" enabled="1" />
+        </if>
+        <else>
+          <curtain blackout="0" />
+        </else>
+      </logic>
+      <logic>
+        <if eval="[catwalk_visited] EQ 1">
+          <method call="controls" enabled="1" cursor="1" />
+        </if>
+        <else>
+          <cache field="catwalk_visited" value="1" />
+          <method call="controls" enabled="0" cursor="0" />
+          <wait seconds="1" />
+          <puppetTween target="_avatar" type="move" to="position:leftleft" waitForComplete="1" />
+          <wait seconds="2" />
+          <puppet target="welcome" callAction="2" />
+        </else>
+      </logic>
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/catwalk.swf:CatwalkBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1500" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="0" scrollB="600" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="shadows" type="plane" asset="lib/catwalk.swf:CatwalkShadows" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="bulb_glow" type="plane" asset="lib/catwalk.swf:CatwalkGlow" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="740" y="447" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="pipe" type="puppet" asset="lib/catwalk.swf:CatwalkBurstPipe" depth="3" visible="1" state="main">
+      <states>
+        <state id="main" x="499" y="502" img="1" imgX="55" imgY="-156" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="29" hitY="-160" hitW="49" hitH="105" shape="rect">
+          <param mapX="481" mapY="474" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[burst pipe]]></en>
+            <de><![CDATA[geplatztes Rohr]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0000">
+                  <en><![CDATA[This pipe has sprung a leak ... it seems to be draining water from somewhere in the village above.]]></en>
+                  <de><![CDATA[Dieses Rohr hat ein Leck ... das Wasser muss irgendwo oben aus dem Dorf abfliessen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0001">
+                  <en><![CDATA[I could probably fabricate a patch to seal the leak.]]></en>
+                  <de><![CDATA[Ich könnte vielleicht einen Flicken basteln, um das Leck zu stopfen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Drink from]]></en>
+                <de><![CDATA[Trinke aus]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0003">
+                  <en><![CDATA[No. For all I know this might be someone’s dirty dish water.]]></en>
+                  <de><![CDATA[Nein. Vielleicht ist das Jemandes schmutziges Spülwasser.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Fix]]></en>
+                <de><![CDATA[Befestige]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0005">
+                  <en><![CDATA[Pressing my hand over the hole will not work as a permanent fix ...]]></en>
+                  <de><![CDATA[Meine Hand über das Loch halten, kann keine dauerhafte Lösung sein ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0006">
+                  <en><![CDATA[I’ll need to fabricate some kind of patch to seal the leak.]]></en>
+                  <de><![CDATA[Ich brauche eine Art Flicken, um das Leck zu schließen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="tar_bucket">
+              <title>
+                <en><![CDATA[Plug #noun# with #item#]]></en>
+                <de><![CDATA[Stopfe #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0008">
+                  <en><![CDATA[Good idea, but tar alone won’t be enough to seal this leak ...]]></en>
+                  <de><![CDATA[Gute Idee, aber Teer allein wird nicht ausreichen, um dieses Leck zu verschließen ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0009">
+                  <en><![CDATA[I’ll need to find a material to patch it with.]]></en>
+                  <de><![CDATA[Ich muss Material finden, mit dem ich es flicken kann.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="ss9a">
+              <title>
+                <en><![CDATA[Plug #noun# with #item#]]></en>
+                <de><![CDATA[Stopfe #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0011">
+                  <en><![CDATA[Clever, but I don’t think my old submarine could handle that much water pressure.]]></en>
+                  <de><![CDATA[Schlau, aber ich glaube nicht, dass mein altes U-Boot so starkem Wasserdruck standhalten würde.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="ss9c">
+              <title>
+                <en><![CDATA[Plug #noun# with #item#]]></en>
+                <de><![CDATA[Stopfe #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0013">
+                  <en><![CDATA[Clever, but I don’t think my old submarine could handle that much water pressure.]]></en>
+                  <de><![CDATA[Schlau, aber ich glaube nicht, dass mein altes U-Boot so starkem Wasserdruck standhalten würde.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="kettle">
+              <title>
+                <en><![CDATA[Fill #item# with water from #noun#]]></en>
+                <de><![CDATA[Fülle #item# mit Wasser aus #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0014">
+                  <en><![CDATA[I’ll fill the kettle with water.]]></en>
+                  <de><![CDATA[Ich werde den Kessel mit Wasser füllen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" cursor="1" />
+                <dialogue playList="0" />
+                <cursor item="" />
+                <inventory target="nigel" replace="kettle:kettle2" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" cursor="1" />
+                <cursor item="kettle2" />
+              </script>
+            </action>
+            <action id="boot_laced">
+              <title>
+                <en><![CDATA[Patch #noun# with #item#]]></en>
+                <de><![CDATA[Flicke #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0015">
+                  <en><![CDATA[While the boot’s leather could patch the hole, it’s not sticky enough to glue onto the pipe.]]></en>
+                  <de><![CDATA[Das Stiefelleder könnte zwar das Loch flicken, aber es ist nicht klebrig genug, um auf dem Rohr haften zu bleiben.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="boot_unlaced">
+              <title>
+                <en><![CDATA[Patch #noun# with #item#]]></en>
+                <de><![CDATA[Flicke #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0016">
+                  <en><![CDATA[While these leather scraps could patch the hole, they’re not sticky enough to glue onto the pipe.]]></en>
+                  <de><![CDATA[Diese Lederstücke könnten zwar das Loch flicken, aber sie sind nicht klebrig genug, um auf dem Rohr haften zu bleiben.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="boot_tar">
+              <title>
+                <en><![CDATA[Patch #noun# with #item#]]></en>
+                <de><![CDATA[Flicke #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0017">
+                  <en><![CDATA[There, that patched the leak!]]></en>
+                  <de><![CDATA[So, das hat das Leck geflickt!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0018">
+                  <en><![CDATA[I wonder if I will ever find out what I just fixed here? I mean, that water must be going SOMEplace now...]]></en>
+                  <de><![CDATA[Ich frage mich, ob ich jemals herausfinden werde, was ich hier gerade repariert habe? Ich meine, das Wasser muss schließlich IRGENDWOHIN abfließen ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <inventory remove="boot_tar" />
+                <sound effect="lib/sound_effects.swf:metalPipe" waitForComplete="0" />
+                <layer target="_current:pipe" state="patched" />
+                <layer target="yard:well2" state="water" />
+                <layer target="yard:drywell" visible="0" />
+                <layer target="yard:ball" visible="1" />
+                <layer target="yard:ballsrc" visible="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <dialogue play="*" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </items>
+        </state>
+        <state id="patched" x="501" y="504" img="1" imgX="62" imgY="-158" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-182" hitW="54" hitH="54" shape="rect">
+          <param mapX="481" mapY="474" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[patched pipe]]></en>
+            <de><![CDATA[geflicktes Rohr]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0020">
+                  <en><![CDATA[I patched the leak with leather from an old boot.]]></en>
+                  <de><![CDATA[Ich habe das Leck mit dem Leder eines alten Stiefels geflickt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Puncture]]></en>
+                <de><![CDATA[Durchstich]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0022">
+                  <en><![CDATA[I’d better not. I suspect my repair job has done a service to Ravenhollow’s hydro system.]]></en>
+                  <de><![CDATA[Lieber nicht. Ich finde, meine Reparatur war ein respektabler Dienst am Wassersystem von Ravenhollow.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="float_doorway" type="plane" asset="lib/catwalk.swf:CatwalkDoor" depth="4" visible="1" state="main">
+      <states>
+        <state id="main" x="1345" y="528" img="1" imgX="-41" imgY="-279" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="darkness" type="puppet" asset="" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="696" y="688" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-819" hitY="-86" hitW="1524" hitH="364" shape="rect">
+          <param mapX="715" mapY="485" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[darkness below]]></en>
+            <de><![CDATA[Dunkelheit unten]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0024">
+                  <en><![CDATA[It’s too dark to see what’s down there.]]></en>
+                  <de><![CDATA[Es ist zu dunkel, um zu sehen, was da unten ist.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0025">
+                  <en><![CDATA[Is something down there, at all? I think I’m getting vertigo!]]></en>
+                  <de><![CDATA[Ist überhaupt etwas da unten? Ich glaube, mir wird schwindlig.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0027">
+                  <en><![CDATA[Echo?]]></en>
+                  <de><![CDATA[Echo?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Jump into]]></en>
+                <de><![CDATA[Springe in]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0029">
+                  <en><![CDATA[I only have this one life and I’m trying to make the best of it!]]></en>
+                  <de><![CDATA[Ich habe nur dieses eine Leben und ich glaube, ich mache das Beste daraus!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="lift2" type="puppet" asset="" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="69" y="488" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="2" hitY="-300" hitW="197" hitH="324" shape="rect">
+          <param mapX="414" mapY="446" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[lift]]></en>
+            <de><![CDATA[Aufzug]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0031">
+                  <en><![CDATA[Oh boy ... looking at the elevator pod hanging there in the darkness gives me the creeps AND vertigo.]]></en>
+                  <de><![CDATA[Oh Junge ... Wenn ich auf die Aufzugskapsel schaue, die da im Dunkeln hängt, kriege ich Gänsehaut UND Schwindelgefühle.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0033">
+                  <en><![CDATA[This echo is really unnerving.]]></en>
+                  <de><![CDATA[Dieses Echo ist wirklich nervtötend.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <puppet target="welcome" callAction="0" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="lift" type="plane" asset="lib/catwalk.swf:CatwalkLift" depth="7" visible="1" state="up">
+      <states>
+        <state id="up" x="1341" y="528" img="1" imgX="-310" imgY="-102" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+        <state id="down" x="1287" y="964" img="1" imgX="-310" imgY="-102" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="lift_well" type="plane" asset="lib/catwalk.swf:CatwalkLiftWell" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="979" y="1013" img="1" imgX="-47" imgY="-4" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="float_barricade" type="plane" asset="lib/catwalk.swf:CatwalkBarricade" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="787" y="1066" img="1" imgX="-5" imgY="-153" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="float_pod" type="plane" asset="lib/catwalk.swf:CatwalkPod" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="182" y="490" img="1" imgX="-108" imgY="-181" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_smith" type="puppet" asset="" depth="11" visible="1" state="main">
+      <states>
+        <state id="main" x="1317" y="526" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-31" hitY="-209" hitW="84" hitH="208" shape="rect">
+          <param mapX="1430" mapY="425" cursor="exit2" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="smith:join_catwalk" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="liftdoor" type="puppet" asset="lib/catwalk.swf:CatwalkLiftDoor" depth="12" visible="1" state="there">
+      <states>
+        <state id="gone" x="162" y="490" img="1" imgX="5" imgY="-79" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-35" hitY="-152" hitW="82" hitH="152" shape="rect">
+          <param mapX="188" mapY="495" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <method call="controls" enabled="0" />
+                <layerState target="_current:_avatar:main" turnView="4" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <cache field="using_birdlift" value="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <layerState target="_current:_avatar:main" turnView="6" />
+                <layerSprite target="liftdoor" animFrame="come" waitForComplete="1" />
+                <puppetTween target="_avatar" type="move" to="position:birdlift" waitForComplete="1" />
+                <layerState target="_current:_avatar:main" turnView="5" />
+                <wait seconds="2" />
+                <layerState target="_current:_avatar:main" turnView="6" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <layerState target="_current:_avatar:main" turnView="5" />
+                <layerSprite target="liftdoor" animFrame="go" waitForComplete="1" />
+                <game room="trelawney:lift2" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="there" x="167" y="411" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-46" hitY="-74" hitW="88" hitH="158" shape="rect">
+          <param mapX="188" mapY="495" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <method call="controls" enabled="0" />
+                <puppetTween target="_avatar" type="move" to="position:birdlift" waitForComplete="1" />
+                <layerState target="_current:_avatar:main" turnView="5" />
+                <layerState target="_current:_avatar:main" turnView="6" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <layerState target="_current:_avatar:main" turnView="5" />
+                <layerSprite target="liftdoor" animFrame="go" waitForComplete="1" />
+                <layer target="catwalk:liftdoor" state="gone" />
+                <game room="trelawney:lift2" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="lift_button_top" type="puppet" asset="" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="1248" y="478" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-25" hitY="-53" hitW="51" hitH="61" shape="rect">
+          <param mapX="1195" mapY="565" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[buttons?]]></en>
+            <de><![CDATA[Knöpfe?]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0035">
+                  <en><![CDATA[What are these buttons for?]]></en>
+                  <de><![CDATA[Wofür sind diese Knöpfe da?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Press]]></en>
+                <de><![CDATA[Drücken]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0039">
+                  <en><![CDATA[Hmph ... nothing happens.]]></en>
+                  <de><![CDATA[Nichts passiert ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <dialogue play="*" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="236" y="480" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="_grid" color="_grid" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="fg_plank" type="plane" asset="lib/catwalk.swf:CatwalkPlank" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="189" y="533" img="1" imgX="-23" imgY="-94" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="fg_wires" type="plane" asset="lib/catwalk.swf:CatwalkWires" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="346" y="113" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="fg_station" type="plane" asset="lib/catwalk.swf:CatwalkFg" depth="17" visible="1" state="main">
+      <states>
+        <state id="main" x="1437" y="450" img="1" imgX="-855" imgY="-9" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="welcome" type="puppet" asset="" depth="18" visible="1" state="main">
+      <states>
+        <state id="main" x="443" y="478" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="67" hitH="63" shape="rect">
+          <param mapX="414" mapY="446" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0041">
+                  <en><![CDATA[What is this place? Where am I?]]></en>
+                  <de><![CDATA[Was ist denn das für ein Ort? Wo bin ich hier?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0045">
+                  <en><![CDATA[I’m somewhere below Ravenhollow, that’s for sure.]]></en>
+                  <de><![CDATA[Ich bin irgendwo tief unter Ravenhollow, das ist sicher.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/catwalk_voice.swf:catwalk0046">
+                  <en><![CDATA[I hope this catwalk is still able to carry my weight ... there is nothing but darkness below me.]]></en>
+                  <de><![CDATA[Ich hoffe, der Laufsteg hier kann mein Gewicht noch tragen ... unter mir ist nur tiefschwarze Dunkelheit zu erkennen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+                <method call="controls" enabled="1" cursor="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="echo" type="puppet" asset="" depth="19" visible="1" state="main">
+      <states>
+        <state id="main" x="832" y="242" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-31" hitY="-22" hitW="66" hitH="47" shape="rect">
+          <param mapX="512" mapY="403" cursor="" onclick="-1" prefix="" subtitle="0xCCCCCC" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees />
+</room>

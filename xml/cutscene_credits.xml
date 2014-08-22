@@ -1,1 +1,134 @@
-<room id="cutscene_credits" coreLibs="lib/cutscene_credits.swf,lib/music_theme.swf,lib/music_woods.swf,lib/harbor_fx.swf" voiceLibs="" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2=""><grids><grid id="main"><boxes/><nodes/></grid></grids><positions/><filters><filter id="_main" axis="y" enabled="1"><pole x="67" y="326" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="67" y="429" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter></filters><scripts><script id="_enter"><method call="controls" enabled="0" cursor="0"/><layerState target="_current:button:main" hoverState="on"/><layerBlend target="button" at="alpha:0"/><curtain blackout="0"/><process><sound effect="lib/music_theme.swf:theme" waitForComplete="1"/><sound effect="lib/music_woods.swf:WoodsMusic" waitForComplete="1"/></process><process><layerSprite target="message" animFrame="theEnd" waitForComplete="1"/><method call="controls" enabled="0" cursor="1"/><keyboard enableKey="left"/><cursor gameMouse="1" wait="0"/><layerBlend target="button" to="alpha:1" seconds="1" waitForComplete="1"/><layerSprite target="roll" animFrame="credits" waitForComplete="1"/><sound soundtrack2="lib/harbor_fx.swf:HarborNightFx"/><wait seconds="1.5"/><layerSprite target="message" animFrame="fun" waitForComplete="1"/><wait seconds="1.5"/><layerSprite target="message" animFrame="sleep" waitForComplete="0"/></process></script><script id="_exit"><library unloadRoom="_current"/><curtain blackout="1"/></script></scripts><layers><layer id="_bg" type="background" asset="" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="roll" type="plane" asset="lib/cutscene_credits.swf:CreditsRoll" depth="1" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="message" type="plane" asset="lib/cutscene_credits.swf:CreditsMessage" depth="2" visible="1" state="main"><states><state id="main" x="512" y="380" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="button" type="puppet" asset="lib/cutscene_credits.swf:CreditsMenuButton" depth="3" visible="1" state="main"><states><state id="main" x="431" y="710" img="1" imgX="0" imgY="0" imgW="0.8" imgH="0.8" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-6" hitY="-6" hitW="170" hitH="48" shape="rect"><param mapX="512" mapY="384" cursor="" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><menu display="show"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer></layers><trees/></room>
+<room id="cutscene_credits" coreLibs="lib/cutscene_credits.swf,lib/music_theme.swf,lib/music_woods.swf,lib/harbor_fx.swf" voiceLibs="" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="">
+  <grids>
+    <grid id="main">
+      <boxes />
+      <nodes />
+    </grid>
+  </grids>
+  <positions />
+  <filters>
+    <filter id="_main" axis="y" enabled="1">
+      <pole x="67" y="326" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.5" />
+      <pole x="67" y="429" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <method call="controls" enabled="0" cursor="0" />
+      <layerState target="_current:button:main" hoverState="on" />
+      <layerBlend target="button" at="alpha:0" />
+      <curtain blackout="0" />
+      <process>
+        <sound effect="lib/music_theme.swf:theme" waitForComplete="1" />
+        <sound effect="lib/music_woods.swf:WoodsMusic" waitForComplete="1" />
+      </process>
+      <process>
+        <layerSprite target="message" animFrame="theEnd" waitForComplete="1" />
+        <method call="controls" enabled="0" cursor="1" />
+        <keyboard enableKey="left" />
+        <cursor gameMouse="1" wait="0" />
+        <layerBlend target="button" to="alpha:1" seconds="1" waitForComplete="1" />
+        <layerSprite target="roll" animFrame="credits" waitForComplete="1" />
+        <sound soundtrack2="lib/harbor_fx.swf:HarborNightFx" />
+        <wait seconds="1.5" />
+        <layerSprite target="message" animFrame="fun" waitForComplete="1" />
+        <wait seconds="1.5" />
+        <layerSprite target="message" animFrame="sleep" waitForComplete="0" />
+      </process>
+    </script>
+    <script id="_exit">
+      <library unloadRoom="_current" />
+      <curtain blackout="1" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="roll" type="plane" asset="lib/cutscene_credits.swf:CreditsRoll" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="message" type="plane" asset="lib/cutscene_credits.swf:CreditsMessage" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="512" y="380" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="button" type="puppet" asset="lib/cutscene_credits.swf:CreditsMenuButton" depth="3" visible="1" state="main">
+      <states>
+        <state id="main" x="431" y="710" img="1" imgX="0" imgY="0" imgW="0.8" imgH="0.8" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-6" hitY="-6" hitW="170" hitH="48" shape="rect">
+          <param mapX="512" mapY="384" cursor="" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <menu display="show" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees />
+</room>

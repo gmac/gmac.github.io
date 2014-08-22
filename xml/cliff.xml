@@ -1,1 +1,1624 @@
-<room id="cliff" coreLibs="lib/cliff.swf,lib/cliff_fx.swf" voiceLibs="voice/cliff_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2=""><grids><grid id="main"><boxes><box x="285" y="797" w="192" h="68" nodes="n13"/><box x="360" y="508" w="161" h="124" nodes="n4,n5,n16"/></boxes><nodes><node id="n0" x="170" y="874" join="n1,n9" trap="1"/><node id="n1" x="210" y="814" join="n6,n0" trap="1"/><node id="n2" x="365" y="731" join="n11,n6" trap="1"/><node id="n3" x="300" y="642" join="n11,n12" trap="1"/><node id="n4" x="366" y="590" join="n12,n5,n16" trap="0"/><node id="n5" x="366" y="541" join="n7,n4,n16" trap="0" name="back"/><node id="n6" x="281" y="777" join="n1,n2,n13" trap="1"/><node id="n7" x="327" y="496" join="n5,n10" trap="0"/><node id="n9" x="160" y="955" join="n0" trap="1" name="join_world"/><node id="n10" x="315" y="470" join="n7" trap="1" name="join_mill"/><node id="n11" x="364" y="682" join="n2,n3" trap="1" name="center"/><node id="n12" x="307" y="619" join="n3,n4" trap="1"/><node id="n13" x="306" y="803" join="n6" trap="0"/><node id="n16" x="492" y="624" join="n4,n5" trap="0" name="lookout"/></nodes></grid></grids><positions><position id="back" turn="4" x="366" y="541"/><position id="join_world" turn="2" x="160" y="955"/><position id="join_mill" turn="5" x="315" y="470"/><position id="center" turn="4" x="364" y="682"/><position id="lookout" turn="4" x="492" y="624"/></positions><filters><filter id="_main" axis="y" enabled="1"><pole x="292" y="471" scale="0.17" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="292" y="945" scale="0.55" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter><filter id="nightlight" axis="r" enabled="1"><pole x="69" y="1041" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.73"/><pole x="437" y="646" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0"/></filter></filters><scripts><script id="_enter"><logic><if eval="[nighttime] EQ 1"><layerSprite target="_bg" frameOffset="1"/><layerSprite target="stonewall" frameOffset="1"/><layerSprite target="tree" frameOffset="1"/><layerSprite target="blades" frameOffset="1"/><layerSprite target="zeppelin" frameOffset="1"/><layerSprite target="opendoor" frameOffset="1"/><layerSprite target="water" frameOffset="1"/><layerState target="_current:_avatar:main" colorFilter="nightlight"/></if><else><layerState target="_current:_avatar:main" colorFilter=""/></else></logic><logic><if eval="({getLayerProp:_current,cricket,visible} EQ 1) AND ([nighttime] EQ 1)"><sound soundtrack2="lib/cliff_fx.swf:CliffLocustFx"/></if><else><sound soundtrack2="lib/cliff_fx.swf:CliffDayFx"/></else></logic><curtain blackout="0"/></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><library unloadRoom="_current"/></script><script id="_prerender"><logic><if eval="[nighttime] EQ 1"><layer target="_current:hole" render="0"/><layer target="_current:cricket" render="1"/></if><else><layer target="_current:hole" render="1"/><layer target="_current:cricket" render="0"/></else></logic></script></scripts><layers><layer id="_bg" type="background" asset="lib/cliff.swf:CliffBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="1027" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="600" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="water" type="plane" asset="lib/cliff.swf:CliffWater" depth="1" visible="1" state="main"><states><state id="main" x="712" y="795" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="opendoor" type="plane" asset="lib/cliff.swf:CliffDoor" depth="2" visible="1" state="closed"><states><state id="open" x="237" y="347" img="1" imgX="-1" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state><state id="closed" x="287" y="379" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="zeppelinani" type="plane" asset="lib/cliff.swf:CliffZeppelin" depth="3" visible="0" state="main"><states><state id="main" x="499" y="544" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="zeppelin" type="puppet" asset="" depth="4" visible="0" state="main"><states><state id="main" x="343" y="277" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-255" hitY="-200" hitW="587" hitH="332" shape="rect"><param mapX="366" mapY="541" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[zeppelin]]></en><de><![CDATA[Zeppelin]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0000"><en><![CDATA[Wow! What a zeppelin!]]></en><de><![CDATA[Wow! Was für ein Zeppelin!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0001"><en><![CDATA[See how it’s floating on the updraft?]]></en><de><![CDATA[Toll, wie er im Aufwind schwebt!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0002"><en><![CDATA[Amazing.]]></en><de><![CDATA[Sensationell.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0003"><en><![CDATA[Now THAT really doesn’t fit into my pocket.]]></en><de><![CDATA[DER passt wirklich nicht in meine Tasche.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="mill" type="puppet" asset="" depth="5" visible="1" state="main"><states><state id="main" x="228" y="78" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="150" hitH="382" shape="rect"><param mapX="366" mapY="541" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[old mill]]></en><de><![CDATA[alte Mühle]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0004"><en><![CDATA[Nice windmill... looks a bit worn out though.]]></en><de><![CDATA[Schöne Windmühle ... sieht aber ein bisschen verschlissen aus.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0005"><en><![CDATA[Sounds worn out, too.]]></en><de><![CDATA[Hört sich auch verschlissen an.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0006"><en><![CDATA[The owner should consider investing in a can of oil.]]></en><de><![CDATA[Der Besitzer sollte in eine Dose Öl investieren.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Enter]]></en><de><![CDATA[Betrete]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0007"><en><![CDATA[]]></en><de><![CDATA[]]></de></dia></dialog><script><puppet target="exit_mill" callAction="2"/></script></action></actions><items/></state></states></layer><layer id="blades" type="plane" asset="lib/cliff.swf:CliffWindmill" depth="6" visible="1" state="main"><states><state id="main" x="373" y="177" img="1" imgX="-197" imgY="-241" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="propellers" type="plane" asset="lib/cliff.swf:CliffBGPropellers" depth="7" visible="1" state="main"><states><state id="main" x="516" y="381" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="windsock" type="puppet" asset="lib/cliff.swf:CliffWindsock" depth="8" visible="1" state="main"><states><state id="main" x="499" y="527" img="1" imgX="13" imgY="-114" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="8" hitY="-117" hitW="44" hitH="44" shape="rect"><param mapX="491" mapY="521" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[windsock]]></en><de><![CDATA[Windsack]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0008"><en><![CDATA[Look at that, a conical textile tube designed to indicate wind direction and relative wind speed.]]></en><de><![CDATA[Sieh mal an, eine konische Textilröhre, die Windrichtung und relative Windgeschwindigkeit angibt.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0009"><en><![CDATA[... oh boy. I probably shouldn’t have memorized the W&#8212;Z volume of our encyclopedia when I was a child.]]></en><de><![CDATA[... oh Junge. Ich hätte den Band W bis Z unseres Lexikons nicht auswendig lernen sollen, als ich ein Kind war.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0010"><en><![CDATA[This windsock looks pretty useful ...]]></en><de><![CDATA[Dieser Windsack sieht ziemlich nützlich aus ...]]></de></dia></dialog><script><dialogue playList="0"/><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><inventory add="windsock"/><layer target="_current:windsock" visible="0"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="tree" type="plane" asset="lib/cliff.swf:CliffTree" depth="9" visible="1" state="main"><states><state id="main" x="335" y="888" img="1" imgX="-15" imgY="-248" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="hole" type="puppet" asset="" depth="10" visible="1" state="main"><states><state id="main" x="473" y="873" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-18" hitY="-65" hitW="55" hitH="74" shape="rect"><param mapX="456" mapY="860" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[hole in lightning&#8212;struck tree]]></en><de><![CDATA[Loch im vom Blitz getroffenen Baum]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0011"><en><![CDATA[If I were a small furry animal I’d consider moving in there.]]></en><de><![CDATA[Wenn ich ein kleines Pelztier wäre, würde ich mir überlegen, da einzuziehen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0012"><en><![CDATA[Especially since lightning never strikes twice in the same place.]]></en><de><![CDATA[Besonders weil Blitze nie zweimal am gleichen Ort einschlagen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0013"><en><![CDATA[Anyone home?]]></en><de><![CDATA[Jemand zu Hause?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0014"><en><![CDATA[... the hole seems to be empty.]]></en><de><![CDATA[... das Loch scheint leer zu sein.]]></de></dia></dialog><script><dialogue playList="0"/><wait seconds="2"/><dialogue playList="1"/></script></action><action id="act2"><title><en><![CDATA[Crawl into]]></en><de><![CDATA[Krieche in]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0015"><en><![CDATA[I am NOT a small furry animal.]]></en><de><![CDATA[Ich bin KEIN kleines Pelztier.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="cricket" type="puppet" asset="lib/cliff.swf:CliffCricket" depth="11" visible="1" state="inactive"><states><state id="inactive" x="458" y="877" img="1" imgX="2" imgY="-62" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-6" hitY="-72" hitW="61" hitH="81" shape="rect"><param mapX="444" mapY="862" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[noisy locust in tree hole]]></en><de><![CDATA[laute Heuschrecke im Astloch]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0016"><en><![CDATA[What a noisy locust!]]></en><de><![CDATA[Was für eine laute Heuschrecke!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0017"><en><![CDATA[I think the hollow tree is amplifying his sound! Clever locust, I bet he’s driving the locust girls wild for miles around.]]></en><de><![CDATA[Ich glaube, der hohle Baum verstärkt ihre Geräusche! Schlaue Heuschrecke, wahrscheinlich treibt er alle Heuschreckenmädchen in der Nähe in den Wahnsinn.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Catch]]></en><de><![CDATA[Fange]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0018"><en><![CDATA[I won’t be able to catch it with my bare hands.]]></en><de><![CDATA[Mit meinen bloßen Händen werde ich sie nicht fangen können.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="net"><title><en><![CDATA[Catch #noun# with #item#]]></en><de><![CDATA[Fange #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0019"><en><![CDATA[While I could probably catch it with this net, I’ll need a jar to put it in.]]></en><de><![CDATA[Mit diesem Netz kann ich sie wohl fangen, aber ich brauche ein Glas, um sie aufzubewahren.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="firefly_jar1"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0020"><en><![CDATA[No, that fat locust wouldn’t fit through the bottle’s narrow neck.]]></en><de><![CDATA[Nein, die fette Heuschrecke würde nicht durch den schmalen Hals der Flasche passen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="firefly_jar2"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0021"><en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry locust.]]></en><de><![CDATA[Nein, ich will nicht riskieren, dass meine Glühwürmchen einer hungrigen Heuschrecke zum Opfer fallen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state><state id="active" x="458" y="877" img="1" imgX="2" imgY="-62" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-6" hitY="-72" hitW="61" hitH="81" shape="rect"><param mapX="444" mapY="862" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[noisy locust in tree hole]]></en><de><![CDATA[laute Heuschrecke im Baumloch]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0016"><en><![CDATA[What a noisy locust!]]></en><de><![CDATA[Was für eine laute Heuschrecke!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0017"><en><![CDATA[I think the hollow tree is amplifying his sound! Clever locust, I bet he’s driving the locust girls wild for miles around.]]></en><de><![CDATA[Ich glaube, der hohle Baum verstärkt ihre Geräusche! Schlaue Heuschrecke, wahrscheinlich treibt er alle Heuschreckenmädchen in der Nähe in den Wahnsinn.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Catch]]></en><de><![CDATA[Fange]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0018"><en><![CDATA[I won’t be able to catch it with my bare hands.]]></en><de><![CDATA[Mit meinen bloßen Händen werde ich sie nicht fangen können.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="jar1"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0022"><en><![CDATA[This isn’t the right jar.]]></en><de><![CDATA[Das ist nicht das richtige Glas.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="jar2"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0023"><en><![CDATA[This isn’t the right jar.]]></en><de><![CDATA[Das ist nicht das richtige Glas.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="jar3"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0024"><en><![CDATA[I think this locust will be too fast for me to try and coax it directly into this small jar.]]></en><de><![CDATA[Ich glaube, die Heuschrecke ist zu schnell für mich, als dass ich sie direkt in dieses kleine Glas locken könnte.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="firefly_jar2"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0025"><en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry locust.]]></en><de><![CDATA[Nein, ich will nicht riskieren, dass meine Glühwürmchen einer hungrigen Heuschrecke zum Opfer fallen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="windsock"><title><en><![CDATA[Catch #noun# with #item#]]></en><de><![CDATA[Fange #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0026"><en><![CDATA[Good idea. I could use this windsock as a net if I find a way to close the opening at the end.]]></en><de><![CDATA[Gute Idee. Wenn ich die Öffnung am Ende schließen kann, könnte ich diesen Windsack als Netz benutzen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="net"><title><en><![CDATA[Catch #noun# with #item#]]></en><de><![CDATA[Fange #noun# mit #item#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0027"><en><![CDATA[And... Got him!]]></en><de><![CDATA[Und ... Hab sie!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0028"><en><![CDATA[He’s so quiet all of a sudden ... I’ll put him in his specimen jar and show him to Mr. Caro.]]></en><de><![CDATA[Sie ist plötzlich so ruhig ... Ich werde sie im Glas aufbewahren und Herrn Caro zeigen.]]></de></dia></dialog><script><method call="controls" enabled="0" cursor="1"/><cursor item=""/><process><wait stageEvent="actionPoint"/><inventory target="nigel" replace="jar3:jar3b"/><layer target="_current:cricket" visible="0" omit="1"/><sound soundtrack2="lib/cliff_fx.swf:CliffDayFx"/></process><layerSprite target="_avatar" animFrame="kneel_net" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/><dialogue play="*"/></script></action><action id="firefly_jar1"><title><en><![CDATA[Trap #item# in #noun#]]></en><de><![CDATA[Fange #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0029"><en><![CDATA[No, that fat locust wouldn’t fit through the bottle’s narrow neck.]]></en><de><![CDATA[Nein, die fette Heuschrecke würde nicht durch den schmalen Hals der Flasche passen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state></states></layer><layer id="stonewall" type="plane" asset="lib/cliff.swf:CliffWall" depth="12" visible="1" state="main"><states><state id="main" x="491" y="641" img="1" imgX="-5" imgY="-85" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="propeller" type="puppet" asset="lib/cliff.swf:CliffPropeller" depth="13" visible="1" state="main"><states><state id="main" x="532" y="654" img="1" imgX="39" imgY="-3" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="39" hitY="-5" hitW="45" hitH="45" shape="rect"><param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[propeller]]></en><de><![CDATA[Propeller]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0030"><en><![CDATA[There is a metal propeller lying on this small edge of the cliff.]]></en><de><![CDATA[Auf dem Klippenvorsprung liegt ein Propeller aus Metall.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0031"><en><![CDATA[I guess it must have broken off that twisted metal rod when it was struck by lightning.]]></en><de><![CDATA[Er muss wohl von der krummen Metallstange abgebrochen sein, als sie vom Blitz getroffen wurde.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Climb down and take]]></en><de><![CDATA[Klettere hinunter und nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0032"><en><![CDATA[I won’t risk my life and climb around the cliffside just for a stupid metal propeller.]]></en><de><![CDATA[Wegen eines blöden Metallpropellers klettere ich doch nicht auf den Klippen rum und riskiere mein Leben.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="magnet"><title><en><![CDATA[Attract #noun# with #item#]]></en><de><![CDATA[Ziehe #noun# mit #item#an]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0033"><en><![CDATA[The magnet isn’t strong enough to attract something so far away.]]></en><de><![CDATA[Der Magnet ist nicht stark genug, um etwas anzuziehen, das so weit weg ist.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state></states></layer><layer id="exit_world" type="puppet" asset="" depth="14" visible="1" state="main"><states><state id="main" x="1" y="1025" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="-344" hitW="179" hitH="346" shape="rect"><param mapX="160" mapY="955" cursor="exit6" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[way back]]></en><de><![CDATA[Rückweg]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="world:join_cliff"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="15" visible="1" state="main"><states><state id="main" x="63" y="1018" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="waterwheel" type="plane" asset="lib/cliff.swf:CliffWhaterwheel" depth="16" visible="1" state="main"><states><state id="main" x="972" y="580" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="house" type="puppet" asset="" depth="17" visible="1" state="main"><states><state id="main" x="503" y="638" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="436" hitY="-97" hitW="85" hitH="71" shape="rect"><param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[house with water wheel]]></en><de><![CDATA[Haus mit Wasserrad]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0034"><en><![CDATA[There’s a house with a blue roof and a water wheel located on the cliff on the other side of the bay.]]></en><de><![CDATA[An der Klippe auf der anderen Seite der Bucht liegt ein Haus mit einem blauen Dach und einem Wasserrad.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0035"><en><![CDATA[It’s probably nothing interesting and completely unconnected to this story.]]></en><de><![CDATA[Es ist wahrscheinlich nichts besonderes und hat mit dieser Geschichte rein gar nichts zu tun.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0036"><en><![CDATA[It’s too far away. If anyone lived there they wouldn’t hear me.]]></en><de><![CDATA[Es ist zu weit weg. Selbst wenn jemand dort lebt, würde er mich nicht hören.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0037"><en><![CDATA[How am I supposed to do that? It’s located on the other side of the bay.]]></en><de><![CDATA[Wie soll ich das anstellen? Das Haus ist auf der anderen Seite der Bucht.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="ferrystop" type="puppet" asset="" depth="18" visible="1" state="main"><states><state id="main" x="512" y="635" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="388" hitY="69" hitW="99" hitH="55" shape="rect"><param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[far away ferry stop]]></en><de><![CDATA[weit entfernter Fährenanleger]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0038"><en><![CDATA[Is that another ferry stop down there?]]></en><de><![CDATA[Ist das da unten eine andere Fähren-Anlegestelle?]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0039"><en><![CDATA[I can’t just swim over there ... besides the ferry sign down at Ravennhollow Harbor said that the ferry service was stopped quite some time ago.]]></en><de><![CDATA[Ich kann da nicht einfach rüberschwimmen ... Außerdem stand auf dem Schild am Hafen von Ravenhollow, dass der Fährverkehr schon vor einiger Zeit eingestellt wurde.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="rod" type="puppet" asset="lib/cliff.swf:CliffRod" depth="19" visible="1" state="main"><states><state id="main" x="543" y="613" img="1" imgX="-56" imgY="-112" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-32" hitY="-108" hitW="40" hitH="70" shape="rect"><param mapX="509" mapY="598" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="1" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[twisted metal rod]]></en><de><![CDATA[krumme Metallstange]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0040"><en><![CDATA[That’s one twisted rod, alright.]]></en><de><![CDATA[Das ist wirklich eine krumme Stange.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0041"><en><![CDATA[Looks like it was struck by lightning.]]></en><de><![CDATA[Sieht aus, als wurde sie vom Blitz getroffen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0042"><en><![CDATA[Well ... it looks pretty useless, but I have the uncanny feeling that this metal rod might come in handy sooner or later.]]></en><de><![CDATA[Nun ... sie sieht ziemlich nutzlos aus, aber vielleicht wird sich diese Metallstange noch als nützlich erweisen.]]></de></dia></dialog><script><dialogue playList="0"/><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><inventory add="rod"/><layer target="_current:rod" visible="0"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="duck" type="puppet" asset="" depth="20" visible="1" state="main"><states><state id="main" x="515" y="638" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="64" hitY="-45" hitW="58" hitH="38" shape="rect"><param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[propeller duck]]></en><de><![CDATA[Propeller-Ente]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0043"><en><![CDATA[There are no unique qualities to be observed.]]></en><de><![CDATA[Da seh ich nichts besonderes.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0044"><en><![CDATA[Oh!]]></en><de><![CDATA[Oh!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0045"><en><![CDATA[Now that you are pointing it out to me ... the wind turns the ducks propeller wings and it looks like it’s flying!]]></en><de><![CDATA[Jetzt seh ich es erst ... der Wind treibt die Propellerflügel der Ente an, und es sieht so aus, als ob sie fliegen würde!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0046"><en><![CDATA[Funny.]]></en><de><![CDATA[Witzig.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0047"><en><![CDATA[I find it amusing to look at, but I don’t think I want one for my balcony.]]></en><de><![CDATA[Es sieht amüsant aus, aber auf meinem Balkon will ich es nicht haben.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="propellerback" type="puppet" asset="" depth="21" visible="1" state="main"><states><state id="main" x="499" y="503" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="9" hitY="-115" hitW="29" hitH="24" shape="rect"><param mapX="494" mapY="516" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[small rusty propeller]]></en><de><![CDATA[kleines rostiges Windrad]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0048"><en><![CDATA[Round and round it goes.]]></en><de><![CDATA[Immer weiter im Kreis.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0049"><en><![CDATA[Oh no ... I’m getting dizzy.]]></en><de><![CDATA[Oh nein ... Mir ist schwindlig.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0051"><en><![CDATA[It won’t move ...]]></en><de><![CDATA[Das krieg ich nicht los  ... total eingerostet.]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><dialogue play="*"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="vane" type="puppet" asset="" depth="22" visible="1" state="main"><states><state id="main" x="508" y="540" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="58" hitY="-84" hitW="34" hitH="40" shape="rect"><param mapX="493" mapY="529" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[old weather vane]]></en><de><![CDATA[alte Wetterfahne]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0052"><en><![CDATA[This weather vane is so rusty it stopped moving.]]></en><de><![CDATA[Diese Wetterfahne ist so rostig, dass sie sich nicht mehr bewegt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Take]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0053"><en><![CDATA[It doesn’t move ...]]></en><de><![CDATA[Das bewegt sich nicht ...]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><dialogue play="*"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="exit_mill" type="puppet" asset="" depth="23" visible="1" state="closed"><states><state id="main" x="302" y="448" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-23" hitY="-80" hitW="51" hitH="85" shape="rect"><param mapX="315" mapY="470" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><method call="controls" enabled="0" cursor="1"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layer target="_current:opendoor" state="open"/><sound effect="lib/sound_effects.swf:doorOpen" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/><curtain blackout="1"/><layer target="_current:opendoor" state="closed"/><game room="mill:join_cliff"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state><state id="closed" x="303" y="449" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-23" hitY="-80" hitW="51" hitH="85" shape="rect"><param mapX="315" mapY="470" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[door]]></en><de><![CDATA[Tür]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0054"><en><![CDATA[The windmill door is closed.]]></en><de><![CDATA[Die Tür der Windmühle ist geschlossen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0055"><en><![CDATA[Hello!? Is anyone home?]]></en><de><![CDATA[Hallo!? Ist jemand zu Hause?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0056"><en><![CDATA[No answer.]]></en><de><![CDATA[Keine Antwort.]]></de></dia></dialog><script><dialogue playList="0"/><wait seconds="2"/><dialogue playList="1"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0057"><en><![CDATA[The door is locked.]]></en><de><![CDATA[Die Tür ist verschlossen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state><state id="closed2" x="297" y="446" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-19" hitY="-80" hitW="51" hitH="85" shape="rect"><param mapX="315" mapY="470" cursor="" onclick="-1" prefix="" subtitle="0xFF9966" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[door]]></en><de><![CDATA[Tür]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0058"><en><![CDATA[The windmill door is closed.]]></en><de><![CDATA[Die Tür der Windmühle ist geschlossen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0059"><en><![CDATA[Hello? Is anyone home?]]></en><de><![CDATA[Hallo? Ist jemand zu Hause?]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0060"><en><![CDATA[Who is it? What do you want?]]></en><de><![CDATA[Wer ist da? Was wollen Sie?]]></de></dia></dialog><script><dialogue playList="0"/><dialogue playList="1"/><tree load="slappy_door"/></script></action><action id="act2"><title><en><![CDATA[Knock on]]></en><de><![CDATA[Klopfe an]]></de></title><dialog/><script><puppet target="exit_mill" callAction="1"/></script></action></actions><items/></state></states></layer></layers><trees><tree id="slappy_door"><tier key="r_t3" id=""><topic key="t0" id="_4" enabled="1" hold="1" expose="" go="-2"><title><en><![CDATA[How the hell should I know?]]></en><de><![CDATA[Woher soll ich das wissen?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0073"><en><![CDATA[867,9982718876 .... ]]></en><de><![CDATA[867,9982718876 ...]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0074"><en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en><de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de></dia></dialog><script><dialogue play="*"/><layer target="_current:exit_mill" state="main"/><puppet target="exit_mill" callAction="0"/></script></topic><topic key="t1" id="_5" enabled="1" hold="1" expose="" go="-2"><title><en><![CDATA[I have no idea. I am drawing a blank here.]]></en><de><![CDATA[Keinen blassen Schimmer ... echt nicht ...]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0075"><en><![CDATA[867,9982718876 .... ]]></en><de><![CDATA[867,9982718876 ...]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0076"><en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en><de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de></dia></dialog><script><dialogue play="*"/><layer target="_current:exit_mill" state="main"/><puppet target="exit_mill" callAction="0"/></script></topic><topic key="t2" id="_6" enabled="1" hold="1" expose="" go="-2"><title><en><![CDATA[I am not in the mood for math right now.]]></en><de><![CDATA[Ich bin nicht in der Stimmung für Rechenspielchen ...]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0077"><en><![CDATA[867,9982718876 .... ]]></en><de><![CDATA[867,9982718876 ...]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0078"><en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en><de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de></dia></dialog><script><dialogue play="*"/><layer target="_current:exit_mill" state="main"/><puppet target="exit_mill" callAction="0"/></script></topic></tier><tier key="r" id=""><topic key="t4" id="_7" enabled="1" hold="0" expose="" go="-2"><title><en><![CDATA[IRS. Open your door.]]></en><de><![CDATA[Steuerbehörde. Öffnen Sie die Tür!]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0061"><en><![CDATA[IRS. Open your door.]]></en><de><![CDATA[Steuerbehörde. Öffnen Sie die Tür!]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0062"><en><![CDATA[Never! You won’t get me alive!]]></en><de><![CDATA[Nie! Lebendig kriegen Sie mich nicht!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0063"><en><![CDATA[Mhh ... I guess his reaction really isn’t all that surprising.]]></en><de><![CDATA[Hmm ... Seine Reaktion ist wirklich nicht so überraschend.]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t5" id="_8" enabled="1" hold="0" expose="" go="-2"><title><en><![CDATA[May I ask, what’s your relationship with God?]]></en><de><![CDATA[Darf ich fragen, was für eine Beziehung Sie zu Gott haben?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0064"><en><![CDATA[May I ask, what’s your relationship with God?]]></en><de><![CDATA[Darf ich fragen, was für eine Beziehung Sie zu Gott haben?]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0065"><en><![CDATA[No, you may not!]]></en><de><![CDATA[Nein, dürfen Sie nicht!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0066"><en><![CDATA[What a rude man ...]]></en><de><![CDATA[Was für ein unhöflicher Mann ...]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t0" id="real" enabled="1" hold="0" expose="real2" go="0"><title><en><![CDATA[My name is Nigel Trelawney, I’ve come to Ravenhollow to settle my father’s estate!]]></en><de><![CDATA[Ich heiße Nigel Trelawney, ich bin nach Ravenhollow gekommen, um den Nachlass meines Vaters zu regeln!]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0067"><en><![CDATA[My name is Nigel Trelawney, I’ve come to Ravenhollow to settle my father’s estate!]]></en><de><![CDATA[Ich heiße Nigel Trelawney, ich bin nach Ravenhollow gekommen, um den Nachlass meines Vaters zu regeln!]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0068"><en><![CDATA[Nigel Trelawney?? ... Anthony Trelawney’s son!?]]></en><de><![CDATA[Nigel Trelawney?? ... Anthony Trelawneys Sohn!?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0069"><en><![CDATA[None other.]]></en><de><![CDATA[Kein anderer.]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0070"><en><![CDATA[Anthony Trelawney is dead and his son is long gone, so we have nothing to talk about kid. So like I said: go away!]]></en><de><![CDATA[Anthony Trelawney ist tot und sein Sohn ist lange weg, also haben wir nichts zu besprechen. Also wie gesagt: Gehen Sie weg!]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t3" id="real2" enabled="0" hold="1" expose="" go="1"><title><en><![CDATA[Okay then, how can I prove to you that I’m Anthony Trelawney’s son?]]></en><de><![CDATA[Okay, wie kann ich Ihnen beweisen, dass ich Anthony Trelawneys Sohn bin?]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0071"><en><![CDATA[Okay then, how can I prove to you that I’m Anthony Trelawney’s son?]]></en><de><![CDATA[Okay, wie kann ich Ihnen beweisen, dass ich Anthony Trelawneys Sohn bin?]]></de></dia><dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0072"><en><![CDATA[Hmmm ... okay then &#8222;Nigel&#8220;, what’s the square root of 753421?]]></en><de><![CDATA[Hmmm ... okay, &#8222;Nigel&#8220;, was ist die Quadratwurzel aus 753421?]]></de></dia></dialog><script><dialogue play="*"/></script></topic><topic key="t1" id="_1" enabled="1" hold="1" expose="" go="-2"><title><en><![CDATA[Sorry! Wrong mill!]]></en><de><![CDATA[Tut mir leid! Falsche Mühle!]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0079"><en><![CDATA[Sorry! Wrong mill!]]></en><de><![CDATA[Tut mir leid! Falsche Mühle!]]></de></dia></dialog><script><dialogue play="*"/></script></topic></tier></tree></trees></room>
+<room id="cliff" coreLibs="lib/cliff.swf,lib/cliff_fx.swf" voiceLibs="voice/cliff_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="">
+  <grids>
+    <grid id="main">
+      <boxes>
+        <box x="285" y="797" w="192" h="68" nodes="n13" />
+        <box x="360" y="508" w="161" h="124" nodes="n4,n5,n16" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="170" y="874" join="n1,n9" trap="1" />
+        <node id="n1" x="210" y="814" join="n6,n0" trap="1" />
+        <node id="n2" x="365" y="731" join="n11,n6" trap="1" />
+        <node id="n3" x="300" y="642" join="n11,n12" trap="1" />
+        <node id="n4" x="366" y="590" join="n12,n5,n16" trap="0" />
+        <node id="n5" x="366" y="541" join="n7,n4,n16" trap="0" name="back" />
+        <node id="n6" x="281" y="777" join="n1,n2,n13" trap="1" />
+        <node id="n7" x="327" y="496" join="n5,n10" trap="0" />
+        <node id="n9" x="160" y="955" join="n0" trap="1" name="join_world" />
+        <node id="n10" x="315" y="470" join="n7" trap="1" name="join_mill" />
+        <node id="n11" x="364" y="682" join="n2,n3" trap="1" name="center" />
+        <node id="n12" x="307" y="619" join="n3,n4" trap="1" />
+        <node id="n13" x="306" y="803" join="n6" trap="0" />
+        <node id="n16" x="492" y="624" join="n4,n5" trap="0" name="lookout" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="back" turn="4" x="366" y="541" />
+    <position id="join_world" turn="2" x="160" y="955" />
+    <position id="join_mill" turn="5" x="315" y="470" />
+    <position id="center" turn="4" x="364" y="682" />
+    <position id="lookout" turn="4" x="492" y="624" />
+  </positions>
+  <filters>
+    <filter id="_main" axis="y" enabled="1">
+      <pole x="292" y="471" scale="0.17" rate="0.5" blur="1" color="0x000000" tint="0.5" />
+      <pole x="292" y="945" scale="0.55" rate="1" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+    <filter id="nightlight" axis="r" enabled="1">
+      <pole x="69" y="1041" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.73" />
+      <pole x="437" y="646" scale="1" rate="1" blur="5" color="0xFFFFFF" tint="0" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <logic>
+        <if eval="[nighttime] EQ 1">
+          <layerSprite target="_bg" frameOffset="1" />
+          <layerSprite target="stonewall" frameOffset="1" />
+          <layerSprite target="tree" frameOffset="1" />
+          <layerSprite target="blades" frameOffset="1" />
+          <layerSprite target="zeppelin" frameOffset="1" />
+          <layerSprite target="opendoor" frameOffset="1" />
+          <layerSprite target="water" frameOffset="1" />
+          <layerState target="_current:_avatar:main" colorFilter="nightlight" />
+        </if>
+        <else>
+          <layerState target="_current:_avatar:main" colorFilter="" />
+        </else>
+      </logic>
+      <logic>
+        <if eval="({getLayerProp:_current,cricket,visible} EQ 1) AND ([nighttime] EQ 1)">
+          <sound soundtrack2="lib/cliff_fx.swf:CliffLocustFx" />
+        </if>
+        <else>
+          <sound soundtrack2="lib/cliff_fx.swf:CliffDayFx" />
+        </else>
+      </logic>
+      <curtain blackout="0" />
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+    <script id="_prerender">
+      <logic>
+        <if eval="[nighttime] EQ 1">
+          <layer target="_current:hole" render="0" />
+          <layer target="_current:cricket" render="1" />
+        </if>
+        <else>
+          <layer target="_current:hole" render="1" />
+          <layer target="_current:cricket" render="0" />
+        </else>
+      </logic>
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/cliff.swf:CliffBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="1027" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="600" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="water" type="plane" asset="lib/cliff.swf:CliffWater" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="712" y="795" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="opendoor" type="plane" asset="lib/cliff.swf:CliffDoor" depth="2" visible="1" state="closed">
+      <states>
+        <state id="open" x="237" y="347" img="1" imgX="-1" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+        <state id="closed" x="287" y="379" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="zeppelinani" type="plane" asset="lib/cliff.swf:CliffZeppelin" depth="3" visible="0" state="main">
+      <states>
+        <state id="main" x="499" y="544" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="zeppelin" type="puppet" asset="" depth="4" visible="0" state="main">
+      <states>
+        <state id="main" x="343" y="277" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-255" hitY="-200" hitW="587" hitH="332" shape="rect">
+          <param mapX="366" mapY="541" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[zeppelin]]></en>
+            <de><![CDATA[Zeppelin]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0000">
+                  <en><![CDATA[Wow! What a zeppelin!]]></en>
+                  <de><![CDATA[Wow! Was für ein Zeppelin!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0001">
+                  <en><![CDATA[See how it’s floating on the updraft?]]></en>
+                  <de><![CDATA[Toll, wie er im Aufwind schwebt!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0002">
+                  <en><![CDATA[Amazing.]]></en>
+                  <de><![CDATA[Sensationell.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0003">
+                  <en><![CDATA[Now THAT really doesn’t fit into my pocket.]]></en>
+                  <de><![CDATA[DER passt wirklich nicht in meine Tasche.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="mill" type="puppet" asset="" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="228" y="78" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="150" hitH="382" shape="rect">
+          <param mapX="366" mapY="541" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[old mill]]></en>
+            <de><![CDATA[alte Mühle]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0004">
+                  <en><![CDATA[Nice windmill... looks a bit worn out though.]]></en>
+                  <de><![CDATA[Schöne Windmühle ... sieht aber ein bisschen verschlissen aus.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0005">
+                  <en><![CDATA[Sounds worn out, too.]]></en>
+                  <de><![CDATA[Hört sich auch verschlissen an.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0006">
+                  <en><![CDATA[The owner should consider investing in a can of oil.]]></en>
+                  <de><![CDATA[Der Besitzer sollte in eine Dose Öl investieren.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Enter]]></en>
+                <de><![CDATA[Betrete]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0007">
+                  <en><![CDATA[]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <puppet target="exit_mill" callAction="2" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="blades" type="plane" asset="lib/cliff.swf:CliffWindmill" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="373" y="177" img="1" imgX="-197" imgY="-241" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="propellers" type="plane" asset="lib/cliff.swf:CliffBGPropellers" depth="7" visible="1" state="main">
+      <states>
+        <state id="main" x="516" y="381" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="windsock" type="puppet" asset="lib/cliff.swf:CliffWindsock" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="499" y="527" img="1" imgX="13" imgY="-114" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="8" hitY="-117" hitW="44" hitH="44" shape="rect">
+          <param mapX="491" mapY="521" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[windsock]]></en>
+            <de><![CDATA[Windsack]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0008">
+                  <en><![CDATA[Look at that, a conical textile tube designed to indicate wind direction and relative wind speed.]]></en>
+                  <de><![CDATA[Sieh mal an, eine konische Textilröhre, die Windrichtung und relative Windgeschwindigkeit angibt.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0009">
+                  <en><![CDATA[... oh boy. I probably shouldn’t have memorized the W&#8212;Z volume of our encyclopedia when I was a child.]]></en>
+                  <de><![CDATA[... oh Junge. Ich hätte den Band W bis Z unseres Lexikons nicht auswendig lernen sollen, als ich ein Kind war.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0010">
+                  <en><![CDATA[This windsock looks pretty useful ...]]></en>
+                  <de><![CDATA[Dieser Windsack sieht ziemlich nützlich aus ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playList="0" />
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <inventory add="windsock" />
+                <layer target="_current:windsock" visible="0" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="tree" type="plane" asset="lib/cliff.swf:CliffTree" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="335" y="888" img="1" imgX="-15" imgY="-248" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="hole" type="puppet" asset="" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="473" y="873" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-18" hitY="-65" hitW="55" hitH="74" shape="rect">
+          <param mapX="456" mapY="860" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[hole in lightning&#8212;struck tree]]></en>
+            <de><![CDATA[Loch im vom Blitz getroffenen Baum]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0011">
+                  <en><![CDATA[If I were a small furry animal I’d consider moving in there.]]></en>
+                  <de><![CDATA[Wenn ich ein kleines Pelztier wäre, würde ich mir überlegen, da einzuziehen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0012">
+                  <en><![CDATA[Especially since lightning never strikes twice in the same place.]]></en>
+                  <de><![CDATA[Besonders weil Blitze nie zweimal am gleichen Ort einschlagen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0013">
+                  <en><![CDATA[Anyone home?]]></en>
+                  <de><![CDATA[Jemand zu Hause?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0014">
+                  <en><![CDATA[... the hole seems to be empty.]]></en>
+                  <de><![CDATA[... das Loch scheint leer zu sein.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playList="0" />
+                <wait seconds="2" />
+                <dialogue playList="1" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Crawl into]]></en>
+                <de><![CDATA[Krieche in]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0015">
+                  <en><![CDATA[I am NOT a small furry animal.]]></en>
+                  <de><![CDATA[Ich bin KEIN kleines Pelztier.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="cricket" type="puppet" asset="lib/cliff.swf:CliffCricket" depth="11" visible="1" state="inactive">
+      <states>
+        <state id="inactive" x="458" y="877" img="1" imgX="2" imgY="-62" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-6" hitY="-72" hitW="61" hitH="81" shape="rect">
+          <param mapX="444" mapY="862" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[noisy locust in tree hole]]></en>
+            <de><![CDATA[laute Heuschrecke im Astloch]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0016">
+                  <en><![CDATA[What a noisy locust!]]></en>
+                  <de><![CDATA[Was für eine laute Heuschrecke!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0017">
+                  <en><![CDATA[I think the hollow tree is amplifying his sound! Clever locust, I bet he’s driving the locust girls wild for miles around.]]></en>
+                  <de><![CDATA[Ich glaube, der hohle Baum verstärkt ihre Geräusche! Schlaue Heuschrecke, wahrscheinlich treibt er alle Heuschreckenmädchen in der Nähe in den Wahnsinn.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Catch]]></en>
+                <de><![CDATA[Fange]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0018">
+                  <en><![CDATA[I won’t be able to catch it with my bare hands.]]></en>
+                  <de><![CDATA[Mit meinen bloßen Händen werde ich sie nicht fangen können.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="net">
+              <title>
+                <en><![CDATA[Catch #noun# with #item#]]></en>
+                <de><![CDATA[Fange #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0019">
+                  <en><![CDATA[While I could probably catch it with this net, I’ll need a jar to put it in.]]></en>
+                  <de><![CDATA[Mit diesem Netz kann ich sie wohl fangen, aber ich brauche ein Glas, um sie aufzubewahren.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="firefly_jar1">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0020">
+                  <en><![CDATA[No, that fat locust wouldn’t fit through the bottle’s narrow neck.]]></en>
+                  <de><![CDATA[Nein, die fette Heuschrecke würde nicht durch den schmalen Hals der Flasche passen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="firefly_jar2">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0021">
+                  <en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry locust.]]></en>
+                  <de><![CDATA[Nein, ich will nicht riskieren, dass meine Glühwürmchen einer hungrigen Heuschrecke zum Opfer fallen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+        <state id="active" x="458" y="877" img="1" imgX="2" imgY="-62" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-6" hitY="-72" hitW="61" hitH="81" shape="rect">
+          <param mapX="444" mapY="862" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[noisy locust in tree hole]]></en>
+            <de><![CDATA[laute Heuschrecke im Baumloch]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0016">
+                  <en><![CDATA[What a noisy locust!]]></en>
+                  <de><![CDATA[Was für eine laute Heuschrecke!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0017">
+                  <en><![CDATA[I think the hollow tree is amplifying his sound! Clever locust, I bet he’s driving the locust girls wild for miles around.]]></en>
+                  <de><![CDATA[Ich glaube, der hohle Baum verstärkt ihre Geräusche! Schlaue Heuschrecke, wahrscheinlich treibt er alle Heuschreckenmädchen in der Nähe in den Wahnsinn.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Catch]]></en>
+                <de><![CDATA[Fange]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0018">
+                  <en><![CDATA[I won’t be able to catch it with my bare hands.]]></en>
+                  <de><![CDATA[Mit meinen bloßen Händen werde ich sie nicht fangen können.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="jar1">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0022">
+                  <en><![CDATA[This isn’t the right jar.]]></en>
+                  <de><![CDATA[Das ist nicht das richtige Glas.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="jar2">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0023">
+                  <en><![CDATA[This isn’t the right jar.]]></en>
+                  <de><![CDATA[Das ist nicht das richtige Glas.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="jar3">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0024">
+                  <en><![CDATA[I think this locust will be too fast for me to try and coax it directly into this small jar.]]></en>
+                  <de><![CDATA[Ich glaube, die Heuschrecke ist zu schnell für mich, als dass ich sie direkt in dieses kleine Glas locken könnte.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="firefly_jar2">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0025">
+                  <en><![CDATA[No, I don’t want to risk losing my fireflies to a hungry locust.]]></en>
+                  <de><![CDATA[Nein, ich will nicht riskieren, dass meine Glühwürmchen einer hungrigen Heuschrecke zum Opfer fallen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="windsock">
+              <title>
+                <en><![CDATA[Catch #noun# with #item#]]></en>
+                <de><![CDATA[Fange #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0026">
+                  <en><![CDATA[Good idea. I could use this windsock as a net if I find a way to close the opening at the end.]]></en>
+                  <de><![CDATA[Gute Idee. Wenn ich die Öffnung am Ende schließen kann, könnte ich diesen Windsack als Netz benutzen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="net">
+              <title>
+                <en><![CDATA[Catch #noun# with #item#]]></en>
+                <de><![CDATA[Fange #noun# mit #item#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0027">
+                  <en><![CDATA[And... Got him!]]></en>
+                  <de><![CDATA[Und ... Hab sie!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0028">
+                  <en><![CDATA[He’s so quiet all of a sudden ... I’ll put him in his specimen jar and show him to Mr. Caro.]]></en>
+                  <de><![CDATA[Sie ist plötzlich so ruhig ... Ich werde sie im Glas aufbewahren und Herrn Caro zeigen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" cursor="1" />
+                <cursor item="" />
+                <process>
+                  <wait stageEvent="actionPoint" />
+                  <inventory target="nigel" replace="jar3:jar3b" />
+                  <layer target="_current:cricket" visible="0" omit="1" />
+                  <sound soundtrack2="lib/cliff_fx.swf:CliffDayFx" />
+                </process>
+                <layerSprite target="_avatar" animFrame="kneel_net" waitForComplete="1" />
+                <method call="controls" enabled="1" cursor="1" />
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="firefly_jar1">
+              <title>
+                <en><![CDATA[Trap #item# in #noun#]]></en>
+                <de><![CDATA[Fange #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0029">
+                  <en><![CDATA[No, that fat locust wouldn’t fit through the bottle’s narrow neck.]]></en>
+                  <de><![CDATA[Nein, die fette Heuschrecke würde nicht durch den schmalen Hals der Flasche passen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="stonewall" type="plane" asset="lib/cliff.swf:CliffWall" depth="12" visible="1" state="main">
+      <states>
+        <state id="main" x="491" y="641" img="1" imgX="-5" imgY="-85" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="propeller" type="puppet" asset="lib/cliff.swf:CliffPropeller" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="532" y="654" img="1" imgX="39" imgY="-3" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="39" hitY="-5" hitW="45" hitH="45" shape="rect">
+          <param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[propeller]]></en>
+            <de><![CDATA[Propeller]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0030">
+                  <en><![CDATA[There is a metal propeller lying on this small edge of the cliff.]]></en>
+                  <de><![CDATA[Auf dem Klippenvorsprung liegt ein Propeller aus Metall.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0031">
+                  <en><![CDATA[I guess it must have broken off that twisted metal rod when it was struck by lightning.]]></en>
+                  <de><![CDATA[Er muss wohl von der krummen Metallstange abgebrochen sein, als sie vom Blitz getroffen wurde.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Climb down and take]]></en>
+                <de><![CDATA[Klettere hinunter und nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0032">
+                  <en><![CDATA[I won’t risk my life and climb around the cliffside just for a stupid metal propeller.]]></en>
+                  <de><![CDATA[Wegen eines blöden Metallpropellers klettere ich doch nicht auf den Klippen rum und riskiere mein Leben.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="magnet">
+              <title>
+                <en><![CDATA[Attract #noun# with #item#]]></en>
+                <de><![CDATA[Ziehe #noun# mit #item#an]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0033">
+                  <en><![CDATA[The magnet isn’t strong enough to attract something so far away.]]></en>
+                  <de><![CDATA[Der Magnet ist nicht stark genug, um etwas anzuziehen, das so weit weg ist.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_world" type="puppet" asset="" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="1" y="1025" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="-344" hitW="179" hitH="346" shape="rect">
+          <param mapX="160" mapY="955" cursor="exit6" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[way back]]></en>
+            <de><![CDATA[Rückweg]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="world:join_cliff" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="63" y="1018" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="waterwheel" type="plane" asset="lib/cliff.swf:CliffWhaterwheel" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="972" y="580" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="house" type="puppet" asset="" depth="17" visible="1" state="main">
+      <states>
+        <state id="main" x="503" y="638" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="436" hitY="-97" hitW="85" hitH="71" shape="rect">
+          <param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[house with water wheel]]></en>
+            <de><![CDATA[Haus mit Wasserrad]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0034">
+                  <en><![CDATA[There’s a house with a blue roof and a water wheel located on the cliff on the other side of the bay.]]></en>
+                  <de><![CDATA[An der Klippe auf der anderen Seite der Bucht liegt ein Haus mit einem blauen Dach und einem Wasserrad.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0035">
+                  <en><![CDATA[It’s probably nothing interesting and completely unconnected to this story.]]></en>
+                  <de><![CDATA[Es ist wahrscheinlich nichts besonderes und hat mit dieser Geschichte rein gar nichts zu tun.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0036">
+                  <en><![CDATA[It’s too far away. If anyone lived there they wouldn’t hear me.]]></en>
+                  <de><![CDATA[Es ist zu weit weg. Selbst wenn jemand dort lebt, würde er mich nicht hören.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0037">
+                  <en><![CDATA[How am I supposed to do that? It’s located on the other side of the bay.]]></en>
+                  <de><![CDATA[Wie soll ich das anstellen? Das Haus ist auf der anderen Seite der Bucht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="ferrystop" type="puppet" asset="" depth="18" visible="1" state="main">
+      <states>
+        <state id="main" x="512" y="635" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="388" hitY="69" hitW="99" hitH="55" shape="rect">
+          <param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[far away ferry stop]]></en>
+            <de><![CDATA[weit entfernter Fährenanleger]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0038">
+                  <en><![CDATA[Is that another ferry stop down there?]]></en>
+                  <de><![CDATA[Ist das da unten eine andere Fähren-Anlegestelle?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0039">
+                  <en><![CDATA[I can’t just swim over there ... besides the ferry sign down at Ravennhollow Harbor said that the ferry service was stopped quite some time ago.]]></en>
+                  <de><![CDATA[Ich kann da nicht einfach rüberschwimmen ... Außerdem stand auf dem Schild am Hafen von Ravenhollow, dass der Fährverkehr schon vor einiger Zeit eingestellt wurde.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="rod" type="puppet" asset="lib/cliff.swf:CliffRod" depth="19" visible="1" state="main">
+      <states>
+        <state id="main" x="543" y="613" img="1" imgX="-56" imgY="-112" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-32" hitY="-108" hitW="40" hitH="70" shape="rect">
+          <param mapX="509" mapY="598" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="1" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[twisted metal rod]]></en>
+            <de><![CDATA[krumme Metallstange]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0040">
+                  <en><![CDATA[That’s one twisted rod, alright.]]></en>
+                  <de><![CDATA[Das ist wirklich eine krumme Stange.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0041">
+                  <en><![CDATA[Looks like it was struck by lightning.]]></en>
+                  <de><![CDATA[Sieht aus, als wurde sie vom Blitz getroffen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0042">
+                  <en><![CDATA[Well ... it looks pretty useless, but I have the uncanny feeling that this metal rod might come in handy sooner or later.]]></en>
+                  <de><![CDATA[Nun ... sie sieht ziemlich nutzlos aus, aber vielleicht wird sich diese Metallstange noch als nützlich erweisen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playList="0" />
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <inventory add="rod" />
+                <layer target="_current:rod" visible="0" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="duck" type="puppet" asset="" depth="20" visible="1" state="main">
+      <states>
+        <state id="main" x="515" y="638" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="64" hitY="-45" hitW="58" hitH="38" shape="rect">
+          <param mapX="492" mapY="624" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[propeller duck]]></en>
+            <de><![CDATA[Propeller-Ente]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0043">
+                  <en><![CDATA[There are no unique qualities to be observed.]]></en>
+                  <de><![CDATA[Da seh ich nichts besonderes.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0044">
+                  <en><![CDATA[Oh!]]></en>
+                  <de><![CDATA[Oh!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0045">
+                  <en><![CDATA[Now that you are pointing it out to me ... the wind turns the ducks propeller wings and it looks like it’s flying!]]></en>
+                  <de><![CDATA[Jetzt seh ich es erst ... der Wind treibt die Propellerflügel der Ente an, und es sieht so aus, als ob sie fliegen würde!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0046">
+                  <en><![CDATA[Funny.]]></en>
+                  <de><![CDATA[Witzig.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0047">
+                  <en><![CDATA[I find it amusing to look at, but I don’t think I want one for my balcony.]]></en>
+                  <de><![CDATA[Es sieht amüsant aus, aber auf meinem Balkon will ich es nicht haben.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="propellerback" type="puppet" asset="" depth="21" visible="1" state="main">
+      <states>
+        <state id="main" x="499" y="503" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="9" hitY="-115" hitW="29" hitH="24" shape="rect">
+          <param mapX="494" mapY="516" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[small rusty propeller]]></en>
+            <de><![CDATA[kleines rostiges Windrad]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0048">
+                  <en><![CDATA[Round and round it goes.]]></en>
+                  <de><![CDATA[Immer weiter im Kreis.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0049">
+                  <en><![CDATA[Oh no ... I’m getting dizzy.]]></en>
+                  <de><![CDATA[Oh nein ... Mir ist schwindlig.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0051">
+                  <en><![CDATA[It won’t move ...]]></en>
+                  <de><![CDATA[Das krieg ich nicht los  ... total eingerostet.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <dialogue play="*" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="vane" type="puppet" asset="" depth="22" visible="1" state="main">
+      <states>
+        <state id="main" x="508" y="540" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="58" hitY="-84" hitW="34" hitH="40" shape="rect">
+          <param mapX="493" mapY="529" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[old weather vane]]></en>
+            <de><![CDATA[alte Wetterfahne]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0052">
+                  <en><![CDATA[This weather vane is so rusty it stopped moving.]]></en>
+                  <de><![CDATA[Diese Wetterfahne ist so rostig, dass sie sich nicht mehr bewegt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Take]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0053">
+                  <en><![CDATA[It doesn’t move ...]]></en>
+                  <de><![CDATA[Das bewegt sich nicht ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <dialogue play="*" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_mill" type="puppet" asset="" depth="23" visible="1" state="closed">
+      <states>
+        <state id="main" x="302" y="448" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-23" hitY="-80" hitW="51" hitH="85" shape="rect">
+          <param mapX="315" mapY="470" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <method call="controls" enabled="0" cursor="1" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layer target="_current:opendoor" state="open" />
+                <sound effect="lib/sound_effects.swf:doorOpen" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" cursor="1" />
+                <curtain blackout="1" />
+                <layer target="_current:opendoor" state="closed" />
+                <game room="mill:join_cliff" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="closed" x="303" y="449" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-23" hitY="-80" hitW="51" hitH="85" shape="rect">
+          <param mapX="315" mapY="470" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[door]]></en>
+            <de><![CDATA[Tür]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0054">
+                  <en><![CDATA[The windmill door is closed.]]></en>
+                  <de><![CDATA[Die Tür der Windmühle ist geschlossen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0055">
+                  <en><![CDATA[Hello!? Is anyone home?]]></en>
+                  <de><![CDATA[Hallo!? Ist jemand zu Hause?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0056">
+                  <en><![CDATA[No answer.]]></en>
+                  <de><![CDATA[Keine Antwort.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playList="0" />
+                <wait seconds="2" />
+                <dialogue playList="1" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0057">
+                  <en><![CDATA[The door is locked.]]></en>
+                  <de><![CDATA[Die Tür ist verschlossen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="closed2" x="297" y="446" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-19" hitY="-80" hitW="51" hitH="85" shape="rect">
+          <param mapX="315" mapY="470" cursor="" onclick="-1" prefix="" subtitle="0xFF9966" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[door]]></en>
+            <de><![CDATA[Tür]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0058">
+                  <en><![CDATA[The windmill door is closed.]]></en>
+                  <de><![CDATA[Die Tür der Windmühle ist geschlossen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0059">
+                  <en><![CDATA[Hello? Is anyone home?]]></en>
+                  <de><![CDATA[Hallo? Ist jemand zu Hause?]]></de>
+                </dia>
+                <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0060">
+                  <en><![CDATA[Who is it? What do you want?]]></en>
+                  <de><![CDATA[Wer ist da? Was wollen Sie?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playList="0" />
+                <dialogue playList="1" />
+                <tree load="slappy_door" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Knock on]]></en>
+                <de><![CDATA[Klopfe an]]></de>
+              </title>
+              <dialog />
+              <script>
+                <puppet target="exit_mill" callAction="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees>
+    <tree id="slappy_door">
+      <tier key="r_t3" id="">
+        <topic key="t0" id="_4" enabled="1" hold="1" expose="" go="-2">
+          <title>
+            <en><![CDATA[How the hell should I know?]]></en>
+            <de><![CDATA[Woher soll ich das wissen?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0073">
+              <en><![CDATA[867,9982718876 .... ]]></en>
+              <de><![CDATA[867,9982718876 ...]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0074">
+              <en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en>
+              <de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+            <layer target="_current:exit_mill" state="main" />
+            <puppet target="exit_mill" callAction="0" />
+          </script>
+        </topic>
+        <topic key="t1" id="_5" enabled="1" hold="1" expose="" go="-2">
+          <title>
+            <en><![CDATA[I have no idea. I am drawing a blank here.]]></en>
+            <de><![CDATA[Keinen blassen Schimmer ... echt nicht ...]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0075">
+              <en><![CDATA[867,9982718876 .... ]]></en>
+              <de><![CDATA[867,9982718876 ...]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0076">
+              <en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en>
+              <de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+            <layer target="_current:exit_mill" state="main" />
+            <puppet target="exit_mill" callAction="0" />
+          </script>
+        </topic>
+        <topic key="t2" id="_6" enabled="1" hold="1" expose="" go="-2">
+          <title>
+            <en><![CDATA[I am not in the mood for math right now.]]></en>
+            <de><![CDATA[Ich bin nicht in der Stimmung für Rechenspielchen ...]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0077">
+              <en><![CDATA[867,9982718876 .... ]]></en>
+              <de><![CDATA[867,9982718876 ...]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0078">
+              <en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en>
+              <de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+            <layer target="_current:exit_mill" state="main" />
+            <puppet target="exit_mill" callAction="0" />
+          </script>
+        </topic>
+      </tier>
+      <tier key="r" id="">
+        <topic key="t4" id="_7" enabled="1" hold="0" expose="" go="-2">
+          <title>
+            <en><![CDATA[IRS. Open your door.]]></en>
+            <de><![CDATA[Steuerbehörde. Öffnen Sie die Tür!]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0061">
+              <en><![CDATA[IRS. Open your door.]]></en>
+              <de><![CDATA[Steuerbehörde. Öffnen Sie die Tür!]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0062">
+              <en><![CDATA[Never! You won’t get me alive!]]></en>
+              <de><![CDATA[Nie! Lebendig kriegen Sie mich nicht!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0063">
+              <en><![CDATA[Mhh ... I guess his reaction really isn’t all that surprising.]]></en>
+              <de><![CDATA[Hmm ... Seine Reaktion ist wirklich nicht so überraschend.]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t5" id="_8" enabled="1" hold="0" expose="" go="-2">
+          <title>
+            <en><![CDATA[May I ask, what’s your relationship with God?]]></en>
+            <de><![CDATA[Darf ich fragen, was für eine Beziehung Sie zu Gott haben?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0064">
+              <en><![CDATA[May I ask, what’s your relationship with God?]]></en>
+              <de><![CDATA[Darf ich fragen, was für eine Beziehung Sie zu Gott haben?]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0065">
+              <en><![CDATA[No, you may not!]]></en>
+              <de><![CDATA[Nein, dürfen Sie nicht!]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0066">
+              <en><![CDATA[What a rude man ...]]></en>
+              <de><![CDATA[Was für ein unhöflicher Mann ...]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t0" id="real" enabled="1" hold="0" expose="real2" go="0">
+          <title>
+            <en><![CDATA[My name is Nigel Trelawney, I’ve come to Ravenhollow to settle my father’s estate!]]></en>
+            <de><![CDATA[Ich heiße Nigel Trelawney, ich bin nach Ravenhollow gekommen, um den Nachlass meines Vaters zu regeln!]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0067">
+              <en><![CDATA[My name is Nigel Trelawney, I’ve come to Ravenhollow to settle my father’s estate!]]></en>
+              <de><![CDATA[Ich heiße Nigel Trelawney, ich bin nach Ravenhollow gekommen, um den Nachlass meines Vaters zu regeln!]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0068">
+              <en><![CDATA[Nigel Trelawney?? ... Anthony Trelawney’s son!?]]></en>
+              <de><![CDATA[Nigel Trelawney?? ... Anthony Trelawneys Sohn!?]]></de>
+            </dia>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0069">
+              <en><![CDATA[None other.]]></en>
+              <de><![CDATA[Kein anderer.]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0070">
+              <en><![CDATA[Anthony Trelawney is dead and his son is long gone, so we have nothing to talk about kid. So like I said: go away!]]></en>
+              <de><![CDATA[Anthony Trelawney ist tot und sein Sohn ist lange weg, also haben wir nichts zu besprechen. Also wie gesagt: Gehen Sie weg!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t3" id="real2" enabled="0" hold="1" expose="" go="1">
+          <title>
+            <en><![CDATA[Okay then, how can I prove to you that I’m Anthony Trelawney’s son?]]></en>
+            <de><![CDATA[Okay, wie kann ich Ihnen beweisen, dass ich Anthony Trelawneys Sohn bin?]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0071">
+              <en><![CDATA[Okay then, how can I prove to you that I’m Anthony Trelawney’s son?]]></en>
+              <de><![CDATA[Okay, wie kann ich Ihnen beweisen, dass ich Anthony Trelawneys Sohn bin?]]></de>
+            </dia>
+            <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0072">
+              <en><![CDATA[Hmmm ... okay then &#8222;Nigel&#8220;, what’s the square root of 753421?]]></en>
+              <de><![CDATA[Hmmm ... okay, &#8222;Nigel&#8220;, was ist die Quadratwurzel aus 753421?]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+        <topic key="t1" id="_1" enabled="1" hold="1" expose="" go="-2">
+          <title>
+            <en><![CDATA[Sorry! Wrong mill!]]></en>
+            <de><![CDATA[Tut mir leid! Falsche Mühle!]]></de>
+          </title>
+          <dialog>
+            <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0079">
+              <en><![CDATA[Sorry! Wrong mill!]]></en>
+              <de><![CDATA[Tut mir leid! Falsche Mühle!]]></de>
+            </dia>
+          </dialog>
+          <script>
+            <dialogue play="*" />
+          </script>
+        </topic>
+      </tier>
+    </tree>
+  </trees>
+</room>
