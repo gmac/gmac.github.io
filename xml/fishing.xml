@@ -156,6 +156,26 @@
                   <en><![CDATA[Time Up!]]></en>
                   <de><![CDATA[]]></de>
                 </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/fishing_voice.swf:ferry_026">
+                  <en><![CDATA[Aye. That's me ship, The Sea Cucumber.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/fishing_voice.swf:ferry_028">
+                  <en><![CDATA[Sorry, I can't lend you my boat.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/fishing_voice.swf:ferry_029">
+                  <en><![CDATA[Shroom and me, we'll have to get going soon...]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/fishing_voice.swf:ferry_030">
+                  <en><![CDATA[We have to deliver these boxes before sunrise.]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
+                <dia puppet="mcmanus" frame="" sound="voice/fishing_voice.swf:ferry_066">
+                  <en><![CDATA[What did you just say?]]></en>
+                  <de><![CDATA[]]></de>
+                </dia>
               </dialog>
               <script>
                 <dialogue play="*" />
