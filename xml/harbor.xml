@@ -5374,7 +5374,7 @@
                   <de><![CDATA[Gebühren? Wofür?]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0407">
-                  <en><![CDATA[That’s it. I lost track of my numbers ... now these good people will have to pay additional recalculation fees of half a crate of fish each.]]></en>
+                  <en><![CDATA[That’s it. I’ve lost track of my numbers ... now these good people will have to pay additional recalculation fees. That’ll be another half-crate of fish each.]]></en>
                   <de><![CDATA[Das war's. Jetzt habe ich mich verrechnet ... nun müssen diese guten Menschen jeweils eine zusätzliche Neuberechnungsgebühr in Höhe einer halben Kiste Fisch bezahlen.]]></de>
                 </dia>
                 <dia puppet="fisherman1" frame="" sound="voice/harbor_voice.swf:harbor0408">
@@ -5574,7 +5574,7 @@
                   <de><![CDATA[Nicht jetzt, bitte ...]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0419">
-                  <en><![CDATA[Oh, do not be rude. Mr. Trelawney is a very curious mind!]]></en>
+                  <en><![CDATA[Oh, don’t be rude. Mr. Trelawney has a very curious mind!]]></en>
                   <de><![CDATA[Oh, seien Sie nicht unhöflich. Herr Trelawney ist ein sehr neugieriger Mensch!]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0420">
@@ -5594,7 +5594,7 @@
                   <de><![CDATA[Sei vorsichtig ...]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0424">
-                  <en><![CDATA[Not that bold after all, uh?]]></en>
+                  <en><![CDATA[Not so bold after all, hu?]]></en>
                   <de><![CDATA[Doch nicht so wagemutig, was?]]></de>
                 </dia>
               </dialog>
@@ -5681,7 +5681,7 @@
                   <de><![CDATA[Entschuldigung, aber das ist jetzt nicht der richtige Zeitpunkt.]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0430">
-                  <en><![CDATA[You’re probably just too happy to talk now that you’re entitled to donate your catch to the castle, aren’t you?]]></en>
+                  <en><![CDATA[You’re probably just too happy to talk. It’s quite an honor to donate your catch to the Castle, isn’t it?]]></en>
                   <de><![CDATA[Ihnen verschlägts wohl die Sprache, weil Sie Ihren Fang dem Schloss spenden dürfen? Sie sind wirklich zu beneiden.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0431">
@@ -5689,7 +5689,7 @@
                   <de><![CDATA[Ihren Fang spenden? ... Bedeutet das, dass Sie alles abgeben müssen? Warum lassen Sie das zu?]]></de>
                 </dia>
                 <dia puppet="fisherman2" frame="" sound="voice/harbor_voice.swf:harbor0432">
-                  <en><![CDATA[If you had been around during the last months you’d know when to shut up! We have a representative of the Castle in our midst!]]></en>
+                  <en><![CDATA[If you’d been here longer, then you’d know when to keep quiet. We have a representative of the Castle in our midst!]]></en>
                   <de><![CDATA[Wären Sie die letzten Monate hier gewesen, wüssten Sie, wann Sie besser den Mund halten! Wir haben einen Vertreter des Schlosses in unserer Mitte!]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0433">
@@ -5697,7 +5697,7 @@
                   <de><![CDATA[Oh, beachtet mich nicht, Jungs.]]></de>
                 </dia>
                 <dia puppet="castle_faker" frame="" sound="voice/harbor_voice.swf:harbor0434">
-                  <en><![CDATA[However, if Lowell Cain were to overhear you, he surely wouldn’t be pleased by your lack of loyalty to the Castle. ]]></en>
+                  <en><![CDATA[However if Lowell Cain were to overhear you, he surely wouldn’t be pleased by your half-hearted loyalty to the Castle. ]]></en>
                   <de><![CDATA[Aber wenn Lowell Cain davon Wind bekommt, wäre er sicherlich nicht erfreut, von Ihrem Mangel an Loyalität gegenüber dem Schloss zu erfahren.]]></de>
                 </dia>
                 <dia puppet="fisherman1" frame="" sound="voice/harbor_voice.swf:harbor0435">

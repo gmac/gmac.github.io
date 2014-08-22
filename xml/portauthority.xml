@@ -1020,11 +1020,11 @@
                   <de><![CDATA[Wie können wir helfen?]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0056">
-                  <en><![CDATA[What can we do to help you?]]></en>
-                  <de><![CDATA[Genau: wie können wir helfen?]]></de>
+                  <en><![CDATA[What can we do for you today?]]></en>
+                  <de><![CDATA[Was können wir heute für Sie tun?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/portauthority_voice.swf:portauthority0057">
-                  <en><![CDATA[I received this will &#8212; a heritage certificate to my father’s estate &#8212; in the mail ...]]></en>
+                  <en><![CDATA[I received this will&#8212;a heritage certificate to my father’s estate&#8212;in the mail ...]]></en>
                   <de><![CDATA[Ich habe dieses Testament per Post bekommen – eine Erburkunde, um den Nachlass meines Vaters zu regeln ...]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0058">
@@ -1036,7 +1036,7 @@
                   <de><![CDATA[Das Schloss hat seit einem Monat den gesamten Postverkehr unterbunden.]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0060">
-                  <en><![CDATA[Outgoing mail was also stopped. So, you are not from around here, are you? I don’t recognize you.]]></en>
+                  <en><![CDATA[Outgoing mail was also stopped. So, you’re not from around here, are you? I don’t recognize you.]]></en>
                   <de><![CDATA[Ausgehende Post wurde ebenfalls gestoppt. Sie sind nicht von hier, oder? Ich kenne Sie nicht.]]></de>
                 </dia>
                 <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0061">
@@ -1048,8 +1048,8 @@
                   <de><![CDATA[Ich bin fremd hier, na und?]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0063">
-                  <en><![CDATA[Well, Mr. Trelawney. We know who you are.]]></en>
-                  <de><![CDATA[Nun, Herr Trelawney. Wir wissen, wer Sie sind.]]></de>
+                  <en><![CDATA[Well, Mr. Trelawney ... we know who you are.]]></en>
+                  <de><![CDATA[Nun, Herr Trelawney ... Wir wissen, wer Sie sind.]]></de>
                 </dia>
                 <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0064">
                   <en><![CDATA[Nice name, Nigel Trelawney.]]></en>
@@ -2802,7 +2802,7 @@
               <de><![CDATA[Also, was genau machen Sie hier?]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0160">
-              <en><![CDATA[Well we mostly sit here.]]></en>
+              <en><![CDATA[Well, we mostly sit here.]]></en>
               <de><![CDATA[Wir sitzen hauptsächlich herum.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0161">
@@ -2810,7 +2810,7 @@
               <de><![CDATA[Genau hier.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0162">
-              <en><![CDATA[And sometimes we go outside and we make lists of confiscated goods ... lists which we give to Lowell Cain.]]></en>
+              <en><![CDATA[Sometimes we go outside and we make lists of confiscated goods ... lists that we give to Lowell Cain.]]></en>
               <de><![CDATA[Und manchmal gehen wir nach draußen und erstellen Listen der beschlagnahmten Waren ... Listen, die wir Lowell Cain geben.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0163">
@@ -2818,11 +2818,11 @@
               <de><![CDATA[... der sie dem Baron gibt.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0164">
-              <en><![CDATA[And the Baron actually reads our lists after he gets them from Lowell Cain, can you believe it?]]></en>
-              <de><![CDATA[Und der Baron liest tatsächlich unsere Listen, nachdem er sie von Lowell Cain erhalten hat, unglaublich, oder?]]></de>
+              <en><![CDATA[Then the Baron actually READS our lists, can you believe it?]]></en>
+              <de><![CDATA[Dann wird der Baron eigentlich LIEST unseren Listen, können Sie es glauben?]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0165">
-              <en><![CDATA[Unbelievable indeed.]]></en>
+              <en><![CDATA[UN-believable, indeed.]]></en>
               <de><![CDATA[Wirklich unglaublich.]]></de>
             </dia>
           </dialog>
@@ -2841,7 +2841,7 @@
               <de><![CDATA[Nochmal: WAS tut ihr hier?]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0167">
-              <en><![CDATA[Well we mostly sit here.]]></en>
+              <en><![CDATA[Well, we mostly sit here.]]></en>
               <de><![CDATA[Wir sitzen hauptsächlich herum.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0168">
@@ -2849,7 +2849,7 @@
               <de><![CDATA[Genau hier.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0169">
-              <en><![CDATA[And sometimes we go outside and we make lists of confiscated goods ... lists which we give to Lowell Cain.]]></en>
+              <en><![CDATA[Sometimes we go outside and we make lists of confiscated goods ... lists that we give to Lowell Cain.]]></en>
               <de><![CDATA[Und manchmal gehen wir nach draußen und erstellen Listen der beschlagnahmten Waren ... Listen, die wir Lowell Cain geben.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0170">
@@ -2857,11 +2857,11 @@
               <de><![CDATA[... der sie dem Baron gibt.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0171">
-              <en><![CDATA[And the Baron actually reads our lists after he gets them from Lowell Cain, can you believe it?]]></en>
+              <en><![CDATA[Then the Baron actually READS our lists, can you believe it?]]></en>
               <de><![CDATA[Und der Baron liest tatsächlich unsere Listen, nachdem er sie von Lowell Cain erhalten hat, unglaublich, oder?]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0172">
-              <en><![CDATA[Unbelievable indeed.]]></en>
+              <en><![CDATA[UN-believable, indeed.]]></en>
               <de><![CDATA[Wirklich unglaublich.]]></de>
             </dia>
           </dialog>
@@ -2934,16 +2934,16 @@
               <de><![CDATA[Das könnten womöglich schon ...]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0182">
-              <en><![CDATA[When did we start here ...]]></en>
-              <de><![CDATA[Wann haben wir hier angefangen ...]]></de>
+              <en><![CDATA[When did we start here ...?]]></en>
+              <de><![CDATA[Wann haben wir hier angefangen ...?]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0183">
-              <en><![CDATA[The day we kicked out that old guy, Wavetamer.]]></en>
-              <de><![CDATA[An dem Tag, an dem wir den alten Wavetamer rausgeworfen haben.]]></de>
+              <en><![CDATA[It was the day we kicked out that old guy, Wavetamer ...]]></en>
+              <de><![CDATA[An dem Tag, an dem wir den alten Wavetamer rausgeworfen haben ...]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0184">
-              <en><![CDATA[Four months ago to the day.]]></en>
-              <de><![CDATA[Genau vor vier Monaten.]]></de>
+              <en><![CDATA[Ah, yes. Four months ago to the day.]]></en>
+              <de><![CDATA[Ah, ja. Genau vor vier Monaten.]]></de>
             </dia>
           </dialog>
           <script>
@@ -2969,16 +2969,16 @@
               <de><![CDATA[Das könnten womöglich schon ...]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0188">
-              <en><![CDATA[When did we start here ...]]></en>
-              <de><![CDATA[Wann haben wir hier angefangen ...]]></de>
+              <en><![CDATA[When did we start here ...?]]></en>
+              <de><![CDATA[Wann haben wir hier angefangen ...?]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0189">
-              <en><![CDATA[The day we kicked out that old guy, Wavetamer.]]></en>
-              <de><![CDATA[An dem Tag, an dem wir den alten Wavetamer rausgeworfen haben.]]></de>
+              <en><![CDATA[It was the day we kicked out that old guy, Wavetamer ...]]></en>
+              <de><![CDATA[An dem Tag, an dem wir den alten Wavetamer rausgeworfen haben ...]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0190">
-              <en><![CDATA[Four months ago to the day.]]></en>
-              <de><![CDATA[Genau vor vier Monaten.]]></de>
+              <en><![CDATA[Ah, yes. Four months ago to the day.]]></en>
+              <de><![CDATA[Ah, ja. Genau vor vier Monaten.]]></de>
             </dia>
           </dialog>
           <script>
@@ -2996,27 +2996,27 @@
               <de><![CDATA[Warum haben Sie den alten Hafenmeister ersetzt?]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0192">
-              <en><![CDATA[Wavetamer didn’t like the new Castle laws.]]></en>
-              <de><![CDATA[Wavetamer mochte die neuen Schlossgesetze nicht.]]></de>
+              <en><![CDATA[Wavetamer didn’t like the new Castle laws ...]]></en>
+              <de><![CDATA[Wavetamer mochte die neuen Schlossgesetze nicht ...]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0193">
-              <en><![CDATA[... such as the Castle’s no&#8212;trade policy.]]></en>
-              <de><![CDATA[... z.B. das Nicht-Handelsabkommen des Schlosses.]]></de>
+              <en><![CDATA[... such as the Castle’s no-trade policy ...]]></en>
+              <de><![CDATA[... z.B. das Nicht-Handelsabkommen des Schlosses ...]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0194">
-              <en><![CDATA[And since we don’t care about trade, we have no trouble with the new Castle Laws.]]></en>
-              <de><![CDATA[Und da uns der Handel egal ist, haben wir keine Probleme mit den neuen Schlossgesetzen.]]></de>
+              <en><![CDATA[We don’t care about trade, so we have no trouble with the new Castle Laws ...]]></en>
+              <de><![CDATA[Da uns der Handel egal ist, haben wir keine Probleme mit den neuen Schlossgesetzen ...]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0195">
-              <en><![CDATA[Or with working for the Castle ... or for Lowell Cain.]]></en>
-              <de><![CDATA[Oder damit, für das Schloss zu arbeiten ... oder für Lowell Cain.]]></de>
+              <en><![CDATA[... or with working for Lowell Cain and the Castle ...]]></en>
+              <de><![CDATA[... oder damit, für Lowell Cain und das Schloss zu arbeiten ...]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0196">
-              <en><![CDATA[Or the Baron for that matter.]]></en>
-              <de><![CDATA[Oder für den Baron.]]></de>
+              <en><![CDATA[... or with the Baron, for that matter.]]></en>
+              <de><![CDATA[... oder für den Baron.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0197">
-              <en><![CDATA[Why wouldn’t one support the new regime as long as you’re getting paid well for your service?]]></en>
+              <en><![CDATA[Why wouldn’t one support the new regime, as long as you’re getting paid well for your service?]]></en>
               <de><![CDATA[Warum sollte man das neue Regime nicht unterstützen, solange man für seine Arbeit gut bezahlt wird?]]></de>
             </dia>
           </dialog>
@@ -3034,28 +3034,28 @@
               <en><![CDATA[Why again did you replace Sir Wavetamer?]]></en>
               <de><![CDATA[Warum haben Sie gleich nochmal Sir Wavetamer ersetzt?]]></de>
             </dia>
-            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0199">
-              <en><![CDATA[Wavetamer didn’t like the new Castle laws.]]></en>
-              <de><![CDATA[Wavetamer mochte die neuen Schlossgesetze nicht.]]></de>
+            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0192">
+              <en><![CDATA[Wavetamer didn’t like the new Castle laws ...]]></en>
+              <de><![CDATA[Wavetamer mochte die neuen Schlossgesetze nicht ...]]></de>
             </dia>
-            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0200">
-              <en><![CDATA[... such as the Castle’s no&#8212;trade policy.]]></en>
-              <de><![CDATA[... z.B. das Nicht-Handelsabkommen des Schlosses.]]></de>
+            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0193">
+              <en><![CDATA[... such as the Castle’s no-trade policy ...]]></en>
+              <de><![CDATA[... z.B. das Nicht-Handelsabkommen des Schlosses ...]]></de>
             </dia>
-            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0201">
-              <en><![CDATA[And since we don’t care about trade, we have no trouble with the new Castle Laws.]]></en>
-              <de><![CDATA[Und da uns der Handel egal ist, haben wir keine Probleme mit den neuen Schlossgesetzen.]]></de>
+            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0194">
+              <en><![CDATA[We don’t care about trade, so we have no trouble with the new Castle Laws ...]]></en>
+              <de><![CDATA[Da uns der Handel egal ist, haben wir keine Probleme mit den neuen Schlossgesetzen ...]]></de>
             </dia>
-            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0202">
-              <en><![CDATA[Or with working for the Castle ... or for Lowell Cain.]]></en>
-              <de><![CDATA[Oder damit, für das Schloss zu arbeiten ... oder für Lowell Cain.]]></de>
+            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0195">
+              <en><![CDATA[... or with working for Lowell Cain and the Castle ...]]></en>
+              <de><![CDATA[... oder damit, für Lowell Cain und das Schloss zu arbeiten ...]]></de>
             </dia>
-            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0203">
-              <en><![CDATA[Or the Baron for that matter.]]></en>
-              <de><![CDATA[Oder für den Baron.]]></de>
+            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0196">
+              <en><![CDATA[... or with the Baron, for that matter.]]></en>
+              <de><![CDATA[... oder für den Baron.]]></de>
             </dia>
-            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0204">
-              <en><![CDATA[Why wouldn’t one support the new regime as long as you’re getting paid well for your service?]]></en>
+            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0197">
+              <en><![CDATA[Why wouldn’t one support the new regime, as long as you’re getting paid well for your service?]]></en>
               <de><![CDATA[Warum sollte man das neue Regime nicht unterstützen, solange man für seine Arbeit gut bezahlt wird?]]></de>
             </dia>
           </dialog>
@@ -3107,11 +3107,11 @@
               <de><![CDATA[Kein einziges Wort kommt über unsere Lippen.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0145">
-              <en><![CDATA[Then again, I’m sure the Castle already knows you were able to escape.]]></en>
+              <en><![CDATA[Then again, I’m sure the Castle already knows that you escaped.]]></en>
               <de><![CDATA[Andererseits weiß man im Schloss sicher schon, dass Sie entfliehen konnten.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0146">
-              <en><![CDATA[There’s no way the Castle could not know about it.]]></en>
+              <en><![CDATA[There’s no way the Castle could NOT know about it.]]></en>
               <de><![CDATA[Es ist undenkbar, dass das Schloss noch nicht davon erfahren hat.]]></de>
             </dia>
           </dialog>
@@ -3146,11 +3146,11 @@
               <de><![CDATA[Kein einziges Wort kommt über unsere Lippen.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0152">
-              <en><![CDATA[Then again, I’m sure the Castle already knows you were able to escape.]]></en>
+              <en><![CDATA[Then again, I’m sure the Castle already knows that you escaped.]]></en>
               <de><![CDATA[Andererseits weiß man im Schloss sicher schon, dass Sie entfliehen konnten.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0153">
-              <en><![CDATA[There’s no way the Castle could not know about it.]]></en>
+              <en><![CDATA[There’s no way the Castle could NOT know about it.]]></en>
               <de><![CDATA[Es ist undenkbar, dass das Schloss noch nicht davon erfahren hat.]]></de>
             </dia>
           </dialog>
@@ -3169,7 +3169,7 @@
               <de><![CDATA[Wer sind Sie und was machen Sie hier?]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0155">
-              <en><![CDATA[We are the new administration of the Ravenhollow Port Authority, as sanctioned under the new regime of Northwest Castle.]]></en>
+              <en><![CDATA[We’re the new administration of the Ravenhollow Port Authority, as sanctioned under the new regime of Northwest Castle.]]></en>
               <de><![CDATA[Wir sind die neue Leitung der Hafenbehörde von Ravenhollow, sanktioniert unter dem neuen Regime von Schloss Nordwest.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0156">
@@ -3223,12 +3223,12 @@
               <de><![CDATA[Wir haben keine Ahnung.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0210">
-              <en><![CDATA[We are not from around here.]]></en>
+              <en><![CDATA[We’re not from around here.]]></en>
               <de><![CDATA[Wir sind nicht von hier.]]></de>
             </dia>
-            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0211">
-              <en><![CDATA[We came here pretty recently ourselves.]]></en>
-              <de><![CDATA[Wir kamen selbst erst vor Kurzem hierher.]]></de>
+            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0216">
+              <en><![CDATA[We came here pretty recently ourselves to join the Northwest Restoration.]]></en>
+              <de><![CDATA[Wir kamen selbst erst vor Kurzem hierher, die Nordwest Restaurierung beitreten.]]></de>
             </dia>
           </dialog>
           <script>
@@ -3254,12 +3254,12 @@
               <de><![CDATA[Wir haben keine Ahnung.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0215">
-              <en><![CDATA[We are not from around here.]]></en>
+              <en><![CDATA[We’re not from around here.]]></en>
               <de><![CDATA[Wir sind nicht von hier.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0216">
-              <en><![CDATA[We came here pretty recently ourselves.]]></en>
-              <de><![CDATA[Wir kamen selbst erst vor Kurzem hierher.]]></de>
+              <en><![CDATA[We came here pretty recently ourselves to join the Northwest Restoration.]]></en>
+              <de><![CDATA[Wir kamen selbst erst vor Kurzem hierher, die Nordwest Restaurierung beitreten.]]></de>
             </dia>
           </dialog>
           <script>
@@ -3277,20 +3277,20 @@
               <de><![CDATA[Das ist ein echt nettes Büro.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0218">
-              <en><![CDATA[Thank you, that’s the way we found it after the old guy left four months ago.]]></en>
-              <de><![CDATA[Danke, genauso haben wir es vor vier Monaten vorgefunden, als der alte Kerl es verließ.]]></de>
+              <en><![CDATA[Thank you. It’s the way we found it when we kicked the old guy out four months ago.]]></en>
+              <de><![CDATA[Danke. Genauso haben wir es vor vier Monaten vorgefunden, als der alte Kerl es verließ.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0219">
               <en><![CDATA[Wavetamer wasn’t a Castle man, but the old fool had an eye for interior decorating.]]></en>
               <de><![CDATA[Wavetamer war kein Freund des Schlosses, aber der alte Zausel hatte ein Händchen für Inneneinrichtung.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0220">
-              <en><![CDATA[We will congratulate him on his design choices next time we see him.]]></en>
+              <en><![CDATA[We’ll be sure to congratulate him on his design choices the next time we see him.]]></en>
               <de><![CDATA[Wir werden ihn zu seinen Gestaltungsentscheidungen beglückwünschen, wenn wir ihn das nächste Mal sehen.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0221">
-              <en><![CDATA[Yeah, we’ll say thanks indeed.]]></en>
-              <de><![CDATA[Genau, wir werden uns bei ihm bedanken.]]></de>
+              <en><![CDATA[Yeah, we’ll be sure to thank him.]]></en>
+              <de><![CDATA[Ja, wir sind sicher, ihm zu danken sein.]]></de>
             </dia>
           </dialog>
           <script>
@@ -3307,21 +3307,21 @@
               <en><![CDATA[I have to say it again: this office is really nice.]]></en>
               <de><![CDATA[Ich muss es noch einmal sagen: Dieses Büro ist wirklich nett.]]></de>
             </dia>
-            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0223">
-              <en><![CDATA[Thank you, that’s the way we found it after the old guy left four months ago.]]></en>
-              <de><![CDATA[Danke, genauso haben wir es vor vier Monaten vorgefunden, als der alte Kerl es verließ.]]></de>
+            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0218">
+              <en><![CDATA[Thank you. It’s the way we found it when we kicked the old guy out four months ago.]]></en>
+              <de><![CDATA[Danke. Genauso haben wir es vor vier Monaten vorgefunden, als der alte Kerl es verließ.]]></de>
             </dia>
-            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0224">
+            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0219">
               <en><![CDATA[Wavetamer wasn’t a Castle man, but the old fool had an eye for interior decorating.]]></en>
               <de><![CDATA[Wavetamer war kein Freund des Schlosses, aber der alte Zausel hatte ein Händchen für Inneneinrichtung.]]></de>
             </dia>
-            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0225">
-              <en><![CDATA[We will congratulate him on his design choices next time we see him.]]></en>
+            <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0220">
+              <en><![CDATA[We’ll be sure to congratulate him on his design choices the next time we see him.]]></en>
               <de><![CDATA[Wir werden ihn zu seinen Gestaltungsentscheidungen beglückwünschen, wenn wir ihn das nächste Mal sehen.]]></de>
             </dia>
-            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0226">
-              <en><![CDATA[Yeah, we’ll say thanks indeed.]]></en>
-              <de><![CDATA[Genau, wir werden uns bei ihm bedanken.]]></de>
+            <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0221">
+              <en><![CDATA[Yeah, we’ll be sure to thank him.]]></en>
+              <de><![CDATA[Ja, wir sind sicher, ihm zu danken sein.]]></de>
             </dia>
           </dialog>
           <script>
@@ -3343,7 +3343,7 @@
               <de><![CDATA[Fremde erhalten keinen Dorfpass, Herr Trelawney.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0229">
-              <en><![CDATA[Shouldn’t get one, Mr. Trelwaney.]]></en>
+              <en><![CDATA[You can’t get one, Mr. Trelwaney.]]></en>
               <de><![CDATA[Sie sollten auch gar keinen bekommen, Herr Trelwaney.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/portauthority_voice.swf:portauthority0230">
@@ -3355,7 +3355,7 @@
               <de><![CDATA[Wenn Sie zu einem Dorfpass berechtigt wären, dann hätten Sie bereits einen.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0232">
-              <en><![CDATA[And because you don’t already have a village pass, you obviously don’t qualify for one.]]></en>
+              <en><![CDATA[And because you don’t already have one, you obviously don’t qualify.]]></en>
               <de><![CDATA[Und da Sie noch keinen Dorfpass haben, sind Sie offensichtlich auch nicht zu einem solchen berechtigt.]]></de>
             </dia>
           </dialog>
@@ -3378,7 +3378,7 @@
               <de><![CDATA[Fremde erhalten keinen Dorfpass, Herr Trelawney.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0235">
-              <en><![CDATA[Shouldn’t get one, Mr. Trelwaney.]]></en>
+              <en><![CDATA[You can’t get one, Mr. Trelwaney.]]></en>
               <de><![CDATA[Sie sollten auch gar keinen bekommen, Herr Trelwaney.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/portauthority_voice.swf:portauthority0236">
@@ -3390,7 +3390,7 @@
               <de><![CDATA[ Wenn Sie zu einem Dorfpass berechtigt wären, dann hätten Sie bereits einen.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0238">
-              <en><![CDATA[And because you don’t already have a village pass, you obviously don’t qualify for one.]]></en>
+              <en><![CDATA[And because you don’t already have one, you obviously don’t qualify.]]></en>
               <de><![CDATA[ Und da Sie noch keinen Dorfpass haben, sind Sie offensichtlich auch nicht zu einem solchen berechtigt.]]></de>
             </dia>
           </dialog>
