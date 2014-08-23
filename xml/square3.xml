@@ -224,7 +224,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30000">
-                  <en><![CDATA[How odd that a small town like Ravenhollow can support such a niche market product as hand&#8212;crafted masks. Unless...]]></en>
+                  <en><![CDATA[How odd that a small town like Ravenhollow can support such a niche market product as hand-crafted masks. Unless...]]></en>
                   <de><![CDATA[Wie seltsam, dass in einer Kleinstadt wie Ravenhollow so ein Nischenprodukt wie handgeschnitzte Masken überleben kann. Es sei denn ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30001">
@@ -391,7 +391,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30005">
-                  <en><![CDATA[I have nothing to say to that stone&#8212;cold effigy.]]></en>
+                  <en><![CDATA[I have nothing to say to that stone-cold effigy.]]></en>
                   <de><![CDATA[Zu diesem steinharten Bildnis habe ich nichts zu sagen.]]></de>
                 </dia>
               </dialog>
@@ -514,7 +514,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30008">
-                  <en><![CDATA[How appropriate, the wrought&#8212;iron sign includes the design of a raven.]]></en>
+                  <en><![CDATA[How appropriate, the wrought-iron sign includes the design of a raven.]]></en>
                   <de><![CDATA[Wie passend: In dem schmiedeeisernen Schild ist ein Rabe eingearbeitet.]]></de>
                 </dia>
               </dialog>
@@ -1613,7 +1613,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30094">
-                  <en><![CDATA[He’s now juggling terrifying&#8212;looking knives!]]></en>
+                  <en><![CDATA[He’s now juggling terrifying-looking knives!]]></en>
                   <de><![CDATA[Jetzt jongliert er mit diesen beängstigend aussehenden Messern!]]></de>
                 </dia>
               </dialog>
@@ -1976,7 +1976,7 @@
               <dialog>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30116">
                   <en><![CDATA[Oh my goodness, a genuine Faberge egg! Destroyed!]]></en>
-                  <de><![CDATA[Du meine Güte, ein echtes Fabergé&#8212;Ei! Zerstört!]]></de>
+                  <de><![CDATA[Du meine Güte, ein echtes Fabergé-Ei! Zerstört!]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30117">
                   <en><![CDATA[Please take it away, I can’t bear the sight.]]></en>
@@ -2002,7 +2002,7 @@
               <dialog>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30120">
                   <en><![CDATA[Oh my, was that a real ming vase?!]]></en>
-                  <de><![CDATA[Oh weh, war das eine echte Ming&#8212;Vase?!]]></de>
+                  <de><![CDATA[Oh weh, war das eine echte Ming-Vase?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30121">
                   <en><![CDATA[You bet it is ... er, WAS. So, how much is it worth?]]></en>
@@ -2036,7 +2036,7 @@
               <dialog>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30126">
                   <en><![CDATA[For the love of all things good and holy, is that a Honus Wagner rookie card?!]]></en>
-                  <de><![CDATA[Bei allen Heiligen, ist das eine Honus&#8212;Wagner&#8212;Sammelkarte?!]]></de>
+                  <de><![CDATA[Bei allen Heiligen, ist das eine Honus-Wagner-Sammelkarte?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30127">
                   <en><![CDATA[I think that’s who it is, although his torn ear makes it difficult to be sure.]]></en>
@@ -2190,12 +2190,12 @@
         </topic>
         <topic key="t5" id="trade2" enabled="1" hold="1" expose="" go="0">
           <title>
-            <en><![CDATA[What sort of dangerous&#8212;looking objects were you after?]]></en>
+            <en><![CDATA[What sort of dangerous-looking objects were you after?]]></en>
             <de><![CDATA[Welche Sorte gefährlich aussehender Gegenstände suchst du?]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30141">
-              <en><![CDATA[What sort of dangerous&#8212;looking objects were you after?]]></en>
+              <en><![CDATA[What sort of dangerous-looking objects were you after?]]></en>
               <de><![CDATA[Welche Sorte gefährlich aussehender Gegenstände suchst du?]]></de>
             </dia>
             <dia puppet="juggler" frame="" sound="voice/square3_voice.swf:square30142">
@@ -2253,7 +2253,7 @@
               <de><![CDATA[Danke! Matthew hat diese Geschichte gestern Nacht geschrieben ... bis jetzt kommt sie großartig an.]]></de>
             </dia>
             <dia puppet="juggler" frame="" sound="voice/square3_voice.swf:square30150">
-              <en><![CDATA[I told him the part about inter&#8212;dimensional travel might be a bit too much, but the kids seem to love it.]]></en>
+              <en><![CDATA[I told him the part about inter-dimensional travel might be a bit too much, but the kids seem to love it.]]></en>
               <de><![CDATA[Ich habe ihm gesagt, dass der Teil mit der Dimensionsreise vielleicht etwas zu viel ist, aber die Kinder scheinen das zu lieben.]]></de>
             </dia>
           </dialog>
