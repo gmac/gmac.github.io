@@ -3277,7 +3277,7 @@
               <de><![CDATA[Das ist ein echt nettes Büro.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0218">
-              <en><![CDATA[Thank you. It’s the way we found it when we kicked the old guy out four months ago.]]></en>
+              <en><![CDATA[Thank you. It’s the way we found it when we kicked that old guy out four months ago.]]></en>
               <de><![CDATA[Danke. Genauso haben wir es vor vier Monaten vorgefunden, als der alte Kerl es verließ.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0219">
@@ -3308,7 +3308,7 @@
               <de><![CDATA[Ich muss es noch einmal sagen: Dieses Büro ist wirklich nett.]]></de>
             </dia>
             <dia puppet="faker" frame="" sound="voice/portauthority_voice.swf:portauthority0218">
-              <en><![CDATA[Thank you. It’s the way we found it when we kicked the old guy out four months ago.]]></en>
+              <en><![CDATA[Thank you. It’s the way we found it when we kicked that old guy out four months ago.]]></en>
               <de><![CDATA[Danke. Genauso haben wir es vor vier Monaten vorgefunden, als der alte Kerl es verließ.]]></de>
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0219">

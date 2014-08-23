@@ -1,1 +1,917 @@
-<room id="smith3" coreLibs="lib/smith.swf,lib/smith_fx.swf,lib/music_memory.swf" voiceLibs="voice/smith3_voice.swf" enterScript="_enter" exitScript="_exit" grid="floor" sound1="lib/music_memory.swf:MemoryMusic" sound2="lib/smith_fx.swf:SmithNightFx"><grids><grid id="floor"><boxes><box x="131" y="616" w="567" h="27" nodes="n1,n2,n3,n4,n7,n9,n10,n24"/><box x="56" y="690" w="841" h="49" nodes="n0,n5,n6,n8,n11,n12,n30,n32,n33"/><box x="460" y="494" w="154" h="130" nodes="n2,n3,n29"/></boxes><nodes><node id="n0" x="775" y="698" join="n1,n4,n5,n6,n8,n11,n12,n30,n32,n33" trap="0"/><node id="n1" x="690" y="642" join="n0,n5,n4,n2,n3,n7,n9,n10,n24" trap="0"/><node id="n2" x="470" y="622" join="n1,n3,n4,n7,n9,n10,n24,n29" trap="0"/><node id="n3" x="593" y="620" join="n1,n2,n4,n7,n9,n10,n24,n29" trap="0"/><node id="n4" x="550" y="640" join="n5,n1,n0,n2,n3,n7,n9,n10,n24" trap="0"/><node id="n5" x="590" y="695" join="n4,n1,n0,n6,n8,n11,n12,n30,n32,n33" trap="0" name="module_remote"/><node id="n6" x="370" y="695" join="n8,n9,n7,n0,n5,n11,n12,n30,n32,n33" trap="0"/><node id="n7" x="420" y="642" join="n8,n9,n6,n1,n2,n3,n4,n10,n24" trap="0"/><node id="n8" x="230" y="695" join="n10,n9,n6,n7,n11,n0,n5,n12,n30,n32,n33" trap="0"/><node id="n9" x="280" y="640" join="n10,n8,n6,n7,n11,n1,n2,n3,n4,n24" trap="0"/><node id="n10" x="140" y="640" join="n8,n9,n11,n1,n2,n3,n4,n7,n24" trap="0"/><node id="n11" x="68" y="695" join="n10,n8,n9,n0,n5,n6,n12,n30,n32,n33" trap="0"/><node id="n12" x="855" y="736" join="n34,n0,n5,n6,n8,n11,n30,n32,n33" trap="0" name="join_walkway"/><node id="n24" x="139" y="625" join="n1,n2,n3,n4,n7,n9,n10" trap="0" name="join_river"/><node id="n25" x="503" y="465" join="n29" trap="0" name="join_catwalk"/><node id="n29" x="516" y="503" join="n25,n2,n3" trap="0" name="fromstation"/><node id="n30" x="162" y="736" join="n31,n0,n5,n6,n8,n11,n12,n32,n33" trap="0"/><node id="n31" x="205" y="846" join="n32,n33,n30" trap="0" name="doc"/><node id="n32" x="448" y="733" join="n31,n0,n5,n6,n8,n11,n12,n30,n33" trap="0"/><node id="n33" x="279" y="734" join="n31,n0,n5,n6,n8,n11,n12,n30,n32" trap="0"/><node id="n34" x="1085" y="770" join="n12,n35" trap="0"/><node id="n35" x="1078" y="2" join="n34,n36" trap="0"/><node id="n36" x="902" y="1" join="n35,n37" trap="0"/><node id="n37" x="813" y="74" join="n38,n36" trap="0"/><node id="n38" x="716" y="138" join="n37,n40" trap="0"/><node id="n39" x="584" y="148" join="n42,n40" trap="0"/><node id="n40" x="660" y="148" join="n39,n38,n45" trap="0"/><node id="n41" x="360" y="148" join="n42,n43" trap="0"/><node id="n42" x="496" y="148" join="n41,n39" trap="0"/><node id="n43" x="255" y="105" join="n41" trap="0"/><node id="n44" x="580" y="210" join="n45" trap="0" name="telescope"/><node id="n45" x="613" y="188" join="n44,n40" trap="0"/></nodes></grid></grids><positions><position id="module_remote" turn="4" x="590" y="695"/><position id="join_walkway" turn="4" x="855" y="736"/><position id="join_river" turn="3" x="139" y="625"/><position id="join_catwalk" turn="7" x="503" y="465"/><position id="fromstation" turn="4" x="516" y="503"/><position id="doc" turn="4" x="205" y="846"/><position id="telescope" turn="4" x="580" y="210"/></positions><filters><filter id="_main" axis="y" enabled="1"><pole x="475" y="466" scale="0.38" rate="0.5" blur="1" color="0x000000" tint="0.5"/><pole x="475" y="879" scale="1.12" rate="1" blur="5" color="0xFFFFFF" tint="0.5"/></filter><filter id="light" axis="r" enabled="1"><pole x="490" y="601" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.07"/><pole x="235" y="400" scale="1" rate="1" blur="5" color="0x000000" tint="0.37"/></filter></filters><scripts><script id="_enter"><logic><if eval="[_startPosition] EQ 'join_catwalk'"><method call="controls" enabled="0" cursor="0"/><curtain blackout="0" waitForComplete="1"/><layerSprite target="exit_catwalk" animFrame="lower" waitForComplete="1"/><puppetTween target="_avatar" type="move" to="position:fromstation" waitForComplete="1"/><layerSprite target="exit_catwalk" animFrame="raise" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/></if><else><curtain blackout="0" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/></else></logic></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="lib/smith.swf:SmithBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="bubbles" type="plane" asset="lib/smith.swf:SmithHydrolysis" depth="1" visible="1" state="main"><states><state id="main" x="408" y="284" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="walkway" type="plane" asset="lib/smith.swf:SmithWalkway" depth="2" visible="1" state="main"><states><state id="main" x="669" y="150" img="1" imgX="-641" imgY="-150" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="telescope" type="puppet" asset="lib/smith.swf:SmithTelescope" depth="3" visible="1" state="main"><states><state id="main" x="509" y="657" img="1" imgX="-24" imgY="-587" imgW="1" imgH="1" frame="8" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-101" hitY="-658" hitW="145" hitH="132" shape="rect"><param mapX="580" mapY="210" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[telescope]]></en><de><![CDATA[Teleskop]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="projector" type="puppet" asset="lib/smith.swf:SmithProjector" depth="4" visible="1" state="main"><states><state id="main" x="438" y="676" img="1" imgX="-13" imgY="-133" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-1" hitY="-130" hitW="96" hitH="91" shape="rect"><param mapX="433" mapY="641" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[slide projector]]></en><de><![CDATA[Diaprojektor]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30000"><en><![CDATA[That’s either a toaster with a cannon function or a slide projector.]]></en><de><![CDATA[Das ist entweder ein Toaster mit einer Kanonenfunktion oder ein Diaprojektor.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30001"><en><![CDATA[I don’t have any slides on me ... and even if I had some: there’s absolutely no time for slide shows now!]]></en><de><![CDATA[Ich habe keine Dias bei mir ... und selbst wenn ich welche hätte: Jetzt habe ich überhaupt keine Zeit für eine Dia-Show!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="safe" type="puppet" asset="lib/smith.swf:SmithLasernsafe" depth="5" visible="1" state="main"><states><state id="main" x="611" y="568" img="1" imgX="-45" imgY="-311" imgW="1" imgH="1" frame="8" blend="normal" alpha="1" bitmap="0" hit="1" hitX="34" hitY="-103" hitW="140" hitH="140" shape="rect"><param mapX="561" mapY="603" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[open safe]]></en><de><![CDATA[offener Tresor]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="slideshow" type="puppet" asset="lib/smith.swf:SmithProjection" depth="6" visible="1" state="main"><states><state id="main" x="447" y="680" img="1" imgX="-19" imgY="-440" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mapX="434" mapY="638" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="staircase" type="puppet" asset="" depth="7" visible="1" state="main"><states><state id="main" x="842" y="742" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-37" hitY="-213" hitW="214" hitH="239" shape="rect"><param mapX="855" mapY="736" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[stairs]]></en><de><![CDATA[Treppe]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30002"><en><![CDATA[These stairs lead up to the telescope.]]></en><de><![CDATA[Diese Treppe führt zum Teleskop.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30003"><en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en><de><![CDATA[Ich habe keine Zeit, um da oben herumzuklettern. Nigel und Prof. Smith sind in Gefahr!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="chairs" type="puppet" asset="" depth="8" visible="1" state="main"><states><state id="main" x="356" y="607" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-99" hitY="-200" hitW="178" hitH="172" shape="rect"><param mapX="362" mapY="632" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[chairs]]></en><de><![CDATA[Stühle]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30004"><en><![CDATA[It looks like someone didn’t tidy up after playing chair&#8212;Jenga.]]></en><de><![CDATA[Es sieht so aus, als habe jemand nach einem Spiel Stuhl-Jenga nicht aufgeräumt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30005"><en><![CDATA[I really don’t have time for this.]]></en><de><![CDATA[Dafür habe ich wirklich keine Zeit!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="bust" type="puppet" asset="" depth="9" visible="1" state="main"><states><state id="main" x="265" y="637" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-103" hitY="-268" hitW="86" hitH="202" shape="rect"><param mapX="293" mapY="626" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[bust]]></en><de><![CDATA[Büste]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30006"><en><![CDATA[I’m too lazy to read the plaques on these things, so I’ll just make something up ...]]></en><de><![CDATA[Ich bin zu faul, um die Tafeln auf diesen Dingen zu lesen, also werde ich mir einfach etwas ausdenken ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30007"><en><![CDATA[Therefore this is obviously Burt Broomstick, the local beard&#8212;grooming champion.]]></en><de><![CDATA[Deswegen ist das offensichtlich Bert Besenbart, der örtliche Bartwuchs-Champion.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30008"><en><![CDATA[I’m sure Bert wouldn’t like that.]]></en><de><![CDATA[Ich bin sicher, Bert würde das nicht gefallen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="chair" type="puppet" asset="" depth="10" visible="1" state="main"><states><state id="main" x="458" y="265" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-52" hitY="-152" hitW="90" hitH="148" shape="rect"><param mapX="478" mapY="564" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[observation seat]]></en><de><![CDATA[Beobachtungssitz]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30009"><en><![CDATA[That seat doesn’t look very comfy.]]></en><de><![CDATA[Dieser Sitz sieht nicht sehr bequem aus.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30010"><en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en><de><![CDATA[Ich habe keine Zeit, um da drüben herumzuklettern. Nigel und Prof. Smith sind in Gefahr!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="exit_river" type="puppet" asset="" depth="11" visible="1" state="main"><states><state id="main" x="4" y="620" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-361" hitW="72" hitH="358" shape="rect"><param mapX="140" mapY="605" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="river3:join_smith"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="module" type="puppet" asset="lib/smith.swf:SmithCollectorModule" depth="12" visible="1" state="empty"><states><state id="empty" x="881" y="630" img="0" imgX="53" imgY="-147" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="33" hitY="-371" hitW="110" hitH="269" shape="rect"><param mapX="845" mapY="695" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[strange device]]></en><de><![CDATA[seltsames Gerät]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30011"><en><![CDATA[It’s a strange device that towers out of this hole in the wall.]]></en><de><![CDATA[Es ist ein seltsames Gerät, das durch die kaputte Wand nach draußen ragt.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30012"><en><![CDATA[There’s a socket in the base, above which is labeled &#8222;LC 1983&#8220;]]></en><de><![CDATA[Im Sockel gibt es eine Anschlussfläche die mit &#8222;LC 1983&#8220; beschriftet ist.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30013"><en><![CDATA[How?]]></en><de><![CDATA[Wie?]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="module"><title><en><![CDATA[Plug #item# into #noun#]]></en><de><![CDATA[Stecke #item# in #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30014"><en><![CDATA[The module fits perfectly into the socket on this device.]]></en><de><![CDATA[Das Modul passt perfekt auf die Anschlussfläche dieses Geräts.]]></de></dia><dia puppet="_avatar" frame="hspeak" sound="voice/smith3_voice.swf:smith30015"><en><![CDATA[It looks like the machine has been powered up!]]></en><de><![CDATA[Es sieht so aus, als hätte sich die Maschine eingeschaltet!]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><sound effect="lib/sound_effects.swf:powerUp" waitForComplete="0"/><layer target="_current:module" state="module"/><layer target="river3:LC" state="on"/><inventory remove="module"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1"/><dialogue play="*"/></script></action><action id="remote4"><title><en><![CDATA[]]></en></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30016"><en><![CDATA[This device will need to be powered up before it even has a chance of responding to controls.]]></en><de><![CDATA[Dieses Gerät muss eingeschaltet werden, bevor es auf die Steuerung reagieren kann.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state><state id="module" x="881" y="630" img="1" imgX="53" imgY="-147" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-349" hitW="108" hitH="248" shape="rect"><param mapX="845" mapY="695" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[LC1983 device]]></en><de><![CDATA[LC1983-Gerät]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30017"><en><![CDATA[The module fits.]]></en><de><![CDATA[Das Modul passt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Push button on]]></en><de><![CDATA[Drücke Knopf auf]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30018"><en><![CDATA[Holy moly!]]></en><de><![CDATA[Heiliger Bimbam!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30019"><en><![CDATA[This device must somehow create or attracting lighting! No wonder this tree smashed through the side of the building!]]></en><de><![CDATA[Dieses Gerät scheint irgendwie Blitze zu erzeugen oder anzuziehen! Kein Wunder, dass der Baum durch die Seite des Gebäudes gekracht ist!]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="module" animFrame="active" waitForComplete="1"/><layerSprite target="module" animFrame="on" waitForComplete="0"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1"/><dialogue play="*"/></script></action></actions><items><action id="remote4"><title><en><![CDATA[]]></en></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30020"><en><![CDATA[Neat! I can trigger the device with this remote!]]></en><de><![CDATA[Wow! Ich kann das Gerät mit dieser Fernbedienung auslösen!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30021"><en><![CDATA[What a mysterious device ... it seems to attract lighting to itself.]]></en><de><![CDATA[Was für ein geheimnisvolles Gerät ... es scheint Blitze anzuziehen.]]></de></dia></dialog><script><params walkTo="none"/><method call="controls" enabled="0"/><puppetTween target="_avatar" type="moveThenTurn" to="position:module_remote" toView="4" waitForComplete="1"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layerSprite target="module" animFrame="active" waitForComplete="1"/><layerSprite target="module" animFrame="on" waitForComplete="0"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><method call="controls" enabled="1"/><dialogue play="*"/></script></action></items></state></states></layer><layer id="exit_catwalk" type="puppet" asset="lib/smith.swf:SmithStationdoor" depth="13" visible="1" state="main"><states><state id="main" x="520" y="468" img="1" imgX="-56" imgY="-215" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-67" hitY="-217" hitW="97" hitH="223" shape="rect"><param mapX="516" mapY="503" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><method call="controls" enabled="0" cursor="1"/><layerSprite target="exit_catwalk" animFrame="lower" waitForComplete="1"/><puppetTween target="_avatar" type="move" to="position:join_catwalk" waitForComplete="1"/><layerSprite target="exit_catwalk" animFrame="raise" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/><game room="catwalk3:join_smith"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="14" visible="1" state="main"><states><state id="main" x="439" y="627" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="light" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="foreground" type="plane" asset="lib/smith.swf:SmithFg" depth="15" visible="1" state="main"><states><state id="main" x="0" y="174" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="bustCopy" type="puppet" asset="" depth="16" visible="1" state="main"><states><state id="main" x="675" y="616" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-59" hitY="-151" hitW="198" hitH="143" shape="rect"><param mapX="637" mapY="648" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[safe]]></en><de><![CDATA[Tresor]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30022"><en><![CDATA[Someone forced this safe open.]]></en><de><![CDATA[Jemand hat diesen Tresor aufgebrochen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30023"><en><![CDATA[I bet Lowell Cain is responsible for that too!]]></en><de><![CDATA[Ich wette, Lowell Cain ist auch dafür verantwortlich!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30024"><en><![CDATA[It’s empty.]]></en><de><![CDATA[Er ist leer.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer></layers><trees/></room>
+<room id="smith3" coreLibs="lib/smith.swf,lib/smith_fx.swf,lib/music_memory.swf" voiceLibs="voice/smith3_voice.swf" enterScript="_enter" exitScript="_exit" grid="floor" sound1="lib/music_memory.swf:MemoryMusic" sound2="lib/smith_fx.swf:SmithNightFx">
+  <grids>
+    <grid id="floor">
+      <boxes>
+        <box x="131" y="616" w="567" h="27" nodes="n1,n2,n3,n4,n7,n9,n10,n24" />
+        <box x="56" y="690" w="841" h="49" nodes="n0,n5,n6,n8,n11,n12,n30,n32,n33" />
+        <box x="460" y="494" w="154" h="130" nodes="n2,n3,n29" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="775" y="698" join="n1,n4,n5,n6,n8,n11,n12,n30,n32,n33" trap="0" />
+        <node id="n1" x="690" y="642" join="n0,n5,n4,n2,n3,n7,n9,n10,n24" trap="0" />
+        <node id="n2" x="470" y="622" join="n1,n3,n4,n7,n9,n10,n24,n29" trap="0" />
+        <node id="n3" x="593" y="620" join="n1,n2,n4,n7,n9,n10,n24,n29" trap="0" />
+        <node id="n4" x="550" y="640" join="n5,n1,n0,n2,n3,n7,n9,n10,n24" trap="0" />
+        <node id="n5" x="590" y="695" join="n4,n1,n0,n6,n8,n11,n12,n30,n32,n33" trap="0" name="module_remote" />
+        <node id="n6" x="370" y="695" join="n8,n9,n7,n0,n5,n11,n12,n30,n32,n33" trap="0" />
+        <node id="n7" x="420" y="642" join="n8,n9,n6,n1,n2,n3,n4,n10,n24" trap="0" />
+        <node id="n8" x="230" y="695" join="n10,n9,n6,n7,n11,n0,n5,n12,n30,n32,n33" trap="0" />
+        <node id="n9" x="280" y="640" join="n10,n8,n6,n7,n11,n1,n2,n3,n4,n24" trap="0" />
+        <node id="n10" x="140" y="640" join="n8,n9,n11,n1,n2,n3,n4,n7,n24" trap="0" />
+        <node id="n11" x="68" y="695" join="n10,n8,n9,n0,n5,n6,n12,n30,n32,n33" trap="0" />
+        <node id="n12" x="855" y="736" join="n34,n0,n5,n6,n8,n11,n30,n32,n33" trap="0" name="join_walkway" />
+        <node id="n24" x="139" y="625" join="n1,n2,n3,n4,n7,n9,n10" trap="0" name="join_river" />
+        <node id="n25" x="503" y="465" join="n29" trap="0" name="join_catwalk" />
+        <node id="n29" x="516" y="503" join="n25,n2,n3" trap="0" name="fromstation" />
+        <node id="n30" x="162" y="736" join="n31,n0,n5,n6,n8,n11,n12,n32,n33" trap="0" />
+        <node id="n31" x="205" y="846" join="n32,n33,n30" trap="0" name="doc" />
+        <node id="n32" x="448" y="733" join="n31,n0,n5,n6,n8,n11,n12,n30,n33" trap="0" />
+        <node id="n33" x="279" y="734" join="n31,n0,n5,n6,n8,n11,n12,n30,n32" trap="0" />
+        <node id="n34" x="1085" y="770" join="n12,n35" trap="0" />
+        <node id="n35" x="1078" y="2" join="n34,n36" trap="0" />
+        <node id="n36" x="902" y="1" join="n35,n37" trap="0" />
+        <node id="n37" x="813" y="74" join="n38,n36" trap="0" />
+        <node id="n38" x="716" y="138" join="n37,n40" trap="0" />
+        <node id="n39" x="584" y="148" join="n42,n40" trap="0" />
+        <node id="n40" x="660" y="148" join="n39,n38,n45" trap="0" />
+        <node id="n41" x="360" y="148" join="n42,n43" trap="0" />
+        <node id="n42" x="496" y="148" join="n41,n39" trap="0" />
+        <node id="n43" x="255" y="105" join="n41" trap="0" />
+        <node id="n44" x="580" y="210" join="n45" trap="0" name="telescope" />
+        <node id="n45" x="613" y="188" join="n44,n40" trap="0" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="module_remote" turn="4" x="590" y="695" />
+    <position id="join_walkway" turn="4" x="855" y="736" />
+    <position id="join_river" turn="3" x="139" y="625" />
+    <position id="join_catwalk" turn="7" x="503" y="465" />
+    <position id="fromstation" turn="4" x="516" y="503" />
+    <position id="doc" turn="4" x="205" y="846" />
+    <position id="telescope" turn="4" x="580" y="210" />
+  </positions>
+  <filters>
+    <filter id="_main" axis="y" enabled="1">
+      <pole x="475" y="466" scale="0.38" rate="0.5" blur="1" color="0x000000" tint="0.5" />
+      <pole x="475" y="879" scale="1.12" rate="1" blur="5" color="0xFFFFFF" tint="0.5" />
+    </filter>
+    <filter id="light" axis="r" enabled="1">
+      <pole x="490" y="601" scale="0.5" rate="0.5" blur="1" color="0x000000" tint="0.07" />
+      <pole x="235" y="400" scale="1" rate="1" blur="5" color="0x000000" tint="0.37" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <logic>
+        <if eval="[_startPosition] EQ 'join_catwalk'">
+          <method call="controls" enabled="0" cursor="0" />
+          <curtain blackout="0" waitForComplete="1" />
+          <layerSprite target="exit_catwalk" animFrame="lower" waitForComplete="1" />
+          <puppetTween target="_avatar" type="move" to="position:fromstation" waitForComplete="1" />
+          <layerSprite target="exit_catwalk" animFrame="raise" waitForComplete="1" />
+          <method call="controls" enabled="1" cursor="1" />
+        </if>
+        <else>
+          <curtain blackout="0" waitForComplete="1" />
+          <method call="controls" enabled="1" cursor="1" />
+        </else>
+      </logic>
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/smith.swf:SmithBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="bubbles" type="plane" asset="lib/smith.swf:SmithHydrolysis" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="408" y="284" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="walkway" type="plane" asset="lib/smith.swf:SmithWalkway" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="669" y="150" img="1" imgX="-641" imgY="-150" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="telescope" type="puppet" asset="lib/smith.swf:SmithTelescope" depth="3" visible="1" state="main">
+      <states>
+        <state id="main" x="509" y="657" img="1" imgX="-24" imgY="-587" imgW="1" imgH="1" frame="8" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-101" hitY="-658" hitW="145" hitH="132" shape="rect">
+          <param mapX="580" mapY="210" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[telescope]]></en>
+            <de><![CDATA[Teleskop]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="projector" type="puppet" asset="lib/smith.swf:SmithProjector" depth="4" visible="1" state="main">
+      <states>
+        <state id="main" x="438" y="676" img="1" imgX="-13" imgY="-133" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-1" hitY="-130" hitW="96" hitH="91" shape="rect">
+          <param mapX="433" mapY="641" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[slide projector]]></en>
+            <de><![CDATA[Diaprojektor]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30000">
+                  <en><![CDATA[That’s either a toaster with a cannon function or a slide projector.]]></en>
+                  <de><![CDATA[Das ist entweder ein Toaster mit einer Kanonenfunktion oder ein Diaprojektor.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30001">
+                  <en><![CDATA[I don’t have any slides on me ... and even if I had some: there’s absolutely no time for slide shows now!]]></en>
+                  <de><![CDATA[Ich habe keine Dias bei mir ... und selbst wenn ich welche hätte: Jetzt habe ich überhaupt keine Zeit für eine Dia-Show!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="safe" type="puppet" asset="lib/smith.swf:SmithLasernsafe" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="611" y="568" img="1" imgX="-45" imgY="-311" imgW="1" imgH="1" frame="8" blend="normal" alpha="1" bitmap="0" hit="1" hitX="34" hitY="-103" hitW="140" hitH="140" shape="rect">
+          <param mapX="561" mapY="603" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[open safe]]></en>
+            <de><![CDATA[offener Tresor]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="slideshow" type="puppet" asset="lib/smith.swf:SmithProjection" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="447" y="680" img="1" imgX="-19" imgY="-440" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mapX="434" mapY="638" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="staircase" type="puppet" asset="" depth="7" visible="1" state="main">
+      <states>
+        <state id="main" x="842" y="742" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-37" hitY="-213" hitW="214" hitH="239" shape="rect">
+          <param mapX="855" mapY="736" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[stairs]]></en>
+            <de><![CDATA[Treppe]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30002">
+                  <en><![CDATA[These stairs lead up to the telescope.]]></en>
+                  <de><![CDATA[Diese Treppe führt zum Teleskop.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30003">
+                  <en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en>
+                  <de><![CDATA[Ich habe keine Zeit, um da oben herumzuklettern. Nigel und Prof. Smith sind in Gefahr!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="chairs" type="puppet" asset="" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="356" y="607" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-99" hitY="-200" hitW="178" hitH="172" shape="rect">
+          <param mapX="362" mapY="632" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[chairs]]></en>
+            <de><![CDATA[Stühle]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30004">
+                  <en><![CDATA[It looks like someone didn’t tidy up after playing chair&#8212;Jenga.]]></en>
+                  <de><![CDATA[Es sieht so aus, als habe jemand nach einem Spiel Stuhl-Jenga nicht aufgeräumt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30005">
+                  <en><![CDATA[I really don’t have time for this.]]></en>
+                  <de><![CDATA[Dafür habe ich wirklich keine Zeit!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="bust" type="puppet" asset="" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="265" y="637" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-103" hitY="-268" hitW="86" hitH="202" shape="rect">
+          <param mapX="293" mapY="626" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[bust]]></en>
+            <de><![CDATA[Büste]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30006">
+                  <en><![CDATA[I’m too lazy to read the plaques on these things, so I’ll just make something up ...]]></en>
+                  <de><![CDATA[Ich bin zu faul, um die Tafeln auf diesen Dingen zu lesen, also werde ich mir einfach etwas ausdenken ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30007">
+                  <en><![CDATA[Therefore this is obviously Burt Broomstick, the local beard&#8212;grooming champion.]]></en>
+                  <de><![CDATA[Deswegen ist das offensichtlich Bert Besenbart, der örtliche Bartwuchs-Champion.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30008">
+                  <en><![CDATA[I’m sure Bert wouldn’t like that.]]></en>
+                  <de><![CDATA[Ich bin sicher, Bert würde das nicht gefallen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="chair" type="puppet" asset="" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="458" y="265" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-52" hitY="-152" hitW="90" hitH="148" shape="rect">
+          <param mapX="478" mapY="564" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[observation seat]]></en>
+            <de><![CDATA[Beobachtungssitz]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30009">
+                  <en><![CDATA[That seat doesn’t look very comfy.]]></en>
+                  <de><![CDATA[Dieser Sitz sieht nicht sehr bequem aus.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30010">
+                  <en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en>
+                  <de><![CDATA[Ich habe keine Zeit, um da drüben herumzuklettern. Nigel und Prof. Smith sind in Gefahr!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_river" type="puppet" asset="" depth="11" visible="1" state="main">
+      <states>
+        <state id="main" x="4" y="620" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-361" hitW="72" hitH="358" shape="rect">
+          <param mapX="140" mapY="605" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="river3:join_smith" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="module" type="puppet" asset="lib/smith.swf:SmithCollectorModule" depth="12" visible="1" state="empty">
+      <states>
+        <state id="empty" x="881" y="630" img="0" imgX="53" imgY="-147" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="33" hitY="-371" hitW="110" hitH="269" shape="rect">
+          <param mapX="845" mapY="695" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[strange device]]></en>
+            <de><![CDATA[seltsames Gerät]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30011">
+                  <en><![CDATA[It’s a strange device that towers out of this hole in the wall.]]></en>
+                  <de><![CDATA[Es ist ein seltsames Gerät, das durch die kaputte Wand nach draußen ragt.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30012">
+                  <en><![CDATA[There’s a socket in the base, above which is labeled &#8222;LC 1983&#8220;]]></en>
+                  <de><![CDATA[Im Sockel gibt es eine Anschlussfläche die mit &#8222;LC 1983&#8220; beschriftet ist.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30013">
+                  <en><![CDATA[How?]]></en>
+                  <de><![CDATA[Wie?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="module">
+              <title>
+                <en><![CDATA[Plug #item# into #noun#]]></en>
+                <de><![CDATA[Stecke #item# in #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30014">
+                  <en><![CDATA[The module fits perfectly into the socket on this device.]]></en>
+                  <de><![CDATA[Das Modul passt perfekt auf die Anschlussfläche dieses Geräts.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="hspeak" sound="voice/smith3_voice.swf:smith30015">
+                  <en><![CDATA[It looks like the machine has been powered up!]]></en>
+                  <de><![CDATA[Es sieht so aus, als hätte sich die Maschine eingeschaltet!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <sound effect="lib/sound_effects.swf:powerUp" waitForComplete="0" />
+                <layer target="_current:module" state="module" />
+                <layer target="river3:LC" state="on" />
+                <inventory remove="module" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="remote4">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30016">
+                  <en><![CDATA[This device will need to be powered up before it even has a chance of responding to controls.]]></en>
+                  <de><![CDATA[Dieses Gerät muss eingeschaltet werden, bevor es auf die Steuerung reagieren kann.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+        <state id="module" x="881" y="630" img="1" imgX="53" imgY="-147" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-349" hitW="108" hitH="248" shape="rect">
+          <param mapX="845" mapY="695" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[LC1983 device]]></en>
+            <de><![CDATA[LC1983-Gerät]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30017">
+                  <en><![CDATA[The module fits.]]></en>
+                  <de><![CDATA[Das Modul passt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Push button on]]></en>
+                <de><![CDATA[Drücke Knopf auf]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30018">
+                  <en><![CDATA[Holy moly!]]></en>
+                  <de><![CDATA[Heiliger Bimbam!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30019">
+                  <en><![CDATA[This device must somehow create or attracting lighting! No wonder this tree smashed through the side of the building!]]></en>
+                  <de><![CDATA[Dieses Gerät scheint irgendwie Blitze zu erzeugen oder anzuziehen! Kein Wunder, dass der Baum durch die Seite des Gebäudes gekracht ist!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="module" animFrame="active" waitForComplete="1" />
+                <layerSprite target="module" animFrame="on" waitForComplete="0" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="remote4">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30020">
+                  <en><![CDATA[Neat! I can trigger the device with this remote!]]></en>
+                  <de><![CDATA[Wow! Ich kann das Gerät mit dieser Fernbedienung auslösen!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30021">
+                  <en><![CDATA[What a mysterious device ... it seems to attract lighting to itself.]]></en>
+                  <de><![CDATA[Was für ein geheimnisvolles Gerät ... es scheint Blitze anzuziehen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <params walkTo="none" />
+                <method call="controls" enabled="0" />
+                <puppetTween target="_avatar" type="moveThenTurn" to="position:module_remote" toView="4" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layerSprite target="module" animFrame="active" waitForComplete="1" />
+                <layerSprite target="module" animFrame="on" waitForComplete="0" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_catwalk" type="puppet" asset="lib/smith.swf:SmithStationdoor" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="520" y="468" img="1" imgX="-56" imgY="-215" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-67" hitY="-217" hitW="97" hitH="223" shape="rect">
+          <param mapX="516" mapY="503" cursor="exit1" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="1" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <method call="controls" enabled="0" cursor="1" />
+                <layerSprite target="exit_catwalk" animFrame="lower" waitForComplete="1" />
+                <puppetTween target="_avatar" type="move" to="position:join_catwalk" waitForComplete="1" />
+                <layerSprite target="exit_catwalk" animFrame="raise" waitForComplete="1" />
+                <method call="controls" enabled="1" cursor="1" />
+                <game room="catwalk3:join_smith" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="439" y="627" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="light" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="foreground" type="plane" asset="lib/smith.swf:SmithFg" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="174" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="bustCopy" type="puppet" asset="" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="675" y="616" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-59" hitY="-151" hitW="198" hitH="143" shape="rect">
+          <param mapX="637" mapY="648" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[safe]]></en>
+            <de><![CDATA[Tresor]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30022">
+                  <en><![CDATA[Someone forced this safe open.]]></en>
+                  <de><![CDATA[Jemand hat diesen Tresor aufgebrochen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30023">
+                  <en><![CDATA[I bet Lowell Cain is responsible for that too!]]></en>
+                  <de><![CDATA[Ich wette, Lowell Cain ist auch dafür verantwortlich!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30024">
+                  <en><![CDATA[It’s empty.]]></en>
+                  <de><![CDATA[Er ist leer.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees />
+</room>

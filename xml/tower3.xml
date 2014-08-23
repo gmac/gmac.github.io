@@ -1,1 +1,1168 @@
-<room id="tower3" coreLibs="lib/tower.swf,lib/tower_fx.swf,lib/castle_faker.swf,lib/castle_rat.swf,lib/cain.swf,lib/mb_caro.swf,lib/wavetamer.swf" voiceLibs="voice/tower3_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="lib/tower_fx.swf:TowerFx"><grids><grid id="main"><boxes><box x="358" y="618" w="304" h="86" nodes="n0,n1,n2"/></boxes><nodes><node id="n0" x="659" y="694" join="n9,n1,n2" trap="0"/><node id="n1" x="362" y="703" join="n3,n0,n2" trap="0"/><node id="n2" x="660" y="655" join="n8,n0,n1" trap="0" color="0x000000" tint="0"/><node id="n3" x="268" y="716" join="n1,n5" trap="1"/><node id="n4" x="60" y="668" join="n5" trap="0" name="join_castle"/><node id="n5" x="155" y="701" join="n3,n4" trap="1" name="in"/><node id="n8" x="770" y="625" join="n2" trap="1" color="0xCCFFFF" tint="0.2"/><node id="n9" x="775" y="720" join="n0,n10" trap="1"/><node id="n10" x="875" y="730" join="n9" trap="1" name="join_baron"/></nodes></grid></grids><positions><position id="join_castle" turn="4" x="60" y="668"/><position id="in" turn="4" x="155" y="701"/><position id="join_baron" turn="6" x="875" y="730"/></positions><filters><filter id="_main" axis="y" enabled="1"><pole x="416" y="596" scale="0.38" rate="0.5" blur="1" color="0x000000" tint="0.26"/><pole x="416" y="695" scale="0.64" rate="1" blur="5" color="0x000000" tint="0"/></filter></filters><scripts><script id="_enter"><logic><if eval="[conversation_wavetamer_heard] EQ 1"><curtain blackout="0" waitForComplete="1"/><method call="controls" enabled="1" cursor="1"/></if><else><cache field="conversation_wavetamer_heard" value="1"/><method call="controls" enabled="0" cursor="0"/><curtain blackout="0" waitForComplete="1"/><puppet target="dia" callAction="0"/></else></logic></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="lib/tower.swf:TowerBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="ravenhollow" type="puppet" asset="" depth="1" visible="1" state="main"><states><state id="main" x="484" y="239" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-121" hitY="70" hitW="298" hitH="267" shape="rect"><param mapX="495" mapY="624" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Ravenhollow]]></en><de><![CDATA[Ravenhollow]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30000"><en><![CDATA[What a view!]]></en><de><![CDATA[Was für eine Aussicht!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30001"><en><![CDATA[You can see the whole village and the bay from up here.]]></en><de><![CDATA[Man kann von hier oben aus das ganze Dorf und die Bucht sehen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30002"><en><![CDATA[That’s what Cain and his men tried to do and look what happened to them!]]></en><de><![CDATA[Das wollten Cain und seine Männer machen und schau nur, was mit ihnen passiert ist!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="balcony" type="plane" asset="lib/tower.swf:TowerBalcony" depth="2" visible="1" state="main"><states><state id="main" x="506" y="578" img="1" imgX="-188" imgY="-178" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="float_panel_right" type="plane" asset="lib/tower.swf:TowerPanelRight" depth="3" visible="1" state="main"><states><state id="main" x="764" y="676" img="1" imgX="-4" imgY="-288" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="float_panel_left" type="plane" asset="lib/tower.swf:TowerPanelLeft" depth="4" visible="1" state="main"><states><state id="main" x="245" y="660" img="1" imgX="-107" imgY="-300" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="exit_baron" type="puppet" asset="lib/tower.swf:TowerDoor" depth="5" visible="1" state="main"><states><state id="main" x="970" y="716" img="1" imgX="-44" imgY="-315" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-45" hitY="-315" hitW="90" hitH="320" shape="rect"><param mapX="875" mapY="730" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[locked door]]></en><de><![CDATA[verschlossene Tür]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30003"><en><![CDATA[It looks like the baron has locked himself away in his tower.]]></en><de><![CDATA[Es sieht aus, als habe sich der Baron in seinem Turm eingesperrt.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Open]]></en><de><![CDATA[Öffne]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30004"><en><![CDATA[The door is locked up tight.]]></en><de><![CDATA[Die Tür ist fest verschlossen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="exit_castle" type="puppet" asset="" depth="6" visible="1" state="main"><states><state id="main" x="1" y="660" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="27" hitY="-319" hitW="126" hitH="338" shape="rect"><param mapX="1" mapY="680" turnTo="5" turn="0" cursor="exit6" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><game room="castle3:join_tower"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="rat" type="puppet" asset="lib/castle_rat.swf:rat_castle" depth="7" visible="1" state="main"><states><state id="main" x="316" y="666" img="1" imgX="-34" imgY="-134" imgW="1.2" imgH="1.2" frame="5" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-60" hitY="-197" hitW="70" hitH="193" shape="rect"><param mapX="388" mapY="650" turnTo="5" turn="0" cursor="" onclick="-1" prefix="tied_" subtitle="0xFFFF99" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[nervous looking castle guard]]></en><de><![CDATA[nervös aussehender Schlossbeamter]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30005"><en><![CDATA[Looks like someone didn’t expect that his misdoings wouldn’t pay off in the end.]]></en><de><![CDATA[Sieht aus, als habe jemand nicht erwartet, dass sich seine Vergehen am Ende nicht auszahlen würden.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30006"><en><![CDATA[Hey, what are you guys up to these days?]]></en><de><![CDATA[Hey, was macht ihr denn heutzutage so?]]></de></dia><dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30007"><en><![CDATA[Hah! Don’t try to blame me for something I didn’t do!]]></en><de><![CDATA[Ha! Gib mir nicht die Schuld für etwas, das ich nicht getan habe!]]></de></dia><dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30008"><en><![CDATA[I won’t talk.]]></en><de><![CDATA[Ich werde nicht reden.]]></de></dia><dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30009"><en><![CDATA[And that’s all I have to say!]]></en><de><![CDATA[Und das ist alles, was ich zu sagen habe!]]></de></dia><dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30010"><en><![CDATA[Tell them that I didn’t do anything!]]></en><de><![CDATA[Sage ihnen, dass ich nichts getan habe!]]></de></dia><dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30011"><en><![CDATA[If the police get me they’ll sent me back to jail ...]]></en><de><![CDATA[Wenn die Polizei mich schnappt, schicken die mich zurück ins Gefängnis ...]]></de></dia><dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30012"><en><![CDATA[I can’t take that! I’m too soft for a place like that.]]></en><de><![CDATA[Das halte ich nicht aus! Ich bin zu weich für den Knast.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30013"><en><![CDATA[I know they are Lowell Cain’s men ... but I can’t help it. I feel sorry for them.]]></en><de><![CDATA[Ich weiß, dass es Lowell Cains Männer sind ... aber sie tun mir trotzdem Leid.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="faker" type="puppet" asset="lib/castle_faker.swf:faker_castle" depth="8" visible="1" state="main"><states><state id="main" x="241" y="667" img="1" imgX="10" imgY="-79" imgW="1" imgH="1" frame="6" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-44" hitY="-240" hitW="65" hitH="233" shape="rect"><param mapX="383" mapY="664" turnTo="5" turn="0" cursor="" onclick="-1" prefix="tied_" subtitle="0xFFFF66" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[angry looking castle guard]]></en><de><![CDATA[wütend aussehender Schlossbeamter]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30014"><en><![CDATA[Oh no ... he looks like he’s mad at me.]]></en><de><![CDATA[Oh nein ... Er sieht aus, als sei er wütend auf mich.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30015"><en><![CDATA[Hey ...]]></en><de><![CDATA[Hey ...]]></de></dia><dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30016"><en><![CDATA[I’m not talking! You can say whatever you want, but I’m not talking!]]></en><de><![CDATA[Ich rede nicht! Macht was ihr wollt, aber ich rede nicht!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="mbcaro" type="puppet" asset="lib/mb_caro.swf:MB_Caro" depth="9" visible="1" state="main"><states><state id="main" x="710" y="696" img="1" imgX="1" imgY="-198" imgW="0.96" imgH="0.96" frame="6" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-47" hitY="-259" hitW="83" hitH="265" shape="rect"><param mapX="614" mapY="659" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFCC33" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Miriam B. Caro]]></en><de><![CDATA[Miriam B. Caro]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30017"><en><![CDATA[That’s Miriam B. Caro.]]></en><de><![CDATA[Das ist Miriam B. Caro.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30018"><en><![CDATA[Is everything alright? Where’s the Baron?]]></en><de><![CDATA[Ist alles in Ordnung? Wo ist der Baron?]]></de></dia><dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30019"><en><![CDATA[He’s in his tower ... we have seen Baron Northwest earlier in there, but now the door is locked.]]></en><de><![CDATA[Er ist in seinem Turm ... wir haben Baron Nordwest vorhin dort gesehen, aber jetzt ist die Tür verriegelt.]]></de></dia><dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30020"><en><![CDATA[We think that one of the Castle guards sneaked into the room and locked himself in together with the Baron.]]></en><de><![CDATA[Wir glauben, dass eine der Schlosswachen da reingeschlichen ist und sich zusammen mit dem Baron eingeschlossen hat.]]></de></dia><dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30021"><en><![CDATA[When we saw him, the Baron seemed to be paralyzed and almost unconscious ...]]></en><de><![CDATA[Als wir ihn sahen, schien der Baron gelähmt und fast bewusstlos zu sein...]]></de></dia><dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30022"><en><![CDATA[Lowell Cain was clearly not following the Baron’s orders. His whole set of laws and restrictions were a web of lies, and were clearly illegal to begin with.]]></en><de><![CDATA[Lowell Cain war eindeutig nicht vom Baron beauftragt. Seine ganzen Gesetze und Beschränkungen waren ein Netz aus Lügen, und sie waren eindeutig von Anfang an illegal.]]></de></dia><dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30023"><en><![CDATA[Lionstone will be organizing an election. If you ask me Sir Wavetamer should run for mayor.]]></en><de><![CDATA[Lionstone wird eine Wahl organisieren. Wenn du mich fragst, sollte sich Sir Wavetamer als Bürgermeister zur Wahl stellen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="10" visible="1" state="main"><states><state id="main" x="610" y="626" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="_main" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="cain" type="puppet" asset="lib/cain.swf:LowellCain" depth="11" visible="1" state="main"><states><state id="main" x="419" y="721" img="1" imgX="0" imgY="0" imgW="0.72" imgH="0.72" frame="38" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-46" hitY="-239" hitW="92" hitH="261" shape="rect"><param mapX="496" mapY="682" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Lowell Cain]]></en><de><![CDATA[Lowell Cain]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30024"><en><![CDATA[Oh boy, Lowell Cain looks even worse than McManus and the others. Seems like he got an extra strong dose of Vincent’s hypnosis rays.]]></en><de><![CDATA[Oh Mann, Lowell Cain sieht noch schlimmer als McManus und die anderen aus. Es scheint, als habe er eine extra starke Dosis von Vincents Hypnosestrahlen abbekommen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30025"><en><![CDATA[I wonder if he’ll ever be in the condition to take responsibility for what he did here in the last few months.]]></en><de><![CDATA[Ich frage mich, ob er jemals wieder in dem Zustand sein wird, um die Verantwortung für das zu übernehmen, was er hier in den letzten Monaten angerichtet hat.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30026"><en><![CDATA[Can you hear me?]]></en><de><![CDATA[Können Sie mich hören?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30027"><en><![CDATA[I doubt he even knows I’m here. It’s like someone emptied his mind ...]]></en><de><![CDATA[Ich bezweifle, dass er überhaupt weiß, dass ich hier bin. Es ist, als habe jemand seinen Geist ausgelöscht ...]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Push]]></en><de><![CDATA[Drücke]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30028"><en><![CDATA[Naw, it looks like he’s in a bad enough state already.]]></en><de><![CDATA[Nee, sein Zustand ist schon schlecht genug.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="flash_bad"><title><en><![CDATA[]]></en></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30029"><en><![CDATA[No, it looks like he’s had enough.]]></en><de><![CDATA[Nein, es sieht aus, als hätte er genug.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="flash_good"><title><en><![CDATA[]]></en></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30030"><en><![CDATA[No, he’ll be more manageable in this docile state until the proper authorities can take him into custody.]]></en><de><![CDATA[Nein, in diesem Zustand ist er leichter zu handhaben, bis die zuständigen Behörden ihn in Gewahrsam nehmen können.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state></states></layer><layer id="flash_device" type="puppet" asset="lib/tower.swf:TowerFlashDevice" depth="12" visible="1" state="main"><states><state id="main" x="529" y="739" img="1" imgX="-2" imgY="-3" imgW="-0.5" imgH="0.5" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-26" hitY="-25" hitW="46" hitH="45" shape="rect"><param mapX="569" mapY="696" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[hypnosis device]]></en><de><![CDATA[Hypnose-Gerät]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30031"><en><![CDATA[This must be the hypnosis device that Cain has been using to brainwash the villagers.]]></en><de><![CDATA[Dies muss das Hypnose-Gerät sein, das Cain für die Gehirnwäsche der Dorfbewohner benutzt hat.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm auf]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30032"><en><![CDATA[I swear to use this device only for the powers of good!]]></en><de><![CDATA[Ich schwöre, dieses Gerät nur für die Kräfte des Guten zu verwenden!]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1"/><layer target="_current:flash_device" visible="0" omit="1"/><inventory add="flash_bad"/><layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1"/><method call="controls" enabled="1"/><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="wavetamer" type="puppet" asset="lib/wavetamer.swf:Wavetamer" depth="13" visible="1" state="main"><states><state id="main" x="791" y="802" img="1" imgX="52" imgY="-367" imgW="-1.06" imgH="1.06" frame="16" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-43" hitY="-359" hitW="84" hitH="318" shape="rect"><param mapX="577" mapY="697" turnTo="5" turn="0" cursor="" onclick="-1" prefix="nowind_" subtitle="0x99CCCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Sir Wavetamer]]></en><de><![CDATA[Sir Wavetamer]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30033"><en><![CDATA[Wavetamer seems to have everything under control up here.]]></en><de><![CDATA[Wavetamer scheint hier oben alles unter Kontrolle zu haben.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30034"><en><![CDATA[You said something about the police coming here?]]></en><de><![CDATA[Sie sagten, dass die Polizei hierher unterwegs ist?]]></de></dia><dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30035"><en><![CDATA[Yes, I’ve already sent for the authorities ... the police should be arriving soon.]]></en><de><![CDATA[Ja, ich habe die Behörden bereits informiert ... die Polizei sollte bald eintreffen.]]></de></dia><dia puppet="wavetamer" frame="lspeak" sound="voice/tower3_voice.swf:tower30036"><en><![CDATA[We had a look at the Baron earlier, and it’s obvious now that Lowell Cain was only pretending to work for him.]]></en><de><![CDATA[Wir konnten vorhin einen Blick auf den Baron werfen, und es ist jetzt offensichtlich, dass Lowell Cain nur so getan hat, als würde er für den Baron arbeiten.]]></de></dia><dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30037"><en><![CDATA[Cain has had no right to close down Ravenhollow and make governing decisions.]]></en><de><![CDATA[Cain hatte kein Recht, Ravenhollow abzuriegeln oder überhaupt irgendwelche Entscheidungen zu treffen.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30038"><en><![CDATA[What about these guys?]]></en><de><![CDATA[Und diese Typen?]]></de></dia><dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30039"><en><![CDATA[The guy with the mustache here told me that they’re all hired thugs paid by Lowell Cain.]]></en><de><![CDATA[Der Mann mit dem Schnurrbart hier hat mir gerade gesagt, dass sie alle Taschendiebe und Schläger sind, die von Lowell Cain bezahlt wurden.]]></de></dia><dia puppet="wavetamer" frame="hspeak" sound="voice/tower3_voice.swf:tower30040"><en><![CDATA[Cain had promised them more money, but he doesn’t look like he’ll be able to deliver on that promise now, does it? ]]></en><de><![CDATA[Er versprach ihnen sogar noch mehr Geld, aber ehrlich gesagt sieht Cain nicht so aus, als ob er noch halten könnte, was er ihnen versprochen hat, oder?]]></de></dia><dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30041"><en><![CDATA[Which reminds me ... I think we should call a doctor for him.]]></en><de><![CDATA[Ich denke, wir sollten einen Arzt für ihn rufen.]]></de></dia></dialog><script><method call="controls" enabled="0"/><dialogue playList="0"/><layerState target="_current:wavetamer:main" restState="pause"/><layerSprite target="wavetamer" animFrame="outro" waitForComplete="1"/><dialogue playList="1,2,3,4,5,6,7"/><layerState target="_current:wavetamer:main" restState="rest"/><layerSprite target="wavetamer" animFrame="intro" waitForComplete="0"/><method call="controls" enabled="1"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="foreground" type="plane" asset="lib/tower.swf:TowerFg" depth="14" visible="1" state="main"><states><state id="main" x="340" y="270" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="raven1" type="puppet" asset="" depth="15" visible="1" state="main"><states><state id="main" x="542" y="12" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-62" hitY="-3" hitW="130" hitH="176" shape="rect"><param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[raven]]></en><de><![CDATA[Rabe]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30042"><en><![CDATA[These wooden ravens look pretty scary.]]></en><de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043"><en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en><de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="raven2" type="puppet" asset="" depth="16" visible="1" state="main"><states><state id="main" x="610" y="591" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-18" hitY="-349" hitW="205" hitH="134" shape="rect"><param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[raven]]></en><de><![CDATA[Rabe]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30044"><en><![CDATA[These wooden ravens look pretty scary.]]></en><de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30045"><en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en><de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="raven3" type="puppet" asset="" depth="17" visible="1" state="main"><states><state id="main" x="220" y="267" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="13" hitY="-3" hitW="185" hitH="111" shape="rect"><param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[raven]]></en><de><![CDATA[Rabe]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30046"><en><![CDATA[These wooden ravens look pretty scary.]]></en><de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30047"><en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en><de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="raven4" type="puppet" asset="" depth="18" visible="1" state="main"><states><state id="main" x="616" y="724" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="84" hitY="-737" hitW="336" hitH="275" shape="rect"><param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[raven]]></en><de><![CDATA[Rabe]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30048"><en><![CDATA[These wooden ravens look pretty scary.]]></en><de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30049"><en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en><de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="raven5" type="puppet" asset="" depth="19" visible="1" state="main"><states><state id="main" x="437" y="735" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-436" hitY="-741" hitW="331" hitH="255" shape="rect"><param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[raven]]></en><de><![CDATA[Rabe]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30050"><en><![CDATA[These wooden ravens look pretty scary.]]></en><de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30051"><en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en><de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="phrase" type="puppet" asset="" depth="20" visible="1" state="main"><states><state id="main" x="542" y="11" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-81" hitY="190" hitW="148" hitH="58" shape="rect"><param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[latin phrase]]></en><de><![CDATA[lateinischer Satz]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30052"><en><![CDATA[&#8222;Mali Principii, Malus Finis.&#8220;]]></en><de><![CDATA[&#8222;Mali Principii, Malus Finis.&#8220;]]></de></dia><dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30053"><en><![CDATA[What does that mean? If only I had managed to stay awake through at least one of my latin classes at university.]]></en><de><![CDATA[Was bedeutet das? Hätte ich es nur geschafft, wenigstens in einem meiner Latein&#8212;Kurse an der Uni wach zu bleiben.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="dia" type="puppet" asset="" depth="21" visible="1" state="main"><states><state id="main" x="184" y="717" img="0" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="50" hitH="38" shape="rect"><param mapX="155" mapY="701" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30054"><en><![CDATA[I’m not talking! You can say whatever you want, but I’m not talking!]]></en><de><![CDATA[Ich rede nicht! Mach was du willst, aber ich rede nicht!]]></de></dia><dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30055"><en><![CDATA[I don’t want to go into jail again ... please ...]]></en><de><![CDATA[Ich will nicht ins Gefängnis zurück ... bitte ...]]></de></dia><dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30056"><en><![CDATA[Once the police arrives you can tell them your story ... ]]></en><de><![CDATA[Wenn die Polizei da ist, kannst du der deine Geschichte erzählen ...]]></de></dia><dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30057"><en><![CDATA[I can’t wait until they take you two away ... I don’t want to see you nor your friends in my town ever again. Is that clear?]]></en><de><![CDATA[Ich kann es nicht erwarten, dass sie dich mitnehmen ... Ich will weder dich noch deine Freunde jemals wieder in meiner Stadt sehen. Ist das klar?]]></de></dia><dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30058"><en><![CDATA[Yes ...]]></en><de><![CDATA[Ja ...]]></de></dia><dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30059"><en><![CDATA[You can’t tell me what to do! I haven’t done anything wrong!]]></en><de><![CDATA[Du kannst mir nichts befehlen! Ich habe nichts Unrechtes getan!]]></de></dia><dia puppet="wavetamer" frame="lspeak" sound="voice/tower3_voice.swf:tower30060"><en><![CDATA[We’ll let the authorities decide about that ...]]></en><de><![CDATA[Das lassen wir die Behörden entscheiden ...]]></de></dia></dialog><script><method call="controls" enabled="0"/><layerState target="_current:mbcaro:main" restState="restact3"/><layerState target="_current:wavetamer:main" restState="pause"/><layerSprite target="wavetamer" animFrame="outro" waitForComplete="1"/><dialogue play="*"/><layerState target="_current:wavetamer:main" restState="rest"/><layerSprite target="wavetamer" animFrame="intro" waitForComplete="0"/><method call="controls" enabled="1"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer></layers><trees/></room>
+<room id="tower3" coreLibs="lib/tower.swf,lib/tower_fx.swf,lib/castle_faker.swf,lib/castle_rat.swf,lib/cain.swf,lib/mb_caro.swf,lib/wavetamer.swf" voiceLibs="voice/tower3_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="lib/tower_fx.swf:TowerFx">
+  <grids>
+    <grid id="main">
+      <boxes>
+        <box x="358" y="618" w="304" h="86" nodes="n0,n1,n2" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="659" y="694" join="n9,n1,n2" trap="0" />
+        <node id="n1" x="362" y="703" join="n3,n0,n2" trap="0" />
+        <node id="n2" x="660" y="655" join="n8,n0,n1" trap="0" color="0x000000" tint="0" />
+        <node id="n3" x="268" y="716" join="n1,n5" trap="1" />
+        <node id="n4" x="60" y="668" join="n5" trap="0" name="join_castle" />
+        <node id="n5" x="155" y="701" join="n3,n4" trap="1" name="in" />
+        <node id="n8" x="770" y="625" join="n2" trap="1" color="0xCCFFFF" tint="0.2" />
+        <node id="n9" x="775" y="720" join="n0,n10" trap="1" />
+        <node id="n10" x="875" y="730" join="n9" trap="1" name="join_baron" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="join_castle" turn="4" x="60" y="668" />
+    <position id="in" turn="4" x="155" y="701" />
+    <position id="join_baron" turn="6" x="875" y="730" />
+  </positions>
+  <filters>
+    <filter id="_main" axis="y" enabled="1">
+      <pole x="416" y="596" scale="0.38" rate="0.5" blur="1" color="0x000000" tint="0.26" />
+      <pole x="416" y="695" scale="0.64" rate="1" blur="5" color="0x000000" tint="0" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <logic>
+        <if eval="[conversation_wavetamer_heard] EQ 1">
+          <curtain blackout="0" waitForComplete="1" />
+          <method call="controls" enabled="1" cursor="1" />
+        </if>
+        <else>
+          <cache field="conversation_wavetamer_heard" value="1" />
+          <method call="controls" enabled="0" cursor="0" />
+          <curtain blackout="0" waitForComplete="1" />
+          <puppet target="dia" callAction="0" />
+        </else>
+      </logic>
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/tower.swf:TowerBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="ravenhollow" type="puppet" asset="" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="484" y="239" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-121" hitY="70" hitW="298" hitH="267" shape="rect">
+          <param mapX="495" mapY="624" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Ravenhollow]]></en>
+            <de><![CDATA[Ravenhollow]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30000">
+                  <en><![CDATA[What a view!]]></en>
+                  <de><![CDATA[Was für eine Aussicht!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30001">
+                  <en><![CDATA[You can see the whole village and the bay from up here.]]></en>
+                  <de><![CDATA[Man kann von hier oben aus das ganze Dorf und die Bucht sehen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30002">
+                  <en><![CDATA[That’s what Cain and his men tried to do and look what happened to them!]]></en>
+                  <de><![CDATA[Das wollten Cain und seine Männer machen und schau nur, was mit ihnen passiert ist!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="balcony" type="plane" asset="lib/tower.swf:TowerBalcony" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="506" y="578" img="1" imgX="-188" imgY="-178" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="float_panel_right" type="plane" asset="lib/tower.swf:TowerPanelRight" depth="3" visible="1" state="main">
+      <states>
+        <state id="main" x="764" y="676" img="1" imgX="-4" imgY="-288" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="float_panel_left" type="plane" asset="lib/tower.swf:TowerPanelLeft" depth="4" visible="1" state="main">
+      <states>
+        <state id="main" x="245" y="660" img="1" imgX="-107" imgY="-300" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_baron" type="puppet" asset="lib/tower.swf:TowerDoor" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="970" y="716" img="1" imgX="-44" imgY="-315" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="-45" hitY="-315" hitW="90" hitH="320" shape="rect">
+          <param mapX="875" mapY="730" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[locked door]]></en>
+            <de><![CDATA[verschlossene Tür]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30003">
+                  <en><![CDATA[It looks like the baron has locked himself away in his tower.]]></en>
+                  <de><![CDATA[Es sieht aus, als habe sich der Baron in seinem Turm eingesperrt.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Open]]></en>
+                <de><![CDATA[Öffne]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30004">
+                  <en><![CDATA[The door is locked up tight.]]></en>
+                  <de><![CDATA[Die Tür ist fest verschlossen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_castle" type="puppet" asset="" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="1" y="660" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="27" hitY="-319" hitW="126" hitH="338" shape="rect">
+          <param mapX="1" mapY="680" turnTo="5" turn="0" cursor="exit6" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <game room="castle3:join_tower" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="rat" type="puppet" asset="lib/castle_rat.swf:rat_castle" depth="7" visible="1" state="main">
+      <states>
+        <state id="main" x="316" y="666" img="1" imgX="-34" imgY="-134" imgW="1.2" imgH="1.2" frame="5" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-60" hitY="-197" hitW="70" hitH="193" shape="rect">
+          <param mapX="388" mapY="650" turnTo="5" turn="0" cursor="" onclick="-1" prefix="tied_" subtitle="0xFFFF99" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nervous looking castle guard]]></en>
+            <de><![CDATA[nervös aussehender Schlossbeamter]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30005">
+                  <en><![CDATA[Looks like someone didn’t expect that his misdoings wouldn’t pay off in the end.]]></en>
+                  <de><![CDATA[Sieht aus, als habe jemand nicht erwartet, dass sich seine Vergehen am Ende nicht auszahlen würden.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30006">
+                  <en><![CDATA[Hey, what are you guys up to these days?]]></en>
+                  <de><![CDATA[Hey, was macht ihr denn heutzutage so?]]></de>
+                </dia>
+                <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30007">
+                  <en><![CDATA[Hey! Don’t try to blame me for something I didn’t do!]]></en>
+                  <de><![CDATA[Hey! Gib mir nicht die Schuld für etwas, das ich nicht getan habe!]]></de>
+                </dia>
+                <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30008">
+                  <en><![CDATA[I won’t talk.]]></en>
+                  <de><![CDATA[Ich werde nicht reden.]]></de>
+                </dia>
+                <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30009">
+                  <en><![CDATA[And that’s all I have to say!]]></en>
+                  <de><![CDATA[Und das ist alles, was ich zu sagen habe!]]></de>
+                </dia>
+                <dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30010">
+                  <en><![CDATA[Tell them that I didn’t do anything!]]></en>
+                  <de><![CDATA[Sage ihnen, dass ich nichts getan habe!]]></de>
+                </dia>
+                <dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30011">
+                  <en><![CDATA[If the police get me they’ll sent me back to jail ...]]></en>
+                  <de><![CDATA[Wenn die Polizei mich schnappt, schicken die mich zurück ins Gefängnis ...]]></de>
+                </dia>
+                <dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30012">
+                  <en><![CDATA[I can’t take that! I’m too soft for a place like that.]]></en>
+                  <de><![CDATA[Das halte ich nicht aus! Ich bin zu weich für den Knast.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30013">
+                  <en><![CDATA[I know they are Lowell Cain’s men ... but I can’t help it. I feel sorry for them.]]></en>
+                  <de><![CDATA[Ich weiß, dass es Lowell Cains Männer sind ... aber sie tun mir trotzdem Leid.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="faker" type="puppet" asset="lib/castle_faker.swf:faker_castle" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="241" y="667" img="1" imgX="10" imgY="-79" imgW="1" imgH="1" frame="6" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-44" hitY="-240" hitW="65" hitH="233" shape="rect">
+          <param mapX="383" mapY="664" turnTo="5" turn="0" cursor="" onclick="-1" prefix="tied_" subtitle="0xFFFF66" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[angry looking castle guard]]></en>
+            <de><![CDATA[wütend aussehender Schlossbeamter]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30014">
+                  <en><![CDATA[Oh no ... he looks like he’s mad at me.]]></en>
+                  <de><![CDATA[Oh nein ... Er sieht aus, als sei er wütend auf mich.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30015">
+                  <en><![CDATA[Hey ...]]></en>
+                  <de><![CDATA[Hey ...]]></de>
+                </dia>
+                <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30016">
+                  <en><![CDATA[I’m not talking! You can say whatever you want, but I’m not talking!]]></en>
+                  <de><![CDATA[Ich rede nicht! Macht was ihr wollt, aber ich rede nicht!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="mbcaro" type="puppet" asset="lib/mb_caro.swf:MB_Caro" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="710" y="696" img="1" imgX="1" imgY="-198" imgW="0.96" imgH="0.96" frame="6" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-47" hitY="-259" hitW="83" hitH="265" shape="rect">
+          <param mapX="614" mapY="659" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFCC33" mouse="1" float="1" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Miriam B. Caro]]></en>
+            <de><![CDATA[Miriam B. Caro]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30017">
+                  <en><![CDATA[That’s Miriam B. Caro.]]></en>
+                  <de><![CDATA[Das ist Miriam B. Caro.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30018">
+                  <en><![CDATA[Is everything alright? Where’s the Baron?]]></en>
+                  <de><![CDATA[Ist alles in Ordnung? Wo ist der Baron?]]></de>
+                </dia>
+                <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30019">
+                  <en><![CDATA[He’s in his tower ... we have seen Baron Northwest earlier in there, but now the door is locked.]]></en>
+                  <de><![CDATA[Er ist in seinem Turm ... wir haben Baron Nordwest vorhin dort gesehen, aber jetzt ist die Tür verriegelt.]]></de>
+                </dia>
+                <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30020">
+                  <en><![CDATA[We think that one of the Castle guards sneaked into the room and locked himself in together with the Baron.]]></en>
+                  <de><![CDATA[Wir glauben, dass eine der Schlosswachen da reingeschlichen ist und sich zusammen mit dem Baron eingeschlossen hat.]]></de>
+                </dia>
+                <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30021">
+                  <en><![CDATA[When we saw him, the Baron seemed to be paralyzed and almost unconscious ...]]></en>
+                  <de><![CDATA[Als wir ihn sahen, schien der Baron gelähmt und fast bewusstlos zu sein...]]></de>
+                </dia>
+                <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30022">
+                  <en><![CDATA[Lowell Cain was clearly not following the Baron’s orders. His whole set of laws and restrictions were a web of lies, and were clearly illegal to begin with.]]></en>
+                  <de><![CDATA[Lowell Cain war eindeutig nicht vom Baron beauftragt. Seine ganzen Gesetze und Beschränkungen waren ein Netz aus Lügen, und sie waren eindeutig von Anfang an illegal.]]></de>
+                </dia>
+                <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30023">
+                  <en><![CDATA[Lionstone will be organizing an election. If you ask me Sir Wavetamer should run for mayor.]]></en>
+                  <de><![CDATA[Lionstone wird eine Wahl organisieren. Wenn du mich fragst, sollte sich Sir Wavetamer als Bürgermeister zur Wahl stellen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="610" y="626" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="_main" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="cain" type="puppet" asset="lib/cain.swf:LowellCain" depth="11" visible="1" state="main">
+      <states>
+        <state id="main" x="419" y="721" img="1" imgX="0" imgY="0" imgW="0.72" imgH="0.72" frame="38" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-46" hitY="-239" hitW="92" hitH="261" shape="rect">
+          <param mapX="496" mapY="682" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Lowell Cain]]></en>
+            <de><![CDATA[Lowell Cain]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30024">
+                  <en><![CDATA[Oh boy, Lowell Cain looks even worse than McManus and the others. Seems like he got an extra strong dose of Vincent’s hypnosis rays.]]></en>
+                  <de><![CDATA[Oh Mann, Lowell Cain sieht noch schlimmer als McManus und die anderen aus. Es scheint, als habe er eine extra starke Dosis von Vincents Hypnosestrahlen abbekommen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30025">
+                  <en><![CDATA[I wonder if he’ll ever be in the condition to take responsibility for what he did here in the last few months.]]></en>
+                  <de><![CDATA[Ich frage mich, ob er jemals wieder in dem Zustand sein wird, um die Verantwortung für das zu übernehmen, was er hier in den letzten Monaten angerichtet hat.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30026">
+                  <en><![CDATA[Can you hear me?]]></en>
+                  <de><![CDATA[Können Sie mich hören?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30027">
+                  <en><![CDATA[I doubt he even knows I’m here. It’s like someone emptied his mind ...]]></en>
+                  <de><![CDATA[Ich bezweifle, dass er überhaupt weiß, dass ich hier bin. Es ist, als habe jemand seinen Geist ausgelöscht ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Push]]></en>
+                <de><![CDATA[Drücke]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30028">
+                  <en><![CDATA[Naw, it looks like he’s in a bad enough state already.]]></en>
+                  <de><![CDATA[Nee, sein Zustand ist schon schlecht genug.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="flash_bad">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30029">
+                  <en><![CDATA[No, it looks like he’s had enough.]]></en>
+                  <de><![CDATA[Nein, es sieht aus, als hätte er genug.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="flash_good">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30030">
+                  <en><![CDATA[No, he’ll be more manageable in this docile state until the proper authorities can take him into custody.]]></en>
+                  <de><![CDATA[Nein, in diesem Zustand ist er leichter zu handhaben, bis die zuständigen Behörden ihn in Gewahrsam nehmen können.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="flash_device" type="puppet" asset="lib/tower.swf:TowerFlashDevice" depth="12" visible="1" state="main">
+      <states>
+        <state id="main" x="529" y="739" img="1" imgX="-2" imgY="-3" imgW="-0.5" imgH="0.5" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-26" hitY="-25" hitW="46" hitH="45" shape="rect">
+          <param mapX="569" mapY="696" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[hypnosis device]]></en>
+            <de><![CDATA[Hypnose-Gerät]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30031">
+                  <en><![CDATA[This must be the hypnosis device that Cain has been using to brainwash the villagers.]]></en>
+                  <de><![CDATA[Dies muss das Hypnose-Gerät sein, das Cain für die Gehirnwäsche der Dorfbewohner benutzt hat.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm auf]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30032">
+                  <en><![CDATA[I swear to use this device only for the powers of good!]]></en>
+                  <de><![CDATA[Ich schwöre, dieses Gerät nur für die Kräfte des Guten zu verwenden!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
+                <layer target="_current:flash_device" visible="0" omit="1" />
+                <inventory add="flash_bad" />
+                <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="wavetamer" type="puppet" asset="lib/wavetamer.swf:Wavetamer" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="791" y="802" img="1" imgX="52" imgY="-367" imgW="-1.06" imgH="1.06" frame="16" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-43" hitY="-359" hitW="84" hitH="318" shape="rect">
+          <param mapX="577" mapY="697" turnTo="5" turn="0" cursor="" onclick="-1" prefix="nowind_" subtitle="0x99CCCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Sir Wavetamer]]></en>
+            <de><![CDATA[Sir Wavetamer]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30033">
+                  <en><![CDATA[Wavetamer seems to have everything under control up here.]]></en>
+                  <de><![CDATA[Wavetamer scheint hier oben alles unter Kontrolle zu haben.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30034">
+                  <en><![CDATA[You said something about the police coming here?]]></en>
+                  <de><![CDATA[Sie sagten, dass die Polizei hierher unterwegs ist?]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30035">
+                  <en><![CDATA[Yes, I’ve already sent for the authorities ... the police should be arriving soon.]]></en>
+                  <de><![CDATA[Ja, ich habe die Behörden bereits informiert ... die Polizei sollte bald eintreffen.]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="lspeak" sound="voice/tower3_voice.swf:tower30036">
+                  <en><![CDATA[We had a look at the Baron earlier, and it’s obvious now that Lowell Cain was only pretending to work for him.]]></en>
+                  <de><![CDATA[Wir konnten vorhin einen Blick auf den Baron werfen, und es ist jetzt offensichtlich, dass Lowell Cain nur so getan hat, als würde er für den Baron arbeiten.]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30037">
+                  <en><![CDATA[Cain has had no right to close down Ravenhollow and make governing decisions.]]></en>
+                  <de><![CDATA[Cain hatte kein Recht, Ravenhollow abzuriegeln oder überhaupt irgendwelche Entscheidungen zu treffen.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30038">
+                  <en><![CDATA[What about these guys?]]></en>
+                  <de><![CDATA[Und diese Typen?]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30039">
+                  <en><![CDATA[The guy with the mustache here told me that they’re all hired thugs paid by Lowell Cain.]]></en>
+                  <de><![CDATA[Der Mann mit dem Schnurrbart hier hat mir gerade gesagt, dass sie alle Taschendiebe und Schläger sind, die von Lowell Cain bezahlt wurden.]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="hspeak" sound="voice/tower3_voice.swf:tower30040">
+                  <en><![CDATA[Cain had promised them more money, but he doesn’t look like he’ll be able to deliver on that promise now, does it? ]]></en>
+                  <de><![CDATA[Er versprach ihnen sogar noch mehr Geld, aber ehrlich gesagt sieht Cain nicht so aus, als ob er noch halten könnte, was er ihnen versprochen hat, oder?]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30041">
+                  <en><![CDATA[Which reminds me ... I think we should call a doctor for him.]]></en>
+                  <de><![CDATA[Ich denke, wir sollten einen Arzt für ihn rufen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <dialogue playList="0" />
+                <layerState target="_current:wavetamer:main" restState="pause" />
+                <layerSprite target="wavetamer" animFrame="outro" waitForComplete="1" />
+                <dialogue playList="1,2,3,4,5,6,7" />
+                <layerState target="_current:wavetamer:main" restState="rest" />
+                <layerSprite target="wavetamer" animFrame="intro" waitForComplete="0" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="foreground" type="plane" asset="lib/tower.swf:TowerFg" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="340" y="270" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="raven1" type="puppet" asset="" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="542" y="12" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-62" hitY="-3" hitW="130" hitH="176" shape="rect">
+          <param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[raven]]></en>
+            <de><![CDATA[Rabe]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30042">
+                  <en><![CDATA[These wooden ravens look pretty scary.]]></en>
+                  <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043">
+                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="raven2" type="puppet" asset="" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="610" y="591" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-18" hitY="-349" hitW="205" hitH="134" shape="rect">
+          <param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[raven]]></en>
+            <de><![CDATA[Rabe]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30044">
+                  <en><![CDATA[These wooden ravens look pretty scary.]]></en>
+                  <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30045">
+                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="raven3" type="puppet" asset="" depth="17" visible="1" state="main">
+      <states>
+        <state id="main" x="220" y="267" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="13" hitY="-3" hitW="185" hitH="111" shape="rect">
+          <param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[raven]]></en>
+            <de><![CDATA[Rabe]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30046">
+                  <en><![CDATA[These wooden ravens look pretty scary.]]></en>
+                  <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30047">
+                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="raven4" type="puppet" asset="" depth="18" visible="1" state="main">
+      <states>
+        <state id="main" x="616" y="724" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="84" hitY="-737" hitW="336" hitH="275" shape="rect">
+          <param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[raven]]></en>
+            <de><![CDATA[Rabe]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30048">
+                  <en><![CDATA[These wooden ravens look pretty scary.]]></en>
+                  <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30049">
+                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="raven5" type="puppet" asset="" depth="19" visible="1" state="main">
+      <states>
+        <state id="main" x="437" y="735" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-436" hitY="-741" hitW="331" hitH="255" shape="rect">
+          <param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[raven]]></en>
+            <de><![CDATA[Rabe]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30050">
+                  <en><![CDATA[These wooden ravens look pretty scary.]]></en>
+                  <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30051">
+                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="phrase" type="puppet" asset="" depth="20" visible="1" state="main">
+      <states>
+        <state id="main" x="542" y="11" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-81" hitY="190" hitW="148" hitH="58" shape="rect">
+          <param mapX="530" mapY="647" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[latin phrase]]></en>
+            <de><![CDATA[lateinischer Satz]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30052">
+                  <en><![CDATA[&#8222;Mali Principii, Malus Finis.&#8220;]]></en>
+                  <de><![CDATA[&#8222;Mali Principii, Malus Finis.&#8220;]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30053">
+                  <en><![CDATA[What does that mean? If only I had managed to stay awake through at least one of my latin classes at university.]]></en>
+                  <de><![CDATA[Was bedeutet das? Hätte ich es nur geschafft, wenigstens in einem meiner Latein&#8212;Kurse an der Uni wach zu bleiben.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="dia" type="puppet" asset="" depth="21" visible="1" state="main">
+      <states>
+        <state id="main" x="184" y="717" img="0" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="50" hitH="38" shape="rect">
+          <param mapX="155" mapY="701" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30054">
+                  <en><![CDATA[I’m not talking! You can say whatever you want, but I’m not talking!]]></en>
+                  <de><![CDATA[Ich rede nicht! Mach was du willst, aber ich rede nicht!]]></de>
+                </dia>
+                <dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30055">
+                  <en><![CDATA[I don’t want to go into jail again ... please ...]]></en>
+                  <de><![CDATA[Ich will nicht ins Gefängnis zurück ... bitte ...]]></de>
+                </dia>
+                <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30056">
+                  <en><![CDATA[Once the police arrives you can tell them your story ... ]]></en>
+                  <de><![CDATA[Wenn die Polizei da ist, kannst du der deine Geschichte erzählen ...]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30057">
+                  <en><![CDATA[I can’t wait until they take you two away ... I don’t want to see you nor your friends in my town ever again. Is that clear?]]></en>
+                  <de><![CDATA[Ich kann es nicht erwarten, dass sie dich mitnehmen ... Ich will weder dich noch deine Freunde jemals wieder in meiner Stadt sehen. Ist das klar?]]></de>
+                </dia>
+                <dia puppet="rat" frame="" sound="voice/tower3_voice.swf:tower30058">
+                  <en><![CDATA[Yes ...]]></en>
+                  <de><![CDATA[Ja ...]]></de>
+                </dia>
+                <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30059">
+                  <en><![CDATA[You can’t tell me what to do! I haven’t done anything wrong!]]></en>
+                  <de><![CDATA[Du kannst mir nichts befehlen! Ich habe nichts Unrechtes getan!]]></de>
+                </dia>
+                <dia puppet="wavetamer" frame="lspeak" sound="voice/tower3_voice.swf:tower30060">
+                  <en><![CDATA[We’ll let the authorities decide about that ...]]></en>
+                  <de><![CDATA[Das lassen wir die Behörden entscheiden ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layerState target="_current:mbcaro:main" restState="restact3" />
+                <layerState target="_current:wavetamer:main" restState="pause" />
+                <layerSprite target="wavetamer" animFrame="outro" waitForComplete="1" />
+                <dialogue play="*" />
+                <layerState target="_current:wavetamer:main" restState="rest" />
+                <layerSprite target="wavetamer" animFrame="intro" waitForComplete="0" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees />
+</room>

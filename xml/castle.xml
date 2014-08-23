@@ -1077,8 +1077,8 @@
                   <de><![CDATA[Klingt toll!]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/castle_voice.swf:castle0049">
-                  <en><![CDATA[Sounds great indeed! We just have to make sure we don’t run into the big city cops &#8212; we’re still wanted for fraud ...]]></en>
-                  <de><![CDATA[Klingt wirklich toll! Wir müssen nur aufpassen, dass wir da nicht der echten Polizei in die Arme laufen &#8212; wir werden immer noch wegen Betrugs gesucht ...]]></de>
+                  <en><![CDATA[Sounds great indeed! We just have to make sure we don’t run into the big city cops. We’re still wanted for fraud ...]]></en>
+                  <de><![CDATA[Klingt wirklich toll! Wir müssen nur aufpassen, dass wir da nicht der echten Polizei in die Arme laufen. Wir werden immer noch wegen Betrugs gesucht ...]]></de>
                 </dia>
                 <dia puppet="rat" frame="" sound="voice/castle_voice.swf:castle0050">
                   <en><![CDATA[... and forgery.]]></en>

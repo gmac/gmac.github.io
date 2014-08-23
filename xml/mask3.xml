@@ -1,1 +1,1520 @@
-<room id="mask3" coreLibs="lib/mask.swf,lib/mask_fx.swf,lib/music_mandelbaum.swf,lib/eve.swf,lib/boots.swf,lib/mandelbaum.swf,lib/square_fx.swf" voiceLibs="voice/mask3_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="lib/square_fx.swf:SquareNightFx"><grids><grid id="main"><boxes><box x="-195" y="693" w="742" h="265" nodes="n0,n1,n3,n5,n6"/><box x="299" y="600" w="57" h="36" nodes="n4"/></boxes><nodes><node id="n0" x="338" y="696" join="n4,n1,n3,n5,n6" trap="0"/><node id="n1" x="3" y="816" join="n0,n3,n5,n6" trap="0" name="join_square"/><node id="n2" x="557" y="678" join="n6" trap="0" name="boots"/><node id="n3" x="299" y="696" join="n4,n0,n1,n5,n6" trap="0" name="shopcenter"/><node id="n4" x="306" y="633" join="n5,n0,n3" trap="0"/><node id="n5" x="247" y="694" join="n4,n0,n1,n3,n6" trap="0"/><node id="n6" x="540" y="701" join="n2,n0,n1,n3,n5" trap="0"/></nodes></grid></grids><positions><position id="join_square" turn="3" x="3" y="816"/><position id="boots" turn="4" x="557" y="678"/><position id="shopcenter" turn="4" x="299" y="696"/></positions><filters><filter id="_main" axis="y" enabled="1"><pole x="343" y="780" scale="1.13" rate="0.5" blur="1" color="0xFFCC33" tint="0"/><pole x="348" y="604" scale="0.74" rate="1" blur="5" color="0x000000" tint="0"/></filter><filter id="_lightday" axis="x" enabled="1"><pole x="77" y="703" scale="0.5" rate="0.5" blur="1" color="0xFFFFFF" tint="0.23"/><pole x="271" y="703" scale="1" rate="1" blur="5" color="0x000000" tint="0"/></filter><filter id="_lightnight" axis="r" enabled="1"><pole x="341" y="666" scale="0.5" rate="0.5" blur="1" color="0xFFFFCC" tint="0"/><pole x="20" y="649" scale="1" rate="1" blur="5" color="0x000000" tint="0.47"/></filter></filters><scripts><script id="_enter"><logic><if eval="[nighttime] EQ 1"><layerSprite target="_bg" frameOffset="1"/><layerSprite target="foreground" frameOffset="1"/><layerSprite target="workbench" frameOffset="1"/><layer target="mask:candle1" visible="1"/><layer target="mask:candle2" visible="1"/><layer target="mask:candle3" visible="1"/><layer target="mask:candle4" visible="1"/><layer target="mask:candle5" visible="1"/><layer target="mask:candle6" visible="1"/><sound soundtrack1=""/><layerState target="mask:_avatar:main" colorFilter="_lightnight"/></if><else><sound soundtrack1="lib/music_mandelbaum.swf:MandelbaumMusic"/><layer target="mask:candle1" visible="0"/><layer target="mask:candle2" visible="0"/><layer target="mask:candle3" visible="0"/><layer target="mask:candle4" visible="0"/><layer target="mask:candle5" visible="0"/><layer target="mask:candle6" visible="0"/><layerState target="mask:_avatar:main" colorFilter="_lightday"/></else></logic><curtain blackout="0"/></script><script id="_exit"><curtain blackout="1"/></script><script id="_cleanup"><library unloadRoom="_current"/></script></scripts><layers><layer id="_bg" type="background" asset="lib/mask.swf:MaskBg" depth="0" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect"><param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300"/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="candle1" type="plane" asset="lib/mask.swf:MaskCandleFlame1" depth="1" visible="1" state="main"><states><state id="main" x="871" y="386" img="1" imgX="0" imgY="0" imgW="0.25" imgH="0.25" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="candle2" type="plane" asset="lib/mask.swf:MaskCandleFlame1" depth="2" visible="1" state="main"><states><state id="main" x="769" y="327" img="1" imgX="0" imgY="0" imgW="0.25" imgH="0.25" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="candle3" type="plane" asset="lib/mask.swf:MaskCandleFlame1" depth="3" visible="1" state="main"><states><state id="main" x="178" y="366" img="1" imgX="0" imgY="0" imgW="0.25" imgH="0.25" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="candle4" type="plane" asset="lib/mask.swf:MaskCandleFlame2" depth="4" visible="1" state="main"><states><state id="main" x="633" y="379" img="1" imgX="0" imgY="0" imgW="0.2" imgH="0.2" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="candle5" type="plane" asset="lib/mask.swf:MaskCandleFlame2" depth="5" visible="1" state="main"><states><state id="main" x="812" y="410" img="1" imgX="0" imgY="0" imgW="0.2" imgH="0.2" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="candle6" type="plane" asset="lib/mask.swf:MaskCandleFlame3" depth="6" visible="1" state="main"><states><state id="main" x="739" y="354" img="1" imgX="0" imgY="0" imgW="0.2" imgH="0.2" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="exit_square" type="puppet" asset="" depth="7" visible="1" state="main"><states><state id="main" x="-70" y="751" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="67" hitY="-588" hitW="158" hitH="546" shape="rect"><param mapX="3" mapY="816" turnTo="5" turn="0" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><curtain blackout="1"/><sound effect="lib/sound_effects.swf:doorClose" waitForComplete="1"/><game room="square3:join_mask"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state><state id="closeshop" x="-70" y="751" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="67" hitY="-588" hitW="158" hitH="546" shape="rect"><param mapX="3" mapY="816" turnTo="5" turn="0" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><curtain blackout="1"/><layer target="square3:mandelbaum" visible="1"/><layer target="square3:eve" visible="1"/><layer target="square3:exit_mask" state="closed"/><sound effect="lib/sound_effects.swf:doorClose" waitForComplete="1"/><game room="square3:join_mask"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="poster2" type="puppet" asset="" depth="8" visible="1" state="main"><states><state id="main" x="299" y="673" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-142" hitY="-235" hitW="93" hitH="209" shape="rect"><param mapX="337" mapY="628" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[poster]]></en><de><![CDATA[Poster]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30000"><en><![CDATA[&#8222;The Amazing Entertainment Cart &#8212; Coming Soon&#8220;]]></en><de><![CDATA[&#8222;Der großartige Vergnügungswagen – Demnächst&#8220;]]></de></dia><dia puppet="_avatar" frame="hspeak" sound="voice/mask3_voice.swf:mask30001"><en><![CDATA[Actually, the wait is over! They’re just outside!]]></en><de><![CDATA[Endlich ist das Warten vorbei! Sie sind direkt draußen!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="poster1" type="puppet" asset="" depth="9" visible="1" state="main"><states><state id="main" x="347" y="607" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-76" hitY="-195" hitW="77" hitH="163" shape="rect"><param mapX="355" mapY="626" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[mask shop advertisement]]></en><de><![CDATA[Werbung des Maskenladens]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30002"><en><![CDATA[It says, &#8222;Mandelbaum’s Masks &#8212; A Very Good Choice&#8220;.]]></en><de><![CDATA[Darauf steht &#8222;Mandelbaums Masken – Eine sehr gute Wahl&#8220;.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="bowl_food" type="puppet" asset="" depth="10" visible="1" state="main"><states><state id="main" x="325" y="637" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-84" hitY="-58" hitW="67" hitH="40" shape="rect"><param mapX="340" mapY="625" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[food bowl]]></en><de><![CDATA[Futternapf]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30003"><en><![CDATA[The cat left its dinner half&#8212;eaten.]]></en><de><![CDATA[Der Fressnapf der Katze ist noch halbvoll.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30004"><en><![CDATA[... and time is not making the kitty chow look any more appetizing.]]></en><de><![CDATA[... und das Katzenfutter sieht mit der Zeit auch nicht appetitlicher aus.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Eat]]></en><de><![CDATA[Iss]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30005"><en><![CDATA[Gross.]]></en><de><![CDATA[Eklig.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30006"><en><![CDATA[I really don’t want to carry around a disgusting bowl full of partially&#8212;chewed kitty chow.]]></en><de><![CDATA[Ich möchte wirklich keinen Fressnapf voll halbvergammeltem Katzenfutter mit mir rumtragen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="bowl_milk" type="puppet" asset="lib/mask.swf:MaskBowl" depth="11" visible="1" state="no_touching"><states><state id="no_touching" x="335" y="631" img="1" imgX="-85" imgY="-75" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-87" hitY="-81" hitW="64" hitH="35" shape="rect"><param mapX="350" mapY="624" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[milk bowl]]></en><de><![CDATA[Milchschale]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30007"><en><![CDATA[It’s the cat’s empty milk bowl.]]></en><de><![CDATA[Es ist die leere Milchschale der Katze.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Lick]]></en><de><![CDATA[Lecke an]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30008"><en><![CDATA[Gross.]]></en><de><![CDATA[Eklig.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30009"><en><![CDATA[This might come in handy...]]></en><de><![CDATA[Das könnte nützlich sein ...]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30010"><en><![CDATA[AHHH! What are you doing?! Don’t touch that!]]></en><de><![CDATA[AHHH! Was machen Sie? Fassen Sie das nicht an!]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30011"><en><![CDATA[Why is everyone out to get me and my things?!]]></en><de><![CDATA[Warum wollen alle entweder mich oder meine Sachen holen?!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30012"><en><![CDATA[Okay then... sorry. I’ll leave it be.]]></en><de><![CDATA[Okay... sorry. Dann lass ich es.]]></de></dia></dialog><script><dialogue playList="0"/><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1"/><dialogue playList="1,2"/><layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1"/><puppetTween target="_avatar" type="turn" to="view:3" waitForComplete="1"/><method call="controls" enabled="1"/><dialogue playList="3"/></script></action></actions><items/></state><state id="pickup" x="335" y="631" img="1" imgX="-85" imgY="-75" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-87" hitY="-81" hitW="64" hitH="35" shape="rect"><param mapX="350" mapY="624" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[milk bowl]]></en><de><![CDATA[Milchschale]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30007"><en><![CDATA[It’s the cat’s empty milk bowl.]]></en><de><![CDATA[Es ist die leere Milchschale der Katze.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Lick]]></en><de><![CDATA[Lecke an]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30008"><en><![CDATA[Gross.]]></en><de><![CDATA[Eklig.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30013"><en><![CDATA[Er, Mr. Mandelbaum...]]></en><de><![CDATA[Ähm, Herr Mandelbaum ...]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30014"><en><![CDATA[Yes lad?]]></en><de><![CDATA[Ja?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30015"><en><![CDATA[May I borrow this milk bowl? It may come in handy while looking for your cat.]]></en><de><![CDATA[Darf ich mir diese Milchschale ausleihen? Sie könnte mir bei der Suche nach Ihrer Katze helfen?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30016"><en><![CDATA[Why yes, of course! Mr. Boots absolutely loves that bowl, in fact he refuses to drink from any other.]]></en><de><![CDATA[Aber natürlich! Mr. Boots liebt diese Schale über alles, er würde niemals aus einer anderen trinken.]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30017"><en><![CDATA[By all means, feel free to borrow the bowl.]]></en><de><![CDATA[Natürlich können Sie sich die Schale ausleihen.]]></de></dia></dialog><script><dialogue play="*"/><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1"/><layer target="_current:bowl_milk" visible="0" omit="1"/><inventory add="bowl"/><layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="masks2" type="puppet" asset="" depth="12" visible="1" state="main"><states><state id="main" x="385" y="743" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="125" hitY="-682" hitW="379" hitH="240" shape="rect"><param mapX="371" mapY="726" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[assortment of masks]]></en><de><![CDATA[Sortiment an Masken]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30018"><en><![CDATA[These masks look pretty scary. Especially in this flickering light of the candles.]]></en><de><![CDATA[Diese Masken sehen unheimlich aus. Besonders im flackernden Kerzenschein.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30019"><en><![CDATA[I’d like to examine them closer but I’m really in a hurry right now!]]></en><de><![CDATA[Ich würde sie mir gerne genauer ansehen, aber ich bin sehr in Eile!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="workplace" type="puppet" asset="" depth="13" visible="1" state="main"><states><state id="main" x="370" y="732" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="139" hitY="-436" hitW="218" hitH="148" shape="rect"><param mapX="299" mapY="696" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[workplace]]></en><de><![CDATA[Arbeitsplatz]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30020"><en><![CDATA[Nice workplace ... Mr. Mandelbaum has all kinds of tools there.]]></en><de><![CDATA[Schöner Arbeitsplatz ... Herr Mandelbaum hat alle möglichen Werkzeuge hier.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30021"><en><![CDATA[I don’t think I’d be very good at mask carving.]]></en><de><![CDATA[Ich schätze, ich habe kein Talent für das Maskenschnitzen.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="masks1" type="puppet" asset="" depth="14" visible="1" state="main"><states><state id="main" x="356" y="665" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="42" hitY="-435" hitW="186" hitH="113" shape="rect"><param mapX="317" mapY="615" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[venetian masks]]></en><de><![CDATA[venezianische Masken]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30022"><en><![CDATA[Venetian masks ... those are pretty scary too!]]></en><de><![CDATA[Venezianische Masken ... die sind auch sehr unheimlich!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="workbench" type="plane" asset="lib/mask.swf:MaskTable" depth="15" visible="1" state="main"><states><state id="main" x="420" y="636" img="1" imgX="-55" imgY="-251" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="1" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer><layer id="masks3" type="puppet" asset="" depth="16" visible="1" state="main"><states><state id="main" x="372" y="729" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="42" hitY="-233" hitW="242" hitH="104" shape="rect"><param mapX="299" mapY="696" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[hand carved masks]]></en><de><![CDATA[handgeschnitzte Masken]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30023"><en><![CDATA[More scary masks ...]]></en><de><![CDATA[Noch mehr unheimliche Masken ...]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30024"><en><![CDATA[No time for masquerades!]]></en><de><![CDATA[Keine Zeit für Maskerade!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="knives" type="puppet" asset="lib/mask.swf:MaskKnives" depth="17" visible="1" state="flashed"><states><state id="flashed" x="676" y="721" img="1" imgX="-51" imgY="-213" imgW="1" imgH="0.37" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-89" hitY="-250" hitW="90" hitH="60" shape="rect"><param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="17" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[carving knives]]></en><de><![CDATA[Schnitzmesser]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30025"><en><![CDATA[Those are some good looking carving knives ...]]></en><de><![CDATA[Das sind ein paar hübsche Schnitzmesser ...]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30026"><en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine looking carving knives?]]></en><de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30027"><en><![CDATA[Ahh! Just leave them... me... us... ALONE!!]]></en><de><![CDATA[Ahh! Lassen Sie sie... mich... uns ... ALLEIN!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30028"><en><![CDATA[Okay, I’ll do that.]]></en><de><![CDATA[Okay, schon gut.]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items/></state><state id="unflashed" x="676" y="727" img="1" imgX="-54" imgY="-219" imgW="1" imgH="0.37" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-91" hitY="-255" hitW="90" hitH="59" shape="rect"><param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="17" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[carving knives]]></en><de><![CDATA[Schnitzmesser]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30025"><en><![CDATA[Those are some good looking carving knives ...]]></en><de><![CDATA[Das sind ein paar hübsche Schnitzmesser ...]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Pick up]]></en><de><![CDATA[Nimm]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30029"><en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine looking carving knives?]]></en><de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30030"><en><![CDATA[Well, I don’t normally lend out my tools. Nothing personal, but I find that I generally don’t see them returned is all.]]></en><de><![CDATA[Naja, ich verleihe meine Werkzeuge eigentlich nie. Hat nichts mit Ihnen zu tun, aber ich bekomme sie einfach zu selten zurück.]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30031"><en><![CDATA[No problem, I understand.]]></en><de><![CDATA[Kein Problem. Das verstehe ich.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="item"><title><en><![CDATA[TAKE]]></en><de><![CDATA[NIMM]]></de></title><dialog/><script><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1"/><layer target="_current:knives" visible="0" omit="1"/><inventory add="knives"/><layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1"/><curtain blackout="1"/><layer target="square3:mandelbaum" visible="1"/><layer target="square3:eve" visible="1"/><layer target="square3:exit_mask" state="closed"/><sound effect="lib/sound_effects.swf:doorClose" waitForComplete="1"/><game room="square3:join_mask"/><method call="controls" enabled="1"/></script></action></actions><items/></state></states></layer><layer id="boots" type="puppet" asset="lib/boots.swf:MrBoots" depth="18" visible="0" state="main"><states><state id="main" x="654" y="834" img="1" imgX="85" imgY="-266" imgW="1.45" imgH="1.45" frame="5" blend="normal" alpha="1" bitmap="0" hit="1" hitX="29" hitY="-314" hitW="112" hitH="88" shape="rect"><param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[cute cat]]></en><de><![CDATA[süße Katze]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog/><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30032"><en><![CDATA[Show me your ball play animation!]]></en><de><![CDATA[Ich möchte die Ballspielanimation sehen!]]></de></dia></dialog><script><dialogue play="*"/><layerSprite target="boots" animFrame="jumpup" waitForComplete="1"/><layer target="_current:boots" state="play"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state><state id="happy" x="619" y="773" img="1" imgX="94" imgY="-259" imgW="1.45" imgH="1.45" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-293" hitW="112" hitH="88" shape="rect"><param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[cute cat]]></en><de><![CDATA[süße Katze]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30033"><en><![CDATA[He is tired and happy to be home again.]]></en><de><![CDATA[Er ist müde und froh, wieder zuhause zu sein.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30034"><en><![CDATA[I should let him rest.]]></en><de><![CDATA[Er sollte sich ausruhen.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items/></state></states></layer><layer id="eve" type="puppet" asset="lib/eve.swf:Eve" depth="19" visible="1" state="main"><states><state id="main" x="532" y="732" img="1" imgX="-27" imgY="-244" imgW="1.45" imgH="1.45" frame="6" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-76" hitY="-300" hitW="79" hitH="231" shape="rect"><param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="sad_" subtitle="0xFFCCCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[eve]]></en><de><![CDATA[Eve]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30035"><en><![CDATA[She looks afraid ... poor Eve. First her dad gets hypnotized and now Mr. Boots is gone.]]></en><de><![CDATA[Sie hat Angst ... arme Eve. Erst wird ihr Vater hypnotisiert und jetzt ist Mr. Boots verschwunden.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30036"><en><![CDATA[Eve, everything alright?]]></en><de><![CDATA[Eve, ist alles in Ordnung?]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30037"><en><![CDATA[Please, help my dad!]]></en><de><![CDATA[Bitte, helfen Sie meinem Papa!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items><action id="boots"><title><en><![CDATA[Give #item# to #noun#]]></en><de><![CDATA[Gib #item# an #noun#]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30038"><en><![CDATA[I’d better give the cat back to Mandelbaum directly... who knows, maybe he’ll offer a reward.]]></en><de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ... vielleicht bietet er mir ja eine Belohnung an.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state><state id="happy" x="585" y="749" img="1" imgX="-80" imgY="-261" imgW="1.45" imgH="1.45" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-114" hitY="-311" hitW="81" hitH="236" shape="rect"><param mapX="550" mapY="813" turnTo="5" turn="0" cursor="" onclick="-1" prefix="normal_" subtitle="0xFFCCCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[eve]]></en><de><![CDATA[Eve]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30039"><en><![CDATA[Eve is happy again ... that smile alone was worth the effort.]]></en><de><![CDATA[Eve ist wieder glücklich ... ihr Lächeln war schon Lohn genug.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30040"><en><![CDATA[Hey!]]></en><de><![CDATA[Hey!]]></de></dia><dia puppet="eve" frame="hspeak" sound="voice/mask3_voice.swf:mask30041"><en><![CDATA[Thanks for helping us, Nathan!]]></en><de><![CDATA[Danke für Ihre Hilfe, Nathan!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog/><script><dialogue play="*"/></script></action></actions><items><action id="boots"><title><en><![CDATA[]]></en></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30042"><en><![CDATA[I’d better give the cat back to Mandelbaum directly... who knows, maybe he’ll offer a reward.]]></en><de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ... vielleicht bietet er mir ja eine Belohnung an.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state></states></layer><layer id="mandelbaum" type="puppet" asset="lib/mandelbaum.swf:mandelbaum" depth="20" visible="1" state="flashed"><states><state id="flashed" x="365" y="741" img="1" imgX="39" imgY="-235" imgW="-1.39" imgH="1.39" frame="25" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-23" hitY="-467" hitW="105" hitH="401" shape="rect"><param mapX="298" mapY="693" turnTo="5" turn="0" cursor="" onclick="-1" prefix="flashed_" subtitle="0xD699AD" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Mr. Mandelbaum]]></en><de><![CDATA[Herr Mandelbaum]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30043"><en><![CDATA[He looks scared, confused, and more than a little paranoid.]]></en><de><![CDATA[Er sieht ängstlich, verwirrt und ziemlich paranoid aus!]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30044"><en><![CDATA[Are you okay?]]></en><de><![CDATA[Sind Sie okay?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30045"><en><![CDATA[Is that cat horrible cat gone!? Is it!?]]></en><de><![CDATA[Ist diese schreckliche Katze weg!? Ist sie weg!?]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30046"><en><![CDATA[But Mr. Boots is OUR cat, dad! Why did you chase him away!]]></en><de><![CDATA[Aber Papa, Mr. Boots ist UNSERE Katze! Warum hast du sie verjagt?]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Shake]]></en><de><![CDATA[Schüttle]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30047"><en><![CDATA[Mr. Mandelbaum, snap out of it!]]></en><de><![CDATA[Herr Mandelbaum, kommen Sie zu sich!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="flash_good"><title><en><![CDATA[]]></en></title><dialog><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30048"><en><![CDATA[Eve, don’t bring that strange cat in here again ... who knows where it has been ...]]></en><de><![CDATA[Eve, bring diese merkwürdige Katze nicht mehr her ... wer weiß, wo sie war ...]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30049"><en><![CDATA[But Mr. Boots is OUR cat, dad! Why did you chase him away!]]></en><de><![CDATA[Aber Papa, Mr. Boots ist UNSERE Katze! Warum hast du ihn verjagt?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30050"><en><![CDATA[Don’t worry Eve, he will remember him again ...]]></en><de><![CDATA[Keine Sorge, Eve, er wird sich bald erinnern ...]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30051"><en><![CDATA[Nigel said the same. He wanted to help, but he never came back ... and Mr. Boots ran away too. He was scared of Dad ...]]></en><de><![CDATA[Nigel hat das auch gesagt. Er wollte helfen, aber er kam nie mehr zurück ... und Mr. Boots ist auch weggelaufen. Er hatte Angst vor Papa ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30052"><en><![CDATA[I know for sure, that Nigel would come if he could. You see, without him I wouldn’t have this ...]]></en><de><![CDATA[Ich weiß genau, dass Nigel kommen würde, wenn er könnte. Ohne ihn hätte ich nicht das hier ...]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30053"><en><![CDATA[Nathan ... Eve ...? What happened? Why are you looking at me like that?]]></en><de><![CDATA[Nathan ... Eve ...? Was ist passiert? Warum schaut ihr mich so an?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30054"><en><![CDATA[Hello Mr. Mandelbaum, are you feeling better?]]></en><de><![CDATA[Hallo, Herr Mandelbaum, geht es Ihnen besser?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30055"><en><![CDATA[Why yes, what happened?]]></en><de><![CDATA[Ja, was ist denn passiert?]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30056"><en><![CDATA[You were hypnotized, I guess.]]></en><de><![CDATA[Ich schätze, Sie wurden hypnotisiert.]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30057"><en><![CDATA[Dad, are you okay again?]]></en><de><![CDATA[Papa, geht’s dir wieder gut?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30058"><en><![CDATA[Yes, dear. But where is Mr. Boots?]]></en><de><![CDATA[Ja, Liebes. Aber wo ist Mr. Boots?]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30059"><en><![CDATA[Don’t you remember? You chased him out of the house ...]]></en><de><![CDATA[Erinnerst du dich nicht? Du hast ihn aus dem Haus verjagt ...]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30060"><en><![CDATA[Oh no ... I didn’t mean to ... I ... Nathan you have to help me find Mr. Boots.]]></en><de><![CDATA[Oh nein ... das wollte ich nicht ... Ich ... Nathan, Sie müssen mir helfen, Mr. Boots zu finden.]]></de></dia></dialog><script><cursor item=""/><dialogue playBatch="5"/><method call="controls" enabled="0"/><layerSprite target="_avatar" animFrame="reach_flashout" waitForComplete="1"/><layerSprite target="_avatar" animFrame="flash" waitForComplete="1"/><room target="_current" soundtrack1="lib/music_mandelbaum.swf:MandelbaumMusic"/><layerSprite target="mandelbaum" animFrame="unflash" waitForComplete="1"/><layer target="_current:mandelbaum" state="unflashed"/><layerState target="_current:mandelbaum:unflashed" restState="pause"/><layer target="_current:knives" state="unflashed"/><layer target="_current:bowl_milk" state="pickup"/><layerSprite target="_avatar" animFrame="reach_flashin" waitForComplete="1"/><method call="controls" enabled="1"/><dialogue play="*"/><layerState target="_current:mandelbaum:unflashed" restState="rest"/></script></action><action id="flash_bad"><title><en><![CDATA[]]></en></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30061"><en><![CDATA[He’s had enough brainwashing.]]></en><de><![CDATA[Er hatte genug Gehirnwäsche.]]></de></dia></dialog><script><dialogue play="*"/></script></action></items></state><state id="unflashed" x="438" y="726" img="1" imgX="-34" imgY="-220" imgW="-1.39" imgH="1.39" frame="30" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-88" hitY="-457" hitW="95" hitH="414" shape="rect"><param mapX="297" mapY="692" turnTo="5" turn="0" cursor="" onclick="-1" prefix="unflashed_" subtitle="0xD699AD" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur=""/><vars/><title><en><![CDATA[Mr. Mandelbaum]]></en><de><![CDATA[Herr Mandelbaum]]></de></title><actions><action id="act0"><title><en><![CDATA[Look at]]></en><de><![CDATA[Untersuche]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30062"><en><![CDATA[He looks much better now.]]></en><de><![CDATA[Er sieht schon viel besser aus.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act1"><title><en><![CDATA[Talk to]]></en><de><![CDATA[Sprich mit]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30063"><en><![CDATA[Are you okay?]]></en><de><![CDATA[Sind Sie okay?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30064"><en><![CDATA[Much better, thanks! But could you try to find our cat? It seems I chased it out of the shop when I was ... not feeling well.]]></en><de><![CDATA[Viel besser, danke! Könnten Sie vielleicht unsere Katze finden? Ich hab sie wohl aus dem Geschäft verjagt als es ... mir nicht so gut ging.]]></de></dia></dialog><script><dialogue play="*"/></script></action><action id="act2"><title><en><![CDATA[Use]]></en><de><![CDATA[Benutze]]></de></title><dialog><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30065"><en><![CDATA[Back to normal again, please!]]></en><de><![CDATA[Zurück zur Normalität, bitte!]]></de></dia></dialog><script><dialogue play="*"/></script></action></actions><items><action id="boots"><title><en><![CDATA[Give #item# to #noun#]]></en><de><![CDATA[Gib #item# an #noun#]]></de></title><dialog><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30066"><en><![CDATA[You found Mr. Boots!! Why thank you lad, you have no idea what a great weight this takes off my mind.]]></en><de><![CDATA[Sie haben Mr. Boots gefunden!! Vielen Dank, mein Junge, Sie können sich nicht vorstellen, was mir das bedeutet.]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30067"><en><![CDATA[By all means, if there is ever anything I can do for you, you just let me know!]]></en><de><![CDATA[Wenn ich mich irgendwie revanchieren kann, lassen Sie es mich wissen!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30068"><en><![CDATA[Well, to be honest, I’ve been admiring those fine carving knives of yours over there. They look like they could be really useful!]]></en><de><![CDATA[Also, ehrlich gesagt gefallen mir Ihre schönen Schnitzmesser da drüben sehr gut. Die könnten mir bestimmt hilfreich sein!]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30069"><en><![CDATA[Those old things?! But of course! By all means lad, if you think they’d be useful, then they’ll do you more good than I.]]></en><de><![CDATA[Diese alten Dinger?! Aber natürlich! Na klar, wenn Sie sie brauchen können. Ihnen sind sie bestimmt nützlicher als mir.]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30070"><en><![CDATA[Heaven knows that I have more than enough knives to facilitate my work. Please, take them as my thanks to you for your help!]]></en><de><![CDATA[Ich hab nun wirklich genug Messer für meine Schnitzarbeiten. Bitte, nehmen Sie sie als Belohnung für Ihre Hilfe!]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30071"><en><![CDATA[Oh, thank you! Are these as sharp as those they advertise on radio? Can these cut through a shoe?]]></en><de><![CDATA[Oh, Dankeschön! Sind die so scharf, wie sie es im Radio anpreisen? Können die einen Schuh durchschneiden?]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30072"><en><![CDATA[Well, they are carving knives. I am sure you could cut through things like that but ...]]></en><de><![CDATA[Nun ja, es sind Schnitzmesser. Ich denke schon, dass man das kann, aber ...]]></de></dia><dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30073"><en><![CDATA[Amazing, thank you! I always wanted knives that can cut through a shoe.]]></en><de><![CDATA[Klasse, Dankeschön! Ich wollte schon immer ein Messer, das durch einen Schuh schneidet.]]></de></dia><dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30074"><en><![CDATA[Err ...yes. And now let’s join in the celebration outside! What do you say, Eve?]]></en><de><![CDATA[Äh ... ja. Und jetzt auf zur Party draußen! Was sagst du dazu, Eve?]]></de></dia><dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30075"><en><![CDATA[Yay!]]></en><de><![CDATA[Juhu!]]></de></dia></dialog><script><method call="controls" enabled="0"/><layer target="_current:boots" state="happy"/><layer target="_current:eve" state="happy"/><layer target="_current:boots" visible="1"/><layerState target="_current:mandelbaum:unflashed" restState="pause"/><dialogue play="*"/><inventory remove="boots"/><layerState target="_current:mandelbaum:unflashed" restState="rest"/><layer target="_current:exit_square" state="closeshop"/><puppet target="knives" callAction="3"/></script></action></items></state></states></layer><layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="21" visible="1" state="main"><states><state id="main" x="209" y="667" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="_lightnight" rate="" blur=""/><vars/><title><en><![CDATA[nigel]]></en></title><actions/><items/></state></states></layer><layer id="foreground" type="plane" asset="lib/mask.swf:MaskLeftFg" depth="22" visible="1" state="main"><states><state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect"><param mouse="0" float="0" parallax=""/><vars/><title><en><![CDATA[]]></en><de><![CDATA[]]></de></title><actions/><items/></state></states></layer></layers><trees/></room>
+<room id="mask3" coreLibs="lib/mask.swf,lib/mask_fx.swf,lib/music_mandelbaum.swf,lib/eve.swf,lib/boots.swf,lib/mandelbaum.swf,lib/square_fx.swf" voiceLibs="voice/mask3_voice.swf" enterScript="_enter" exitScript="_exit" grid="main" sound1="" sound2="lib/square_fx.swf:SquareNightFx">
+  <grids>
+    <grid id="main">
+      <boxes>
+        <box x="-195" y="693" w="742" h="265" nodes="n0,n1,n3,n5,n6" />
+        <box x="299" y="600" w="57" h="36" nodes="n4" />
+      </boxes>
+      <nodes>
+        <node id="n0" x="338" y="696" join="n4,n1,n3,n5,n6" trap="0" />
+        <node id="n1" x="3" y="816" join="n0,n3,n5,n6" trap="0" name="join_square" />
+        <node id="n2" x="557" y="678" join="n6" trap="0" name="boots" />
+        <node id="n3" x="299" y="696" join="n4,n0,n1,n5,n6" trap="0" name="shopcenter" />
+        <node id="n4" x="306" y="633" join="n5,n0,n3" trap="0" />
+        <node id="n5" x="247" y="694" join="n4,n0,n1,n3,n6" trap="0" />
+        <node id="n6" x="540" y="701" join="n2,n0,n1,n3,n5" trap="0" />
+      </nodes>
+    </grid>
+  </grids>
+  <positions>
+    <position id="join_square" turn="3" x="3" y="816" />
+    <position id="boots" turn="4" x="557" y="678" />
+    <position id="shopcenter" turn="4" x="299" y="696" />
+  </positions>
+  <filters>
+    <filter id="_main" axis="y" enabled="1">
+      <pole x="343" y="780" scale="1.13" rate="0.5" blur="1" color="0xFFCC33" tint="0" />
+      <pole x="348" y="604" scale="0.74" rate="1" blur="5" color="0x000000" tint="0" />
+    </filter>
+    <filter id="_lightday" axis="x" enabled="1">
+      <pole x="77" y="703" scale="0.5" rate="0.5" blur="1" color="0xFFFFFF" tint="0.23" />
+      <pole x="271" y="703" scale="1" rate="1" blur="5" color="0x000000" tint="0" />
+    </filter>
+    <filter id="_lightnight" axis="r" enabled="1">
+      <pole x="341" y="666" scale="0.5" rate="0.5" blur="1" color="0xFFFFCC" tint="0" />
+      <pole x="20" y="649" scale="1" rate="1" blur="5" color="0x000000" tint="0.47" />
+    </filter>
+  </filters>
+  <scripts>
+    <script id="_enter">
+      <logic>
+        <if eval="[nighttime] EQ 1">
+          <layerSprite target="_bg" frameOffset="1" />
+          <layerSprite target="foreground" frameOffset="1" />
+          <layerSprite target="workbench" frameOffset="1" />
+          <layer target="mask:candle1" visible="1" />
+          <layer target="mask:candle2" visible="1" />
+          <layer target="mask:candle3" visible="1" />
+          <layer target="mask:candle4" visible="1" />
+          <layer target="mask:candle5" visible="1" />
+          <layer target="mask:candle6" visible="1" />
+          <sound soundtrack1="" />
+          <layerState target="mask:_avatar:main" colorFilter="_lightnight" />
+        </if>
+        <else>
+          <sound soundtrack1="lib/music_mandelbaum.swf:MandelbaumMusic" />
+          <layer target="mask:candle1" visible="0" />
+          <layer target="mask:candle2" visible="0" />
+          <layer target="mask:candle3" visible="0" />
+          <layer target="mask:candle4" visible="0" />
+          <layer target="mask:candle5" visible="0" />
+          <layer target="mask:candle6" visible="0" />
+          <layerState target="mask:_avatar:main" colorFilter="_lightday" />
+        </else>
+      </logic>
+      <curtain blackout="0" />
+    </script>
+    <script id="_exit">
+      <curtain blackout="1" />
+    </script>
+    <script id="_cleanup">
+      <library unloadRoom="_current" />
+    </script>
+  </scripts>
+  <layers>
+    <layer id="_bg" type="background" asset="lib/mask.swf:MaskBg" depth="0" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="0" hitY="0" hitW="1024" hitH="768" shape="rect">
+          <param mouse="1" scrollL="300" scrollR="300" scrollT="300" scrollB="300" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="candle1" type="plane" asset="lib/mask.swf:MaskCandleFlame1" depth="1" visible="1" state="main">
+      <states>
+        <state id="main" x="871" y="386" img="1" imgX="0" imgY="0" imgW="0.25" imgH="0.25" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="candle2" type="plane" asset="lib/mask.swf:MaskCandleFlame1" depth="2" visible="1" state="main">
+      <states>
+        <state id="main" x="769" y="327" img="1" imgX="0" imgY="0" imgW="0.25" imgH="0.25" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="candle3" type="plane" asset="lib/mask.swf:MaskCandleFlame1" depth="3" visible="1" state="main">
+      <states>
+        <state id="main" x="178" y="366" img="1" imgX="0" imgY="0" imgW="0.25" imgH="0.25" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="candle4" type="plane" asset="lib/mask.swf:MaskCandleFlame2" depth="4" visible="1" state="main">
+      <states>
+        <state id="main" x="633" y="379" img="1" imgX="0" imgY="0" imgW="0.2" imgH="0.2" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="candle5" type="plane" asset="lib/mask.swf:MaskCandleFlame2" depth="5" visible="1" state="main">
+      <states>
+        <state id="main" x="812" y="410" img="1" imgX="0" imgY="0" imgW="0.2" imgH="0.2" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="candle6" type="plane" asset="lib/mask.swf:MaskCandleFlame3" depth="6" visible="1" state="main">
+      <states>
+        <state id="main" x="739" y="354" img="1" imgX="0" imgY="0" imgW="0.2" imgH="0.2" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="exit_square" type="puppet" asset="" depth="7" visible="1" state="main">
+      <states>
+        <state id="main" x="-70" y="751" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="67" hitY="-588" hitW="158" hitH="546" shape="rect">
+          <param mapX="3" mapY="816" turnTo="5" turn="0" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <curtain blackout="1" />
+                <sound effect="lib/sound_effects.swf:doorClose" waitForComplete="1" />
+                <game room="square3:join_mask" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="closeshop" x="-70" y="751" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="67" hitY="-588" hitW="158" hitH="546" shape="rect">
+          <param mapX="3" mapY="816" turnTo="5" turn="0" cursor="exit7" onclick="0" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <curtain blackout="1" />
+                <layer target="square3:mandelbaum" visible="1" />
+                <layer target="square3:eve" visible="1" />
+                <layer target="square3:exit_mask" state="closed" />
+                <sound effect="lib/sound_effects.swf:doorClose" waitForComplete="1" />
+                <game room="square3:join_mask" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="poster2" type="puppet" asset="" depth="8" visible="1" state="main">
+      <states>
+        <state id="main" x="299" y="673" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-142" hitY="-235" hitW="93" hitH="209" shape="rect">
+          <param mapX="337" mapY="628" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[poster]]></en>
+            <de><![CDATA[Poster]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30000">
+                  <en><![CDATA[&#8222;The Amazing Entertainment Cart &#8212; Coming Soon&#8220;]]></en>
+                  <de><![CDATA[&#8222;Der großartige Vergnügungswagen – Demnächst&#8220;]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="hspeak" sound="voice/mask3_voice.swf:mask30001">
+                  <en><![CDATA[Actually, the wait is over! They’re just outside!]]></en>
+                  <de><![CDATA[Endlich ist das Warten vorbei! Sie sind direkt draußen!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="poster1" type="puppet" asset="" depth="9" visible="1" state="main">
+      <states>
+        <state id="main" x="347" y="607" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-76" hitY="-195" hitW="77" hitH="163" shape="rect">
+          <param mapX="355" mapY="626" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[mask shop advertisement]]></en>
+            <de><![CDATA[Werbung des Maskenladens]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30002">
+                  <en><![CDATA[It says, &#8222;Mandelbaum’s Masks &#8212; A Very Good Choice&#8220;.]]></en>
+                  <de><![CDATA[Darauf steht &#8222;Mandelbaums Masken – Eine sehr gute Wahl&#8220;.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="bowl_food" type="puppet" asset="" depth="10" visible="1" state="main">
+      <states>
+        <state id="main" x="325" y="637" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-84" hitY="-58" hitW="67" hitH="40" shape="rect">
+          <param mapX="340" mapY="625" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[food bowl]]></en>
+            <de><![CDATA[Futternapf]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30003">
+                  <en><![CDATA[The cat left its dinner half&#8212;eaten.]]></en>
+                  <de><![CDATA[Der Fressnapf der Katze ist noch halbvoll.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30004">
+                  <en><![CDATA[... and time is not making the kitty chow look any more appetizing.]]></en>
+                  <de><![CDATA[... und das Katzenfutter sieht mit der Zeit auch nicht appetitlicher aus.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Eat]]></en>
+                <de><![CDATA[Iss]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30005">
+                  <en><![CDATA[Gross.]]></en>
+                  <de><![CDATA[Eklig.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30006">
+                  <en><![CDATA[I really don’t want to carry around a disgusting bowl full of partially&#8212;chewed kitty chow.]]></en>
+                  <de><![CDATA[Ich möchte wirklich keinen Fressnapf voll halbvergammeltem Katzenfutter mit mir rumtragen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="bowl_milk" type="puppet" asset="lib/mask.swf:MaskBowl" depth="11" visible="1" state="no_touching">
+      <states>
+        <state id="no_touching" x="335" y="631" img="1" imgX="-85" imgY="-75" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-87" hitY="-81" hitW="64" hitH="35" shape="rect">
+          <param mapX="350" mapY="624" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[milk bowl]]></en>
+            <de><![CDATA[Milchschale]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30007">
+                  <en><![CDATA[It’s the cat’s empty milk bowl.]]></en>
+                  <de><![CDATA[Es ist die leere Milchschale der Katze.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Lick]]></en>
+                <de><![CDATA[Lecke an]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30008">
+                  <en><![CDATA[Gross.]]></en>
+                  <de><![CDATA[Eklig.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30009">
+                  <en><![CDATA[This might come in handy...]]></en>
+                  <de><![CDATA[Das könnte nützlich sein ...]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30010">
+                  <en><![CDATA[AHHH! What are you doing?! Don’t touch that!]]></en>
+                  <de><![CDATA[AHHH! Was machen Sie? Fassen Sie das nicht an!]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30011">
+                  <en><![CDATA[Why is everyone out to get me and my things?!]]></en>
+                  <de><![CDATA[Warum wollen alle entweder mich oder meine Sachen holen?!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30012">
+                  <en><![CDATA[Okay then... sorry. I’ll leave it be.]]></en>
+                  <de><![CDATA[Okay... sorry. Dann lass ich es.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue playList="0" />
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
+                <dialogue playList="1,2" />
+                <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
+                <puppetTween target="_avatar" type="turn" to="view:3" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+                <dialogue playList="3" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="pickup" x="335" y="631" img="1" imgX="-85" imgY="-75" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-87" hitY="-81" hitW="64" hitH="35" shape="rect">
+          <param mapX="350" mapY="624" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[milk bowl]]></en>
+            <de><![CDATA[Milchschale]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30007">
+                  <en><![CDATA[It’s the cat’s empty milk bowl.]]></en>
+                  <de><![CDATA[Es ist die leere Milchschale der Katze.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Lick]]></en>
+                <de><![CDATA[Lecke an]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30008">
+                  <en><![CDATA[Gross.]]></en>
+                  <de><![CDATA[Eklig.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30013">
+                  <en><![CDATA[Er, Mr. Mandelbaum...]]></en>
+                  <de><![CDATA[Ähm, Herr Mandelbaum ...]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30014">
+                  <en><![CDATA[Yes lad?]]></en>
+                  <de><![CDATA[Ja?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30015">
+                  <en><![CDATA[May I borrow this milk bowl? It may come in handy while looking for your cat.]]></en>
+                  <de><![CDATA[Darf ich mir diese Milchschale ausleihen? Sie könnte mir bei der Suche nach Ihrer Katze helfen?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30016">
+                  <en><![CDATA[Why yes, of course! Mr. Boots absolutely loves that bowl, in fact he refuses to drink from any other.]]></en>
+                  <de><![CDATA[Aber natürlich! Mr. Boots liebt diese Schale über alles, er würde niemals aus einer anderen trinken.]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30017">
+                  <en><![CDATA[By all means, feel free to borrow the bowl.]]></en>
+                  <de><![CDATA[Natürlich können Sie sich die Schale ausleihen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
+                <layer target="_current:bowl_milk" visible="0" omit="1" />
+                <inventory add="bowl" />
+                <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="masks2" type="puppet" asset="" depth="12" visible="1" state="main">
+      <states>
+        <state id="main" x="385" y="743" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="125" hitY="-682" hitW="379" hitH="240" shape="rect">
+          <param mapX="371" mapY="726" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[assortment of masks]]></en>
+            <de><![CDATA[Sortiment an Masken]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30018">
+                  <en><![CDATA[These masks look pretty scary. Especially in this flickering light of the candles.]]></en>
+                  <de><![CDATA[Diese Masken sehen unheimlich aus. Besonders im flackernden Kerzenschein.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30019">
+                  <en><![CDATA[I’d like to examine them closer but I’m really in a hurry right now!]]></en>
+                  <de><![CDATA[Ich würde sie mir gerne genauer ansehen, aber ich bin sehr in Eile!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="workplace" type="puppet" asset="" depth="13" visible="1" state="main">
+      <states>
+        <state id="main" x="370" y="732" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="139" hitY="-436" hitW="218" hitH="148" shape="rect">
+          <param mapX="299" mapY="696" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[workplace]]></en>
+            <de><![CDATA[Arbeitsplatz]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30020">
+                  <en><![CDATA[Nice workplace ... Mr. Mandelbaum has all kinds of tools there.]]></en>
+                  <de><![CDATA[Schöner Arbeitsplatz ... Herr Mandelbaum hat alle möglichen Werkzeuge hier.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30021">
+                  <en><![CDATA[I don’t think I’d be very good at mask carving.]]></en>
+                  <de><![CDATA[Ich schätze, ich habe kein Talent für das Maskenschnitzen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="masks1" type="puppet" asset="" depth="14" visible="1" state="main">
+      <states>
+        <state id="main" x="356" y="665" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="42" hitY="-435" hitW="186" hitH="113" shape="rect">
+          <param mapX="317" mapY="615" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[venetian masks]]></en>
+            <de><![CDATA[venezianische Masken]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30022">
+                  <en><![CDATA[Venetian masks ... those are pretty scary too!]]></en>
+                  <de><![CDATA[Venezianische Masken ... die sind auch sehr unheimlich!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="workbench" type="plane" asset="lib/mask.swf:MaskTable" depth="15" visible="1" state="main">
+      <states>
+        <state id="main" x="420" y="636" img="1" imgX="-55" imgY="-251" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="1" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="masks3" type="puppet" asset="" depth="16" visible="1" state="main">
+      <states>
+        <state id="main" x="372" y="729" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="42" hitY="-233" hitW="242" hitH="104" shape="rect">
+          <param mapX="299" mapY="696" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[hand carved masks]]></en>
+            <de><![CDATA[handgeschnitzte Masken]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30023">
+                  <en><![CDATA[More scary masks ...]]></en>
+                  <de><![CDATA[Noch mehr unheimliche Masken ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30024">
+                  <en><![CDATA[No time for masquerades!]]></en>
+                  <de><![CDATA[Keine Zeit für Maskerade!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="knives" type="puppet" asset="lib/mask.swf:MaskKnives" depth="17" visible="1" state="flashed">
+      <states>
+        <state id="flashed" x="676" y="721" img="1" imgX="-51" imgY="-213" imgW="1" imgH="0.37" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-89" hitY="-250" hitW="90" hitH="60" shape="rect">
+          <param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="17" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[carving knives]]></en>
+            <de><![CDATA[Schnitzmesser]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30025">
+                  <en><![CDATA[Those are some good looking carving knives ...]]></en>
+                  <de><![CDATA[Das sind ein paar hübsche Schnitzmesser ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30026">
+                  <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine looking carving knives?]]></en>
+                  <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30027">
+                  <en><![CDATA[Ahh! Just leave them... me... us... ALONE!!]]></en>
+                  <de><![CDATA[Ahh! Lassen Sie sie... mich... uns ... ALLEIN!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30028">
+                  <en><![CDATA[Okay, I’ll do that.]]></en>
+                  <de><![CDATA[Okay, schon gut.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="unflashed" x="676" y="727" img="1" imgX="-54" imgY="-219" imgW="1" imgH="0.37" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-91" hitY="-255" hitW="90" hitH="59" shape="rect">
+          <param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="17" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[carving knives]]></en>
+            <de><![CDATA[Schnitzmesser]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30025">
+                  <en><![CDATA[Those are some good looking carving knives ...]]></en>
+                  <de><![CDATA[Das sind ein paar hübsche Schnitzmesser ...]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Pick up]]></en>
+                <de><![CDATA[Nimm]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30029">
+                  <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine looking carving knives?]]></en>
+                  <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30030">
+                  <en><![CDATA[Well, I don’t normally lend out my tools. Nothing personal, but I find that I generally don’t see them returned is all.]]></en>
+                  <de><![CDATA[Naja, ich verleihe meine Werkzeuge eigentlich nie. Hat nichts mit Ihnen zu tun, aber ich bekomme sie einfach zu selten zurück.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30031">
+                  <en><![CDATA[No problem, I understand.]]></en>
+                  <de><![CDATA[Kein Problem. Das verstehe ich.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="item">
+              <title>
+                <en><![CDATA[TAKE]]></en>
+                <de><![CDATA[NIMM]]></de>
+              </title>
+              <dialog />
+              <script>
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
+                <layer target="_current:knives" visible="0" omit="1" />
+                <inventory add="knives" />
+                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
+                <curtain blackout="1" />
+                <layer target="square3:mandelbaum" visible="1" />
+                <layer target="square3:eve" visible="1" />
+                <layer target="square3:exit_mask" state="closed" />
+                <sound effect="lib/sound_effects.swf:doorClose" waitForComplete="1" />
+                <game room="square3:join_mask" />
+                <method call="controls" enabled="1" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="boots" type="puppet" asset="lib/boots.swf:MrBoots" depth="18" visible="0" state="main">
+      <states>
+        <state id="main" x="654" y="834" img="1" imgX="85" imgY="-266" imgW="1.45" imgH="1.45" frame="5" blend="normal" alpha="1" bitmap="0" hit="1" hitX="29" hitY="-314" hitW="112" hitH="88" shape="rect">
+          <param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[cute cat]]></en>
+            <de><![CDATA[süße Katze]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30032">
+                  <en><![CDATA[Show me your ball play animation!]]></en>
+                  <de><![CDATA[Ich möchte die Ballspielanimation sehen!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+                <layerSprite target="boots" animFrame="jumpup" waitForComplete="1" />
+                <layer target="_current:boots" state="play" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+        <state id="happy" x="619" y="773" img="1" imgX="94" imgY="-259" imgW="1.45" imgH="1.45" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="35" hitY="-293" hitW="112" hitH="88" shape="rect">
+          <param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[cute cat]]></en>
+            <de><![CDATA[süße Katze]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30033">
+                  <en><![CDATA[He is tired and happy to be home again.]]></en>
+                  <de><![CDATA[Er ist müde und froh, wieder zuhause zu sein.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30034">
+                  <en><![CDATA[I should let him rest.]]></en>
+                  <de><![CDATA[Er sollte sich ausruhen.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="eve" type="puppet" asset="lib/eve.swf:Eve" depth="19" visible="1" state="main">
+      <states>
+        <state id="main" x="532" y="732" img="1" imgX="-27" imgY="-244" imgW="1.45" imgH="1.45" frame="6" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-76" hitY="-300" hitW="79" hitH="231" shape="rect">
+          <param mapX="557" mapY="678" turnTo="5" turn="0" cursor="" onclick="-1" prefix="sad_" subtitle="0xFFCCCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[eve]]></en>
+            <de><![CDATA[Eve]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30035">
+                  <en><![CDATA[She looks afraid ... poor Eve. First her dad gets hypnotized and now Mr. Boots is gone.]]></en>
+                  <de><![CDATA[Sie hat Angst ... arme Eve. Erst wird ihr Vater hypnotisiert und jetzt ist Mr. Boots verschwunden.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30036">
+                  <en><![CDATA[Eve, everything alright?]]></en>
+                  <de><![CDATA[Eve, ist alles in Ordnung?]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30037">
+                  <en><![CDATA[Please, help my dad!]]></en>
+                  <de><![CDATA[Bitte, helfen Sie meinem Papa!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="boots">
+              <title>
+                <en><![CDATA[Give #item# to #noun#]]></en>
+                <de><![CDATA[Gib #item# an #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30038">
+                  <en><![CDATA[I’d better give the cat back to Mandelbaum directly... who knows, maybe he’ll offer a reward.]]></en>
+                  <de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ... vielleicht bietet er mir ja eine Belohnung an.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+        <state id="happy" x="585" y="749" img="1" imgX="-80" imgY="-261" imgW="1.45" imgH="1.45" frame="2" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-114" hitY="-311" hitW="81" hitH="236" shape="rect">
+          <param mapX="550" mapY="813" turnTo="5" turn="0" cursor="" onclick="-1" prefix="normal_" subtitle="0xFFCCCC" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[eve]]></en>
+            <de><![CDATA[Eve]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30039">
+                  <en><![CDATA[Eve is happy again ... that smile alone was worth the effort.]]></en>
+                  <de><![CDATA[Eve ist wieder glücklich ... ihr Lächeln war schon Lohn genug.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30040">
+                  <en><![CDATA[Hey!]]></en>
+                  <de><![CDATA[Hey!]]></de>
+                </dia>
+                <dia puppet="eve" frame="hspeak" sound="voice/mask3_voice.swf:mask30041">
+                  <en><![CDATA[Thanks for helping us, Nathan!]]></en>
+                  <de><![CDATA[Danke für Ihre Hilfe, Nathan!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog />
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="boots">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30042">
+                  <en><![CDATA[I’d better give the cat back to Mandelbaum directly... who knows, maybe he’ll offer a reward.]]></en>
+                  <de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ... vielleicht bietet er mir ja eine Belohnung an.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="mandelbaum" type="puppet" asset="lib/mandelbaum.swf:mandelbaum" depth="20" visible="1" state="flashed">
+      <states>
+        <state id="flashed" x="365" y="741" img="1" imgX="39" imgY="-235" imgW="-1.39" imgH="1.39" frame="25" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-23" hitY="-467" hitW="105" hitH="401" shape="rect">
+          <param mapX="298" mapY="693" turnTo="5" turn="0" cursor="" onclick="-1" prefix="flashed_" subtitle="0xD699AD" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Mr. Mandelbaum]]></en>
+            <de><![CDATA[Herr Mandelbaum]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30043">
+                  <en><![CDATA[He looks scared, confused, and more than a little paranoid.]]></en>
+                  <de><![CDATA[Er sieht ängstlich, verwirrt und ziemlich paranoid aus!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30044">
+                  <en><![CDATA[Are you okay?]]></en>
+                  <de><![CDATA[Sind Sie okay?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30045">
+                  <en><![CDATA[Is that cat horrible cat gone!? Is it!?]]></en>
+                  <de><![CDATA[Ist diese schreckliche Katze weg!? Ist sie weg!?]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30046">
+                  <en><![CDATA[But Mr. Boots is OUR cat, dad! Why did you chase him away!]]></en>
+                  <de><![CDATA[Aber Papa, Mr. Boots ist UNSERE Katze! Warum hast du sie verjagt?]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Shake]]></en>
+                <de><![CDATA[Schüttle]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30047">
+                  <en><![CDATA[Mr. Mandelbaum, snap out of it!]]></en>
+                  <de><![CDATA[Herr Mandelbaum, kommen Sie zu sich!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="flash_good">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30048">
+                  <en><![CDATA[Eve, don’t bring that strange cat in here again ... who knows where it has been ...]]></en>
+                  <de><![CDATA[Eve, bring diese merkwürdige Katze nicht mehr her ... wer weiß, wo sie war ...]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30049">
+                  <en><![CDATA[But Mr. Boots is OUR cat, dad! Why did you chase him away!]]></en>
+                  <de><![CDATA[Aber Papa, Mr. Boots ist UNSERE Katze! Warum hast du ihn verjagt?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30050">
+                  <en><![CDATA[Don’t worry Eve, he will remember him again ...]]></en>
+                  <de><![CDATA[Keine Sorge, Eve, er wird sich bald erinnern ...]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30051">
+                  <en><![CDATA[Nigel said the same. He wanted to help, but he never came back ... and Mr. Boots ran away too. He was scared of Dad ...]]></en>
+                  <de><![CDATA[Nigel hat das auch gesagt. Er wollte helfen, aber er kam nie mehr zurück ... und Mr. Boots ist auch weggelaufen. Er hatte Angst vor Papa ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30052">
+                  <en><![CDATA[I know for sure, that Nigel would come if he could. You see, without him I wouldn’t have this ...]]></en>
+                  <de><![CDATA[Ich weiß genau, dass Nigel kommen würde, wenn er könnte. Ohne ihn hätte ich nicht das hier ...]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30053">
+                  <en><![CDATA[Nathan ... Eve ...? What happened? Why are you looking at me like that?]]></en>
+                  <de><![CDATA[Nathan ... Eve ...? Was ist passiert? Warum schaut ihr mich so an?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30054">
+                  <en><![CDATA[Hello Mr. Mandelbaum, are you feeling better?]]></en>
+                  <de><![CDATA[Hallo, Herr Mandelbaum, geht es Ihnen besser?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30055">
+                  <en><![CDATA[Why yes, what happened?]]></en>
+                  <de><![CDATA[Ja, was ist denn passiert?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30056">
+                  <en><![CDATA[You were hypnotized, I guess.]]></en>
+                  <de><![CDATA[Ich schätze, Sie wurden hypnotisiert.]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30057">
+                  <en><![CDATA[Dad, are you okay again?]]></en>
+                  <de><![CDATA[Papa, geht’s dir wieder gut?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30058">
+                  <en><![CDATA[Yes, dear. But where is Mr. Boots?]]></en>
+                  <de><![CDATA[Ja, Liebes. Aber wo ist Mr. Boots?]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30059">
+                  <en><![CDATA[Don’t you remember? You chased him out of the house ...]]></en>
+                  <de><![CDATA[Erinnerst du dich nicht? Du hast ihn aus dem Haus verjagt ...]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30060">
+                  <en><![CDATA[Oh no ... I didn’t mean to ... I ... Nathan you have to help me find Mr. Boots.]]></en>
+                  <de><![CDATA[Oh nein ... das wollte ich nicht ... Ich ... Nathan, Sie müssen mir helfen, Mr. Boots zu finden.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <cursor item="" />
+                <dialogue playBatch="5" />
+                <method call="controls" enabled="0" />
+                <layerSprite target="_avatar" animFrame="reach_flashout" waitForComplete="1" />
+                <layerSprite target="_avatar" animFrame="flash" waitForComplete="1" />
+                <room target="_current" soundtrack1="lib/music_mandelbaum.swf:MandelbaumMusic" />
+                <layerSprite target="mandelbaum" animFrame="unflash" waitForComplete="1" />
+                <layer target="_current:mandelbaum" state="unflashed" />
+                <layerState target="_current:mandelbaum:unflashed" restState="pause" />
+                <layer target="_current:knives" state="unflashed" />
+                <layer target="_current:bowl_milk" state="pickup" />
+                <layerSprite target="_avatar" animFrame="reach_flashin" waitForComplete="1" />
+                <method call="controls" enabled="1" />
+                <dialogue play="*" />
+                <layerState target="_current:mandelbaum:unflashed" restState="rest" />
+              </script>
+            </action>
+            <action id="flash_bad">
+              <title>
+                <en><![CDATA[]]></en>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30061">
+                  <en><![CDATA[He’s had enough brainwashing.]]></en>
+                  <de><![CDATA[Er hatte genug Gehirnwäsche.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </items>
+        </state>
+        <state id="unflashed" x="438" y="726" img="1" imgX="-34" imgY="-220" imgW="-1.39" imgH="1.39" frame="30" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-88" hitY="-457" hitW="95" hitH="414" shape="rect">
+          <param mapX="297" mapY="692" turnTo="5" turn="0" cursor="" onclick="-1" prefix="unflashed_" subtitle="0xD699AD" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[Mr. Mandelbaum]]></en>
+            <de><![CDATA[Herr Mandelbaum]]></de>
+          </title>
+          <actions>
+            <action id="act0">
+              <title>
+                <en><![CDATA[Look at]]></en>
+                <de><![CDATA[Untersuche]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30062">
+                  <en><![CDATA[He looks much better now.]]></en>
+                  <de><![CDATA[Er sieht schon viel besser aus.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act1">
+              <title>
+                <en><![CDATA[Talk to]]></en>
+                <de><![CDATA[Sprich mit]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30063">
+                  <en><![CDATA[Are you okay?]]></en>
+                  <de><![CDATA[Sind Sie okay?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30064">
+                  <en><![CDATA[Much better, thanks! But could you try to find our cat? It seems I chased it out of the shop when I was ... not feeling well.]]></en>
+                  <de><![CDATA[Viel besser, danke! Könnten Sie vielleicht unsere Katze finden? Ich hab sie wohl aus dem Geschäft verjagt als es ... mir nicht so gut ging.]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+            <action id="act2">
+              <title>
+                <en><![CDATA[Use]]></en>
+                <de><![CDATA[Benutze]]></de>
+              </title>
+              <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30065">
+                  <en><![CDATA[Back to normal again, please!]]></en>
+                  <de><![CDATA[Zurück zur Normalität, bitte!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <dialogue play="*" />
+              </script>
+            </action>
+          </actions>
+          <items>
+            <action id="boots">
+              <title>
+                <en><![CDATA[Give #item# to #noun#]]></en>
+                <de><![CDATA[Gib #item# an #noun#]]></de>
+              </title>
+              <dialog>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30066">
+                  <en><![CDATA[You found Mr. Boots!! Why thank you lad, you have no idea what a great weight this takes off my mind.]]></en>
+                  <de><![CDATA[Sie haben Mr. Boots gefunden!! Vielen Dank, mein Junge, Sie können sich nicht vorstellen, was mir das bedeutet.]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30067">
+                  <en><![CDATA[By all means, if there is ever anything I can do for you, you just let me know!]]></en>
+                  <de><![CDATA[Wenn ich mich irgendwie revanchieren kann, lassen Sie es mich wissen!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30068">
+                  <en><![CDATA[Well, to be honest, I’ve been admiring those fine carving knives of yours over there. They look like they could be really useful!]]></en>
+                  <de><![CDATA[Also, ehrlich gesagt gefallen mir Ihre schönen Schnitzmesser da drüben sehr gut. Die könnten mir bestimmt hilfreich sein!]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30069">
+                  <en><![CDATA[Those old things?! But of course! By all means lad, if you think they’d be useful, then they’ll do you more good than I.]]></en>
+                  <de><![CDATA[Diese alten Dinger?! Aber natürlich! Na klar, wenn Sie sie brauchen können. Ihnen sind sie bestimmt nützlicher als mir.]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30070">
+                  <en><![CDATA[Heaven knows that I have more than enough knives to facilitate my work. Please, take them as my thanks to you for your help!]]></en>
+                  <de><![CDATA[Ich hab nun wirklich genug Messer für meine Schnitzarbeiten. Bitte, nehmen Sie sie als Belohnung für Ihre Hilfe!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30071">
+                  <en><![CDATA[Oh, thank you! Are these as sharp as those they advertise on radio? Can these cut through a shoe?]]></en>
+                  <de><![CDATA[Oh, Dankeschön! Sind die so scharf, wie sie es im Radio anpreisen? Können die einen Schuh durchschneiden?]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30072">
+                  <en><![CDATA[Well, they are carving knives. I am sure you could cut through things like that but ...]]></en>
+                  <de><![CDATA[Nun ja, es sind Schnitzmesser. Ich denke schon, dass man das kann, aber ...]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30073">
+                  <en><![CDATA[Amazing, thank you! I always wanted knives that can cut through a shoe.]]></en>
+                  <de><![CDATA[Klasse, Dankeschön! Ich wollte schon immer ein Messer, das durch einen Schuh schneidet.]]></de>
+                </dia>
+                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30074">
+                  <en><![CDATA[Err ...yes. And now let’s join in the celebration outside! What do you say, Eve?]]></en>
+                  <de><![CDATA[Äh ... ja. Und jetzt auf zur Party draußen! Was sagst du dazu, Eve?]]></de>
+                </dia>
+                <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30075">
+                  <en><![CDATA[Yay!]]></en>
+                  <de><![CDATA[Juhu!]]></de>
+                </dia>
+              </dialog>
+              <script>
+                <method call="controls" enabled="0" />
+                <layer target="_current:boots" state="happy" />
+                <layer target="_current:eve" state="happy" />
+                <layer target="_current:boots" visible="1" />
+                <layerState target="_current:mandelbaum:unflashed" restState="pause" />
+                <dialogue play="*" />
+                <inventory remove="boots" />
+                <layerState target="_current:mandelbaum:unflashed" restState="rest" />
+                <layer target="_current:exit_square" state="closeshop" />
+                <puppet target="knives" callAction="3" />
+              </script>
+            </action>
+          </items>
+        </state>
+      </states>
+    </layer>
+    <layer id="_avatar" type="avatar" asset="lib/nigel.swf:Nigel" depth="21" visible="1" state="main">
+      <states>
+        <state id="main" x="209" y="667" img="1" imgX="3" imgY="12" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param scroller="1" float="1" mouse="0" tween="7" scale="_main" color="_lightnight" rate="" blur="" />
+          <vars />
+          <title>
+            <en><![CDATA[nigel]]></en>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+    <layer id="foreground" type="plane" asset="lib/mask.swf:MaskLeftFg" depth="22" visible="1" state="main">
+      <states>
+        <state id="main" x="0" y="0" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="2" blend="normal" alpha="1" bitmap="1" hit="0" hitX="0" hitY="0" hitW="100" hitH="100" shape="rect">
+          <param mouse="0" float="0" parallax="" />
+          <vars />
+          <title>
+            <en><![CDATA[]]></en>
+            <de><![CDATA[]]></de>
+          </title>
+          <actions />
+          <items />
+        </state>
+      </states>
+    </layer>
+  </layers>
+  <trees />
+</room>
