@@ -70,19 +70,22 @@ module.exports.sceneIds = {
   'harbor_intro': 'harbor',
   'boathouse_window': 'boathouse',
   'boathouse3_rift': 'boathouse',
-  'boathouse3_riftwindow': 'boathouse'
+  'boathouse3_riftwindow': 'boathouse',
+  'mtcatwalks': 'mtsummit'
 };
 
 module.exports.bundles = {
   'boathouse': ['boathouse_window', 'boathouse', 'boathouse3_rift', 'boathouse3_riftwindow'],
   'docks': ['docks_intro', 'docks'],
-  'harbor': ['harbor_intro', 'harbor']
+  'harbor': ['harbor_intro', 'harbor'],
+  'mtsummit': ['mtcatwalks', 'mtsummit']
 };
 
 module.exports.caches = {
   'docks': {},
   'harbor': {},
-  'boathouse': {}
+  'boathouse': {},
+  'mtsummit': {}
 };
 
 module.exports.omitIndices = {

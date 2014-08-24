@@ -157,9 +157,13 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0001">
-                  <en><![CDATA[I can’t do much with it from here.]]></en>
-                  <de><![CDATA[Von hier aus kann ich damit nicht viel machen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I can’t get there from up here.]]></en>
+                  <de><![CDATA[Von hier oben komme ich da nicht hin.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I’ll need to go through the lab and take the elevator back down.]]></en>
+                  <de><![CDATA[Ich muss durch das Labor gehen und mit dem Aufzug wieder nach unten fahren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -315,8 +319,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0002">
-                  <en><![CDATA[Mh ...]]></en>
-                  <de><![CDATA[Hm ...]]></de>
+                  <en><![CDATA[Wow, that would be a great place to build an igloo. Talk about a room with a view!]]></en>
+                  <de><![CDATA[Wow, das wäre ein großartiger Ort, um ein Iglu zu bauen. Was für ein Zimmer mit Aussicht!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -325,13 +329,17 @@
             </action>
             <action id="act1">
               <title>
-                <en><![CDATA[Spit at]]></en>
-                <de><![CDATA[Spucke auf]]></de>
+                <en><![CDATA[Call to]]></en>
+                <de><![CDATA[Rufe]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0003">
-                  <en><![CDATA[Ah, no... the wind is changing often enough that it would probably blow back in my face.]]></en>
-                  <de><![CDATA[Ah, nein ... der Wind dreht sich so oft, dass es wahrscheinlich in mein Gesicht wehen würde.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0013">
+                  <en><![CDATA[ECHO!!]]></en>
+                  <de><![CDATA[ECHO!!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0016">
+                  <en><![CDATA[Neat!]]></en>
+                  <de><![CDATA[Schön!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -345,8 +353,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
-                  <en><![CDATA[I can’t get there from up here. I’ll need to go through the lab and take the elevator back down.]]></en>
-                  <de><![CDATA[Von hier oben komme ich da nicht hin. Ich muss durch das Labor gehen und mit dem Aufzug wieder nach unten fahren.]]></de>
+                  <en><![CDATA[I can’t get there from up here.]]></en>
+                  <de><![CDATA[Von hier oben komme ich da nicht hin.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I’ll need to go through the lab and take the elevator back down.]]></en>
+                  <de><![CDATA[Ich muss durch das Labor gehen und mit dem Aufzug wieder nach unten fahren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -375,7 +387,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0005">
-                  <en><![CDATA[It’s the crevasse leading into the mountain train station.]]></en>
+                  <en><![CDATA[That’s the crevasse leading into the mountain train station.]]></en>
                   <de><![CDATA[Das ist der Durchgang, der zurück zur Bergbahn führt.]]></de>
                 </dia>
               </dialog>
@@ -389,13 +401,17 @@
                 <de><![CDATA[Rufe]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0006">
-                  <en><![CDATA[Hey guys!! Can you hear me now?!]]></en>
-                  <de><![CDATA[Hey Jungs! Könnt ihr mich jetzt hören?!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0019">
+                  <en><![CDATA[Hey guys!! Look at me!! I’m on top of the world!]]></en>
+                  <de><![CDATA[Hey Jungs! Schaut mich an! Ich bin auf dem Dach der Welt!]]></de>
                 </dia>
-                <dia puppet="mtstation" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0007">
-                  <en><![CDATA[Yes Nathan, now quit messing around and divert those power attractors into the station!]]></en>
-                  <de><![CDATA[Ja, Nathan, jetzt höre mit den Spielchen auf und lenke diese Strom&#8212;Attraktoren zum Bahnhof!]]></de>
+                <dia puppet="exit_mtstation" frame="" sound="voice/mtsummit_voice.swf:mtsummit0020">
+                  <en><![CDATA[Nathan, quit messing around and get those power feeds diverted into this station!]]></en>
+                  <de><![CDATA[Nathan, hör mit den Spielchen auf und lenke den Strom in diesen Bahnhof!]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0021">
+                  <en><![CDATA[... Gee, for once I almost wish I hadn’t been heard.]]></en>
+                  <de><![CDATA[... Mann, ich wünschte mir fast, ich wäre nicht gehört worden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -487,7 +503,7 @@
           <param mapX="810" mapY="642" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[attractor&#8212;2 relay switch]]></en>
+            <en><![CDATA[attractor-2 relay switch]]></en>
             <de><![CDATA[Kollektor-Relaisschalter]]></de>
           </title>
           <actions>
@@ -498,7 +514,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0012">
-                  <en><![CDATA[I’ll need to toggle that switch in order to power down the rift device.]]></en>
+                  <en><![CDATA[I’ll need to toggle that switch to divert power away from the Rift device.]]></en>
                   <de><![CDATA[Ich muss den Schalter umlegen, um den Zeitriss zu destabilisieren.]]></de>
                 </dia>
               </dialog>
@@ -527,7 +543,7 @@
                   <de><![CDATA[Der Strom des zweiten Kollektors wrd jetzt zur Bahnstation umgeleitet.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0014">
-                  <en><![CDATA[Now all I need to do is drain all power from the station so that there’s nothing left for the rift.]]></en>
+                  <en><![CDATA[Now I just need to drain all the power in the station so that there’s nothing left for the rift.]]></en>
                   <de><![CDATA[Alles was ich jetzt noch tun muss, ist von der Bahnstation aus, den ganzen Strom zu verbrauchen, damit nichts mehr für den Riss übrig ist.]]></de>
                 </dia>
               </dialog>
@@ -549,7 +565,7 @@
           <param mapX="797" mapY="640" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[attractor&#8212;2 relay switch]]></en>
+            <en><![CDATA[attractor-2 relay switch]]></en>
             <de><![CDATA[Kollektor-Relaisschalter]]></de>
           </title>
           <actions>
@@ -580,7 +596,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0015">
-                  <en><![CDATA[Naw, I don’t want to divert power back to the rift.]]></en>
+                  <en><![CDATA[No, I don’t want to divert power back to the rift.]]></en>
                   <de><![CDATA[Nein, ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
                 </dia>
               </dialog>
@@ -635,8 +651,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0017">
-                  <en><![CDATA[I can’t reach it from here.]]></en>
-                  <de><![CDATA[Von hier erreiche ich ihn nicht.]]></de>
+                  <en><![CDATA[I’m too far away to do anything with that switch.]]></en>
+                  <de><![CDATA[Ich bin zu weit weg, um etwas mit diesem Schalter zu machen.]]></de>
                 </dia>
               </dialog>
               <script>

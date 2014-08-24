@@ -218,8 +218,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0000">
-                  <en><![CDATA[I’ll need to toggle that switch in order to power down the rift device.]]></en>
-                  <de><![CDATA[Ich muss den Schalter umlegen, um das Riss&#8212;Gerät abzuschalten.]]></de>
+                  <en><![CDATA[I’ll need to toggle that switch to divert power away from the Rift device.]]></en>
+                  <de><![CDATA[Ich muss den Schalter umlegen, um den Zeitriss zu destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -295,8 +295,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0002">
-                  <en><![CDATA[I don’t want to divert power back to the rift.]]></en>
-                  <de><![CDATA[Ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
+                  <en><![CDATA[No, I don’t want to divert power back to the rift.]]></en>
+                  <de><![CDATA[Nein, ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -325,8 +325,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0003">
-                  <en><![CDATA[I’ll need to toggle that switch in order to power down the rift device.]]></en>
-                  <de><![CDATA[Ich muss den Schalter umlegen, um den Riss zu schwächen.]]></de>
+                  <en><![CDATA[I’ll need to toggle that switch to divert power away from the Rift device.]]></en>
+                  <de><![CDATA[Ich muss den Schalter umlegen, um den Zeitriss zu destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -403,8 +403,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0005">
-                  <en><![CDATA[I don’t want to divert power back to the rift.]]></en>
-                  <de><![CDATA[Ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
+                  <en><![CDATA[No, I don’t want to divert power back to the rift.]]></en>
+                  <de><![CDATA[Nein, ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -433,8 +433,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0006">
-                  <en><![CDATA[It’s a switch that will divert power away from the Time Rift Apparatus and into the train station.]]></en>
-                  <de><![CDATA[Es ist ein Schalter, der den Strom vom Zeitriss-Apparatus weg- und in die Bahnstation umleitet.]]></de>
+                  <en><![CDATA[I’ll need to toggle that switch to divert power away from the Rift device.]]></en>
+                  <de><![CDATA[Ich muss den Schalter umlegen, um den Zeitriss zu destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -529,8 +529,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0008">
-                  <en><![CDATA[It’s a switch that will divert power away from the Time Rift Apparatus and into the train station.]]></en>
-                  <de><![CDATA[Es ist ein Schalter, der den Strom vom Zeitriss-Apparatus weg- und in die Bahnstation umleitet.]]></de>
+                  <en><![CDATA[I’ll need to toggle that switch to divert power away from the Rift device.]]></en>
+                  <de><![CDATA[Ich muss den Schalter umlegen, um den Zeitriss zu destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -584,7 +584,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0010">
-                  <en><![CDATA[Wow, those Smith Institute scientists sure knew how to make a secret lab with style!]]></en>
+                  <en><![CDATA[Wow, those Smith Institute scientists sure knew how to make a secret laboratory with style!]]></en>
                   <de><![CDATA[Wow, diese Wissenschaftler vom Smith-Institut wussten wirklich, wie man ein geheimes Labor mit Stil errichtet!]]></de>
                 </dia>
               </dialog>
@@ -608,9 +608,13 @@
                 <de><![CDATA[Betrete]]></de>
               </title>
               <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I can’t get there from up here.]]></en>
+                  <de><![CDATA[Von hier oben komme ich da nicht hin.]]></de>
+                </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0011">
-                  <en><![CDATA[I can’t get there from here. I need to go up the elevator within the mountain.]]></en>
-                  <de><![CDATA[Von hier komme ich da nicht hin. Ich muss mit dem Aufzug im Berg hochfahren.]]></de>
+                  <en><![CDATA[I need to go up the elevator within the mountain.]]></en>
+                  <de><![CDATA[Ich muss mit dem Aufzug im Berg hochfahren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -840,9 +844,13 @@
                 <de><![CDATA[Gehe zu]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0017">
-                  <en><![CDATA[I can’t get there from up here. I’ll need to take the lift back down to ground level first.]]></en>
-                  <de><![CDATA[Von hier oben komme ich da nicht hin. Ich muss erst den Aufzug zurück zum Erdgeschoss nehmen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I can’t get there from up here.]]></en>
+                  <de><![CDATA[Von hier oben komme ich da nicht hin.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0022">
+                  <en><![CDATA[I’ll need to take the lift back down to ground level first.]]></en>
+                  <de><![CDATA[Ich muss erst den Aufzug zurück zum Erdgeschoss nehmen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -911,9 +919,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0018">
-                  <en><![CDATA[That’s the crevasse leading back into the train station.]]></en>
-                  <de><![CDATA[Das ist die Spalte, die zurück zum Bahnhof führt.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0005">
+                  <en><![CDATA[That’s the crevasse leading into the mountain train station.]]></en>
+                  <de><![CDATA[Das ist der Durchgang, der zurück zur Bergbahn führt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -949,9 +957,13 @@
                 <de><![CDATA[Betritt]]></de>
               </title>
               <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I can’t get there from up here.]]></en>
+                  <de><![CDATA[Von hier oben komme ich da nicht hin.]]></de>
+                </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0022">
-                  <en><![CDATA[I can’t get in from up here. I’ll need to take the lift back down to ground level first.]]></en>
-                  <de><![CDATA[Von hier oben komme ich da nicht rein. Ich muss erst den Aufzug zurück zum Erdgeschoss nehmen.]]></de>
+                  <en><![CDATA[I’ll need to take the lift back down to ground level first.]]></en>
+                  <de><![CDATA[Ich muss erst den Aufzug zurück zum Erdgeschoss nehmen.]]></de>
                 </dia>
               </dialog>
               <script>
