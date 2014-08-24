@@ -1156,7 +1156,7 @@
                   <de><![CDATA[Nur eine Minute. Wenn ich die Spannung ändere ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak6" sound="voice/catwalk3_voice.swf:catwalk30018">
-                  <en><![CDATA[No no, the fluctuation. If you don’t change the fluctuation first then you can’t ...]]></en>
+                  <en><![CDATA[No, the fluctuation. If you don’t change the fluctuation first then you can’t ...]]></en>
                   <de><![CDATA[Nein, die Frequenz. Wenn du nicht erst die Frequenz änderst, kannst du nicht ...]]></de>
                 </dia>
                 <dia puppet="slappy" frame="speak4" sound="voice/catwalk3_voice.swf:catwalk30019">
