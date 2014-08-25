@@ -282,8 +282,8 @@
                   <de><![CDATA[Wow, das ist ein sehr klassisches Modell ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0002">
-                  <en><![CDATA[Lowell Cain’s men installed it two months ago ...]]></en>
-                  <de><![CDATA[Lowell Cains Männer haben es vor zwei Monaten eingebaut ...]]></de>
+                  <en><![CDATA[Lowell Cain’s men installed it two months ago.]]></en>
+                  <de><![CDATA[Lowell Cains Männer haben es vor zwei Monaten eingebaut.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -311,7 +311,7 @@
                   <de><![CDATA[Dürfte ich vielleicht mal telefonieren?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0004">
-                  <en><![CDATA[There is only one line going up to the Castle, and only Lowell Cain and his men are allowed to use it ...]]></en>
+                  <en><![CDATA[There’s only one line, and that goes up to the Castle. Only Lowell Cain and his men are allowed to use it ...]]></en>
                   <de><![CDATA[Es führt nur eine Telefonleitung hoch zum Schloss und die dürfen nur Lowell Cain und seine Männer benutzen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0005">
@@ -319,7 +319,7 @@
                   <de><![CDATA[Haben Sie schon einmal versucht, im Schloss anzurufen?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0006">
-                  <en><![CDATA[No, we already have enough trouble with Lowell Cain as it is. I’d appreciate it if you would stay away from that telephone, too.]]></en>
+                  <en><![CDATA[No, we already have enough trouble with Lowell Cain as it is. I’d appreciate it if you’d also stay away from the telephone.]]></en>
                   <de><![CDATA[Nein, wir haben jetzt schon genug Ärger mit Lowell Cain. Ich wäre Ihnen sehr dankbar, wenn auch Sie vom Telefon weg bleiben würden.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0007">
@@ -433,7 +433,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0010">
-                  <en><![CDATA[Judging by the glow and the heat&#8212;waves that it’s radiating, the plate should be pretty hot.]]></en>
+                  <en><![CDATA[Judging by the glow and the heat waves that it’s radiating, the plate should be pretty hot.]]></en>
                   <de><![CDATA[Dem Glühen und der Hitze nach scheint die Platte ziemlich heiß zu sein. ]]></de>
                 </dia>
               </dialog>
@@ -687,8 +687,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0021">
-                  <en><![CDATA[This cabinet only contains a pair of tweezers, a bottle of bear repellent and a small note that reads: &#8222;Don’t forget to restock first aid cabinet! Webb&#8220;]]></en>
-                  <de><![CDATA[Dieser Verbandskasten enthält nur eine Pinzette, Bärenabwehrspray und eine kurze Notiz, auf der steht: &#8222;Nicht vergessen, Verbandskasten wieder auffüllen! Webb&#8220;]]></de>
+                  <en><![CDATA[This cabinet only contains a pair of tweezers, a bottle of bear repellent and a small note that reads: “Don’t forget to restock first aid cabinet! &#8212;Webb”]]></en>
+                  <de><![CDATA[Dieser Verbandskasten enthält nur eine Pinzette, Bärenabwehrspray und eine kurze Notiz, auf der steht: “Nicht vergessen, Verbandskasten wieder auffüllen! &#8212;Webb”]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0022">
                   <en><![CDATA[Oh, yeah ... I forgot about that note. Well at least we have bear repellent in case that crazy Russian sailor and Bruno come back.]]></en>
@@ -721,12 +721,12 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0023">
-                  <en><![CDATA[This cabinet only contains a pair of tweezers, a bottle of bear repellent and a small note that reads: &#8222;Don’t forget to restock first aid cabinet! Webb&#8220;]]></en>
-                  <de><![CDATA[Dieser Verbandskasten enthält nur eine Pinzette, Bärenabwehrspray und eine kurze Notiz, auf der steht: &#8222;Nicht vergessen, Verbandskasten wieder auffüllen! Webb&#8220;]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0021">
+                  <en><![CDATA[This cabinet only contains a pair of tweezers, a bottle of bear repellent and a small note that reads: “Don’t forget to restock first aid cabinet! &#8212;Webb”]]></en>
+                  <de><![CDATA[Dieser Verbandskasten enthält nur eine Pinzette, Bärenabwehrspray und eine kurze Notiz, auf der steht: “Nicht vergessen, Verbandskasten wieder auffüllen! &#8212;Webb”]]></de>
                 </dia>
-                <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0024">
-                  <en><![CDATA[Oh, yeah ... I forgot about that note. Well at least we have bear repellent in case that crazy russian sailor and Bruno come back.]]></en>
+                <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0022">
+                  <en><![CDATA[Oh, yeah ... I forgot about that note. Well at least we have bear repellent in case that crazy Russian sailor and Bruno come back.]]></en>
                   <de><![CDATA[Oh, ja ... Diese Notiz hatte ich ganz vergessen. Naja, wenigstens haben wir Bärenabwehrspray für den Fall, dass dieser verrückte russische Matrose und Bruno zurückkommen.]]></de>
                 </dia>
               </dialog>
@@ -751,15 +751,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0025">
-                  <en><![CDATA[I’ll borrow this pair of tweezers. I don’t think I will need the bear repellent.]]></en>
+                  <en><![CDATA[I’ll borrow this pair of tweezers. I don’t think I’ll need the bear repellent.]]></en>
                   <de><![CDATA[Ich borge mir mal diese Pinzette. Ich denke, das Bärenabwehrspray werde ich nicht brauchen. ]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0026">
-                  <en><![CDATA[Hey, did you just take the pair of tweezers from my first aid cabinet?]]></en>
+                  <en><![CDATA[Hey, did you just take the tweezers from my first aid cabinet?]]></en>
                   <de><![CDATA[Hey, haben Sie gerade die Pinzette aus meinem Verbandskasten genommen?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0027">
-                  <en><![CDATA[Yes, I think I got a splinter here in your inn and now I am afraid that I will get very sick if I don’t remove it.]]></en>
+                  <en><![CDATA[Yes, I think I got a splinter here in your inn, and now I am afraid that I will get very sick if I don’t remove it.]]></en>
                   <de><![CDATA[Ja, ich habe mir im Inn einen Splitter gezogen und ich befürchte, dass ich ziemlich krank werde, wenn ich ihn nicht gleich entferne.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0028">
@@ -767,7 +767,7 @@
                   <de><![CDATA[Webb, Sie sollten ihn lieber die Pinzette benutzen lassen. Wenn er Sie verklagt, haben Sie keine Chance!]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0029">
-                  <en><![CDATA[Oh boy ... well, go ahead and take them.]]></en>
+                  <en><![CDATA[Oh boy ... well, go ahead then.]]></en>
                   <de><![CDATA[Oh Mann ... na gut, nehmen Sie sich die Pinzette.]]></de>
                 </dia>
               </dialog>
@@ -802,8 +802,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0030">
-                  <en><![CDATA[This cabinet only contains a bottle of bear repellent and a small note that reads: &#8222;Don’t forget to restock first aid cabinet! Webb&#8220;]]></en>
-                  <de><![CDATA[Dieser Verbandskasten enthält nur eine Flasche mit Bärenabwehrspray und eine kurze Notiz, auf der steht: &#8222;Nicht vergessen, Verbandskasten wieder auffüllen! Webb&#8220;]]></de>
+                  <en><![CDATA[This cabinet only contains a bottle of bear repellent and a small note that reads: “Don’t forget to restock first aid cabinet! &#8212;Webb”]]></en>
+                  <de><![CDATA[Dieser Verbandskasten enthält nur eine Flasche mit Bärenabwehrspray und eine kurze Notiz, auf der steht: “Nicht vergessen, Verbandskasten wieder auffüllen! &#8212;Webb”]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0031">
                   <en><![CDATA[Oh, yeah ... I forgot about that note. Well at least we have bear repellent in case that crazy Russian sailor and Bruno come back.]]></en>
@@ -831,7 +831,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0032">
-                  <en><![CDATA[I don’t think I will need the bear repellent.]]></en>
+                  <en><![CDATA[I don’t think I’ll need the bear repellent.]]></en>
                   <de><![CDATA[Ich denke, das Bärenabwehrspray werde ich nicht brauchen. ]]></de>
                 </dia>
               </dialog>
@@ -1076,7 +1076,7 @@
                   <de><![CDATA[Herr Barkeeper?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0044">
-                  <en><![CDATA[What is it?]]></en>
+                  <en><![CDATA[What can I do for you?]]></en>
                   <de><![CDATA[Was denn?]]></de>
                 </dia>
               </dialog>
@@ -1289,8 +1289,8 @@
                   <de><![CDATA[Beeilen Sie sich jetzt und finden Sie den geheimen Zugang zum Schloss. Finden Sie den Baron ... holen Sie sich seine Unterschrift und bitten Sie ihn, Lowell Cain zu stoppen!]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0072">
-                  <en><![CDATA[This has got to end! Maybe you really are the one who can pull this off.]]></en>
-                  <de><![CDATA[Das alles hier muss endlich ein Ende haben! Vielleicht sind Sie wirklich der einzige, der dem ein Ende machen kann.]]></de>
+                  <en><![CDATA[This has got to end! Maybe you really are the one who can pull this off ...]]></en>
+                  <de><![CDATA[Das alles hier muss endlich ein Ende haben! Vielleicht sind Sie wirklich der einzige, der dem ein Ende machen kann ...]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0073">
                   <en><![CDATA[Don’t forget: the key I gave you will unlock the gate to Timothy Caro’s work place in the woods. The poem might help you to find the secret entrance to the Castle.]]></en>
@@ -1648,11 +1648,11 @@
                   <de><![CDATA[Wer ist der Mann auf diesem Foto?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0094">
-                  <en><![CDATA[Old Samuel Dyke. He has spent many a night here in the Inn, playing the harmonica.]]></en>
+                  <en><![CDATA[Old Samuel Dyke. He has spent many an evening here in my inn, playing the harmonica.]]></en>
                   <de><![CDATA[Der alte Samuel Dyke. Er hat hier im Inn viele Nächte verbracht und Mundharmonika gespielt.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0095">
-                  <en><![CDATA[And why hasn’t he been here in weeks? The Castle, Webb, it’s the Castle ... and that tyrant Cain.]]></en>
+                  <en><![CDATA[And why hasn’t he been here for weeks? It’s the Castle, Webb, the Castle ... and that tyrant Cain.]]></en>
                   <de><![CDATA[Und warum war er die letzten Wochen nicht hier? Das Schloss, Webb, es ist das Schloss ... und dieser Tyrann Cain.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0096">
@@ -1776,12 +1776,12 @@
                   <de><![CDATA[Oh, ja! Das war vor ungefähr 6 Jahren. Der alte Dr. Sigmundson war kein Fischer, aber er hat seinen Sohn auf einen Angeltrip begleitet ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0103">
-                  <en><![CDATA[He ended up catching one of the biggest fish that has ever been pulled out of Ravenhollow Bay.]]></en>
-                  <de><![CDATA[Letzten Endes zog er einen der größten Fische aus dem Wasser, die jemals in der Bucht von Ravenhollow gefangen wurden.]]></de>
+                  <en><![CDATA[He ended up catching one of the biggest red snappers that has ever been pulled out of Ravenhollow Bay!]]></en>
+                  <de><![CDATA[Letzten Endes zog er einen der größten Fische aus dem Wasser, die jemals in der Bucht von Ravenhollow gefangen wurden!]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0104">
-                  <en><![CDATA[That night we celebrated his catch right here where you stand now with my special spicy fish stew.]]></en>
-                  <de><![CDATA[An diesem Abend haben wir seinen Fang genau hier, wo Sie jetzt gerade stehen, mit meinem Spezial-Fischeintopf gefeiert.]]></de>
+                  <en><![CDATA[That night we celebrated his catch right here in the inn with my extra-spicy fish stew.]]></en>
+                  <de><![CDATA[An diesem Abend haben wir seinen Fang genau hier mit meinem Spezial-Fischeintopf gefeiert.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1834,19 +1834,19 @@
                   <de><![CDATA[Die Seemänner sehen ziemlich glücklich aus ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0106">
-                  <en><![CDATA[They are Russian sailors who would come here every other year when their ship restocked down at the harbor. Pretty nice guys ... a bit crazy though.]]></en>
+                  <en><![CDATA[They’re Russian sailors who stop in every other year when their ship restocks in our harbor. Pretty nice guys ... a bit crazy though.]]></en>
                   <de><![CDATA[Das sind russische Seemänner, die alle zwei Jahre herkamen, wenn ihr Schiff im Hafen wieder neu beladen wurde. Das waren nette Jungs ... aber ein wenig verrückt.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0107">
-                  <en><![CDATA[Especially that one guy. He actually brought a bear in here ... in the end the bear started vandalizing, because the sailor didn’t want to pay for the bear’s drinks.]]></en>
+                  <en><![CDATA[Especially that one guy who brought a bear in here ... in the end, the bear started vandalizing because the sailor didn’t want to pay for the bear’s drinks.]]></en>
                   <de><![CDATA[Besonders der eine. Er hat sogar mal einen Bären mitgebracht ... am Ende fing der Bär an zu randalieren, weil der Matrose nicht für die Drinks des Bären bezahlen wollte.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0108">
-                  <en><![CDATA[He said that if Bruno could ride a unicycle he could also pay for his drinks himself. Turned out he was right ...]]></en>
+                  <en><![CDATA[He said that if Bruno could ride a unicycle, then he could also pay for his own drinks. Turned out he was right ...]]></en>
                   <de><![CDATA[Er sagte, wenn Bruno auf einem Einrad fahren kann, dann sollte er auch selber für seine Drinks bezahlen können.  Wie sich herausstellte, war das richtig ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0109">
-                  <en><![CDATA[After the bear finally fell asleep we found a fifty dollar note in the pocket of the bear’s vest.]]></en>
+                  <en><![CDATA[After the bear finally fell asleep, we found a fifty dollar note in the pocket of the bear’s vest.]]></en>
                   <de><![CDATA[Nachdem der Bär endlich eingeschlafen war, haben wir einen Fünfzig-Dollarschein in der Westentasche des Bären gefunden.]]></de>
                 </dia>
               </dialog>
@@ -1904,7 +1904,7 @@
                   <de><![CDATA[Das sind John und James Gascard ... Zwillinge.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0112">
-                  <en><![CDATA[They grew up in Ravenhollow but left for the city to become lawyers ...]]></en>
+                  <en><![CDATA[They grew up here in Ravenhollow, but left for the city to become lawyers ...]]></en>
                   <de><![CDATA[Die beiden sind hier in Ravenhollow aufgewachsen, aber in die Stadt gezogen, um Anwälte zu werden ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0113">
@@ -1912,7 +1912,7 @@
                   <de><![CDATA[Und deshalb tragen sie wohl diese Perücken?]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0114">
-                  <en><![CDATA[Fancy wig&#8212;wearing city lawyers ... what do they know?]]></en>
+                  <en><![CDATA[Fancy wig-wearing city lawyers ... what do they know?]]></en>
                   <de><![CDATA[Eitle, perückentragende Stadtanwälte ... was wissen die schon?]]></de>
                 </dia>
               </dialog>
@@ -1966,7 +1966,7 @@
                   <de><![CDATA[Ein Mann und eine Katze ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0116">
-                  <en><![CDATA[That picture was already in the frame when I bought it ...]]></en>
+                  <en><![CDATA[That picture was in the frame when I bought it ...]]></en>
                   <de><![CDATA[Das Bild war bereits in dem Rahmen, als ich ihn gekauft habe ...]]></de>
                 </dia>
               </dialog>
@@ -2020,7 +2020,7 @@
                   <de><![CDATA[Der Typ kommt mir irgendwie bekannt vor.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0118">
-                  <en><![CDATA[That’s Gustave Goodsoup ... we met at a bar&#8212;tending conference decades ago. Last thing I heard from him is that he was taking over the family restaurant and hotel.]]></en>
+                  <en><![CDATA[That’s Gustave Goodsoup ... we met at a bar-tending conference decades ago. Last I heard, he was taking over his family’s restaurant and hotel.]]></en>
                   <de><![CDATA[Das ist Gustav Meistersuppe ... wir haben uns vor vielen Jahren auf einer Barkeeper-Konferenz kennengelernt. Das Letzte, was ich von ihm gehört habe, war, dass er ein Familienrestaurant und –hotel übernommen hatte.]]></de>
                 </dia>
               </dialog>
@@ -2124,15 +2124,15 @@
                   <de><![CDATA[Wie schrecklich! Der Hai ist kurz davor, den Mann vor ihm auf dem Pier zu verschlingen.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0121">
-                  <en><![CDATA[Oh, that is a common mistake that visitors tend to make ...]]></en>
-                  <de><![CDATA[Oh, das ist ein typischer Fehler, den Touristen machen ...]]></de>
+                  <en><![CDATA[Oh, that’s a common misunderstanding ...]]></en>
+                  <de><![CDATA[Oh, das ist ein typischer Fehler ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0122">
-                  <en><![CDATA[You see, in fact this painting depicts Skippy, the tame and friendly shark of Ravenhollow Bay, and his best friend Three Fishing Rods Verne.]]></en>
-                  <de><![CDATA[Wissen Sie, eigentlich zeigt dieses Gemälde Skippy, den zahmen und freundlichen Hai von Ravenhollow Bay und seinen besten Freund &#8222;Drei-Angelruten-Verne&#8220;.]]></de>
+                  <en><![CDATA[You see, this painting depicts Skippy&#8212;the friendly shark of Ravenhollow Bay&#8212;and his best friend “Three Fishing Rods” Verne.]]></en>
+                  <de><![CDATA[Wissen Sie, eigentlich zeigt dieses Gemälde Skippy, den zahmen und freundlichen Hai von Ravenhollow Bay und seinen besten Freund “Drei-Angelruten-Verne”.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0123">
-                  <en><![CDATA[In the painting Verne is protecting the misunderstood Skippy from the citizens of Ravenhollow who were about to hunt and kill the shark.]]></en>
+                  <en><![CDATA[In the painting, Verne is protecting the tragically misunderstood Skippy from the citizens of Ravenhollow, who were about to hunt and kill the shark.]]></en>
                   <de><![CDATA[In dem Bild beschützt Verne den missverstandenen Skippy vor den Bürgern von Ravenhollow, die den Hai jagten und töten wollten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0124">
@@ -2140,8 +2140,8 @@
                   <de><![CDATA[Skippy, der Hai!? ... hat er überlebt?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0125">
-                  <en><![CDATA[Oh, yes! Skippy became everyone’s friend and died much later of old age here in the Ravenhollow Bay ... you can still see his jawbone above the small passage next to boathouse eight.]]></en>
-                  <de><![CDATA[Oh, ja! Skippy wurde jedermanns Freund hier und starb viele Jahre später in der Bucht von Ravenhollow eines natürlichen Todes ... man kann immer noch seinen Kiefer über dem kleinen Durchgang neben Bootshaus Acht bewundern.]]></de>
+                  <en><![CDATA[Oh, yes! Skippy became everyone’s friend and died much later of old age ... you can still see his jawbone above the archway leading to the docks.]]></en>
+                  <de><![CDATA[Oh, ja! Skippy wurde jedermanns Freund hier und starb viele Jahre später eines natürlichen Todes ... man kann immer noch seinen Kiefer über dem Torbogen auf der Anklagebank.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2194,7 +2194,7 @@
                   <de><![CDATA[Hey, Sie haben Käsetoast auf Ihrer Speisekarte!]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0127">
-                  <en><![CDATA[Well, most customers coming here are bachelors used to a diet mainly based on cheese toast ...]]></en>
+                  <en><![CDATA[Well, most of my customers are bachelors with a diet mainly based on cheese toast ...]]></en>
                   <de><![CDATA[Nun, die meisten meiner Gäste sind Junggesellen und ernähren sich hauptsächlich von Käsetoast ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0128">
@@ -2202,8 +2202,8 @@
                   <de><![CDATA[Das müssen Sie mir genauer erklären. Sie bieten also Käsetoast an, damit sich Ihre Gäste wie zu Hause fühlen?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0129">
-                  <en><![CDATA[... yes, and besides that it is incredibly easy to make.]]></en>
-                  <de><![CDATA[... ja, und außerdem ist das ziemlich einfach zuzubereiten.]]></de>
+                  <en><![CDATA[Yes ... and because it’s incredibly easy to make.]]></en>
+                  <de><![CDATA[Ja ... und außerdem ist das ziemlich einfach zuzubereiten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2252,19 +2252,19 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0130">
-                  <en><![CDATA[&#8222;Wayne’s Warm Embrace&#8220;. I don’t think I have heard about that ...]]></en>
-                  <de><![CDATA[&#8222;Waynes Warme Umarmung&#8220;. Ich glaube, davon habe ich noch nicht gehört ...]]></de>
+                  <en><![CDATA[“Wayne’s Warm Embrace”. I don’t think I have heard about that ...]]></en>
+                  <de><![CDATA[“Waynes Warme Umarmung”. Ich glaube, davon habe ich noch nicht gehört ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0131">
-                  <en><![CDATA[Yes, &#8222;Wayne’s&#8220;; is a local brand and has become quite a bestseller since it was first bottled a couple of years ago ...]]></en>
-                  <de><![CDATA[Ja, &#8222;Waynes&#8220; ist eine örtliche Marke und sofort ein echter Bestseller geworden, nachdem es zum ersten mal abgefüllt wurde ...]]></de>
+                  <en><![CDATA[Yes, “Wayne’s” is a local brand, and has become a bestseller since it was first bottled a couple of years ago ...]]></en>
+                  <de><![CDATA[Ja, “Waynes” ist eine örtliche Marke und sofort ein echter Bestseller geworden, nachdem es zum ersten mal abgefüllt wurde ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0132">
                   <en><![CDATA[Because it’s so cold here at the coast?]]></en>
                   <de><![CDATA[Weil es hier an der Küste so kalt ist?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0133">
-                  <en><![CDATA[Mostly because once Wayne’s embracing you he won’t let go again ...]]></en>
+                  <en><![CDATA[Mainly because Wayne’s embrace won’t ever let go of you ...]]></en>
                   <de><![CDATA[Hauptsächlich, weil einen Waynes Umarmung so schnell nicht mehr loslässt ...]]></de>
                 </dia>
               </dialog>
@@ -2318,8 +2318,8 @@
                   <de><![CDATA[Noch mehr Alkohol ... das hier sieht nach Vodka aus.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0135">
-                  <en><![CDATA[Actually it’s medical alcohol ... but it has the same pleasant aftertaste.]]></en>
-                  <de><![CDATA[Das ist eigentlich medizinischer Alkohol ... aber er hat den gleichen, leckeren Nachgeschmack.]]></de>
+                  <en><![CDATA[Actually it’s medicinal alcohol ... but it has the same pleasant aftertaste as Vodka.]]></en>
+                  <de><![CDATA[Das ist eigentlich medizinischer Alkohol ... aber es hat die gleichen angenehmen Nachgeschmack wie Vodka hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0136">
                   <en><![CDATA[Yikes ...]]></en>
@@ -2372,8 +2372,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0137">
-                  <en><![CDATA[&#8222;Dead End Rye&#8220; ... that sounds dangerous.]]></en>
-                  <de><![CDATA[&#8222;Endstation Korn&#8220; ... das klingt gefährlich.]]></de>
+                  <en><![CDATA[“Dead End Rye” ... that sounds dangerous.]]></en>
+                  <de><![CDATA[“Endstation Korn” ... das klingt gefährlich.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0138">
                   <en><![CDATA[It is ... like all forms of alcohol.]]></en>
@@ -2442,8 +2442,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0143">
-                  <en><![CDATA[&#8222;McWilliamson’s Royal Loch Lurker&#8220;]]></en>
-                  <de><![CDATA[&#8222;McWilliamsons Königlicher Seeschleicher&#8220;]]></de>
+                  <en><![CDATA[“McWilliamson’s Royal Loch Lurker”]]></en>
+                  <de><![CDATA[“McWilliamsons Königlicher Seeschleicher”]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0144">
                   <en><![CDATA[Oh, that’s our finest Irish whiskey ... a most remarkable flavor.]]></en>
@@ -2454,7 +2454,7 @@
                   <de><![CDATA[Wirklich?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0146">
-                  <en><![CDATA[Connoisseurs describe the taste as similar to the experience of rubbing your tongue on an old splintery oak barrel and then dipping it in fresh peat.]]></en>
+                  <en><![CDATA[Connoisseurs describe the taste as rubbing your tongue on a splintery old oak barrel, and then dipping it in fresh peat.]]></en>
                   <de><![CDATA[Kenner beschreiben den Geschmack ähnlich wie das Erlebnis, mit seiner Zunge ein altes, splittriges Eichenfass abzulecken und sie dann in frischen Torf zu tunken.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0147">
@@ -2512,19 +2512,19 @@
                   <de><![CDATA[Hustensaft?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0149">
-                  <en><![CDATA[The health of my customers is important to me.]]></en>
-                  <de><![CDATA[Die Gesundheit meiner Gäste liegt mir sehr am Herzen.]]></de>
+                  <en><![CDATA[Sure, the health of my customers is important to me.]]></en>
+                  <de><![CDATA[Sure, die Gesundheit meiner Gäste liegt mir sehr am Herzen.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0150">
-                  <en><![CDATA[Then, Webb, why won’t you let me have another glass of whiskey?]]></en>
+                  <en><![CDATA[Then Webb, why won’t you let me have another glass of whiskey?]]></en>
                   <de><![CDATA[Also Webb, warum geben Sie mir dann nicht noch ein Glas Whiskey?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0151">
-                  <en><![CDATA[That IS the reason why ...]]></en>
-                  <de><![CDATA[Genau DAS ist der Grund ...]]></de>
+                  <en><![CDATA[That IS the reason, Lionstone ...]]></en>
+                  <de><![CDATA[Das ist der Grund, Lionstone ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0152">
-                  <en><![CDATA[That is your last glass for today. Enjoy it while it lasts.]]></en>
+                  <en><![CDATA[That’s your last glass for today. Enjoy it while it lasts.]]></en>
                   <de><![CDATA[Das ist für heute Ihr letztes Glas. Genießen Sie es.]]></de>
                 </dia>
               </dialog>
@@ -2574,15 +2574,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0153">
-                  <en><![CDATA[What is &#8222;Webb’s Choice&#8220;?]]></en>
-                  <de><![CDATA[Was ist &#8222;Webbs Empfehlung&#8220;?]]></de>
+                  <en><![CDATA[What is “Webb’s Choice”?]]></en>
+                  <de><![CDATA[Was ist “Webbs Empfehlung”?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0154">
-                  <en><![CDATA[Today it’s yesterday’s Three Cheese Risotto.]]></en>
+                  <en><![CDATA[Today, it is yesterday’s Three Cheese Risotto.]]></en>
                   <de><![CDATA[Heute ist es das Drei-Käse-Risotto von gestern.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0155">
-                  <en><![CDATA[If I don’t get rid of that stuff I’ll have to sell it to the sailors as a tar substitute.]]></en>
+                  <en><![CDATA[If I don’t get rid of that stuff, then I’ll have to sell it to the sailors as a tar substitute.]]></en>
                   <de><![CDATA[Wenn ich das Zeug nicht loswerde, muss ich es den Seemännern als Teerersatz verkaufen.]]></de>
                 </dia>
               </dialog>
@@ -2695,11 +2695,11 @@
                   <de><![CDATA[Das riecht köstlich.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0160">
-                  <en><![CDATA[You think so? Actually it’s just Pete the lighthouse keeper’s socks ... when he’s getting drunk he always tends to lose some part of his clothes.]]></en>
+                  <en><![CDATA[You think so? It’s actually just Pete, the lighthouse keeper’s, socks ... he always tends to lose some article of clothing when he gets drunk.]]></en>
                   <de><![CDATA[Finden Sie? Das sind eigentlich nur die Socken von Pete dem Leuchtturmwärter ... wenn er betrunken ist, lässt er immer ein paar Kleidungsstücke zurück.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0161">
-                  <en><![CDATA[When I found his socks under the table this morning I knew the smell would scare away the customers ... so I am boiling them clean.]]></en>
+                  <en><![CDATA[When I found his socks under the table this morning, I knew the smell would scare away customers ... so I’m boiling them clean.]]></en>
                   <de><![CDATA[Als ich seine Socken heute Morgen unter dem Tisch gefunden habe, war mir klar, dass der Gestank die Gäste vertreiben würde ... also koche ich sie aus.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0162">
@@ -2757,8 +2757,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0164">
-                  <en><![CDATA[&#8222;Pirate Juice&#8220; ... what kind of a disgusting name is that?]]></en>
-                  <de><![CDATA[&#8222;Piratensaft&#8220; ... was ist das denn für ein abscheulicher Name?]]></de>
+                  <en><![CDATA[“Pirate Juice” ... what kind of a disgusting name is that?]]></en>
+                  <de><![CDATA[“Piratensaft” ... was ist das denn für ein abscheulicher Name?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0165">
                   <en><![CDATA[It tastes even worse than it sounds  ...]]></en>
@@ -2920,7 +2920,7 @@
                   <de><![CDATA[Dürfte ich mir vielleicht etwas Aluminiumfolie nehmen?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0173">
-                  <en><![CDATA[Sorry, this is my last roll ... I can’t spare any. Besides, it’s only meant to be used to wrap food that PAYING customers want to take home.]]></en>
+                  <en><![CDATA[Sorry, this is my last roll ... I can’t spare any. Besides, it’s only meant for wrapping food that PAYING customers want to take home.]]></en>
                   <de><![CDATA[Tut mir leid, das ist meine letzte Rolle ... Davon kann ich nichts abgeben. Außerdem wird die nur verwendet, um ZAHLENDEN Kunden ihr Essen zum Mitnehmen einzupacken.]]></de>
                 </dia>
               </dialog>
@@ -3037,8 +3037,8 @@
                   <de><![CDATA[Okay ... Ich denke, ein paar Stunden Schlaf würden mir gut tun.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0177">
-                  <en><![CDATA[Don’t let the bed bugs bite you.]]></en>
-                  <de><![CDATA[Lassen Sie sich nicht von den Bettwanzen beißen.]]></de>
+                  <en><![CDATA[Don’t let the bed bugs bite ...]]></en>
+                  <de><![CDATA[Lassen Sie sich nicht von den Bettwanzen beißen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0178">
                   <en><![CDATA[Thanks.]]></en>
@@ -3210,7 +3210,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0191">
-                  <en><![CDATA[Good Evening.]]></en>
+                  <en><![CDATA[Good evening.]]></en>
                   <de><![CDATA[Guten Abend.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0192">
@@ -3286,11 +3286,11 @@
                   <de><![CDATA[Soll ich‘s Ihnen sagen?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0210">
-                  <en><![CDATA[I think you are drunk, Lionstone. ]]></en>
+                  <en><![CDATA[I think you’re drunk, Lionstone. ]]></en>
                   <de><![CDATA[Ich glaube Sie sind betrunken, Lionstone.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0211">
-                  <en><![CDATA[Yes. I think you are right. And you know what else?]]></en>
+                  <en><![CDATA[Yes. I think you’re right. And you know what else?]]></en>
                   <de><![CDATA[Ja. Da haben sie vermutlich recht. Und wissen Sie noch was?]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0212">
@@ -3399,8 +3399,8 @@
                   <de><![CDATA[Das würde ich auch sagen!!!]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0230">
-                  <en><![CDATA[Would you maybe ...]]></en>
-                  <de><![CDATA[Könnten Sie vielleicht ...]]></de>
+                  <en><![CDATA[Would you maybe ...?]]></en>
+                  <de><![CDATA[Könnten Sie vielleicht ...?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/inn_voice.swf:inn0231">
                   <en><![CDATA[No, sorry. I’m not doing your accounting books, tax declarations or whatever else you need calculated!]]></en>
@@ -3676,7 +3676,7 @@
               <de><![CDATA[Haben Sie seinen Assistenten Nathan irgendwo gesehen? Er verschwand kurz bevor Cain zu den Docks kam.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0275">
-              <en><![CDATA[A thin guy with a slightly stupid smile and nice hair, wearing a tie?]]></en>
+              <en><![CDATA[A thin guy ... with a slightly stupid smile and nice hair, wearing a tie?]]></en>
               <de><![CDATA[Ein dünner Kerl mit einem leicht dümmlichen Lächeln, einer hübschen Frisur und einer Krawatte?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0276">
@@ -3684,7 +3684,7 @@
               <de><![CDATA[Genau. Haben Sie ihn gesehen?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0277">
-              <en><![CDATA[He came in earlier and asked for a room. I also offered him that corner so that he could take a nap, but he declined. He said he might return later though.]]></en>
+              <en><![CDATA[He came in earlier asking for a room. I also offered him that corner so that he could take a nap, but he declined. Said he might return later though.]]></en>
               <de><![CDATA[Er war vorhin hier und hat nach einem Zimmer gefragt. Ich habe auch ihm diese Ecke für ein Nickerchen angeboten, aber er hat abgelehnt. Er sagte jedoch, dass er vielleicht später wiederkommt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="speak5" sound="voice/inn_voice.swf:inn0278">
@@ -3723,7 +3723,7 @@
               <de><![CDATA[Haben Sie seinen Assistenten Nathan irgendwo gesehen? Er verschwand kurz bevor Cain zu den Docks kam.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0284">
-              <en><![CDATA[A thin guy with a slightly stupid smile and nice hair, wearing a tie?]]></en>
+              <en><![CDATA[A thin guy ... with a slightly stupid smile and nice hair, wearing a tie?]]></en>
               <de><![CDATA[Ein dünner Kerl mit einem leicht dümmlichen Lächeln, einer hübschen Frisur und einer Krawatte?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0285">
@@ -3731,8 +3731,8 @@
               <de><![CDATA[Genau. Haben Sie ihn gesehen?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0286">
-              <en><![CDATA[He came in earlier and asked for a room. I also offered him that corner so that he could take a nap, but he declined. He said he might return later though.]]></en>
-              <de><![CDATA[Er war vorhin hier und hat nach einem Zimmer gefragt. Ich habe auch ihm diese Ecke für ein Nickerchen angeboten, aber er hatte abgelehnt. Er sagte jedoch, dass er vielleicht später wiederkommt.]]></de>
+              <en><![CDATA[He came in earlier asking for a room. I also offered him that corner so that he could take a nap, but he declined. Said he might return later though.]]></en>
+              <de><![CDATA[Er war vorhin hier und hat nach einem Zimmer gefragt. Ich habe auch ihm diese Ecke für ein Nickerchen angeboten, aber er hat abgelehnt. Er sagte jedoch, dass er vielleicht später wiederkommt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="speak5" sound="voice/inn_voice.swf:inn0287">
               <en><![CDATA[It seems Cain’s men haven’t arrested him yet.]]></en>
@@ -3794,7 +3794,7 @@
               <de><![CDATA[Oh, ich befürchte, er hatte nicht viele Freunde hier, oder?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0291">
-              <en><![CDATA[Those scientists spent most of their time in the Institute, and once that was closed I hear most of them left Ravenhollow. While your father stayed around, I’ve rarely seen him.]]></en>
+              <en><![CDATA[Those scientists spent most of their time in the Institute, and once that was closed, I hear most of them left Ravenhollow. While your father stayed around, I rarely saw him.]]></en>
               <de><![CDATA[Diese Wissenschaftler haben die meiste Zeit im Institut verbracht und nachdem es geschlossen wurde, haben beinahe alle Ravenhollow verlassen. Ihr Vater blieb zwar hier, aber ich habe ihn kaum gesehen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0292">
@@ -3806,7 +3806,7 @@
               <de><![CDATA[Wenn er einfach nur verschwunden ist, besteht dann nicht die Möglichkeit, dass er noch am Leben ist?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0294">
-              <en><![CDATA[A handful of men went searching for him, and while his body was never found, they did locate shreds of his hiking gear.]]></en>
+              <en><![CDATA[A handful of men went out searching for him. While his body was never found, they did locate shreds of his hiking gear.]]></en>
               <de><![CDATA[Eine Handvoll Männer haben nach ihm gesucht und sie haben zwar nicht seine Leiche gefunden, aber dafür Teile seiner Wanderausrüstung.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0295">
@@ -3857,7 +3857,7 @@
               <de><![CDATA[Oh, ich befürchte er hatte nicht viele Freunde hier, nicht wahr?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0304">
-              <en><![CDATA[Those scientists spent most of their time in the Institute, and once that was closed I hear most of them left Ravenhollow. While your father stayed around, I’ve rarely seen him.]]></en>
+              <en><![CDATA[Those scientists spent most of their time in the Institute, and once that was closed, I hear most of them left Ravenhollow. While your father stayed around, I rarely saw him.]]></en>
               <de><![CDATA[Diese Wissenschaftler haben die meiste Zeit im Institut verbracht und nachdem es geschlossen wurde, haben beinahe alle Ravenhollow verlassen. Ihr Vater blieb zwar hier, aber ich habe ihn kaum gesehen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0305">
@@ -3869,7 +3869,7 @@
               <de><![CDATA[Wenn er einfach nur verschwunden, besteht dann nicht die Möglichkeit, dass er noch am Leben ist?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0307">
-              <en><![CDATA[A handful of men went searching for him, and while his body was never found, they did locate shreds of his hiking gear.]]></en>
+              <en><![CDATA[A handful of men went out searching for him. While his body was never found, they did locate shreds of his hiking gear.]]></en>
               <de><![CDATA[Eine Handvoll Männer haben nach ihm gesucht und sie haben zwar nicht seine Leiche gefunden, aber dafür Teile seiner Wanderausrüstung.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0308">
@@ -3924,7 +3924,7 @@
               <de><![CDATA[Mein ganzes Leben lang habe ich Recht und Gesetz verteidigt, stimmt’s Webb?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0318">
-              <en><![CDATA[Sure Lionstone.]]></en>
+              <en><![CDATA[Sure, Lionstone.]]></en>
               <de><![CDATA[Stimmt, Lionstone.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0319">
@@ -3952,7 +3952,7 @@
               <de><![CDATA[Vielleicht haben wir nicht genug aufgepasst und haben zu lange gewartet, etwas zu unternehmen, nachdem Cain das erste Mal aufgetaucht ist.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0325">
-              <en><![CDATA[It happened too fast. We were overwhelmed, Lionstone. There was no time to do anything about it.]]></en>
+              <en><![CDATA[It happened too fast. We were overwhelmed, Lionstone. There was no time to react.]]></en>
               <de><![CDATA[Es passierte einfach zu schnell. Wir wurden völlig überrumpelt, Lionstone. Es blieb keine Zeit, etwas dagegen zu unternehmen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0326">
@@ -3983,7 +3983,7 @@
               <de><![CDATA[Mein ganzes Leben lang habe ich Recht und Gesetz verteidigt, stimmt’s Webb?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0330">
-              <en><![CDATA[Sure Lionstone.]]></en>
+              <en><![CDATA[Sure, Lionstone.]]></en>
               <de><![CDATA[Stimmt, Lionstone.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0331">
@@ -4011,7 +4011,7 @@
               <de><![CDATA[Vielleicht haben wir nicht genug aufgepasst und haben zu lange gewartet, etwas zu unternehmen, nachdem Cain das erste Mal aufgetaucht ist.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0337">
-              <en><![CDATA[It happened too fast. We were overwhelmed, Lionstone. There was no time to do anything about it.]]></en>
+              <en><![CDATA[It happened too fast. We were overwhelmed, Lionstone. There was no time to react.]]></en>
               <de><![CDATA[Es passierte einfach zu schnell. Wir wurden völlig überrumpelt, Lionstone. Es blieb keine Zeit, etwas dagegen zu unternehmen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0338">
@@ -4042,7 +4042,7 @@
               <de><![CDATA[Also verbringe ich die meiste Zeit hier. Sie können gerne jederzeit vorbeikommen, Herr Trelawney]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0342">
-              <en><![CDATA[I’ll make sure that you don’t overdo it, Lionstone, so you’ll still be able to have a decent conversation with Mr. Trelawney here.]]></en>
+              <en><![CDATA[I’ll make sure that you don’t overdo it, Lionstone. That way you’ll still be able to have a decent conversation with Mr. Trelawney here.]]></en>
               <de><![CDATA[Ich achte darauf, dass Sie es hier mit dem Trinken nicht übertreiben, Lionstone, damit Sie noch ein vernünftiges Gespräch mit Herrn Trelawney hier führen können.]]></de>
             </dia>
             <dia puppet="lionstone" frame="speakw" sound="voice/inn_voice.swf:inn0343">
@@ -4077,7 +4077,7 @@
               <de><![CDATA[Allerdings vergesse ich dann auch, wie schlecht das Trinken für mich ist. Haben Sie also vielen Dank, dass Sie mich daran erinnern.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0348">
-              <en><![CDATA[As long as we have to fear that Lowell Cain will kick in the door and find new ways to humiliate us, Lionstone will probably continue to drink.]]></en>
+              <en><![CDATA[As long as we live in fear that Lowell Cain will kick down the door and find new ways to humiliate us, Lionstone will probably continue to drink.]]></en>
               <de><![CDATA[Solange wir damit rechnen müssen, dass Lowell Cain die Tür eintritt und eine neue Möglichkeit findet, uns zu schikanieren, wird Lionstone vermutlich weiter trinken.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0349">
@@ -4125,7 +4125,7 @@
               <de><![CDATA[Ich möchte Ihnen von einer sehr unglücklichen Begegnung mit einer Frau erzählen ...]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0402">
-              <en><![CDATA[Those stories of women are as old as time, aren’t they?]]></en>
+              <en><![CDATA[The stories of women are as old as time, aren’t they?]]></en>
               <de><![CDATA[Diese Geschichten mit Frauen sind so alt wie die Zeit selbst, stimmt’s?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0403">
@@ -4145,8 +4145,8 @@
               <de><![CDATA[Jetzt mal ehrlich, seit wann darf man nicht mehr über Leute lästern, wenn sie nicht da sind!? Wer ist in dieser Geschichte das Opfer!? Sagen Sie es mir!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0407">
-              <en><![CDATA[Well, I feel victimized just for listening. Maybe I could find you a bottle to romance instead of that woman.]]></en>
-              <de><![CDATA[Nun, ich fühle mich wie ein Opfer, wenn ich Ihnen zuhören muss. Vielleicht hab ich ja eine Flasche für Sie, an der Sie sich festhalten können.]]></de>
+              <en><![CDATA[Well, I feel victimized just having to listen. I could find you a bottle to romance instead of that woman ...]]></en>
+              <de><![CDATA[Nun, ich fühle mich wie ein Opfer, wenn ich Ihnen zuhören muss. Vielleicht hab ich ja eine Flasche für Sie, an der Sie sich festhalten können ...]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0408">
               <en><![CDATA[No, please!!! I can’t take any more!!]]></en>
@@ -4186,11 +4186,11 @@
               <de><![CDATA[Nun ja ... mit dem Alter wird uns immer klarer, dass wir nicht für immer hier sein werden, richtig?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0411">
-              <en><![CDATA[I don’t know about that, but since weeks I feel dizzy.]]></en>
+              <en><![CDATA[I don’t know about that, but for weeks I’ve been feeling dizzy.]]></en>
               <de><![CDATA[Da hab ich keine Ahnung, aber ich fühle mich schon seit ein paar Wochen sehr merkwürdig.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0412">
-              <en><![CDATA[Really, maybe you ...]]></en>
+              <en><![CDATA[Really? Maybe you ...]]></en>
               <de><![CDATA[Wirklich? Vielleicht ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0413">
@@ -4202,8 +4202,8 @@
               <de><![CDATA[Mein Optiker hat mir eine Lesebrille gegeben, aber ehrlich gesagt ... ich sehe mit Brille einfach lächerlich aus! Hat die Mode mich zur Blindheit verdammt? ]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0415">
-              <en><![CDATA[Well, it’s doomed me to listening to you. Maybe we could just find you a bottle and let you drink yourself blind instead.]]></en>
-              <de><![CDATA[Nun, ich bin wohl dazu verdammt, mir Ihr Geschwätz anzuhören. Vielleicht sollte ich Ihnen eine Flasche suchen, damit Sie sich stattdessen blind trinken können.]]></de>
+              <en><![CDATA[Well, it’s doomed me to listening to you. You know, with a bottle you could drink yourself blind instead ...]]></en>
+              <de><![CDATA[Nun, ich bin wohl dazu verdammt, mir Ihr Geschwätz anzuhören. Vielleicht sollte ich Ihnen eine Flasche suchen, damit Sie sich stattdessen blind trinken können ...]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0416">
               <en><![CDATA[No, please!!! I can’t take any more!!]]></en>
@@ -4239,7 +4239,7 @@
               <de><![CDATA[Manchmal wünschte ich, dass die Leute einfach alles ein bisschen langsamer angehen würden ...]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0418">
-              <en><![CDATA[Well, life is passing by fast. None of us can stop it and yet we have to carry on.]]></en>
+              <en><![CDATA[Well, life is passing by fast. None of us can stop it, so we just have to carry on.]]></en>
               <de><![CDATA[Nun, das Leben ist schnell vorbei. Keiner von uns kann es aufhalten und irgendwie müssen wir Schritt halten.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0419">
@@ -4259,8 +4259,8 @@
               <de><![CDATA[Und dann auch noch der Lärm durch die Hupen und Sirenen! Akustische Wut und Frustration ... schrecklich, nicht wahr?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0423">
-              <en><![CDATA[No more horrible than these stories ... I’m about ready to give you a bottle out of frustration and let you take out your anger on that.]]></en>
-              <de><![CDATA[Auch nicht schlimmer, als diese Geschichten ... ich bin kurz davor, Ihnen aus Frust eine Flasche zu geben, damit Sie Ihre Wut damit ertränken können.]]></de>
+              <en><![CDATA[No more horrible than this story. Perhaps I could recommend a bottle to take out your anger and frustration on?]]></en>
+              <de><![CDATA[Auch nicht schlimmer, als diese Geschichten. Ich bin kurz davor, Ihnen aus Frust eine Flasche zu geben, damit Sie Ihre Wut damit ertränken können.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0424">
               <en><![CDATA[No, please!!! I can’t take any more!!]]></en>
@@ -4296,7 +4296,7 @@
               <de><![CDATA[Haben Sie jemals darüber nachgedacht, was Freundschaft bedeutet, Webb?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0426">
-              <en><![CDATA[We all ask ourselves that, I believe. We try to make friends and yet are alone ...]]></en>
+              <en><![CDATA[We all ask ourselves that, I believe. We try to make friends, and yet are still so alone ...]]></en>
               <de><![CDATA[Ich denke, das fragen wir uns alle. Wir versuchen, Freundschaften aufzubauen und dennoch sind wir alleine ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0427">
@@ -4308,15 +4308,15 @@
               <de><![CDATA[Also, wie ich schon sagte ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0429">
-              <en><![CDATA[I mean, hey, friend ... we all know what that means. A friend is someone who remembers your birthday. Sometimes at least.]]></en>
-              <de><![CDATA[Ich meine, hey, ein &#8222;Freund&#8220; ... wir alle wissen, was das bedeutet. Ein &#8222;Freund&#8220; ist jemand, der sich an deinen Geburtstag erinnert. Zumindest manchmal.]]></de>
+              <en><![CDATA[I mean, “hey, friend” ... we all know what that means. A friend is someone who remembers your birthday. Sometimes at least.]]></en>
+              <de><![CDATA[Ich meine, “hey, ein Freund” ... wir alle wissen, was das bedeutet. Ein “Freund” ist jemand, der sich an deinen Geburtstag erinnert. Zumindest manchmal.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0430">
-              <en><![CDATA[... but ship? Why ship? What is a friend ship? None of my friends are ships! Friendship is a strange thing, don’t you think?]]></en>
-              <de><![CDATA[... aber &#8222;schaft&#8220;? Warum &#8222;schaft&#8220;? Warum heisst es Freund&#8212; &#8222;Schaft&#8220;? Weil es Freunde schafft? Freundschaft ist schon etwas sehr Seltsames, finden Sie nicht?]]></de>
+              <en><![CDATA[... but “ship”? Why “ship”? What’s a “friend-ship”? None of my friends are ships! Friendship is a strange thing, don’t you think?]]></en>
+              <de><![CDATA[... aber “schaft”? Warum “schaft”? Warum heisst es Freund&#8212; “Schaft”? Weil es Freunde schafft? Freundschaft ist schon etwas sehr Seltsames, finden Sie nicht?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0431">
-              <en><![CDATA[With stories like these, I can see why you have difficulty with friendships. Maybe I could find you a bottle to socialize with.]]></en>
+              <en><![CDATA[With a story like that, I can see why you have difficulty making friends. Shall we find a bottle to be your friend?]]></en>
               <de><![CDATA[Bei solchen Geschichten fällt es mir nicht schwer zu glauben, dass Sie Ihre Schwierigkeiten mit Freundschaften haben. Vielleicht sollte ich Ihnen eine Flasche bringen, mit der Sie sich anfreunden können.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0432">
@@ -4361,8 +4361,8 @@
               <de><![CDATA[Sie geben mir eine ganze Flasche Whiskey aus, damit ich meinen Kummer ertränken kann?!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0436">
-              <en><![CDATA[If you are not a paying customer then I’m not bound by the barkeeper’s oath to &#8222;Listen to Paying Customers&#8220;!]]></en>
-              <de><![CDATA[Wenn Sie kein zahlender Kunde sind, dann bin ich nicht an den Eid der Barkeeper gebunden, der lautet: &#8222;Höre zahlenden Gästen zu&#8220;!]]></de>
+              <en><![CDATA[If you’re not a paying customer, then I’m not bound by the barkeeper’s oath to listen to you.]]></en>
+              <de><![CDATA[Wenn Sie kein zahlender Kunde sind, dann bin ich nicht an den Eid der Barkeeper gebunden, um Ihnen zuzuhören.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4413,11 +4413,11 @@
               <de><![CDATA[Hören Sie, mir gefällt es ja auch nicht, was hier in Ravenhollow vor sich geht. Eigentlich verstehe ich noch nicht mal, WAS wirklich geschieht.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0354">
-              <en><![CDATA[But I do know that some of the good men who used to sit here in my inn each evening have been talking too much – and I bet they regret that now.]]></en>
-              <de><![CDATA[Aber ich weiß, dass einige der guten Männer, die jeden Abend hier in meinem Lokal zusammensaßen, zu viel geredet haben – und ich schätze, sie bereuen das jetzt.]]></de>
+              <en><![CDATA[But I do know that some of the good men who used to sit here in my inn each evening have been talking too much ... and I bet they regret that now.]]></en>
+              <de><![CDATA[Aber ich weiß, dass einige der guten Männer, die jeden Abend hier in meinem Lokal zusammensaßen, zu viel geredet haben ... und ich schätze, sie bereuen das jetzt.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0355">
-              <en><![CDATA[I sure do, ‘cause they’re not comin’ here and giving me business anymore. And that’s that.]]></en>
+              <en><![CDATA[I sure do, ’cause they’re not coming here to give me business anymore. And that’s that.]]></en>
               <de><![CDATA[Ich bereue es jedenfalls ... weil sie nicht mehr herkommen und mein Laden nicht mehr läuft. So, seh ich das.]]></de>
             </dia>
           </dialog>
@@ -4436,12 +4436,12 @@
               <de><![CDATA[Was ist mit ihren Gästen geschehen?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0357">
-              <en><![CDATA[I heard Cain and his men paid some of them a visit and now they seem to prefer staying at home.]]></en>
+              <en><![CDATA[I heard Cain and his men paid some of them a visit, and now they prefer staying at home.]]></en>
               <de><![CDATA[Ich habe gehört, dass Cain und seine Männer einigen von ihnen einen Besuch abgestattet haben und jetzt scheinen die alle lieber zu Hause bleiben zu wollen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0358">
-              <en><![CDATA[I don’t know what he told them – or did to them – I just know they aren’t coming here anymore.]]></en>
-              <de><![CDATA[Keine Ahnung, was er ihnen gesagt &#8212; oder angetan hat &#8212; ich weiß nur, dass sie nicht mehr zu mir kommen.]]></de>
+              <en><![CDATA[I don’t know what he told them&#8212;or did to them. I just know they aren’t coming here anymore.]]></en>
+              <de><![CDATA[Keine Ahnung, was er ihnen gesagt &#8212; oder angetan hat. Ich weiß nur, dass sie nicht mehr zu mir kommen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0359">
               <en><![CDATA[Didn’t you hear about the flashing lights? Webb, you should tell him about the flashing lights.]]></en>
@@ -4452,7 +4452,7 @@
               <de><![CDATA[Jaja, Lionstone. Haben Sie diese Blitzlichter denn wirklich jemals selbst GESEHEN?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0361">
-              <en><![CDATA[I sure haven’t, and you know why Lionstone? Because it’s just a story. A story to scare children.]]></en>
+              <en><![CDATA[I sure haven’t, and do you know why Lionstone? Because it’s just a story. A story to scare children.]]></en>
               <de><![CDATA[Ich nämlich ganz bestimmt nicht und wissen Sie warum, Lionstone? Weil es nur eine Geschichte ist. Eine Geschichte, um die Kinder zu erschrecken.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0362">
@@ -4460,11 +4460,11 @@
               <de><![CDATA[Dann bin ich eben ein kleines Kind Webb, denn ich habe Angst!]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0363">
-              <en><![CDATA[You see young man, there’s a rumor about a strange flashing light that the Castle uses to ... to ... change people.]]></en>
-              <de><![CDATA[Wissen Sie, junger Mann, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
+              <en><![CDATA[You see, Mr. Trelawney, there’s a rumor about a strange flashing light that the Castle uses to ... to ... change people.]]></en>
+              <de><![CDATA[Wissen Sie, Herr Trelawney, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0364">
-              <en><![CDATA[... to get rid of opposition, so to say. Hogwash, if you ask me.]]></en>
+              <en><![CDATA[... to get rid of opposition, they say. Hogwash, if you ask me.]]></en>
               <de><![CDATA[... also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
             </dia>
           </dialog>
@@ -4482,24 +4482,24 @@
               <en><![CDATA[Could you tell me again what happened to your customers?]]></en>
               <de><![CDATA[Könnten Sie mir nochmal erzählen, was mit Ihren Gästen geschehen ist?]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0366">
-              <en><![CDATA[I heard Cain and his men paid some of them a visit and now they seem to prefer staying at home.]]></en>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0357">
+              <en><![CDATA[I heard Cain and his men paid some of them a visit, and now they prefer staying at home.]]></en>
               <de><![CDATA[Ich habe gehört, dass Cain und seine Männer einigen von ihnen einen Besuch abgestattet haben und jetzt scheinen die alle lieber zu Hause bleiben zu wollen.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0367">
-              <en><![CDATA[I don’t know what he told them – or did to them – I just know they aren’t coming here anymore.]]></en>
-              <de><![CDATA[Keine Ahnung, was er ihnen gesagt &#8212; oder angetan hat &#8212; ich weiß nur, dass sie nicht mehr zu mir kommen.]]></de>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0358">
+              <en><![CDATA[I don’t know what he told them&#8212;or did to them. I just know they aren’t coming here anymore.]]></en>
+              <de><![CDATA[Keine Ahnung, was er ihnen gesagt &#8212; oder angetan hat. Ich weiß nur, dass sie nicht mehr zu mir kommen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0368">
               <en><![CDATA[Didn’t you hear about the flashing lights? Webb, you should tell him about the flashing lights.]]></en>
               <de><![CDATA[Haben Sie nichts von diesen Blitzlichtern gehört? Webb, erzählen Sie ihm von den Blitzlichtern.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0369">
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0360">
               <en><![CDATA[Shut it, Lionstone. Have you actually SEEN any of these flashing lights? ]]></en>
               <de><![CDATA[Jaja, Lionstone. Haben Sie diese Blitzlichter denn wirklich jemals selbst GESEHEN?]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0370">
-              <en><![CDATA[I sure haven’t, and you know why Lionstone? Because it’s just a story. A story to scare children.]]></en>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0361">
+              <en><![CDATA[I sure haven’t, and do you know why Lionstone? Because it’s just a story. A story to scare children.]]></en>
               <de><![CDATA[Ich nämlich ganz bestimmt nicht und wissen Sie warum, Lionstone? Weil es nur eine Geschichte ist. Eine Geschichte, um die Kinder zu erschrecken.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0371">
@@ -4507,11 +4507,11 @@
               <de><![CDATA[Dann bin ich eben ein kleines Kind Webb, denn ich habe Angst!]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0372">
-              <en><![CDATA[You see young man, there’s a rumor about a strange flashing light that the Castle uses to ... to ... change people.]]></en>
-              <de><![CDATA[Wissen Sie, junger Mann, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
+              <en><![CDATA[You see, Mr. Trelawney, there’s a rumor about a strange flashing light that the Castle uses to ... to ... change people.]]></en>
+              <de><![CDATA[Wissen Sie, Herr Trelawney, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0373">
-              <en><![CDATA[... to get rid of opposition, so to say. Hogwash, if you ask me.]]></en>
+              <en><![CDATA[... to get rid of opposition, they say. Hogwash, if you ask me.]]></en>
               <de><![CDATA[... also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
             </dia>
           </dialog>
@@ -4529,9 +4529,9 @@
               <en><![CDATA[I’d like to rent a room, please.]]></en>
               <de><![CDATA[Ich würde gerne ein Zimmer mieten.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0375">
-              <en><![CDATA[Sorry, but the Castle revoked my hospitality license so I’m not allowed to host visitors anymore.]]></en>
-              <de><![CDATA[Das tut mir leid, aber das Schloss hat mir meine Gastgewerbe-Lizenz teilweise entzogen und nun darf ich keine Zimmer mehr vermieten.]]></de>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0383">
+              <en><![CDATA[Sorry, but the Castle revoked my hospitality license. I’m not allowed to host visitors anymore.]]></en>
+              <de><![CDATA[Das tut mir leid, aber das Schloss hat mir meine Gastgewerbe-Lizenz teilweise entzogen. Ich darf keine Gäste mehr beherbergen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0376">
               <en><![CDATA[However, you’re welcome to nap over there in the corner any time that you like.]]></en>
@@ -4616,11 +4616,11 @@
               <de><![CDATA[Das ist wirklich ein bequemes Plätzchen hier ...]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0391">
-              <en><![CDATA[The Ravenhollow Inn is the finest, oldest and only inn in this area.]]></en>
-              <de><![CDATA[Das Ravenhollow Inn ist das feinste, älteste und einzige Gasthaus hier in dieser Gegend.]]></de>
+              <en><![CDATA[The Ravenhollow Inn is the finest, oldest, and only inn around.]]></en>
+              <de><![CDATA[Das Ravenhollow Inn ist das feinste, älteste, und einzige Gasthaus hier in dieser Gegend.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0392">
-              <en><![CDATA[Back in the days this place was crowded with customers each evening. Now Mr. Lionstone and a few of the fishermen are my sole customers these days.]]></en>
+              <en><![CDATA[Back in the day, this place was crowded with customers every evening. Now Mr. Lionstone and a few of the fishermen are my sole patrons.]]></en>
               <de><![CDATA[Vor einiger Zeit war es hier jeden Abend berstend voll von Gästen. Mittlerweile sind Herr Lionstone und ein paar der Fischer meine einzigen Gäste.]]></de>
             </dia>
             <dia puppet="lionstone" frame="speakw" sound="voice/inn_voice.swf:inn0393">
@@ -4632,8 +4632,8 @@
               <de><![CDATA[Vor über dreißig Jahren habe ich hier im Ravenhollow Inn als Tellerwäscher angefangen. Damals gehörte es noch dem alten Perkins.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0395">
-              <en><![CDATA[He had no kids so one day he told me: &#8222;Web, you are a good man and I need a break.&#8220; Since then I’ve been the proud owner of the Ravenhollow Inn.]]></en>
-              <de><![CDATA[Er hatte keine Kinder und so sagte er mir eines Tages: &#8222;Webb, du bist ein guter Mann und ich brauche eine Pause.&#8220; Von dem Tag an war ich der stolze Besitzer des Ravenhollow Inn.]]></de>
+              <en><![CDATA[He had no kids, so one day he told me: “Webb, you are a good man and I need a break.” Since then I’ve been the proud owner.]]></en>
+              <de><![CDATA[Er hatte keine Kinder und so sagte er mir eines Tages: “Webb, du bist ein guter Mann und ich brauche eine Pause.” Von dem Tag an war ich der stolze Besitzer.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0396">
               <en><![CDATA[That’s a nice story.]]></en>
@@ -4644,8 +4644,8 @@
               <de><![CDATA[Oh ja. Aber jetzt ruiniert das Schloss mein Geschäft.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0398">
-              <en><![CDATA[If business stays like this then I’ll have to close the Inn within the month. Damn it! What did we do to bring this curse upon us ...]]></en>
-              <de><![CDATA[Wenn das Lokal weiter so mies läuft, dann muss ich noch diesen Monat schließen. Verdammt! Was haben wir nur getan, dass wir so bestraft werden ...]]></de>
+              <en><![CDATA[If business stays like this, then I’ll have to close the Inn within the month. Darn it! What did we do to bring this curse upon us?]]></en>
+              <de><![CDATA[Wenn das Lokal weiter so mies läuft, dann muss ich noch diesen Monat schließen. Verdammt! Was haben wir nur getan, dass wir so bestraft werden?]]></de>
             </dia>
           </dialog>
           <script>
@@ -4682,16 +4682,16 @@
               <de><![CDATA[Was wissen Sie über das Smith-Institut?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0440">
-              <en><![CDATA[I’m sure Lionstone here could tell you more about that.]]></en>
+              <en><![CDATA[I’m sure Lionstone could tell you more about that.]]></en>
               <de><![CDATA[Ich glaube, Lionstone kann Ihnen mehr darüber erzählen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0441">
-              <en><![CDATA[Even when the Institute was still open, I never saw any of those scientists here at my inn. Perhaps they were brewing their own beer over there, who knows.]]></en>
-              <de><![CDATA[Selbst als das Institut noch geöffnet war, haben sich die Wissenschaftler niemals in mein Inn verlaufen. Vielleicht haben sie ja ihr eigenes Bier gebraut, wer weiß.]]></de>
+              <en><![CDATA[Even while the Institute was open, I never saw any of those scientists here at my inn.]]></en>
+              <de><![CDATA[Selbst als das Institut noch geöffnet war, haben sich die Wissenschaftler niemals in mein Inn verlaufen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0442">
-              <en><![CDATA[I just wish that they had invited some students to do some studying over there, ‘cause that would have helped my business, if you know what I mean.]]></en>
-              <de><![CDATA[Wäre nur schön, wenn sie mal ein paar Studenten da gehabt hätten, die wären wirklich gut für mein Geschäft gewesen, wenn Sie wissen, was ich meine.]]></de>
+              <en><![CDATA[I just wish they had invited students to study with them. That would have been good for my business!]]></en>
+              <de><![CDATA[Wäre nur schön, wenn sie mal ein paar Studenten da gehabt hätten, die wären wirklich gut für mein Geschäft gewesen!]]></de>
             </dia>
           </dialog>
           <script>
@@ -4735,7 +4735,7 @@
               <de><![CDATA[Ja, tut mir leid. Ich habe das Radio ausgeschaltet. Soll ich es wieder einschalten?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0446">
-              <en><![CDATA[Yes, please do that. If I only hear the squeaking of my cleaning cloth and Lionstone’s ramblings, then I’ll go insane within 20 minutes.]]></en>
+              <en><![CDATA[Yes, please do that. If I only hear the squeaking of my dish rag and Lionstone’s ramblings, then I’ll go insane within twenty minutes.]]></en>
               <de><![CDATA[Ja, machen Sie das bitte. Wenn ich nur das Quietschen meines Putzlappens und Lionstones Geschwafel höre, verliere ich in 20 Minuten den Verstand.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0447">
@@ -4805,7 +4805,7 @@
               <de><![CDATA[Ich glaube, er ist gerade eingeschlafen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0455">
-              <en><![CDATA[Seems like it’s just you, me and the radio, now.]]></en>
+              <en><![CDATA[Seems that it’s just you, me, and the radio now.]]></en>
               <de><![CDATA[Es gibt jetzt also nur noch Sie, mich und das Radio.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0456">
@@ -4859,7 +4859,7 @@
               <de><![CDATA[Ich werde Ihnen einen Gefallen tun und den besonderen Geruch analysieren, den Radios verströmen, wenn sie kaputt gehen. Dadurch wissen wir dann, was mit dem Radio los ist, ohne es öffnen zu müssen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0463">
-              <en><![CDATA[You are analyzing the smell? Are you sure you know what you’re doing?]]></en>
+              <en><![CDATA[You’re analyzing the smell? Are you sure you know what you’re doing?]]></en>
               <de><![CDATA[Sie analysieren den Geruch? Sind Sie sicher, dass Sie wissen, was Sie da tun?]]></de>
             </dia>
             <dia puppet="_avatar" frame="lspeak" sound="voice/inn_voice.swf:inn0464">
@@ -4887,7 +4887,7 @@
               <de><![CDATA[Sowas! Nun ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0470">
-              <en><![CDATA[Could you &#8212; as an electronics expert&#8212;take this tube and fix the radio?]]></en>
+              <en><![CDATA[Could you&#8212;as an electronics expert&#8212;take this tube and fix the radio?]]></en>
               <de><![CDATA[Könnten Sie&#8212;als Elektronik-Spezialist&#8212;diese Röhre benutzen, um das Radio zu reparieren?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0471">
@@ -4899,7 +4899,7 @@
               <de><![CDATA[Ich werde Ihnen auch nichts dafür berechnen, da wir ja Ihre eigene Röhre für die Reparatur verwendet haben.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0473">
-              <en><![CDATA[Hey, that is mighty fine of you.]]></en>
+              <en><![CDATA[Hey, that’s mighty fine of you.]]></en>
               <de><![CDATA[Hey, das ist aber nett von Ihnen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0474">
@@ -4961,8 +4961,8 @@
               <de><![CDATA[Ich bin ein Medium und die Geister haben mir verraten, dass Ihr Radio heute kaputt geht!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0477">
-              <en><![CDATA[Is that true!?]]></en>
-              <de><![CDATA[Ist das wahr!?]]></de>
+              <en><![CDATA[Is that true?!]]></en>
+              <de><![CDATA[Ist das wahr?!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0478">
               <en><![CDATA[Yes, unfortunately I came too late to prevent it from happening. Oh, wait! The spirits are speaking to me right now!]]></en>
@@ -4981,8 +4981,8 @@
               <de><![CDATA[Stören Sie nicht meine Konzentration! Es könnte fatale Folgen haben, wenn ich beim Channeln der Energie gestört werde!]]></de>
             </dia>
             <dia puppet="webb" frame="rest" sound="voice/inn_voice.swf:inn0482">
-              <en><![CDATA[...]]></en>
-              <de><![CDATA[...]]></de>
+              <en><![CDATA[... uh ...]]></en>
+              <de><![CDATA[... uh ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0483">
               <en><![CDATA[The spirits have told me what’s wrong with your radio!]]></en>
@@ -5001,7 +5001,7 @@
               <de><![CDATA[Sowas! Nun ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0487">
-              <en><![CDATA[Could you or the spirits take this tube and fix the radio?]]></en>
+              <en><![CDATA[Could you or the spirits take this spare tube and fix the radio?]]></en>
               <de><![CDATA[Könnten Sie oder die Geister diese Röhre nehmen und das Radio reparieren?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0488">
@@ -5013,8 +5013,8 @@
               <de><![CDATA[Die Geister sind ... dankbar ... für Ihr Vertrauen in sie.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0490">
-              <en><![CDATA[I am overwhelmed with emotion.]]></en>
-              <de><![CDATA[Ich bin ganz überwältigt.]]></de>
+              <en><![CDATA[I’m overwhelmed with emotion!]]></en>
+              <de><![CDATA[Ich bin ganz überwältigt!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0491">
               <en><![CDATA[It is done! Your radio is fixed!]]></en>
@@ -5087,7 +5087,7 @@
               <de><![CDATA[Mein Unternehmen möchte Ihnen ein exklusives Angebot für ein Ersatzradio machen!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0497">
-              <en><![CDATA[A new radio? Gee, I am not sure if I can afford that ... ]]></en>
+              <en><![CDATA[A new radio? Gee, I’m not sure if I can afford that ... ]]></en>
               <de><![CDATA[Ein neues Radio? Hm, ich weiß nicht, ob ich mir das leisten kann ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="lspeak" sound="voice/inn_voice.swf:inn0498">
@@ -6078,12 +6078,12 @@
               <de><![CDATA[Hören Sie, soweit ich weiß, könnte das Schloss wirklich für die Verzögerung des Briefes verantwortlich sein.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0522">
-              <en><![CDATA[But your father disappeared about one year ago. Long before Lowell Cain showed up in Ravenhollow. The Castle can not be responsible for his disappearance!]]></en>
-              <de><![CDATA[Aber Ihr Vater verschwand vor ungefähr einem Jahr. Lange bevor Lowell Cain hier in Ravenhollow aufgetaucht ist. Das Schloss kann nicht für sein Verschwinden verantwortlich sein!]]></de>
+              <en><![CDATA[But your father disappeared about a year ago ... long before Lowell Cain showed up in Ravenhollow.]]></en>
+              <de><![CDATA[Aber Ihr Vater verschwand vor ungefähr einem Jahr. Lange bevor Lowell Cain hier in Ravenhollow aufgetaucht ist.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0523">
-              <en><![CDATA[He was only declared dead half a year later.]]></en>
-              <de><![CDATA[Er wurde ein halbes Jahr darauf für tot erklärt.]]></de>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0666">
+              <en><![CDATA[The Castle cannot be responsible for his disappearance!]]></en>
+              <de><![CDATA[Das Schloss kann nicht für sein Verschwinden verantwortlich sein!]]></de>
             </dia>
           </dialog>
           <script>
@@ -6108,13 +6108,13 @@
               <en><![CDATA[Listen, as far as I know the Castle could be responsible for the delay of the letter.]]></en>
               <de><![CDATA[Hören Sie, soweit ich weiß, könnte das Schloss wirklich für die Verzögerung des Briefes verantwortlich sein.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0665">
-              <en><![CDATA[But your father disappeared about one year ago. Long before Lowell Cain showed up in Ravenhollow. The Castle can not be responsible for his disappearance!]]></en>
-              <de><![CDATA[Aber Ihr Vater verschwand vor ungefähr einem Jahr. Lange bevor Lowell Cain hier in Ravenhollow aufgetaucht ist. Das Schloss kann nicht für sein Verschwinden verantwortlich sein!]]></de>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0522">
+              <en><![CDATA[But your father disappeared about a year ago ... long before Lowell Cain showed up in Ravenhollow.]]></en>
+              <de><![CDATA[Aber Ihr Vater verschwand vor ungefähr einem Jahr. Lange bevor Lowell Cain hier in Ravenhollow aufgetaucht ist.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0666">
-              <en><![CDATA[He was only declared dead half a year later.]]></en>
-              <de><![CDATA[Er wurde ein halbes Jahr darauf für tot erklärt.]]></de>
+              <en><![CDATA[The Castle cannot be responsible for his disappearance!]]></en>
+              <de><![CDATA[Das Schloss kann nicht für sein Verschwinden verantwortlich sein!]]></de>
             </dia>
           </dialog>
           <script>
@@ -6139,13 +6139,13 @@
               <en><![CDATA[Listen, as far as I know the Castle could be responsible for the delay of the letter.]]></en>
               <de><![CDATA[Hören Sie, soweit ich weiß, könnte das Schloss wirklich für die Verzögerung des Briefes verantwortlich sein.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0670">
-              <en><![CDATA[But your father disappeared about one year ago. Long before Lowell Cain showed up in Ravenhollow! The Castle can not be responsible for his disappearance!]]></en>
-              <de><![CDATA[Aber Ihr Vater verschwand vor ungefähr einem Jahr. Lange bevor Lowell Cain hier in Ravenhollow aufgetaucht ist! Das Schloss kann nicht für sein Verschwinden verantwortlich sein!]]></de>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0522">
+              <en><![CDATA[But your father disappeared about a year ago ... long before Lowell Cain showed up in Ravenhollow.]]></en>
+              <de><![CDATA[Aber Ihr Vater verschwand vor ungefähr einem Jahr. Lange bevor Lowell Cain hier in Ravenhollow aufgetaucht ist.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0671">
-              <en><![CDATA[He was only declared dead half a year later.]]></en>
-              <de><![CDATA[Er wurde ein halbes Jahr darauf für tot erklärt.]]></de>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0666">
+              <en><![CDATA[The Castle cannot be responsible for his disappearance!]]></en>
+              <de><![CDATA[Das Schloss kann nicht für sein Verschwinden verantwortlich sein!]]></de>
             </dia>
           </dialog>
           <script>
@@ -6176,8 +6176,8 @@
               <en><![CDATA[Lionstone!]]></en>
               <de><![CDATA[Lionstone!]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0517">
-              <en><![CDATA[If being too honest is dangerous these days what good do you think it will do you to accuse the Castle for things Lowell Cain and his men couldn’t even be involved in?]]></en>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0682">
+              <en><![CDATA[If being too honest is dangerous these days, then what good will it do to accuse the Castle for things Lowell Cain and his men can’t be involved in?]]></en>
               <de><![CDATA[Wenn es dieser Tage schon zu gefährlich ist, die Wahrheit zu sagen, was wird dann erst passieren, wenn Sie das Schloss für Geschehnisse verantwortlich machen, in die Lowell Cain und seine Männer gar nicht verstrickt sein können? ]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0518">
@@ -6211,8 +6211,8 @@
               <en><![CDATA[Lionstone!]]></en>
               <de><![CDATA[Lionstone!]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0676">
-              <en><![CDATA[If being too honest is dangerous these days what good do you think it will do you to accuse the Castle for things Lowell Cain and his men couldn’t even be involved in?]]></en>
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0682">
+              <en><![CDATA[If being too honest is dangerous these days, then what good will it do to accuse the Castle for things Lowell Cain and his men can’t be involved in?]]></en>
               <de><![CDATA[Wenn es dieser Tage schon zu gefährlich ist, die Wahrheit zu sagen, was wird dann erst passieren, wenn Sie das Schloss für Geschehnisse verantwortlich machen, in die Lowell Cain und seine Männer gar nicht verstrickt sein können? ]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0677">
@@ -6247,7 +6247,7 @@
               <de><![CDATA[Lionstone!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0682">
-              <en><![CDATA[If being too honest is dangerous these days what good do you think it will do you to accuse the Castle for things Lowell Cain and his men couldn’t even be involved in?]]></en>
+              <en><![CDATA[If being too honest is dangerous these days, then what good will it do to accuse the Castle for things Lowell Cain and his men can’t be involved in?]]></en>
               <de><![CDATA[Wenn es dieser Tage schon zu gefährlich ist, die Wahrheit zu sagen, was wird dann erst passieren, wenn Sie das Schloss für Geschehnisse verantwortlich machen, in die Lowell Cain und seine Männer gar nicht verstrickt sein können? ]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0683">
