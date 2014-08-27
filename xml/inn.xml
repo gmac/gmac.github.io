@@ -1114,8 +1114,8 @@
                   <de><![CDATA[Kann ich Ihnen als Trinkgeld eine Malabo&#8212;Krone geben?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0046">
-                  <en><![CDATA[Er, thanks ... but that boat captain has already given me enough of her foreign currency to overflow my change tray.]]></en>
-                  <de><![CDATA[Ähm, danke ... aber der Kapitän hat mir schon so viel ausländische Währung gegeben, dass mein Trinkgeldschälchen bereits überquillt.]]></de>
+                  <en><![CDATA[Thanks ... but that boat captain has already given me enough of her foreign currency to overflow my change tray.]]></en>
+                  <de><![CDATA[Danke ... aber der Kapitän hat mir schon so viel ausländische Währung gegeben, dass mein Trinkgeldschälchen bereits überquillt.]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0047">
                   <en><![CDATA[Keep your money. I’m sure you’ve earned it ... although you may be disappointed to find that it won’t buy you much in these parts.]]></en>
@@ -2264,7 +2264,7 @@
                   <de><![CDATA[Weil es hier an der Küste so kalt ist?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0133">
-                  <en><![CDATA[Mainly because Wayne’s embrace won’t ever let go of you ...]]></en>
+                  <en><![CDATA[Mainly because Wayne’s embrace won’t ever let you go ...]]></en>
                   <de><![CDATA[Hauptsächlich, weil einen Waynes Umarmung so schnell nicht mehr loslässt ...]]></de>
                 </dia>
               </dialog>
@@ -4464,8 +4464,8 @@
               <de><![CDATA[Wissen Sie, Herr Trelawney, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0364">
-              <en><![CDATA[... to get rid of opposition, they say. Hogwash, if you ask me.]]></en>
-              <de><![CDATA[... also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
+              <en><![CDATA[To get rid of opposition, they say. Hogwash, if you ask me.]]></en>
+              <de><![CDATA[Also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4511,8 +4511,8 @@
               <de><![CDATA[Wissen Sie, Herr Trelawney, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0373">
-              <en><![CDATA[... to get rid of opposition, they say. Hogwash, if you ask me.]]></en>
-              <de><![CDATA[... also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
+              <en><![CDATA[To get rid of opposition, they say. Hogwash, if you ask me.]]></en>
+              <de><![CDATA[Also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4883,8 +4883,8 @@
               <de><![CDATA[Herr Webster, Ihre Radioröhre ist durchgebrannt!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0469">
-              <en><![CDATA[Gosh! Well ... fortunately I have a spare tube here.]]></en>
-              <de><![CDATA[Sowas! Nun ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
+              <en><![CDATA[Gosh! ... fortunately I have a spare tube here.]]></en>
+              <de><![CDATA[Sowas! ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0470">
               <en><![CDATA[Could you&#8212;as an electronics expert&#8212;take this tube and fix the radio?]]></en>
@@ -4981,8 +4981,8 @@
               <de><![CDATA[Stören Sie nicht meine Konzentration! Es könnte fatale Folgen haben, wenn ich beim Channeln der Energie gestört werde!]]></de>
             </dia>
             <dia puppet="webb" frame="rest" sound="voice/inn_voice.swf:inn0482">
-              <en><![CDATA[... uh ...]]></en>
-              <de><![CDATA[... uh ...]]></de>
+              <en><![CDATA[... oh ...]]></en>
+              <de><![CDATA[... oh ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0483">
               <en><![CDATA[The spirits have told me what’s wrong with your radio!]]></en>
@@ -4997,8 +4997,8 @@
               <de><![CDATA[Die Geister sagen, dass die Radioröhre ... kaputt ist!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0486">
-              <en><![CDATA[Gosh! Well ... fortunately I have a spare tube here.]]></en>
-              <de><![CDATA[Sowas! Nun ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
+              <en><![CDATA[Gosh! ... fortunately I have a spare tube here.]]></en>
+              <de><![CDATA[Sowas! ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0487">
               <en><![CDATA[Could you or the spirits take this spare tube and fix the radio?]]></en>
@@ -5115,8 +5115,8 @@
               <de><![CDATA[Herr Webster, Sie erinnern mich an meinen Vater. Wirklich. Ich möchte Ihnen also ein Geheimnis verraten: Ihr Radio ist wieder wie neu, wenn Sie mich die Radioröhre austauschen lassen.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0504">
-              <en><![CDATA[Gosh! Well ... fortunately I have a spare tube here.]]></en>
-              <de><![CDATA[Sowas! Nun ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
+              <en><![CDATA[Gosh! ... fortunately I have a spare tube here.]]></en>
+              <de><![CDATA[Sowas! ... zum Glück habe ich eine Ersatzröhre hier.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0505">
               <en><![CDATA[Just don’t tell my boss about this. He’d fire me in a second if he knew I showed you that our radios can be repaired, too.]]></en>
