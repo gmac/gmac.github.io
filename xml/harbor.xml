@@ -4758,21 +4758,21 @@
                   <en><![CDATA[Your acting talent probably saved you from getting arrested, like that old man you were talking to.]]></en>
                   <de><![CDATA[Ihr Schauspieltalent hat Sie vermutlich davor bewahrt, verhaftet zu werden ... im Gegensatz zu dem alten Mann, mit dem Sie gesprochen haben.]]></de>
                 </dia>
-                <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0335">
-                  <en><![CDATA[I’m sure they took the old man to the Castle. And they did ...something... to the sailor.]]></en>
-                  <de><![CDATA[Ich bin sicher, dass sie ihn zum Schloss gebracht haben. Und sie haben ... irgendetwas ... mit dem Seemann angestellt.]]></de>
+                <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0370">
+                  <en><![CDATA[I’m sure they took the old man to the Castle. And they did ... something ... to the sailor.]]></en>
+                  <de><![CDATA[Ich bin sicher, dass sie den alten Mann in die Burg brachten. Und sie stellten ... irgendetwas ... mit dem Seemann an.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0336">
-                  <en><![CDATA[What do you mean, they did &#8222;something&#8220; to the sailor?]]></en>
-                  <de><![CDATA[Was meinen Sie mit die haben &#8222;irgendetwas&#8220; mit dem Seemann angestellt?]]></de>
+                <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0371">
+                  <en><![CDATA[What do you mean, they did “something” to the sailor?]]></en>
+                  <de><![CDATA[Was meinen Sie mit sie stellten “irgendetwas” mit dem Seemann an?]]></de>
                 </dia>
-                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0337">
+                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0372">
                   <en><![CDATA[Well, one of the castle guards held a strange flashing light in front of him. It made a peculiar buzzing noise, like a vile beetle.]]></en>
-                  <de><![CDATA[Nun, eine der Schlosswachen hielt ihm ein seltsam blitzendes Licht unter die Nase. Es gab ein sonderbares, summendes Geräusch von sich, wie ein dicker Käfer.]]></de>
+                  <de><![CDATA[Nun, eine der Burgwachen hielt ihm ein seltsam blinkendes Licht vor die Nase. Es gab ein sonderbares, summendes Geräusch von sich, wie ein widerwärtiger Käfer.]]></de>
                 </dia>
-                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0338">
-                  <en><![CDATA[Since then the sailor has merely been sitting on the docks staring out at the sea.]]></en>
-                  <de><![CDATA[Seitdem sitzt der Seemann stumm an den Docks und starrt hinaus auf das Meer.]]></de>
+                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0373">
+                  <en><![CDATA[Since then, the sailor has merely been sitting on the docks staring vacantly out at the sea.]]></en>
+                  <de><![CDATA[Seitdem sitzt der Seemann nur noch an den Docks und starrt hinaus auf das Meer.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -4878,21 +4878,21 @@
                   <en><![CDATA[Your acting talent probably saved you from getting arrested, like that old man you were talking to.]]></en>
                   <de><![CDATA[Ihr Schauspieltalent hat Sie vermutlich davor bewahrt, verhaftet zu werden ... im Gegensatz zu dem alten Mann, mit dem Sie gesprochen haben.]]></de>
                 </dia>
-                <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0349">
-                  <en><![CDATA[I’m sure they took the old man to the Castle. And they did ...something... to the sailor.]]></en>
-                  <de><![CDATA[Ich bin sicher, dass sie ihn zum Schloss gebracht haben. Und sie haben ... irgendetwas ... mit dem Seemann angestellt.]]></de>
+                <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0370">
+                  <en><![CDATA[I’m sure they took the old man to the Castle. And they did ... something ... to the sailor.]]></en>
+                  <de><![CDATA[Ich bin sicher, dass sie den alten Mann in die Burg brachten. Und sie stellten ... irgendetwas ... mit dem Seemann an.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0350">
-                  <en><![CDATA[What do you mean, they did &#8222;something&#8220; to the sailor?]]></en>
-                  <de><![CDATA[Was meinen Sie mit die haben &#8222;irgendetwas&#8220; mit dem Seemann angestellt?]]></de>
+                <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0371">
+                  <en><![CDATA[What do you mean, they did “something” to the sailor?]]></en>
+                  <de><![CDATA[Was meinen Sie mit sie stellten “irgendetwas” mit dem Seemann an?]]></de>
                 </dia>
-                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0351">
+                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0372">
                   <en><![CDATA[Well, one of the castle guards held a strange flashing light in front of him. It made a peculiar buzzing noise, like a vile beetle.]]></en>
-                  <de><![CDATA[Nun, eine der Schlosswachen hielt ihm ein seltsam blitzendes Licht unter die Nase. Es gab ein sonderbares, summendes Geräusch von sich, wie ein dicker Käfer.]]></de>
+                  <de><![CDATA[Nun, eine der Burgwachen hielt ihm ein seltsam blinkendes Licht vor die Nase. Es gab ein sonderbares, summendes Geräusch von sich, wie ein widerwärtiger Käfer.]]></de>
                 </dia>
-                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0352">
-                  <en><![CDATA[Since then the sailor has merely been sitting on the docks staring out at the sea.]]></en>
-                  <de><![CDATA[Seitdem sitzt der Seemann stumm an den Docks und starrt hinaus auf das Meer.]]></de>
+                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0373">
+                  <en><![CDATA[Since then, the sailor has merely been sitting on the docks staring vacantly out at the sea.]]></en>
+                  <de><![CDATA[Seitdem sitzt der Seemann nur noch an den Docks und starrt hinaus auf das Meer.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -4972,8 +4972,8 @@
               </title>
               <dialog>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0360">
-                  <en><![CDATA[Nice worms! Lars Sigmundson is desperately searching for fresh bait ... maybe you can make a deal with him!]]></en>
-                  <de><![CDATA[Schöne Würmer! Lars Sigmundson ist verzweifelt auf der Suche nach frischen Ködern ... vielleicht können Sie ein gutes Geschäft mit ihm machen!]]></de>
+                  <en><![CDATA[Nice worms! Lars Sigmundson is desperately searching for fresh bait ... maybe you can make a deal with him.]]></en>
+                  <de><![CDATA[Schöne Würmer! Lars Sigmundson ist verzweifelt auf der Suche nach frischen Ködern ... vielleicht können Sie ein gutes Geschäft mit ihm machen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -5048,8 +5048,8 @@
                   <de><![CDATA[Ich bin sicher, dass sie den alten Mann in die Burg brachten. Und sie stellten ... irgendetwas ... mit dem Seemann an.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0371">
-                  <en><![CDATA[What do you mean, they did &#8222;something&#8220; to the sailor?]]></en>
-                  <de><![CDATA[Was meinen Sie mit sie stellten &#8222;irgendetwas&#8220; mit dem Seemann an?]]></de>
+                  <en><![CDATA[What do you mean, they did “something” to the sailor?]]></en>
+                  <de><![CDATA[Was meinen Sie mit sie stellten “irgendetwas” mit dem Seemann an?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0372">
                   <en><![CDATA[Well, one of the castle guards held a strange flashing light in front of him. It made a peculiar buzzing noise, like a vile beetle.]]></en>
@@ -5295,11 +5295,11 @@
                   <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0400">
-                  <en><![CDATA[Oh, that seems to be Captain Amayi’s ship log!]]></en>
+                  <en><![CDATA[Oh, that must be Captain Amayi’s ship log!]]></en>
                   <de><![CDATA[Oh, das scheint Captain Amayis Logbuch zu sein!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0401">
-                  <en><![CDATA[You should return it to her, Nigel! She will be very grateful, I’m sure.]]></en>
+                  <en><![CDATA[You should return it to her, Nigel! I’m sure she would be grateful.]]></en>
                   <de><![CDATA[Sie sollten es ihr zurückbringen, Nigel! Sie wird sehr dankbar sein. Dessen bin ich mir sicher.]]></de>
                 </dia>
               </dialog>
@@ -5317,9 +5317,9 @@
                 <de><![CDATA[Zeige #noun# #item#]]></de>
               </title>
               <dialog>
-                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0402">
-                  <en><![CDATA[Nice worms! Lars Sigmundson is desperately searching for fresh bait ... maybe you can make a good deal with him!]]></en>
-                  <de><![CDATA[Tolle Würmer! Lars Sigmundson ist verzweifelt auf der Suche nach frischen Ködern ... vielleicht können Sie ein gutes Geschäft mit ihm machen!]]></de>
+                <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0360">
+                  <en><![CDATA[Nice worms! Lars Sigmundson is desperately searching for fresh bait ... maybe you can make a deal with him.]]></en>
+                  <de><![CDATA[Schöne Würmer! Lars Sigmundson ist verzweifelt auf der Suche nach frischen Ködern ... vielleicht können Sie ein gutes Geschäft mit ihm machen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -6525,8 +6525,8 @@
               <de><![CDATA[Ah, das ist ein schmerzhaftes Thema für mich. Das Schloss hat mich aus dem Hafenverwaltungsbüro geworfen, als sie das Dorf abgeriegelt haben!]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0489">
-              <en><![CDATA[Until five months ago, Ravenhollow harbor was a lively trading and fishing port. Now the Castle forbids outsiders to even enter the village or the harbor.]]></en>
-              <de><![CDATA[Bis vor fünf Monaten war der Hafen von Ravenhollow ein lebendiger Handels- und Fischerhafen. Nun untersagt das Schloss Außenstehenden sogar den Zutritt zum Dorf und zum Hafen.]]></de>
+              <en><![CDATA[Until five months ago, Ravenhollow harbor was a lively trading port. Now the Castle forbids outsiders from even entering the harbor.]]></en>
+              <de><![CDATA[Bis vor fünf Monaten war der Hafen von Ravenhollow ein lebendiger Handelshafen. Nun untersagt das Schloss Außenstehenden sogar den Zutritt zum Hafen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0490">
               <en><![CDATA[Why would the Castle want to lock down the village?]]></en>
@@ -6555,9 +6555,9 @@
               <en><![CDATA[Tell me more about what happened to Dr. Coppelius and the sailor.]]></en>
               <de><![CDATA[Erzählen Sie mir nochmal, was mit Dr. Coppelius und dem Seemann passiert ist.]]></de>
             </dia>
-            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0494">
-              <en><![CDATA[Well, right after they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him up to the castle.]]></en>
-              <de><![CDATA[Nun, nachdem sie Sie in das Bootshaus gesperrt hatten, verhafteten Cain und seine Männer den alten Mann. Sie brachten ihn vermutlich in das Schloss.]]></de>
+            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0497">
+              <en><![CDATA[Right after they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him up to the castle.]]></en>
+              <de><![CDATA[Nachdem sie Sie in das Bootshaus gesperrt hatten, verhafteten Cain und seine Männer den alten Mann. Sie brachten ihn vermutlich in das Schloss.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0495">
               <en><![CDATA[I also fear that they did something harmful to the sailor.]]></en>
@@ -6579,8 +6579,8 @@
               <de><![CDATA[Was sagten Sie, ist mit Dr. Coppelius und dem Seemann geschehen?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0497">
-              <en><![CDATA[Well, right after they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him up to the castle.]]></en>
-              <de><![CDATA[Nun, nachdem sie Sie in das Bootshaus gesperrt hatten, verhafteten Cain und seine Männer den alten Mann. Sie brachten ihn vermutlich in das Schloss.]]></de>
+              <en><![CDATA[Right after they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him up to the castle.]]></en>
+              <de><![CDATA[Nachdem sie Sie in das Bootshaus gesperrt hatten, verhafteten Cain und seine Männer den alten Mann. Sie brachten ihn vermutlich in das Schloss.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0498">
               <en><![CDATA[I also fear that they did something harmful to the sailor.]]></en>

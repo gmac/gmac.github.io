@@ -95,7 +95,7 @@ module.exports.omitIndices = {
   'castle': [151],
   'cliff': [47],
   'global': [120, 194, 196, 197, 200, 607, 608, 609],
-  'harbor': [487, 517],
+  'harbor': [284, 285, 308, 487, 517],
   'inn': [23, 187, 356, 406],
   'treehouse': [162],
   'trelawney': [20]
