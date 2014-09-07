@@ -1180,8 +1180,8 @@
                   <de><![CDATA[Dieser Zug fährt direkt nach Mount Misery&#8212;zur größten und teuersten Testanlage des Smith-Instituts.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30024">
-                  <en><![CDATA[Vincent is heading to Mount Misery in the zeppelin ... to finish an experiment that we abandoned six years ago.]]></en>
-                  <de><![CDATA[Vincent ist im Zeppelin auf dem Weg nach Mount Misery ... um ein Experiment zu Ende zu führen, dass wir vor mehr als sechs Jahren aufgegeben haben.]]></de>
+                  <en><![CDATA[Vincent is heading to Mount Misery in the zeppelin ... to finish an experiment that we abandoned years ago.]]></en>
+                  <de><![CDATA[Vincent ist im Zeppelin auf dem Weg nach Mount Misery ... um ein Experiment zu Ende zu führen, dass wir vor mehr als Jahren aufgegeben haben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30025">
                   <en><![CDATA[So we can take this train to the mountain laboratory where Vincent is holding Nigel and Professor Smith?]]></en>
@@ -1236,11 +1236,11 @@
                   <de><![CDATA[Wir müssen diesen Code bekommen ... wir müssen das Foto finden!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30038">
-                  <en><![CDATA[But how? Nigel told me it was stolen by some girl that he met. Even he wouldn’t know where it is ...]]></en>
+                  <en><![CDATA[But how? Nigel told me it was stolen by some girl that he met. Even he wouldn’t know where it is now ...]]></en>
                   <de><![CDATA[Aber wie? Nigel erzählte mir, dass es von einem Mädchen gestohlen wurde, das er getroffen hatte. Selbst er würde nicht wissen, wo es ist ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30039">
-                  <en><![CDATA[We have to hurry! A storm is coming, so the lightning collectors atop Mount Misery could charge the Apparatus with enough energy to open a Rift tonight!]]></en>
+                  <en><![CDATA[We have to hurry! A storm is coming, and the lightning collectors atop Mount Misery could charge the Apparatus with enough energy to open a Rift tonight!]]></en>
                   <de><![CDATA[Wir müssen uns beeilen! Ein Sturm kommt auf, und wenn Vincent Glück hat, dann werden die Blitz-Attraktoren auf Mount Misery den Apparatus mit genügend Energie aufladen, um heute Abend einen Riss zu öffnen!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30040">
@@ -1248,8 +1248,8 @@
                   <de><![CDATA[Apparatus ... Riss ... was hat das alles zu bedeuten?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30041">
-                  <en><![CDATA[Well, we don’t know where the photograph is now ... but you said that Nigel was carrying it when you met him at the docks. So we know where it was ONCE.]]></en>
-                  <de><![CDATA[Nun, wir wissen nicht, wo das Foto ist ... aber du hast erwähnt, dass Nigel es noch bei sich hatte, als du ihn bei den Docks getroffen hastt ... also wissen wir, wo es EINMAL war.]]></de>
+                  <en><![CDATA[Well ... we don’t know where the photograph is now ... but you said that Nigel was carrying it when you met him at the docks. So we know where it was ONCE.]]></en>
+                  <de><![CDATA[Nun ... wir wissen nicht, wo das Foto ist ... aber du hast erwähnt, dass Nigel es noch bei sich hatte, als du ihn bei den Docks getroffen hastt ... also wissen wir, wo es EINMAL war.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30042">
                   <en><![CDATA[Are you saying ...]]></en>
@@ -1260,19 +1260,19 @@
                   <de><![CDATA[Vielleicht müssen wir wie Vincent denken. Nur dieses eine Mal.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="hspeak" sound="voice/catwalk3_voice.swf:catwalk30044">
-                  <en><![CDATA[We’d have to open our own rift to get the photograph.]]></en>
-                  <de><![CDATA[Wir müssen unseren eigenen Riss öffnen, um das Foto zu bekommen.]]></de>
+                  <en><![CDATA[We’d have to open our own Rift to get the photograph ...]]></en>
+                  <de><![CDATA[Wir müssen unseren eigenen Riss öffnen, um das Foto zu bekommen ...]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30045">
-                  <en><![CDATA[The power node in the swamp should still be charged ...]]></en>
-                  <de><![CDATA[Der Energieknoten im Sumpf sollte noch aufgeladen sein ...]]></de>
+                  <en><![CDATA[Yes, and the power node in the swamp should still be charged ...]]></en>
+                  <de><![CDATA[Ja, und der Energieknoten im Sumpf sollte noch aufgeladen sein ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30046">
                   <en><![CDATA[Where are you going? And what are you talking about?]]></en>
                   <de><![CDATA[Wohin gehen Sie denn jetzt wieder hin? Und wovon sprechen Sie?]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30047">
-                  <en><![CDATA[I think we have to get Nigel Trelawney’s photograph to activate the train and then follow Vincent to Mount Misery ... somehow.]]></en>
+                  <en><![CDATA[I think we have to get Nigel Trelawney’s photograph to activate this train, and then follow Vincent to Mount Misery ... somehow.]]></en>
                   <de><![CDATA[Ich glaube, wir müssen irgendwie Nigel Trelawneys Foto kriegen, um irgendwie den Zug zu aktivieren, um Vincent zum Mount Misery zu folgen.]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30048">
@@ -1389,7 +1389,7 @@
               </title>
               <dialog>
                 <dia puppet="slappy" frame="speak6" sound="voice/catwalk3_voice.swf:catwalk30050">
-                  <en><![CDATA[William, I will enter the password now.]]></en>
+                  <en><![CDATA[William, I’ll enter the password now.]]></en>
                   <de><![CDATA[William, ich werde das Passwort jetzt eingeben.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak6" sound="voice/catwalk3_voice.swf:catwalk30051">

@@ -1453,12 +1453,12 @@
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0073">
-              <en><![CDATA[867,9982718876 .... ]]></en>
+              <en><![CDATA[867.9982718876 .... ]]></en>
               <de><![CDATA[867,9982718876 ...]]></de>
             </dia>
             <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0074">
-              <en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en>
-              <de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de>
+              <en><![CDATA[I don’t believe it ... Nigel! Come in!]]></en>
+              <de><![CDATA[Ich glaube es nicht ... Nigel! Komm herein!]]></de>
             </dia>
           </dialog>
           <script>
@@ -1474,12 +1474,12 @@
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0075">
-              <en><![CDATA[867,9982718876 .... ]]></en>
+              <en><![CDATA[867.9982718876 .... ]]></en>
               <de><![CDATA[867,9982718876 ...]]></de>
             </dia>
             <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0076">
-              <en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en>
-              <de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de>
+              <en><![CDATA[I don’t believe it ... Nigel! Come in!]]></en>
+              <de><![CDATA[Ich glaube es nicht ... Nigel! Komm herein!]]></de>
             </dia>
           </dialog>
           <script>
@@ -1495,12 +1495,12 @@
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0077">
-              <en><![CDATA[867,9982718876 .... ]]></en>
+              <en><![CDATA[867.9982718876 .... ]]></en>
               <de><![CDATA[867,9982718876 ...]]></de>
             </dia>
             <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0078">
-              <en><![CDATA[I don’t believe it ... Nigel!! Come in!]]></en>
-              <de><![CDATA[Ich glaube es nicht ... Nigel!! Komm herein!]]></de>
+              <en><![CDATA[I don’t believe it ... Nigel! Come in!]]></en>
+              <de><![CDATA[Ich glaube es nicht ... Nigel! Komm herein!]]></de>
             </dia>
           </dialog>
           <script>
@@ -1545,8 +1545,8 @@
               <de><![CDATA[Darf ich fragen, was für eine Beziehung Sie zu Gott haben?]]></de>
             </dia>
             <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0065">
-              <en><![CDATA[No, you may not!]]></en>
-              <de><![CDATA[Nein, dürfen Sie nicht!]]></de>
+              <en><![CDATA[No, you may not you zealot!]]></en>
+              <de><![CDATA[Nein, dürfen Sie nicht sie Eiferer!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0066">
               <en><![CDATA[What a rude man ...]]></en>
@@ -1595,8 +1595,8 @@
               <de><![CDATA[Okay, wie kann ich Ihnen beweisen, dass ich Anthony Trelawneys Sohn bin?]]></de>
             </dia>
             <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0072">
-              <en><![CDATA[Hmmm ... okay then &#8222;Nigel&#8220;, what’s the square root of 753421?]]></en>
-              <de><![CDATA[Hmmm ... okay, &#8222;Nigel&#8220;, was ist die Quadratwurzel aus 753421?]]></de>
+              <en><![CDATA[Hmmm ... okay then “Nigel”, what’s the square root of 753,421?]]></en>
+              <de><![CDATA[Hmmm ... okay, “Nigel”, was ist die Quadratwurzel aus 753421?]]></de>
             </dia>
           </dialog>
           <script>

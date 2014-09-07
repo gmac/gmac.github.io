@@ -1133,7 +1133,7 @@
                   <de><![CDATA[Anthony Trelawney?! Bist du das? ... LEBENDIG?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="hspeak" sound="voice/mtstation_voice.swf:mtstation0039">
-                  <en><![CDATA[Anthony! Good to see you still kicking old chap!]]></en>
+                  <en><![CDATA[Anthony! Good to see you still kicking, old chap!]]></en>
                   <de><![CDATA[Anthony! Es ist gut, dich am Leben zu sehen, alter Freund!]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="" sound="voice/mtstation_voice.swf:mtstation0040">
@@ -1241,16 +1241,16 @@
                   <de><![CDATA[Was? Nein ... wie konnte er hierher gelangen? Ich habe den Code für den Zug geändert!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="lspeak" sound="voice/mtstation_voice.swf:mtstation0066">
-                  <en><![CDATA[He stole my Zeppelin ... and he kidnapped Nigel ... your son Nigel. He came to Ravenhollow to handle your estate Anthony, and he fell right in Vincent’s trap.]]></en>
-                  <de><![CDATA[Er hat meinen Zeppelin gestohlen ... und Nigel entführt ... deinen Sohn Nigel. Er kam nach Ravenhollow, um deinen Nachlass zu regeln, Anthony, und er lief direkt in Vincents Falle.]]></de>
+                  <en><![CDATA[He stole my Zeppelin ... and he kidnapped Nigel, your son. Nigel came to Ravenhollow to handle your estate Anthony, and he fell right in Vincent’s trap.]]></en>
+                  <de><![CDATA[Er hat meinen Zeppelin gestohlen ... und Nigel entführt, deinen Sohn. Nigel kam nach Ravenhollow, um deinen Nachlass zu regeln, Anthony, und er lief direkt in Vincents Falle.]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="hspeak" sound="voice/mtstation_voice.swf:mtstation0067">
                   <en><![CDATA[No!]]></en>
                   <de><![CDATA[Nein!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0068">
-                  <en><![CDATA[And if I had to guess, I’d say that Vincent’s arrival here is the reason you were locked in that elevator.]]></en>
-                  <de><![CDATA[Und ich glaube, dass Vincents Ankunft hier der Grund ist, warum du in diesem Aufzug eingesperrt warst.]]></de>
+                  <en><![CDATA[And if I had to guess, Anthony, then I’d say Vincent’s arrival here is the reason you were locked in that elevator.]]></en>
+                  <de><![CDATA[Und ich glaube, Anthony, dass Vincents Ankunft hier der Grund ist, warum du in diesem Aufzug eingesperrt warst.]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="cspeak4" sound="voice/mtstation_voice.swf:mtstation0069">
                   <en><![CDATA[Nigel!]]></en>
@@ -1911,11 +1911,11 @@
                   <de><![CDATA[Haben Sie eine Ahnung, was ich tun kann, um den Strom wieder zum Laufen zu bringen?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0098">
-                  <en><![CDATA[You will have to find out why the grid is down and fix the problem.]]></en>
-                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist und das Problem beheben.]]></de>
+                  <en><![CDATA[You’ll have to find where the grid is damaged, and then fix the short.]]></en>
+                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist, und das Problem beheben.]]></de>
                 </dia>
-                <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0099">
-                  <en><![CDATA[Then you should be able to manage the power flow using the control panel in the maintenance booth.]]></en>
+                <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0103">
+                  <en><![CDATA[After that, you should be able to manage the station's power flow within the control booth.]]></en>
                   <de><![CDATA[Dann sollte es möglich sein, den Stromfluss über das Bedienfeld in der Wartungskabine zu steuern.]]></de>
                 </dia>
               </dialog>
@@ -1969,12 +1969,12 @@
                   <en><![CDATA[Do you have any idea what I can do to bring the power back on?]]></en>
                   <de><![CDATA[Hast du eine Ahnung, was ich tun kann, um den Strom wieder zum Laufen zu kriegen?]]></de>
                 </dia>
-                <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0102">
-                  <en><![CDATA[You will have to find out why the grid is down and fix the problem.]]></en>
-                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist und das Problem beheben.]]></de>
+                <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0098">
+                  <en><![CDATA[You’ll have to find where the grid is damaged, and then fix the short.]]></en>
+                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist, und das Problem beheben.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0103">
-                  <en><![CDATA[Then you should be able to manage the power flow using the control panel in the maintenance booth.]]></en>
+                  <en><![CDATA[After that, you should be able to manage the station's power flow within the control booth.]]></en>
                   <de><![CDATA[Dann sollte es möglich sein, den Stromfluss über das Bedienfeld in der Wartungskabine zu steuern.]]></de>
                 </dia>
               </dialog>
@@ -2025,11 +2025,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0105">
-                  <en><![CDATA[Say, what do I have to do now?]]></en>
+                  <en><![CDATA[Dr. LeMue-LaFayette, what do I need to do now?]]></en>
                   <de><![CDATA[Sagen Sie mir, was ich jetzt tun muss!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0106">
-                  <en><![CDATA[You will have to manually reroute the energy from the lightning collectors to the station down here to do destabilize the time rift!]]></en>
+                  <en><![CDATA[You should re-route all energy from the lightning collectors into this station, and then draw off enough power to destabilize Vincent’s Rift!]]></en>
                   <de><![CDATA[Du musst die Energie des Blitzkollektors manuell zur Bahn hier unten umleiten, um den Zeitriss zu destabilisieren!]]></de>
                 </dia>
               </dialog>
@@ -2310,7 +2310,7 @@
                   <de><![CDATA[Wenn wir hier unten an der Bahnstation genügend Anlagen aktivieren, werden wir genug Energie abziehen, um seinen Zeitriss zu destabilisieren!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0121">
-                  <en><![CDATA[Bravo, Coppelius! That’s a smashing idea ... an unstable rift would warp Vincent into oblivion!]]></en>
+                  <en><![CDATA[Bravo, Coppelius! That’s a brilliant idea ... an unstable Rift would warp Vincent into oblivion!]]></en>
                   <de><![CDATA[Bravo, Coppelius! Das ist eine sehr gute Idee ... ein instabiler Riss würde Vincent in seinen eigenen Untergang am Rand der Zeit schleudern!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0122">
@@ -2645,7 +2645,7 @@
                   <de><![CDATA[Hier oben ist es echt kalt!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0140">
-                  <en><![CDATA[We are right underneath the top of Mount Misery. ]]></en>
+                  <en><![CDATA[We’re right at the summit of Mount Misery. ]]></en>
                   <de><![CDATA[Wir sind direkt unter dem Gipfel von Mount Misery.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0141">
@@ -2669,7 +2669,7 @@
                   <de><![CDATA[Das Stromnetz ist ausgefallen ...]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0146">
-                  <en><![CDATA[That means the elevator that leads to the test site on top of the mountain isn’t working either.]]></en>
+                  <en><![CDATA[That means the elevator leading to the test site above us isn’t working either.]]></en>
                   <de><![CDATA[Das bedeutet, dass der Aufzug, der zum Testgelände auf dem Gipfel des Berges führt, auch nicht funktioniert.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0147">
