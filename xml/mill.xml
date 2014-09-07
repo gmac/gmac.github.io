@@ -1162,17 +1162,17 @@
                   <en><![CDATA[Uncle Slappy?]]></en>
                   <de><![CDATA[Onkel Slappy?]]></de>
                 </dia>
-                <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0045">
-                  <en><![CDATA[Oh ... I must have dozed off.]]></en>
-                  <de><![CDATA[Oh ... Ich muss eingenickt sein.]]></de>
+                <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0087">
+                  <en><![CDATA[Oh, sorry Nigel. I must have dozed off there for a minute.]]></en>
+                  <de><![CDATA[Oh, entschuldige Nigel. Ich muss für eine Minute eingenickt sein.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0046">
                   <en><![CDATA[Can I talk to you for a minute?]]></en>
                   <de><![CDATA[Kann ich kurz mit dir reden?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="hspeak" sound="voice/mill_voice.swf:mill0047">
-                  <en><![CDATA[Sure, Nigel! What’s on your mind?]]></en>
-                  <de><![CDATA[Natürlich, Nigel! Was hast du denn?]]></de>
+                  <en><![CDATA[Sure, what’s on your mind?]]></en>
+                  <de><![CDATA[Natürlich, was hast du denn?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1212,16 +1212,16 @@
                   <en><![CDATA[What was this remote control again, Uncle Slappy?]]></en>
                   <de><![CDATA[Was war noch gleich diese Fernbedienung, Onkel Slappy?]]></de>
                 </dia>
-                <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0050">
-                  <en><![CDATA[Huh ... What? Oh, that old thing? That’s a multi&#8212;purpose remote control that I built back in the Institute days.]]></en>
-                  <de><![CDATA[Oh ... Was? Oh, das alte Ding? Das ist eine Mehrzweck-Fernbedienung, die ich damals zu meiner Zeit im Institut gebaut habe.]]></de>
+                <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0088">
+                  <en><![CDATA[That old thing? That’s a multi-purpose remote control that I built back in the Institute days.]]></en>
+                  <de><![CDATA[Das alte Ding? Das ist eine Mehrzweck-Fernbedienung, die ich damals zu meiner Zeit im Institut gebaut habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0051">
-                  <en><![CDATA[A multi&#8212;purpose remote control, hu? That sounds useful.]]></en>
+                  <en><![CDATA[A multi-purpose remote control, hu? That sounds useful.]]></en>
                   <de><![CDATA[Aha, eine Mehrzweck-Fernbedienung? Klingt nützlich.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0052">
-                  <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it.]]></en>
+                  <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it!]]></en>
                   <de><![CDATA[Das war sie ... obwohl dein Vater und Professor Smith mich für die Erfindung oft verflucht haben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0053">
@@ -1229,16 +1229,16 @@
                   <de><![CDATA[Warum das denn?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0054">
-                  <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you were expecting.]]></en>
+                  <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you’d expect.]]></en>
                   <de><![CDATA[Nun, ich programmierte sie so, dass sie bei fast jedem Gerät im Smith-Institut funktioniert ... wenn man eine Taste drückt, aktiviert sie manchmal mehr als erwartet.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0055">
-                  <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector while standing beside one of my experimental hot air balloons.]]></en>
+                  <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector, while standing beside one of my experimental hot air balloons.]]></en>
                   <de><![CDATA[Ich erinnere mich, dass dein Vater sie zur Aktivierung unseres Blitzsammlers benutzte, während er neben einem meiner experimentellen Heißluftballons stand.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0056">
-                  <en><![CDATA[Hehehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat and launched my crash&#8212;test dummy into his face. Imagine his surprise!]]></en>
-                  <de><![CDATA[Hehehe ... armer Anthony. Er löste versehentlich den Schleudersitz des Ballons aus und mein Crash-Dummy schoss ihm entgegen. Was für ein Tag!]]></de>
+                  <en><![CDATA[Hehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat, and launched my crash-test dummy into his face. What a surprise!]]></en>
+                  <de><![CDATA[Hehe ... armer Anthony. Er löste versehentlich den Schleudersitz des Ballons aus und mein Crash-Dummy schoss ihm entgegen. Was für ein Tag!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0057">
                   <en><![CDATA[Ha ha ... good story.]]></en>
@@ -1324,8 +1324,8 @@
                   <de><![CDATA[Diese Männer haben die Mühle gestürmt und meinen Zeppelin gestohlen!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="lspeak" sound="voice/mill_voice.swf:mill0062">
-                  <en><![CDATA[They said they were working for the Baron and that they’d confiscate my zeppelin because I helped to recover that statue from the river.]]></en>
-                  <de><![CDATA[Sie sagten, dass sie für den Baron arbeiten und meinen Zeppelin beschlagnahmen, weil ich half, die Statue aus dem Fluss zu bergen.]]></de>
+                  <en><![CDATA[They said they were working for the Baron, and that they were confiscating my zeppelin because I recovered that statue from the river.]]></en>
+                  <de><![CDATA[Sie sagten, dass sie für den Baron arbeiten, und meinen Zeppelin beschlagnahmen, weil ich half, die Statue aus dem Fluss zu bergen.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0063">
                   <en><![CDATA[I’m lost without my zeppelin ... and I fear that she’s lost without me. If they do something to my zeppelin ...]]></en>
@@ -1340,8 +1340,8 @@
                   <de><![CDATA[Es ist nicht deine Schuld, Nigel! Du darfst niemals denken, dass es deine Schuld war!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0066">
-                  <en><![CDATA[Oh ... and for some reason the men who took my zeppelin left this for you.]]></en>
-                  <de><![CDATA[Oh ... und aus irgendeinem Grund haben die Männer, die meinen Zeppelin gestohlen haben, dir das hier hinterlassen.]]></de>
+                  <en><![CDATA[Oh, and for some reason the men who took my zeppelin left this for you ...]]></en>
+                  <de><![CDATA[Oh, und aus irgendeinem Grund haben die Männer, die meinen Zeppelin gestohlen haben, dir das hier hinterlassen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0067">
                   <en><![CDATA[The castle guards gave you a letter with my name on it? What the heck is that about?]]></en>
@@ -1723,36 +1723,36 @@
                   <de><![CDATA[Was ist das hier für eine Fernsteuerung, Onkel Slappy?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0087">
-                  <en><![CDATA[Oh, sorry Nigel. I must have nodded off there for a minute.]]></en>
+                  <en><![CDATA[Oh, sorry Nigel. I must have dozed off there for a minute.]]></en>
                   <de><![CDATA[Oh, entschuldige Nigel. Ich muss für eine Minute eingenickt sein.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0088">
-                  <en><![CDATA[That old thing? That’s a multi&#8212;purpose remote control that I built back in the Institute days.]]></en>
+                  <en><![CDATA[That old thing? That’s a multi-purpose remote control that I built back in the Institute days.]]></en>
                   <de><![CDATA[Das alte Ding? Das ist eine Mehrzweck-Fernbedienung, die ich damals zu meiner Zeit im Institut gebaut habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0089">
-                  <en><![CDATA[A multi&#8212;purpose remote control, hu? That sounds useful.]]></en>
+                  <en><![CDATA[A multi-purpose remote control, hu? That sounds useful.]]></en>
                   <de><![CDATA[Aha, eine Mehrzweck-Fernbedienung? Klingt nützlich.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0090">
-                  <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it.]]></en>
+                  <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it!]]></en>
                   <de><![CDATA[Das war sie ... obwohl dein Vater und Professor Smith mich für die Erfindung öfters verflucht haben.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0091">
-                  <en><![CDATA[Really? Why?]]></en>
-                  <de><![CDATA[Wirklich? Warum?]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0053">
+                  <en><![CDATA[Why was that?]]></en>
+                  <de><![CDATA[Warum das denn?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0092">
-                  <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you were expecting.]]></en>
+                  <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you’d expect.]]></en>
                   <de><![CDATA[Nun, ich programmierte sie so, dass sie bei fast jedem Gerät im Smith-Institut funktionierte ... wenn man die Taste drückt, aktiviert sie manchmal mehr als erwartet.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0093">
-                  <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector while standing beside one of my experimental hot air balloons.]]></en>
+                  <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector, while standing beside one of my experimental hot air balloons.]]></en>
                   <de><![CDATA[Ich erinnere mich, dass dein Vater sie zur Aktivierung unseres Blitzsammlers benutzte, während er neben einem meiner experimentellen Heißluftballons stand.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0094">
-                  <en><![CDATA[Hehehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat and launched my crash&#8212;test dummy into his face. Imagine his surprise!]]></en>
-                  <de><![CDATA[Hehehe ... armer Anthony. Er löste versehentlich den Schleudersitz des Ballons aus und mein Crash-Dummy schoss ihm entgegen. Was für ein Tag!]]></de>
+                  <en><![CDATA[Hehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat, and launched my crash-test dummy into his face. What a surprise!]]></en>
+                  <de><![CDATA[Hehe ... armer Anthony. Er löste versehentlich den Schleudersitz des Ballons aus und mein Crash-Dummy schoss ihm entgegen. Was für ein Tag!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0095">
                   <en><![CDATA[Do you mind if I borrow the remote?]]></en>
@@ -1821,11 +1821,11 @@
               </title>
               <dialog>
                 <dia puppet="slappy" frame="speak1" sound="voice/mill_voice.swf:mill0097">
-                  <en><![CDATA[So it was really you who radioed me yesterday!]]></en>
+                  <en><![CDATA[So it really was you who radioed me yesterday!]]></en>
                   <de><![CDATA[Also hast du mich gestern angefunkt!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="speak1" sound="voice/mill_voice.swf:mill0098">
-                  <en><![CDATA[You really must be Nigel Trelawney ... your father couldn’t control his mathematical reflex either ...]]></en>
+                  <en><![CDATA[You must be Nigel Trelawney ... your father couldn’t control his mathematical reflex either ...]]></en>
                   <de><![CDATA[Du musst wirklich Nigel Trelawney sein ... dein Vater konnte seinen mathematischen Reflex auch nicht kontrollieren ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0099">
@@ -1845,19 +1845,19 @@
                   <de><![CDATA[Nigel, erkennst du mich nicht? Nein, natürlich nicht, du und deine Mutter habt Ravenhollow vor mehr als ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0103">
-                  <en><![CDATA[Twenty years ago ... ]]></en>
-                  <de><![CDATA[... zwanzig Jahren verlassen ...]]></de>
+                  <en><![CDATA[Twenty years ago.]]></en>
+                  <de><![CDATA[Zwanzig Jahren verlassen.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="speak1" sound="voice/mill_voice.swf:mill0104">
-                  <en><![CDATA[Has it been that long already? Well then of course you wouldn’t remember how I rocked you on my knee when you were five and we sang &#8222;Old MacDonald had a farm&#8220; together ...]]></en>
-                  <de><![CDATA[Ist das schon so lange her? Dann kannst du dich auch nicht daran erinnern, wie ich dich auf meinen Knien geschaukelt habe und wir zusammen &#8222;Old MacDonald hat ne Farm&#8220; gesungen haben ...]]></de>
+                  <en><![CDATA[Has it been that long already? Well then, of course you wouldn’t remember how I rocked you on my knee and we sang &#8222;Old MacDonald&#8220; together ...]]></en>
+                  <de><![CDATA[Ist das schon so lange her? Dann kannst du dich auch nicht daran erinnern, wie ich dich auf meinen Knien geschaukelt habe und wir zusammen &#8222;Old MacDonald&#8220; gesungen haben ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0105">
                   <en><![CDATA[Old MacDonald? ... Wait a minute, are you ... Uncle Slappy?!]]></en>
                   <de><![CDATA[Old MacDonald? ... Sekunde mal, bist du ... Onkel Slappy?!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0106">
-                  <en><![CDATA[Yes! Henry &#8222;Slappy&#8220; LeMue LaFayette ... or, as I’m known in many other parts of the world: &#8222;the Zeppelin Man&#8220;. Hahaha.]]></en>
+                  <en><![CDATA[Yes! Henry &#8222;Slappy&#8220; LeMue LaFayette ... or, as I’m known in many other parts of the world: &#8222;The Zeppelin Man&#8220;. Hahaha.]]></en>
                   <de><![CDATA[Ja! Henry &#8222;Slappy&#8220; LeMue LaFayette ... oder, wie man mich in vielen anderen Teilen der Welt nennt: &#8222;Der Zeppelin-Mann&#8220;. Hahaha.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0107">
@@ -1865,8 +1865,8 @@
                   <de><![CDATA[Dann hast du wohl den Funkspruch aus dem Haus deines Vaters gesendet ... Ich flog in meinem Zeppelin hierher, sobald ich die Nachricht empfangen hatte ...]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0108">
-                  <en><![CDATA[I haven’t been in Ravenhollow for more than nine months ... I left shortly after your father ... er, well ... after we lost him.]]></en>
-                  <de><![CDATA[Ich war seit über neun Monaten nicht mehr in Ravenhollow ... Ich ging kurz nach dem dein Vater ... na ja ... nachdem wir ihn verloren hatten.]]></de>
+                  <en><![CDATA[I haven’t been in Ravenhollow for more than nine months. I left shortly after your father ... well, ... after we lost him.]]></en>
+                  <de><![CDATA[Ich war seit über neun Monaten nicht mehr in Ravenhollow. Ich ging kurz nach dem dein Vater ... na ja, ... nachdem wir ihn verloren hatten.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0109">
                   <en><![CDATA[Give me just a minute ... I need to get this pilot cap off my head.]]></en>
@@ -1877,7 +1877,7 @@
                   <de><![CDATA[Ah, viel besser.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0111">
-                  <en><![CDATA[I guess you have a lot of questions, Nigel ... but before I forget. Your father wanted you to have this:]]></en>
+                  <en><![CDATA[I supose you have a lot of questions, Nigel ... but before I forget. Your father wanted you to have this:]]></en>
                   <de><![CDATA[Du hast sicher viele Fragen, Nigel ... aber bevor ich es vergesse. Dein Vater wollte, dass du das hier bekommst:]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0112">
@@ -1885,7 +1885,7 @@
                   <de><![CDATA[Ein Medaillon?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0113">
-                  <en><![CDATA[Your father gave it to me shortly before he ... passed away. He told me he wanted you to have this.]]></en>
+                  <en><![CDATA[Your father gave it to me shortly before he ... passed away. He told me he wanted you to have it.]]></en>
                   <de><![CDATA[Dein Vater gab es mir, kurz bevor er ... von uns ging. Er sagte, er will, dass du das hier bekommst.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0114">
@@ -1961,19 +1961,19 @@
               <de><![CDATA[Kanntest du meinen Vater gut? Er hat nie Kontakt zu meiner Mutter aufgenommen und ich ...]]></de>
             </dia>
             <dia puppet="slappy" frame="hspeak" sound="voice/mill_voice.swf:mill0121">
-              <en><![CDATA[Anthony was a good friend of mine. And I can tell you that he regretted losing you and your mother every day.]]></en>
-              <de><![CDATA[Anthony war ein guter Freund. Und ich kann dir sagen, dass er es jeden Tag bereut hat, dich und deine Mutter zu verlieren.]]></de>
+              <en><![CDATA[Anthony was a good friend of mine, and I can tell you that he regretted losing you and your mother every day.]]></en>
+              <de><![CDATA[Anthony war ein guter Freund, und ich kann dir sagen, dass er es jeden Tag bereut hat, dich und deine Mutter zu verlieren.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0122">
               <en><![CDATA[She was right to leave with you, Nigel ... Your father was never what you might call a &#8222;family man&#8220;. Maybe that’s why he moved out here to Ravenhollow in the first place.]]></en>
               <de><![CDATA[Es war richtig, dass sie mit dir fortgegangen ist, Nigel ... Dein Vater war nie ein &#8222;Familienmensch&#8220;. Vielleicht kam er deshalb überhaupt erst hierher nach Ravenhollow.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0123">
-              <en><![CDATA[But he loved you and your mother. Unfortunately, he didn’t realize at the time that he spent too much time working and not enough time caring for his family. ]]></en>
+              <en><![CDATA[But he loved you and your mother. Unfortunately, he didn’t realize at the time that he spent too much time working, and not enough time with his family.]]></en>
               <de><![CDATA[Aber er hat dich und deine Mutter geliebt. Leider hat er damals nicht erkannt, dass er viel zu viel Zeit mit seiner Arbeit hat.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0124">
-              <en><![CDATA[Only after it was too late did he realize that it had been his own fault that he lost you two, but he didn’t dare to go after you ... he wasn’t sure if he could ever really become a better father or husband. ]]></en>
+              <en><![CDATA[Only after it was too late did he realize his mistake, but then he didn’t dare go after you ... he wasn’t convinced that he could ever become a better father or husband.]]></en>
               <de><![CDATA[Erst als es zu spät war, erkannte er, dass es seine Schuld war. Aber er hatte nicht den Mut, dich zu suchen ... er war sich nicht sicher, ob er jemals ein besserer Vater oder Ehemann werden könnte.]]></de>
             </dia>
           </dialog>
@@ -1992,11 +1992,11 @@
               <de><![CDATA[Weißt du, wie mein Vater starb?]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0126">
-              <en><![CDATA[Anthony spent most of his time at home after the Institute was closed down.]]></en>
+              <en><![CDATA[Anthony spent most of his time at home after the Institute closed down.]]></en>
               <de><![CDATA[Anthony verbrachte nach der Schließung des Instituts viel Zeit zu Hause.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0127">
-              <en><![CDATA[He became very reclusive and I only saw him from time to time ... he began to take day&#8212;long hiking trips off into the mountains. ]]></en>
+              <en><![CDATA[He became very reclusive, and I only saw him from time to time ... he began to take day-long hiking trips off into the mountains. ]]></en>
               <de><![CDATA[Er zog sich sehr zurück und ich sah ihn nur noch selten ... er unternahm tagelange Wanderungen in die Berge.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0128">
@@ -2027,11 +2027,11 @@
               <de><![CDATA[Warum hat das Smith-Institut vor fünf Jahren geschlossen?]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0132">
-              <en><![CDATA[As I said ... we realized that many of our ground&#8212;breaking inventions might be misused, so we decided to abandon our research and destroy most of the prototypes and research plans.]]></en>
+              <en><![CDATA[As I said ... we realized that many of our ground-breaking inventions might be misused, so we abandoned our research and destroy most of our plans and prototypes.]]></en>
               <de><![CDATA[Wie ich bereits sagte ... wir erkannten, dass viele unserer bahnbrechenden Erfindungen missbraucht werden könnten, sodass wir beschlossen, unsere Forschung aufzugeben.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0133">
-              <en><![CDATA[... this way we would avoid having them fall into the wrong hands.]]></en>
+              <en><![CDATA[... that way we would avoid having them fall into the wrong hands.]]></en>
               <de><![CDATA[... wir wollten verhindern, dass unsere Erfindungen in die falschen Hände geraten. Wir haben alles zerstört.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0134">
@@ -2047,7 +2047,7 @@
               <de><![CDATA[Einer der neun Wissenschaftler war ein Mann namens Vincent Goodchild.]]></de>
             </dia>
             <dia puppet="slappy" frame="lspeak" sound="voice/mill_voice.swf:mill0137">
-              <en><![CDATA[Vincent proposed that we use our inventions to overthrow the government and to steal money ... he told us that superior minds should hold superior positions in our society.]]></en>
+              <en><![CDATA[Vincent proposed that we use our research to overthrow the government and seize capital ... he told us that superior minds should hold superior positions in our society.]]></en>
               <de><![CDATA[Vincent schlug vor, dass wir unsere Erfindungen nutzen, um die Regierung zu stürzen und Geld zu stehlen ... er sagte uns, dass überlegene Geister überlegene Positionen in unserer Gesellschaft einnehmen sollten.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0138">
@@ -2067,7 +2067,7 @@
               <de><![CDATA[Schlösser wurden aufgebrochen, Pläne gestohlen, und es wurde schließlich klar, dass Vincent alles tun würde, um unser Wissen zu erlangen.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0142">
-              <en><![CDATA[My colleagues and I finally agreed that it was only a matter of time before he would make a move to take our inventions by force ... so we decided to close the Institute and destroy the prototypes of our most important developments.]]></en>
+              <en><![CDATA[My colleagues and I finally agreed that it was only a matter of time before he would make a move to take our work by force ... so we decided to close the Institute and destroy the prototypes of our most important developments.]]></en>
               <de><![CDATA[Meine Kollegen und ich waren uns schließlich einig, dass es nur eine Frage der Zeit war, bevor er unsere Erfindungen mit Gewalt stehlen würde ... also beschlossen wir, das Institut zu schließen und die Prototypen unserer wichtigsten Entwicklungen zu zerstören.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0143">
@@ -2150,15 +2150,15 @@
               <de><![CDATA[Du hattest einen Siegelring, oder? ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0166">
-              <en><![CDATA[I most certainly did, although I lost it in the woods two years ago while my brother, Steven, and I were doing some balloon testing ...]]></en>
+              <en><![CDATA[I most certainly did, although I lost it in the woods several years ago while my brother, Steven, and I were testing balloons ...]]></en>
               <de><![CDATA[Ich hatte einen, aber ich habe ihn vor zwei Jahren im Wald verloren, als mein Bruder und ich einige Ballontests durchführten ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0167">
-              <en><![CDATA[I used to put my ring on Carl, our flight test dummy. As a good luck charm. One day Carl crashed into the woods with our balloon. That was our last flight test ...]]></en>
-              <de><![CDATA[Ich steckte den Ring immer Carl an, unserem Flugtest-Dummy. Als Glücksbringer. Eines Tages stürzte Carl mit unserem Ballon im Wald ab. Das war unser letzter Flugtest ...]]></de>
+              <en><![CDATA[I used to put my ring on our flight test dummy, Carl, as a good luck charm. One day Carl crashed into the woods with our balloon ... that was our final flight test.]]></en>
+              <de><![CDATA[Ich steckte den Ring immer Carl an, unserem Flugtest-Dummy. Als Glücksbringer. Eines Tages stürzte Carl mit unserem Ballon im Wald ab ... das war unser letzter Flugtest.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0168">
-              <en><![CDATA[However, I didn’t bother to look for the balloon or the ring since the days of the Institute were over and it only served to bring back painful memories.]]></en>
+              <en><![CDATA[I didn’t bother to look for the balloon, or the ring for that matter. With the days of the Institute coming to an end, they would only bring back painful memories.]]></en>
               <de><![CDATA[Aber ich habe mir nicht die Mühe gemacht, nach dem Ballon oder dem Ring zu suchen, da die Zeit des Instituts schließlich endgültig vorbei war ...]]></de>
             </dia>
           </dialog>
@@ -2181,7 +2181,7 @@
               <de><![CDATA[Der Ring meines Bruders? Klar, der steckt in der Wand dort über der Hängematte.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0171">
-              <en><![CDATA[He placed it in that wall crack before taking a nap once, and we haven’t been able to pry it out since.]]></en>
+              <en><![CDATA[He placed it in that crack before taking a nap once, and we haven’t been able to pry it out since.]]></en>
               <de><![CDATA[Er steckte ihn mal in den Spalt in der Wand, bevor er ein Nickerchen machte. Seitdem haben wir es nicht geschafft, ihn dort wieder herauszubekommen.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0172">
@@ -2212,7 +2212,7 @@
               <de><![CDATA[Vincent? Puh ... bei diesem Namen kriege ich immer noch eine Gänsehaut!]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0176">
-              <en><![CDATA[No, I don’t know where his ring might be. For all I know he’s still wearing it.]]></en>
+              <en><![CDATA[No, I don’t know where his ring might be. For all I know, he may still be wearing it.]]></en>
               <de><![CDATA[Nein, ich weiß nicht, wo sein Ring sein könnte. Soweit ich weiß, trägt er ihn noch.]]></de>
             </dia>
           </dialog>
@@ -2235,8 +2235,8 @@
               <de><![CDATA[Ich denke, Leonard ließ die meisten seiner Habseligkeiten im Institut, bevor er Ravenhollow verließ.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0179">
-              <en><![CDATA[As the pioneer of the Smith Institute, I believe it was very hard for him to leave it all behind ... he had encouraged the rest of us to establish the Institute with him.]]></en>
-              <de><![CDATA[Als Pionier des Smith-Instituts war es sicher sehr schwer für ihn, alles hinter sich zu lassen ... er hatte uns alle ermutigt, das Institut mit ihm aufzubauen.]]></de>
+              <en><![CDATA[As the pioneer of the Smith Institute, I believe it was very hard for him to leave it all behind ...]]></en>
+              <de><![CDATA[Als Pionier des Smith-Instituts war es sicher sehr schwer für ihn, alles hinter sich zu lassen ...]]></de>
             </dia>
           </dialog>
           <script>
@@ -2291,11 +2291,11 @@
               <de><![CDATA[Ich glaube, dass Lowell Cain und seine Männer es mir schwer machen wollen. Sie arbeiten für den Baron.]]></de>
             </dia>
             <dia puppet="slappy" frame="hspeak" sound="voice/mill_voice.swf:mill0161">
-              <en><![CDATA[Baron Northwest? But he’s never had any real political power. ]]></en>
-              <de><![CDATA[Baron Nordwest? Er hatte aber nie wirklich politische Macht.]]></de>
+              <en><![CDATA[Baron Northwest? But he’s never had any real political power ...]]></en>
+              <de><![CDATA[Baron Nordwest? Er hatte aber nie wirklich politische Macht ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0162">
-              <en><![CDATA[It seems that Ravenhollow has had many changes take place since I left in my Zeppelin after your father’s death.]]></en>
+              <en><![CDATA[It seems that much has changed in Ravenhollow since I left in my Zeppelin after your father’s death.]]></en>
               <de><![CDATA[In Ravenhollow hat es anscheinend viele Veränderungen gegeben, seit ich nach dem Tod deines Vaters in meinem Zeppelin fortgeflogen bin.]]></de>
             </dia>
           </dialog>
@@ -2358,7 +2358,7 @@
               <de><![CDATA[Es gab kein Problem, das wir Neun nicht lösen konnten, und kein Ziel, das wir nicht erreichen konnten ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0118">
-              <en><![CDATA[However, in the end we were forcefully reminded that our developments might not only be used to help humanity but also to gain political power and harm the innocent.]]></en>
+              <en><![CDATA[However, in the end we realized that our work might not only be used to help humanity, but also to gain political power and harm the innocent.]]></en>
               <de><![CDATA[Doch am Ende wurden wir mit Nachdruck daran erinnert, dass unsere Entwicklungen möglicherweise nicht nur verwendet werden, um der Menschheit zu helfen, sondern auch, um politische Macht zu erlangen und Unschuldigen zu schaden.]]></de>
             </dia>
           </dialog>
@@ -2426,15 +2426,15 @@
               <de><![CDATA[Was hat es mit dieser Fernbedienung auf sich, die du mir geliehen hast?]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0184">
-              <en><![CDATA[That old thing? That’s a multi&#8212;purpose remote control that I built back in the Institute days.]]></en>
+              <en><![CDATA[That old thing? That’s a multi-purpose remote control that I built back in the Institute days.]]></en>
               <de><![CDATA[Das alte Ding? Das ist eine Mehrzweck-Fernbedienung, die ich damals zu meiner Zeit im Institut gebaut habe.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0185">
-              <en><![CDATA[A multi&#8212;purpose remote control, hu? That sounds useful.]]></en>
+              <en><![CDATA[A multi-purpose remote control, hu? That sounds useful.]]></en>
               <de><![CDATA[Aha, eine Mehrzweck-Fernbedienung? Klingt nützlich.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0186">
-              <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it.]]></en>
+              <en><![CDATA[Oh it was ... although your father and Professor Smith almost keelhauled me for ever inventing it!]]></en>
               <de><![CDATA[Das war sie ... obwohl dein Vater und Professor Smith mich für die Erfindung oft verflucht haben.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0187">
@@ -2442,16 +2442,16 @@
               <de><![CDATA[Warum das denn?]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0188">
-              <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you were expecting.]]></en>
+              <en><![CDATA[Well, I programmed it to work with almost every device around the Smith Institute ... so pressing the button sometimes activated more than you’d expect.]]></en>
               <de><![CDATA[Nun, ich programmierte sie so, dass sie bei fast jedem Gerät im Institut funktionierte ... wenn man die Taste drückt, aktiviert sie manchmal mehr als erwartet.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0189">
-              <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector while standing beside one of my experimental hot air balloons.]]></en>
+              <en><![CDATA[I remember one time when your father used the remote to activate the Institute’s lightning collector, while standing beside one of my experimental hot air balloons.]]></en>
               <de><![CDATA[Ich erinnere mich, dass dein Vater sie zur Aktivierung unseres Blitzsammlers benutzte, während er neben einem meiner experimentellen Heißluftballons stand.]]></de>
             </dia>
             <dia puppet="slappy" frame="hspeak" sound="voice/mill_voice.swf:mill0190">
-              <en><![CDATA[Hehehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat and launched my crash&#8212;test dummy into his face. Imagine his surprise!]]></en>
-              <de><![CDATA[Hehehe ... armer Anthony. Er löste versehentlich den Schleudersitz des Ballons aus und mein Crash-Dummy schoss ihm entgegen. Was für ein Tag!]]></de>
+              <en><![CDATA[Hehe ... poor Anthony. He inadvertently triggered the balloon’s ejection seat, and launched my crash-test dummy into his face. What a surprise!]]></en>
+              <de><![CDATA[Hehe ... armer Anthony. Er löste versehentlich den Schleudersitz des Ballons aus und mein Crash-Dummy schoss ihm entgegen. Was für ein Tag!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0191">
               <en><![CDATA[Ha ha ... good story.]]></en>
@@ -2493,7 +2493,7 @@
               <de><![CDATA[Gut! Danke!]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0198">
-              <en><![CDATA[I’m afraid that will have to wait till tomorrow ... I am getting a bit too old to fly around in my zeppelin at night.]]></en>
+              <en><![CDATA[I’m afraid that will have to wait until tomorrow ... I’m getting a bit too old to fly around in my zeppelin at night.]]></en>
               <de><![CDATA[Ich fürchte, wir müssen bis morgen warten ... Ich werde langsam zu alt, um nachts mit meinem Zeppelin zu fliegen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0199">
@@ -2501,7 +2501,7 @@
               <de><![CDATA[Kein Problem! Ich komme dann morgen wieder!]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0200">
-              <en><![CDATA[If you can’t wait you can use my hammock and grab some sleep till sunrise.]]></en>
+              <en><![CDATA[If you can’t wait, you can use my hammock and grab some sleep till sunrise.]]></en>
               <de><![CDATA[Wenn du es nicht abwarten kannst, leg dich doch in meine Hängematte und schlaf ein wenig bis zum Sonnenaufgang.]]></de>
             </dia>
           </dialog>
@@ -2558,7 +2558,7 @@
               <de><![CDATA[Das ist eine tolle Windmühle ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0206">
-              <en><![CDATA[Thank you! My brother and I renovated this place several years ago and lived here together until he left.]]></en>
+              <en><![CDATA[Thank you! My brother and I renovated this place many years ago and lived here together until he left.]]></en>
               <de><![CDATA[Vielen Dank! Mein Bruder und ich haben diesen Ort vor einigen Jahren renoviert und hier zusammen gelebt, bis er fortging.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0207">
@@ -2566,8 +2566,8 @@
               <de><![CDATA[Da er nun in Südamerika lebt, bin ich die meiste Zeit mit meinem Zeppelin unterwegs.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0208">
-              <en><![CDATA[I only come here every few months now ... so you’ll have to excuse the dust! But please, make yourself at home!]]></en>
-              <de><![CDATA[Ich komme nur alle paar Monate hierher ... bitte entschuldige also den Staub! Aber fühl dich ganz wie zu Hause!]]></de>
+              <en><![CDATA[I only come here every few months now ... so you’ll have to excuse the dust! But please, make yourself at home.]]></en>
+              <de><![CDATA[Ich komme nur alle paar Monate hierher ... bitte entschuldige also den Staub! Aber fühl dich ganz wie zu Hause.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0209">
               <en><![CDATA[Thanks Uncle Slappy!]]></en>
@@ -2593,7 +2593,7 @@
               <de><![CDATA[Ich glaub, ich muss dann mal wieder los ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0212">
-              <en><![CDATA[Sure! Feel free to drop by any time if you want to talk or have a nap in that old hammock of mine!]]></en>
+              <en><![CDATA[Sure! Feel free to drop by any time if you want to talk or have a nap in that old hammock!]]></en>
               <de><![CDATA[Natürlich! Komm jederzeit wieder, wenn du reden oder in meiner alten Hängematte ein Nickerchen machen willst!]]></de>
             </dia>
           </dialog>
