@@ -5,7 +5,6 @@ var parseXML = xml2js.parseString;
 var mappings = require('./mapping.js');
 
 var RU_DIR = './xml-ru/';
-var RU_ENABLED = false;
 
 function RussianParser(id) {
   this.id = id;
@@ -15,7 +14,7 @@ function RussianParser(id) {
   this.errors = {};
   this.cache = {};
   this.diaCache = {};
-  this.enabled = RU_ENABLED;
+  this.enabled = false;
 }
 
 RussianParser.prototype = {

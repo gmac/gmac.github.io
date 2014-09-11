@@ -265,6 +265,7 @@ function parseRoom(id, done) {
 
 function parseGlobal(id, done) {
   var XML = '';
+  var ru = new Russian(id);
   
   fs.readFile(SRC_DIR+'global.xml', 'utf8', function(err, data) {
     if (err) throw err;
@@ -272,7 +273,9 @@ function parseGlobal(id, done) {
     XML = XML.replace(/&#8222;/g, "“");
     XML = XML.replace(/&#8220;/g, "”");
     XML = XML.replace(/\s*\.\.\./g, "&nbsp;...");
-    parseXML(data, onParse);
+    ru.load(function() {
+      parseXML(data, onParse);
+    });
   });
   
   function onParse(err, data) {
@@ -319,6 +322,7 @@ function parseGlobal(id, done) {
           }
           
           actionHTML += renderDialog(subtitle, actor, cache[actor][subtitle], duplicate);
+          XML = ru.renderDialog(XML, dialog.$.sound, soundPath);
           XML = renderSound(XML, dialog.$.sound, soundPath);
         });
         
@@ -354,6 +358,7 @@ function parseGlobal(id, done) {
           }
           
           actionHTML += renderDialog(subtitle, actor, soundPath, duplicate);
+          XML = ru.renderDialog(XML, dialog.$.sound, soundPath);
           XML = renderSound(XML, dialog.$.sound, soundPath);
         });
         
@@ -386,6 +391,7 @@ function parseGlobal(id, done) {
         }
         
         comboHTML += renderDialog(subtitle, actor, soundPath, duplicate);
+        XML = ru.renderDialog(XML, dialog.$.sound, soundPath);
         XML = renderSound(XML, dialog.$.sound, soundPath);
       });
       
@@ -397,6 +403,7 @@ function parseGlobal(id, done) {
     counts[id] = count;
     ACTORS_BY_FILE[id] = globalActors;
     globalHTML = ['<div class="room ', _.keys(globalActors).join(' '), '">', globalHTML, '</div>'].join('');
+    ru.report();
     
     renderDoc(id, globalHTML, globalActors);
     fs.writeFile(OUT_DIR+id+'.xml', XML, onWriteXML);
