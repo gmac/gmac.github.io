@@ -3658,7 +3658,7 @@
           <param mapX="734" mapY="791" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[expensive&#8212;looking porcelain bowl]]></en>
+            <en><![CDATA[expensive-looking porcelain bowl]]></en>
             <de><![CDATA[teuer aussehende Porzellanschale]]></de>
           </title>
           <actions>

@@ -1,55 +1,134 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <credits>
 	<table title="What Makes You Tick; A Stitch in Time" cols="2" align="right,left">
-		<c><![CDATA[Buch und Regie ...]]></c>
+		<c><![CDATA[Written by ...]]></c>
 			<c><![CDATA[Matthias Kempke <br>Greg MacWilliam]]></c>
-		<c><![CDATA[Produzent ...]]></c>
+		<c><![CDATA[Produced by ...]]></c>
 			<c><![CDATA[Greg MacWilliam]]></c>
-		<c><![CDATA[Idee ...]]></c>
+		<c><![CDATA[Created by ...]]></c>
 			<c><![CDATA[Matthias Kempke]]></c>
-		<c><![CDATA[Skript ...]]></c>
+		<c><![CDATA[Screenplay ...]]></c>
 			<c><![CDATA[Matthias Kempke]]></c>
-		<c><![CDATA[Inspiriert durch ...]]></c>
-			<c><![CDATA[Franz Kafkas<br>"Das Schloss"]]></c>
-		<c><![CDATA[Korrektur ...]]></c>
-			<c><![CDATA[Jack Ellis]]></c>
-		<c><![CDATA[Puzzle-Design ...]]></c>
+		<c><![CDATA[With Inspiration From ...]]></c>
+			<c><![CDATA["The Castle"<br>by Franz Kafka]]></c>
+		<c><![CDATA[Editing ...]]></c>
+			<c><![CDATA[Greg MacWilliam<br>Jack Ellis]]></c>
+		<c><![CDATA[Puzzle Design ...]]></c>
 			<c><![CDATA[Greg MacWilliam<br>Matthias Kempke]]></c>
 	</table>
-	<table title="Gestaltung" cols="2" align="right,left">
-		<c><![CDATA[Küstlerische Leitung ...]]></c>
-			<c><![CDATA[Matthias Kempke]]></c>
-		<c><![CDATA[Konzeptzeichnungen ...]]></c>
-			<c><![CDATA[Matthias Kempke<br>Greg MacWilliam<br>Sebastian Kempke]]></c>
-		<c><![CDATA[Charaktergestaltung ...]]></c>
-			<c><![CDATA[Sebastian Kempke<br>Matthias Kempke]]></c>
-		<c><![CDATA[Hintergrundzeichnungen ...]]></c>
-			<c><![CDATA[Matthias Kempke<br>Sebastian Kempke<br>Greg MacWilliam]]></c>
-		<c><![CDATA[Hintergrundkoloration ...]]></c>
-			<c><![CDATA[A.M. Sartor<br>John Green<br>Matthias Kempke<br>Greg MacWilliam]]></c>
-		<c><![CDATA[3D-Graphik ...]]></c>
-			<c><![CDATA[Sebastian Kempke]]></c>
-		<c><![CDATA[Flash-Animation ...]]></c>
-			<c><![CDATA[Matthias Kempke<br>Greg MacWilliam<br>Sebastian Kempke]]></c>
-		<c><![CDATA[Partikel-Effekte ...]]></c>
-			<c><![CDATA[Greg MacWilliam<br>Flint Particle System]]></c>
-		<c><![CDATA[Logo-Gestaltung ...]]></c>
-			<c><![CDATA[Greg MacWilliam<br>Sebastian Kempke]]></c>
-		<c><![CDATA[Siegelring-Gestaltung ...]]></c>
-			<c><![CDATA[Eric Plaisted<br>Greg MacWilliam<br>Matthias Kempke]]></c>
-		<c><![CDATA[Spielhandbuch ...]]></c>
+	<table title="Localization" cols="2" align="right,left">
+		<c><![CDATA[German ...]]></c>
+			<c><![CDATA[Just A Game, GmbH.]]></c>
+		<c><![CDATA[Russian ...]]></c>
+			<c><![CDATA[Just A Game, GmbH.]]></c>
+	</table>
+	<table title="Voice Cast" cols="2" align="right,left">
+		<c><![CDATA[Directed By ...]]></c>
 			<c><![CDATA[Greg MacWilliam]]></c>
-		<c><![CDATA[Spielführer ...]]></c>
+		<c><![CDATA[Nigel Trelawney ...]]></c>
+			<c><![CDATA[Travis Vander Hoop]]></c>
+		<c><![CDATA[Nathan Mallory ...]]></c>
+			<c><![CDATA[Alex Vernon]]></c>
+		<c><![CDATA[Nora ...]]></c>
+			<c><![CDATA[Sarah Olmsted Thomas]]></c>
+		<c><![CDATA[Coppelius ...]]></c>
+			<c><![CDATA[Mark Jaster]]></c>
+		<c><![CDATA[Vincent Goodchild ...]]></c>
+			<c><![CDATA[Alex Vernon]]></c>
+		<c><![CDATA[Henry "Slappy" LeMue-Lafayette ...]]></c>
+			<c><![CDATA[Wes Sucy]]></c>
+		<c><![CDATA[Lowell Cain ...]]></c>
+			<c><![CDATA[Greg MacWilliam]]></c>
+		<c><![CDATA[Thug 1 (Manbreaker) ...]]></c>
+			<c><![CDATA[Joe Price]]></c>
+		<c><![CDATA[Thug 2 (Rat) ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Thug 3 (Faker) ...]]></c>
+			<c><![CDATA[Adam Kucharik]]></c>
+		<c><![CDATA[Thug 4 (Holdup) ...]]></c>
+			<c><![CDATA[Gabe Snyder]]></c>
+		<c><![CDATA[Lionstone ...]]></c>
+			<c><![CDATA[Alex Vernon]]></c>
+		<c><![CDATA[Webb ...]]></c>
+			<c><![CDATA[Mikael Davis]]></c>
+		<c><![CDATA[Mr. Caro ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[M.B. Caro ...]]></c>
+			<c><![CDATA[Sabrina]]></c>
+		<c><![CDATA[Cecily Caro ...]]></c>
+			<c><![CDATA[Sarah Powers]]></c>
+		<c><![CDATA[Stig Stigmundson ...]]></c>
+			<c><![CDATA[Tom Weaver]]></c>
+		<c><![CDATA[Mr. Mandelbaum ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Eve Mandelbaum ...]]></c>
+			<c><![CDATA[Sarah Powers]]></c>
+		<c><![CDATA[Kid 1 ...]]></c>
+			<c><![CDATA[Greg MacWilliam]]></c>
+		<c><![CDATA[Kid 2 (Toby) ...]]></c>
+			<c><![CDATA[Wes Sucy]]></c>
+		<c><![CDATA[Kid 3 (Georgy) ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Wavetamer ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Captain Moni Amyia ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Juego Jacobo ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Forkbeard ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[McManus ...]]></c>
+			<c><![CDATA[Mark Jaster]]></c>
+		<c><![CDATA[Lars Stigmundson ...]]></c>
+			<c><![CDATA[Tom Weaver]]></c>
+		<c><![CDATA[Ed (Fisherman 1) ...]]></c>
+			<c><![CDATA[Gabe Snyder]]></c>
+		<c><![CDATA[Bill (Fisherman 2) ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Gregory ...]]></c>
+			<c><![CDATA[Greg MacWilliam]]></c>
+		<c><![CDATA[Matthew ...]]></c>
+			<c><![CDATA[Matthias Kempke?]]></c>
+		<c><![CDATA[Anthoney Trelawney ...]]></c>
+			<c><![CDATA[Travis Vander Hoop]]></c>
+		<c><![CDATA[Professor Smith ...]]></c>
+			<c><![CDATA[]]></c>
+		<c><![CDATA[Narrator ...]]></c>
+			<c><![CDATA[Mark Jastor]]></c>
+	</table>
+	<table title="Art Department" cols="2" align="right,left">
+		<c><![CDATA[Art Director / Lead Artist ...]]></c>
+			<c><![CDATA[Matthias Kempke]]></c>
+		<c><![CDATA[Concept Art ...]]></c>
+			<c><![CDATA[Matthias Kempke<br>Greg MacWilliam<br>Sebastian Kempke]]></c>
+		<c><![CDATA[Character Art ...]]></c>
+			<c><![CDATA[Sebastian Kempke<br>Matthias Kempke]]></c>
+		<c><![CDATA[Background Sketch Artists ...]]></c>
+			<c><![CDATA[Matthias Kempke<br>Sebastian Kempke<br>Greg MacWilliam]]></c>
+		<c><![CDATA[Background Painters ...]]></c>
+			<c><![CDATA[A.M. Sartor<br>John Green<br>Matthias Kempke<br>Greg MacWilliam]]></c>
+		<c><![CDATA[3D Art ...]]></c>
+			<c><![CDATA[Sebastian Kempke]]></c>
+		<c><![CDATA[Flash Animation ...]]></c>
+			<c><![CDATA[Matthias Kempke<br>Greg MacWilliam<br>Sebastian Kempke]]></c>
+		<c><![CDATA[Particle Effects ...]]></c>
+			<c><![CDATA[Greg MacWilliam<br>Flint Particle System]]></c>
+		<c><![CDATA[Logo Design ...]]></c>
+			<c><![CDATA[Greg MacWilliam<br>Sebastian Kempke]]></c>
+		<c><![CDATA[The Nine Insignia Designs ...]]></c>
+			<c><![CDATA[Eric Plaisted<br>Greg MacWilliam<br>Matthias Kempke]]></c>
+		<c><![CDATA[Game Handbook ...]]></c>
+			<c><![CDATA[Greg MacWilliam]]></c>
+		<c><![CDATA[Hint Guide ...]]></c>
 			<c><![CDATA[Jack Ellis<br>Greg MacWilliam]]></c>
 	</table>
-	<table title="Technologie" cols="2" align="right,left">
-		<c><![CDATA[Lassie-Engine-Core-Programmierung ...]]></c>
+	<table title="Technology" cols="2" align="right,left">
+		<c><![CDATA[Lassie Engine Core Programming ...]]></c>
 			<c><![CDATA[Greg MacWilliam]]></c>
-		<c><![CDATA[Spiel-Scripting ...]]></c>
+		<c><![CDATA[Game Scripting ...]]></c>
 			<c><![CDATA[Greg MacWilliam<br>Matthias Kempke]]></c>
-		<c><![CDATA[Custom-ActionScript-Programmierung ...]]></c>
+		<c><![CDATA[Custom ActionScript Programming ...]]></c>
 			<c><![CDATA[Greg MacWilliam]]></c>
-		<c><![CDATA[Angel-Minispiel ...]]></c>
+		<c><![CDATA[Fishing Minigame ...]]></c>
 			<c><![CDATA[Greg MacWilliam<br>Matthias Kempke]]></c>
 		<c><![CDATA[Adobe Flash &amp; Adobe AIR ...]]></c>
 			<c><![CDATA[Adobe Systems, Inc.]]></c>
@@ -70,22 +149,26 @@
 		<c><![CDATA[Flint Particle System ...]]></c>
 			<c><![CDATA[Richard Lord]]></c>
 	</table>
-	<table title="Ton" cols="2" align="right,left">
-		<c><![CDATA[Ambiente-Tongestaltung ...]]></c>
+	<table title="Sound" cols="2" align="right,left">
+		<c><![CDATA[Vocal Recording Tech ...]]></c>
+			<c><![CDATA[Greg MacWilliam]]></c>
+		<c><![CDATA[Vocal Editing ...]]></c>
+			<c><![CDATA[Greg MacWilliam]]></c>
+		<c><![CDATA[Soundscapes ...]]></c>
 			<c><![CDATA[Matthias Kempke]]></c>
-		<c><![CDATA[Toneffektgestaltung ...]]></c>
+		<c><![CDATA[Sound effects ...]]></c>
 			<c><![CDATA[Matthias Kempke<br>Greg MacWilliam]]></c>
-		<c><![CDATA[Lachen des Barons ...]]></c>
+		<c><![CDATA[Baron laugh ...]]></c>
 			<c><![CDATA[Vincent Price<br>"The Last Man on Earth" (PD)]]></c>
-		<c><![CDATA[Sound-Samples ...]]></c>
+		<c><![CDATA[Sound samples ...]]></c>
 			<c><![CDATA[Freesound Project]]></c>
-		<c><![CDATA[Sound-Tools ...]]></c>
+		<c><![CDATA[Sound tools ...]]></c>
 			<c><![CDATA[Audacity]]></c>
 	</table>
-	<table title="Freesound-Samples von" cols="4" align="center">
+	<table title="Freesound Contributors" cols="4" align="center">
 	<c>2NiD</c><c>3bagbrew</c><c>833-45</c><c>AMPUL</c><c>Andrew Duke</c><c>Anton</c><c>Arctura</c><c>Bansemer</c><c>Benboncan</c><c>Black Boe</c><c>Corsica_S</c><c>DJ Chronos</c><c>DaveGould</c><c>DrNI</c><c>Dynamicell</c><c>ERH</c><c>EcoDTR</c><c>Erdie</c><c>Experimental Illness</c><c>FlippantMoniker</c><c>FreqMan</c><c>Gvido</c><c>Halleck</c><c>HardPCM</c><c>Hell's Sound Guy</c><c>HerbertBoland</c><c>Hydrophobiciguana</c><c>Incarnadine</c><c>Ishpike</c><c>Jedimichael</c><c>Johnc</c><c>Jon285</c><c>Kaffein</c><c>KidsCastTechy</c><c>Koops</c><c>LG</c><c>Leady</c><c>Legato87</c><c>Luftrum</c><c>Mart1001</c><c>Martin Lightning</c><c>Nathan_Lomeli</c><c>NoiseCollector</c><c>OIDGNW</c><c>Ohrwurm</c><c>Percy Duke</c><c>PhreaKsAccount</c><c>Pooleside</c><c>RHumphries</c><c>Radegund</c><c>Robinhood76</c><c>Royal</c><c>ScaredECatPictures</c><c>Sea Fury</c><c>Sergenious</c><c>Sparrer</c><c>SpeedY</c><c>Srehpog</c><c>Still Frames</c><c>SunnySideSound</c><c>THE_bizniss</c><c>TicTacShutUp</c><c>Timbre</c><c>ToddBradley</c><c>Trautwein</c><c>UATaudio</c><c>UncleSigmund</c><c>WIM</c><c>Walter_Odington</c><c>Werra</c><c>acclivity</c><c>adcbicycle</c><c>adllto</c><c>andriala</c><c>aquaculture</c><c>artifact</c><c>bass-95</c><c>batchku</c><c>bilwiss</c><c>bitsmart</c><c>buzzbox</c><c>cajo</c><c>cfork</c><c>cmusounddesign</c><c>cubic.archon</c><c>datasoundsample</c><c>daveincamas</c><c>digifishmusic</c><c>djgriffin</c><c>dobroide</c><c>doobit</c><c>duckboy80</c><c>eartrumpet</c><c>elankford</c><c>elonen</c><c>eltenjohn</c><c>eric5335</c><c>falconbeard</c><c>farbin</c><c>fce</c><c>fonogeno</c><c>fotomacc</c><c>fresco</c><c>galeku</c><c>gallagho</c><c>gelo_papas</c><c>genghis attenborough</c><c>gezortenplotz</c><c>gregswinford</c><c>greysound</c><c>guitarguy1985</c><c>hello_flowers</c><c>inchadney</c><c>ingeos</c><c>jackstrebor</c><c>jppi_Stu</c><c>junggle</c><c>juskiddink</c><c>kathol</c><c>kevinkace</c><c>koostix</c><c>kyles</c><c>lgarrett</c><c>ljudman</c><c>luffy</c><c>man</c><c>markgutierrez</c><c>martypinso</c><c>medialint</c><c>melack</c><c>mich3d</c><c>mikaelfernstrom</c><c>mikejedw</c><c>monterey2000</c><c>morgantj</c><c>mystiscool</c><c>nas1</c><c>nednednerb</c><c>nemoDaedalus</c><c>nthompson</c><c>ooohyeahh</c><c>ottophokus</c><c>pagancow</c><c>patchen</c><c>pauliep83</c><c>pempi</c><c>petenice</c><c>pushtobreak</c><c>randomroutine</c><c>reinsamba</c><c>rockdoctor</c><c>roscoetoon</c><c>rutgermuller</c><c>sagetyrtle</c><c>sandyrb</c><c>sazman</c><c>schademans</c><c>schluppipuppie</c><c>sebastianlund</c><c>shall555</c><c>shewbox</c><c>simkiott</c><c>simon.rue</c><c>smokum</c><c>someonesilly</c><c>sonsdebarcelona</c><c>spukkin</c><c>tachyglossus</c><c>terminal</c><c>themfish</c><c>tigersound</c><c>timlaroche</c><c>uair01</c><c>volivieri</c><c>wildweasel</c><c>yewbic</c>
 	</table>
-	<table title="Musik" cols="3">
+	<table title="Music" cols="3">
 		<c><![CDATA["A Stitch in Time Theme"<br>Justin R. Durban]]></c>
 		<c><![CDATA["A Stitch in Time Theme, v.2"<br>Justin R. Durban]]></c>
 		<c><![CDATA["Re Quest Piano Solo"<br>Intro and Woods<br>Justin R. Durban]]></c>
@@ -108,7 +191,7 @@
 		<c><![CDATA["Piano Sonata No. 11, Tema"<br>Inn, day<br>Wolfgang Amadeus Mozart<br>Performed by Marie Mallory]]></c>
 		<c><![CDATA["The Auld Scotch Songs"<br>Inn, night<br>John McCormack<br>Courtesy of RareTunes.org]]></c>
 	</table>
-	<table title="Tests und Qualitätssicherung" cols="3">
+	<table title="Testing and Quality Assurance" cols="3">
 		<c>Tobias Angst</c>
 		<c>Chris Armstrong</c>
 		<c>Tucker Bowen</c>
@@ -125,38 +208,12 @@
 		<c>Carolin Stephan</c>
 		<c>Weston Sucy</c>
 	</table>
-	<table title="Just A Game" cols="2" align="right,left">
-		<c><![CDATA[CEO ...]]></c>
-			<c><![CDATA[Remco Westermann]]></c>
-		<c><![CDATA[Director Sales and Licensing ...]]></c>
-			<c><![CDATA[Christian Sauerteig]]></c>
-		<c><![CDATA[Senior Project Manager ...]]></c>
-			<c><![CDATA[Holger Kuhn]]></c>
-		<c><![CDATA[Project Manager ...]]></c>
-			<c><![CDATA[Frank Herzog]]></c>
-		<c><![CDATA[Product Manager ...]]></c>
-			<c><![CDATA[Michael Steinhagen]]></c>
-		<c><![CDATA[Lead Graphic Artist ...]]></c>
-			<c><![CDATA[Michael Schlaak]]></c>
-		<c><![CDATA[Head of Acquisition ...]]></c>
-			<c><![CDATA[Benjamin Bezold]]></c>
-		<c><![CDATA[Senior Sales Manager ...]]></c>
-			<c><![CDATA[Marina Fanelli]]></c>
-		<c><![CDATA[International Sales Manager ...]]></c>
-			<c><![CDATA[Martin Szymanski]]></c>
-		<c><![CDATA[Junior Sales Manager ...]]></c>
-			<c><![CDATA[Nicole Geike]]></c>
-		<c><![CDATA[Director Legal and Business Affairs ...]]></c>
-			<c><![CDATA[Peer Fischer]]></c>
-		<c><![CDATA[Business Administration Manager ...]]></c>
-			<c><![CDATA[Katharina Hörold]]></c>
-	</table>
-	<table title="Produktionsorte" cols="3">
-		<c><![CDATA[Leipzig, Deutschland]]></c>
+	<table title="Production Locations" cols="3">
+		<c><![CDATA[Leipzig, Germany]]></c>
 		<c><![CDATA[Washington, D.C., USA]]></c>
-		<c><![CDATA[Füssen, Deutschland]]></c>
-		<c><![CDATA[Interlaken, Schweiz]]></c>
-		<c><![CDATA[Prag, Tschechische Republik]]></c>
+		<c><![CDATA[Fussen, Germany]]></c>
+		<c><![CDATA[Interlaken, Switzerland]]></c>
+		<c><![CDATA[Prague, Czech Republic]]></c>
 		<c><![CDATA[New York City, USA]]></c>
 		<c><![CDATA[Arizona, USA]]></c>
 		<c><![CDATA[Utah, USA]]></c>
@@ -165,23 +222,25 @@
 		<c><![CDATA[Idaho, USA]]></c>
 		<c><![CDATA[Oregon, USA]]></c>
 	</table>
-	<table title="Gastauftritte" cols="3">
-		<c><![CDATA[Christopher Lee<br>(als Lowell Cain)]]></c>
-		<c><![CDATA[Peter Lorre<br>(als Lionstone)]]></c>
-		<c><![CDATA[Vincent Price<br>(als Vincent)]]></c>
-		<c><![CDATA[Matt &amp; Greg<br>(als sie selbst)]]></c>
+	<table title="Special Appearances" cols="3">
+		<c><![CDATA[Christopher Lee<br>(as Lowell Cain)]]></c>
+		<c><![CDATA[Peter Lorre<br>(as Lionstone)]]></c>
+		<c><![CDATA[Vincent Price<br>(as Vincent)]]></c>
+		<c><![CDATA[Matt &amp; Greg<br>(as themselves)]]></c>
 		<c><![CDATA["Nearly Departed"<br>John Green]]></c>
 		<c><![CDATA["When Pigs Fly"<br>Lassie Team Project]]></c>
 		<c><![CDATA[Manny Calavera<br>Lucas Arts]]></c>
 		<c><![CDATA[]]></c>
-		<c><![CDATA[Uncle Roys<br>Engelstatue]]></c>
+		<c><![CDATA[Uncle Roy's<br>Angel Statue]]></c>
 	</table>
-	<table title="Besonderer Dank gilt" cols="1">
-		<c>Al und Merrilee MacWilliam</c>
-		<c>Torsten und Barbara Kempke</c>
+	<table title="Special Thanks" cols="1">
+		<c>Al and Merrilee MacWilliam</c>
+		<c>Torsten and Barbara Kempke</c>
 		<c>Sebastian Kempke</c>
 		<c>Jack Ellis</c>
 		<c>Marie Mallory</c>
+		<c>Happenstance Theater</c>
+		<c>Amanda Stultz</c>
 		<c>RareTunes.org</c>
 		<c>FreeSound Project</c>
 		<c>Creative Commons</c>
@@ -191,6 +250,6 @@
 		<c>Amanita Design</c>
 		<c>Threespot</c>
 		<c>Lucas Arts</c>
-		<c><![CDATA[und unseren Familien, Freunden, und Fans,<br>die dieses Spiel überhaupt erst möglich gemacht haben.]]></c>
+		<c><![CDATA[To our family, friends, and fans<br>who've helped make this project possible.]]></c>
 	</table>
 </credits>

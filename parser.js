@@ -3,6 +3,7 @@ var _ = require('underscore');
 var xml2js = require('xml2js');
 var parseXML = xml2js.parseString;
 var mappings = require('./mapping.js');
+var Russian = require('./parser-ru');
 
 var UNIQUE_DIALOG = 0;
 var DEFINED_DIALOG = 0;
@@ -90,6 +91,7 @@ function renderSound(xml, oldPath, newPath) {
 
 function parseRoom(id, done) {
   var XML = '';
+  var ru = new Russian(id);
   fs.readFile(SRC_DIR+id+'.xml', 'utf8', onRead);
   
   function getActor(puppetId) {
@@ -111,7 +113,10 @@ function parseRoom(id, done) {
     XML = XML.replace(/\s*\.\.\./g, "&nbsp;...");
     XML = XML.replace(/>(\s*?)</g, '><');
     console.log(id);
-    parseXML(data, onParse);
+
+    ru.load(function() {
+      parseXML(data, onParse);
+    });
   }
   
   function onParse(err, data) {
@@ -157,10 +162,16 @@ function parseRoom(id, done) {
           XML = XML.replace(new RegExp('(<layer id="'+layer.$.id+'".+?<state id="'+state.$.id+'".+?<param )'), '$1turnTo="'+turn+'" ');
           XML = XML.replace(new RegExp('(<layer id="'+layer.$.id+'".+?<state id="'+state.$.id+'".+?<param.+?subtitle=)"0x.+?"'), '$1"'+getSubtitleColor(layer.$.id)+'"');
         }
-        
+
+        // Add Russian noun for layer-state title:
+        XML = ru.parseNoun(layer.$.id, state.$.id, state.title[0].en, XML);
+
         _.each(actions.concat(items), function(action) {
           var actionHTML = '';
           var actionActors = {};
+
+          // Add Russian label for layer-state action title:
+          XML = ru.parseAction(layer.$.id, state.$.id, action.title[0].en, XML);
 
           _.each(action.dialog[0].dia, function(dialog) {
             var actor = getActor(dialog.$.puppet);
@@ -179,6 +190,7 @@ function parseRoom(id, done) {
             }
             
             actionHTML += renderDialog(subtitle, actor, soundPath, duplicate);
+            XML = ru.renderDialog(XML, dialog.$.sound, soundPath);
             XML = renderSound(XML, dialog.$.sound, soundPath);
           });
           
@@ -222,6 +234,7 @@ function parseRoom(id, done) {
             }
             
             topicHTML += renderDialog(subtitle, actor, cache[actor][subtitle], duplicate);
+            XML = ru.renderDialog(XML, dialog.$.sound, soundPath);
             XML = renderSound(XML, dialog.$.sound, soundPath);
           });
           
@@ -237,6 +250,8 @@ function parseRoom(id, done) {
     roomHTML = ['<div class="room ', id, '"><h1>', id, '</h1><div class="splash"><img src="assets/', id, '.jpg" alt="', id, '"></div>', roomHTML, '</div>'].join('');
     renderDoc(id, roomHTML, roomActors);
     ACTORS_BY_FILE[id] = roomActors;
+    XML = ru.parseTreeTopics(XML);
+    ru.report();
 
     fs.writeFile(OUT_DIR+id+'.xml', XML, onWriteXML);
   }
