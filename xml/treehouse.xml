@@ -2272,11 +2272,11 @@
                   <de><![CDATA[Es ist ein Metallring mit wertvollen Anhängern und Glücksbringern, die wir gesammelt haben ... davon darfst du ... äh ... Sie eins behalten. Als Mitgliedssabzeichen!]]></de>
                 </dia>
                 <dia puppet="kid2" frame="normspeak" sound="voice/treehouse_voice.swf:treehouse0126">
-                  <en><![CDATA[I would choose the rabbit foot if I were you!]]></en>
+                  <en><![CDATA[I’d choose the rabbit foot if I were you!]]></en>
                   <de><![CDATA[An Ihrer Stelle würde ich die Hasenpfote nehmen!]]></de>
                 </dia>
                 <dia puppet="kid3" frame="normspeak" sound="voice/treehouse_voice.swf:treehouse0127">
-                  <en><![CDATA[No way, choose the golden ring that we found in the river near near that creepy old institute building!]]></en>
+                  <en><![CDATA[No way, choose the golden ring that we found in the river near that creepy old institute building!]]></en>
                   <de><![CDATA[Auf keinen Fall, nehmen Sie den goldenen Ring, den wir im Fluss nahe dem unheimlichen alten Institutsgebäude gefunden haben!]]></de>
                 </dia>
               </dialog>
@@ -2443,16 +2443,16 @@
               <de><![CDATA[Was wisst ihr über das Haus dort drüben? Nummer 27.]]></de>
             </dia>
             <dia puppet="kid3" frame="" sound="voice/treehouse_voice.swf:treehouse0142">
-              <en><![CDATA[The old Trelawney house ...]]></en>
-              <de><![CDATA[Das alte Trelawney-Haus ...]]></de>
+              <en><![CDATA[The old Trelawney house ...?]]></en>
+              <de><![CDATA[Das alte Trelawney-Haus ...?]]></de>
             </dia>
             <dia puppet="kid2" frame="" sound="voice/treehouse_voice.swf:treehouse0143">
               <en><![CDATA[It’s haunted.]]></en>
               <de><![CDATA[Dort spukt es.]]></de>
             </dia>
             <dia puppet="kid3" frame="" sound="voice/treehouse_voice.swf:treehouse0144">
-              <en><![CDATA[No it’s not.]]></en>
-              <de><![CDATA[Nein, tut es nicht.]]></de>
+              <en><![CDATA[Is not!]]></en>
+              <de><![CDATA[Nein, tut es nicht!]]></de>
             </dia>
             <dia puppet="kid2" frame="" sound="voice/treehouse_voice.swf:treehouse0145">
               <en><![CDATA[Oh. It is SO haunted.]]></en>
@@ -2490,7 +2490,7 @@
               <de><![CDATA[Sein Geist kann nicht ruhen, weil der alte Trelawney vergessen hat, seine Pflanzen zu gießen.]]></de>
             </dia>
             <dia puppet="kid2" frame="" sound="voice/treehouse_voice.swf:treehouse0151">
-              <en><![CDATA[No! He forgot to feed his cat.]]></en>
+              <en><![CDATA[Nuh-uh! He forgot to feed his cat.]]></en>
               <de><![CDATA[Nein! Er hat vergessen, seine Katze zu füttern.]]></de>
             </dia>
             <dia puppet="kid1" frame="" sound="voice/treehouse_voice.swf:treehouse0152">
@@ -2525,7 +2525,7 @@
               <de><![CDATA[Also, wir haben den alten Trelawney früher erschreckt, indem wir uns durch die Hundetür reingeschlichen haben ...]]></de>
             </dia>
             <dia puppet="kid2" frame="" sound="voice/treehouse_voice.swf:treehouse0157">
-              <en><![CDATA[Yeah, but he got tired of us, so nailed it shut.]]></en>
+              <en><![CDATA[Yeah, but he got tired of us ... so he nailed it shut.]]></en>
               <de><![CDATA[Ja, er hatte irgendwann die Nase voll davon und hat die Hundetür mit Brettern zugenagelt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/treehouse_voice.swf:treehouse0158">
@@ -2596,8 +2596,8 @@
               <de><![CDATA[Wow.]]></de>
             </dia>
             <dia puppet="kid2" frame="normspeak" sound="voice/treehouse_voice.swf:treehouse0171">
-              <en><![CDATA[You see? Told you!]]></en>
-              <de><![CDATA[Seht ihr? Hab ich doch gesagt!]]></de>
+              <en><![CDATA[See? I told you!]]></en>
+              <de><![CDATA[Sehen? Hab ich doch gesagt!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/treehouse_voice.swf:treehouse0172">
               <en><![CDATA[Thanks for helping me out kids!]]></en>
@@ -2704,7 +2704,7 @@
               <de><![CDATA[Mein Vater besitzt ein Uhrengeschäft, aber darf nicht mehr arbeiten, wegen Lowell Cain.]]></de>
             </dia>
             <dia puppet="kid2" frame="lspeak" sound="voice/treehouse_voice.swf:treehouse0181">
-              <en><![CDATA[My parents just stay at home and never go outside, because they are afraid of the Castle.]]></en>
+              <en><![CDATA[My parents just stay at home and never go outside, because they’re afraid of the Castle.]]></en>
               <de><![CDATA[Meine Eltern bleiben einfach zu Hause und gehen nie nach draußen, weil sie Angst vor dem Schloss haben.]]></de>
             </dia>
             <dia puppet="kid3" frame="hspeak" sound="voice/treehouse_voice.swf:treehouse0182">
@@ -2731,11 +2731,11 @@
               <de><![CDATA[Also, wenn Lowell Cain uns fangen will, schlagen wir ihn mit Stöcken!]]></de>
             </dia>
             <dia puppet="kid2" frame="" sound="voice/treehouse_voice.swf:treehouse0185">
-              <en><![CDATA[Nuh-uh! We should pretend like the castle guards are not there, so then they’ll get bored and just go away!]]></en>
+              <en><![CDATA[Nuh-uh! We should pretend like the castle guards aren’t there, so then they’ll get bored and just go away!]]></en>
               <de><![CDATA[Nein! Wir sollten so tun, als wäre die Schlosswache gar nicht da, dann wird ihnen langweilig und sie gehen weg!]]></de>
             </dia>
             <dia puppet="kid3" frame="" sound="voice/treehouse_voice.swf:treehouse0186">
-              <en><![CDATA[I think we should just tell them how stupid they are and then they’ll cry and stop being mean. That’ll teach them ...]]></en>
+              <en><![CDATA[I think we should just tell them how stupid they are, and then they’ll cry and stop being mean. That’ll teach them ...]]></en>
               <de><![CDATA[Ich denke, wir sollten ihnen einfach sagen, wie dumm sie sind, und dann werden sie weinen und aufhören, gemein zu sein. Dann lernen sie eine Lektion ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/treehouse_voice.swf:treehouse0187">
@@ -2797,7 +2797,7 @@
               <de><![CDATA[R.T.e.S.! Rührt euch!]]></de>
             </dia>
             <dia puppet="kid2" frame="normspeak" sound="voice/treehouse_voice.swf:treehouse0196">
-              <en><![CDATA[Does anyone of you guys know the time?]]></en>
+              <en><![CDATA[Do you guys know what time it is?]]></en>
               <de><![CDATA[Weiß einer von euch, wie spät es ist?]]></de>
             </dia>
             <dia puppet="kid1" frame="normspeak" sound="voice/treehouse_voice.swf:treehouse0197">
