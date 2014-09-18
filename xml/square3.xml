@@ -228,8 +228,8 @@
                   <de><![CDATA[Wie seltsam, dass in einer Kleinstadt wie Ravenhollow so ein Nischenprodukt wie handgeschnitzte Masken überleben kann. Es sei denn ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30001">
-                  <en><![CDATA[Of course! Mandelbaum must do mail order!]]></en>
-                  <de><![CDATA[Natürlich! Mandelbaum betreibt einen Versandhandel!]]></de>
+                  <en><![CDATA[Of course! Mandelbaum must do mail order.]]></en>
+                  <de><![CDATA[Natürlich! Mandelbaum betreibt einen Versandhandel.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -391,7 +391,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30005">
-                  <en><![CDATA[I have nothing to say to that stone-cold effigy.]]></en>
+                  <en><![CDATA[I have nothing to say to that stone effigy.]]></en>
                   <de><![CDATA[Zu diesem steinharten Bildnis habe ich nichts zu sagen.]]></de>
                 </dia>
               </dialog>
@@ -406,7 +406,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30006">
-                  <en><![CDATA[I’d be tempted to topple the statue if it wasn’t doing such a fine job of stringing festive lights.]]></en>
+                  <en><![CDATA[I’d be tempted to topple the statue if it wasn’t doing such a fine job of stringing up festive lights.]]></en>
                   <de><![CDATA[Ich wäre ja versucht, die Statue umzuwerfen, wenn sie nicht so ein guter Halter für die Festbeleuchtung wäre.]]></de>
                 </dia>
               </dialog>
@@ -464,7 +464,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30007">
-                  <en><![CDATA[The Ravenhollow Inn. It looks like a fine place for a drink.]]></en>
+                  <en><![CDATA[The Ravenhollow Inn. It looks like a fine place for a quiet drink.]]></en>
                   <de><![CDATA[Das Wirtshaus von Ravenhollow.Sieht aus wie ein guter Ort für einen Drink.]]></de>
                 </dia>
               </dialog>
@@ -783,8 +783,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30014">
-                  <en><![CDATA[I bet Lars is glad that his son Stig can finally concentrate on the fishing business again now that Cecily agreed to marry him.]]></en>
-                  <de><![CDATA[Ich wette, Lars ist froh, dass sein Sohn Stig sich endlich wieder aufs Fischen konzentrieren kann, jetzt, wo Cecily ihn heiraten will.]]></de>
+                  <en><![CDATA[I bet Lars Sigmundson is glad that Stig can finally concentrate on fishing again, now that Cecily has agreed to marry him.]]></en>
+                  <de><![CDATA[Ich wette, Lars Sigmundson ist froh, dass sein Sohn Stig sich endlich wieder aufs Fischen konzentrieren kann, jetzt, wo Cecily ihn heiraten will.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -990,7 +990,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30028">
-                  <en><![CDATA[He is just reading a story ... I shouldn’t disturb him.]]></en>
+                  <en><![CDATA[He’s just reading a story ... I shouldn’t disturb him.]]></en>
                   <de><![CDATA[Er liest gerade die Geschichte ... Ich sollte ihn nicht stören.]]></de>
                 </dia>
               </dialog>
@@ -1143,8 +1143,8 @@
                   <de><![CDATA[Er sieht glücklich aus. Naja, ich schätze, ich sähe auch glücklich aus, wenn mich jemand wie Cecily heiraten wollte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30053">
-                  <en><![CDATA[Maybe I should ask Nora if she’d like to have a cup of coffee with me sometime.]]></en>
-                  <de><![CDATA[Vielleicht sollte ich Nora bei Gelegenheit mal auf einen Kaffee einladen.]]></de>
+                  <en><![CDATA[Maybe I should ask Nora if she’d like to have a cup of coffee with me sometime ...]]></en>
+                  <de><![CDATA[Vielleicht sollte ich Nora bei Gelegenheit mal auf einen Kaffee einladen ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1182,7 +1182,7 @@
                   <de><![CDATA[Dein Kopf ... ... ?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/square3_voice.swf:square30060">
-                  <en><![CDATA[... don’t you think my head’s larger than a normal person’s head?]]></en>
+                  <en><![CDATA[... don’t you think my head is larger than a normal person’s head?]]></en>
                   <de><![CDATA[... findest du nicht, dass mein Kopf seltsam groß ist?]]></de>
                 </dia>
                 <dia puppet="stig" frame="" sound="voice/square3_voice.swf:square30061">
@@ -1238,8 +1238,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30065">
-                  <en><![CDATA[Cecily Caro. ... or should I already say Cecily Sigmundson? Or Cecily Caro Sigmundson? That has a certain ring to it ...]]></en>
-                  <de><![CDATA[Cecily Caro. ... oder sollte ich schon sagen: Cecily Sigmundson? Oder Cecily Caro Sigmundson? Das hat doch was ...]]></de>
+                  <en><![CDATA[Cecily Caro. ... Or should I already say, Cecily Sigmundson? Or, Cecily Caro-Sigmundson? That has a certain ring to it ...]]></en>
+                  <de><![CDATA[Cecily Caro. ... Oder sollte ich schon sagen: Cecily Sigmundson? Oder Cecily Caro Sigmundson? Das hat doch was ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1373,7 +1373,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30073">
-                  <en><![CDATA[Naw, he is spellbound by all this juggling and storytelling.]]></en>
+                  <en><![CDATA[No, he’s spellbound by all this juggling and storytelling.]]></en>
                   <de><![CDATA[Nein, er ist völlig gefesselt von all dem Jonglieren und den Geschichten.]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30074">
@@ -1440,7 +1440,7 @@
                   <de><![CDATA[Theodore antwortete zunächst nicht, aber was er dann sagte ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30078">
-                  <en><![CDATA[Sounds interesting but I should get going ...]]></en>
+                  <en><![CDATA[Sounds interesting, but I should get going ...]]></en>
                   <de><![CDATA[Klingt interessant, aber ich sollte los ...]]></de>
                 </dia>
               </dialog>
@@ -1480,8 +1480,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30079">
-                  <en><![CDATA[Are those torches that he’s juggling? ... How odd that they’re not lit.]]></en>
-                  <de><![CDATA[Sind das Fackeln, mit denen er jongliert? ... Wie seltsam, dass sie nicht brennen.]]></de>
+                  <en><![CDATA[Are those torches that he’s juggling? How odd that they’re not lit.]]></en>
+                  <de><![CDATA[Sind das Fackeln, mit denen er jongliert? Wie seltsam, dass sie nicht brennen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30080">
                   <en><![CDATA[If this wasn’t a free show, I might feel a bit gypped.]]></en>
@@ -1518,7 +1518,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30082">
-                  <en><![CDATA[Naw, I’d better leave him alone while he’s concentrating on his performance.]]></en>
+                  <en><![CDATA[No. I’d better leave him alone while he’s concentrating on his performance.]]></en>
                   <de><![CDATA[Nein, ich lasse ihn besser in Ruhe, während er sich auf seine Vorstellung konzentriert.]]></de>
                 </dia>
               </dialog>
@@ -1613,7 +1613,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30094">
-                  <en><![CDATA[He’s now juggling terrifying-looking knives!]]></en>
+                  <en><![CDATA[He’s now juggling terrifying knives!]]></en>
                   <de><![CDATA[Jetzt jongliert er mit diesen beängstigend aussehenden Messern!]]></de>
                 </dia>
               </dialog>
@@ -1628,7 +1628,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30095">
-                  <en><![CDATA[I shouldn’t distract him ... those knives I gave him are pretty sharp. ]]></en>
+                  <en><![CDATA[I shouldn’t distract him ... those knives I gave him are actually sharp. ]]></en>
                   <de><![CDATA[Ich sollte ihn nicht ablenken ... diese Messer, die ich ihm gegeben habe, sind ziemlich scharf.]]></de>
                 </dia>
               </dialog>
@@ -1703,12 +1703,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30098">
-                  <en><![CDATA[What a cad I would be! The village celebrates while I steal potatoes behind their back....]]></en>
-                  <de><![CDATA[Das wäre so schäbig von mir! Das Dorf feiert, während ich hinter ihrem Rücken Kartoffeln stehle ...]]></de>
+                  <en><![CDATA[No. The village celebrates while I steal potatoes behind their back ...?]]></en>
+                  <de><![CDATA[Mein. Das Dorf feiert, während ich hinter ihrem Rücken Kartoffeln stehle ...?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/square3_voice.swf:square30099">
-                  <en><![CDATA[Being a munchkin is not worth the shame.]]></en>
-                  <de><![CDATA[Dieser Nervenkitzel ist die Schande nicht wert.]]></de>
+                  <en><![CDATA[What a cad I’d be!]]></en>
+                  <de><![CDATA[Das wäre so schäbig von mir!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1847,7 +1847,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30104">
-                  <en><![CDATA[Mr. Mandelbaum is finally alright again. That was a long night for him and his daughter.]]></en>
+                  <en><![CDATA[Mr. Mandelbaum is finally alright. That was a long night for him and his daughter.]]></en>
                   <de><![CDATA[Herrn Mandelbaum geht es endlich wieder gut. Das war eine lange Nacht für ihn und seine Tochter.]]></de>
                 </dia>
               </dialog>
@@ -1902,8 +1902,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30106">
-                  <en><![CDATA[Mr. Caro has a reason to celebrate. He can finally attend his Nature Friend Society meetings again!]]></en>
-                  <de><![CDATA[Herr Caro hat Grund zum Feiern. Er kann endlich wieder an den Treffen seiner Gesellschaft der Freunde der Natur teilnehmen!]]></de>
+                  <en><![CDATA[Mr. Caro has a reason to celebrate. He can finally attend his Nature Friends Society congress.]]></en>
+                  <de><![CDATA[Herr Caro hat Grund zum Feiern. Er kann endlich wieder an den Treffen seiner Gesellschaft der Freunde der Natur teilnehmen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2005,8 +2005,8 @@
                   <de><![CDATA[Oh weh, war das eine echte Ming-Vase?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30121">
-                  <en><![CDATA[You bet it is ... er, WAS. So, how much is it worth?]]></en>
-                  <de><![CDATA[Genau das ist sie ... äh, WAR sie. Und, wieviel ist sie wert?]]></de>
+                  <en><![CDATA[You bet it is ... or, WAS. So how much is it worth?]]></en>
+                  <de><![CDATA[Genau das ist sie ... äh, WAR sie. Und wieviel ist sie wert?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30122">
                   <en><![CDATA[In one piece, it would be priceless!]]></en>
@@ -2021,8 +2021,8 @@
                   <de><![CDATA[Wertlos.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30125">
-                  <en><![CDATA[Awe, shucks.]]></en>
-                  <de><![CDATA[Ach, Menno.]]></de>
+                  <en><![CDATA[Shucks.]]></en>
+                  <de><![CDATA[Menno.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2047,16 +2047,16 @@
                   <de><![CDATA[Du liebe Zeit, ich hatte so eine Karte in meinem Antiquitätenladen, bevor die Rowdys vom Schloss ihn geplündert haben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30129">
-                  <en><![CDATA[Wow ... what a bizarre coincidence!]]></en>
-                  <de><![CDATA[Wow ... was für ein bizarrer Zufall!]]></de>
+                  <en><![CDATA[Wow, what a bizarre coincidence.]]></en>
+                  <de><![CDATA[Wow, was für ein bizarrer Zufall.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30130">
                   <en><![CDATA[Oh well, I’ve accepted the fact that I’ll never see it again. I just hope it suffers a better fate than yours there.]]></en>
                   <de><![CDATA[Naja, ich habe mich damit abgefunden, dass ich sie nie wiedersehe. Ich hoffe nur, es ergeht ihr besser als Ihrer hier.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30131">
-                  <en><![CDATA[Oh yeah, me too.]]></en>
-                  <de><![CDATA[Oh ja, ich auch.]]></de>
+                  <en><![CDATA[Oh yeah, me too ...]]></en>
+                  <de><![CDATA[Oh ja, ich auch ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2132,7 +2132,7 @@
       <tier key="r" id="">
         <topic key="t0" id="_0" enabled="1" hold="1" expose="" go="0">
           <title>
-            <en><![CDATA[So I take it that you’ve been allowed back into the village?]]></en>
+            <en><![CDATA[I see that you’ve been allowed back into the village.]]></en>
             <de><![CDATA[Scheint als ob man euch im Dorf wieder gerne willkommen heisst.]]></de>
           </title>
           <dialog>
@@ -2168,8 +2168,8 @@
               <de><![CDATA[Naja, Herr Lionstone drohte, mich wegen der Feuerschutzbestimmungen des Dorfes zu verklagen, wenn ich versuche, sie anzuzünden ... also bin ich gezwungen, so mit ihnen zu jonglieren.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30137">
-              <en><![CDATA[Mmmh ... lawyers.]]></en>
-              <de><![CDATA[Mmmh ... Rechtsanwälte.]]></de>
+              <en><![CDATA[Mh ... lawyers.]]></en>
+              <de><![CDATA[Mh ... Rechtsanwälte.]]></de>
             </dia>
             <dia puppet="juggler" frame="" sound="voice/square3_voice.swf:square30138">
               <en><![CDATA[I’m just sorry that my show isn’t more exciting at the moment ...]]></en>
@@ -2190,7 +2190,7 @@
         </topic>
         <topic key="t5" id="trade2" enabled="1" hold="1" expose="" go="0">
           <title>
-            <en><![CDATA[What sort of dangerous-looking objects were you after?]]></en>
+            <en><![CDATA[What sort of dangerous looking objects were you after?]]></en>
             <de><![CDATA[Welche Sorte gefährlich aussehender Gegenstände suchst du?]]></de>
           </title>
           <dialog>
@@ -2263,7 +2263,7 @@
         </topic>
         <topic key="t1" id="_1" enabled="1" hold="1" expose="" go="-2">
           <title>
-            <en><![CDATA[Well, I got to go ... have fun!]]></en>
+            <en><![CDATA[Well, I have to go ... have fun!]]></en>
             <de><![CDATA[Also, ich muss los ... Viel Spaß!]]></de>
           </title>
           <dialog>
@@ -2277,57 +2277,6 @@
             <method call="controls" enabled="1" />
             <layerSprite target="juggler" animFrame="intro" waitForComplete="1" />
             <layerState target="_current:juggler:torches" restState="loop" />
-          </script>
-        </topic>
-      </tier>
-    </tree>
-    <tree id="MB">
-      <tier key="r" id="">
-        <topic key="t0" id="_0" enabled="1" hold="1" expose="" go="0">
-          <title>
-            <en><![CDATA[Just potatoes today, huh?]]></en>
-            <de><![CDATA[Heute nur Kartoffeln, was?]]></de>
-          </title>
-          <dialog>
-            <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30152">
-              <en><![CDATA[Just potatoes today, huh?]]></en>
-              <de><![CDATA[Heute nur Kartoffeln, was?]]></de>
-            </dia>
-            <dia puppet="MB_Caro" frame="lspeak" sound="voice/square3_voice.swf:square30153">
-              <en><![CDATA[You bet!]]></en>
-              <de><![CDATA[Da können Sie Gift drauf nehmen!]]></de>
-            </dia>
-            <dia puppet="MB_Caro" frame="hspeak" sound="voice/square3_voice.swf:square30154">
-              <en><![CDATA[But Maybe you can catch me some fish.]]></en>
-              <de><![CDATA[Aber vielleicht können Sie mir einen Fisch fangen.]]></de>
-            </dia>
-            <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30155">
-              <en><![CDATA[Maybe.]]></en>
-              <de><![CDATA[Vielleicht.]]></de>
-            </dia>
-            <dia puppet="MB_Caro" frame="" sound="voice/square3_voice.swf:square30156">
-              <en><![CDATA[Good.]]></en>
-              <de><![CDATA[Gut.]]></de>
-            </dia>
-          </dialog>
-          <script>
-            <dialogue play="*" />
-          </script>
-        </topic>
-        <topic key="t1" id="_1" enabled="1" hold="1" expose="" go="-2">
-          <title>
-            <en><![CDATA[Bye, bye.]]></en>
-            <de><![CDATA[Wiedersehen.]]></de>
-          </title>
-          <dialog>
-            <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30157">
-              <en><![CDATA[Bye, bye.]]></en>
-              <de><![CDATA[Wiedersehen.]]></de>
-            </dia>
-          </dialog>
-          <script>
-            <dialogue play="*" />
-            <layerState target="_current:MB_Caro:main" restState="rest" />
           </script>
         </topic>
       </tier>

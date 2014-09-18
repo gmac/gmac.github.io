@@ -114,7 +114,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30000">
-                  <en><![CDATA[A boathouse room with a view.]]></en>
+                  <en><![CDATA[A boathouse with a water view.]]></en>
                   <de><![CDATA[Ein Bootshauszimmer mit Aussicht.]]></de>
                 </dia>
               </dialog>
@@ -139,7 +139,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30001">
-                  <en><![CDATA[I’d better just use the human access door.]]></en>
+                  <en><![CDATA[I’d better just use the human-sized door.]]></en>
                   <de><![CDATA[Ich nehme besser einfach die Zugangstür für Menschen.]]></de>
                 </dia>
               </dialog>
@@ -542,7 +542,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30014">
-                  <en><![CDATA[It’s a large open nozzle used to refill the lamp’s oil reserve.]]></en>
+                  <en><![CDATA[It’s a large open nozzle used to refill the lamp’s oil tank.]]></en>
                   <de><![CDATA[Das ist ein großer, offener Stutzen, mit dem man den Ölbehälter der Lampe auffüllt. ]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30015">
@@ -756,8 +756,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30021">
-                  <en><![CDATA[Ah, no... jumping is NOT a viable option for the Vincent situation.]]></en>
-                  <de><![CDATA[Äh, nein ... springen ist KEINE Alternative für das Vincent-Problem.]]></de>
+                  <en><![CDATA[No. Jumping is NOT a viable option for the Vincent situation.]]></en>
+                  <de><![CDATA[Nein. Springen ist KEINE Alternative für das Vincent-Problem.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -777,12 +777,12 @@
                   <de><![CDATA[Vorsicht da unten!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/docks3_voice.swf:docks30023">
-                  <en><![CDATA[Haha! That crate smashed like an egg on the ground below...]]></en>
-                  <de><![CDATA[Haha! Diese Kiste ist unten am Boden zerschellt wie ein Ei ...]]></de>
+                  <en><![CDATA[Ha! That crate smashed like an egg on the ground below...]]></en>
+                  <de><![CDATA[Ha! Diese Kiste ist unten am Boden zerschellt wie ein Ei ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30024">
-                  <en><![CDATA[Alas feeble strongbox, you were no match for gravity.]]></en>
-                  <de><![CDATA[Ach weh, schwache Holzkiste, du warst der Schwerkraft nicht gewachsen.]]></de>
+                  <en><![CDATA[Alas feeble strongbox, you were no match for gravity!]]></en>
+                  <de><![CDATA[Ach weh, schwache Holzkiste, du warst der Schwerkraft nicht gewachsen!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -820,12 +820,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30025">
-                  <en><![CDATA[Good grief, those castle goons really did manage to put castle propaganda everywhere...]]></en>
+                  <en><![CDATA[Good grief, those castle goons really did put Castle propaganda everywhere...]]></en>
                   <de><![CDATA[Gute Güte, die Beamten vom Schloss haben ihre Propaganda wirklich überall angebracht ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30026">
-                  <en><![CDATA[I can only assume that this eye looming over the harbor was meant to be symbolic.]]></en>
-                  <de><![CDATA[Ich kann nur annehmen, dass dieses Auge, das über dem Hafen schwebt, symbolisch gemeint ist.]]></de>
+                  <en><![CDATA[I can only assume that this eye looming over the harbor was meant to be symbolic?]]></en>
+                  <de><![CDATA[Ich kann nur annehmen, dass dieses Auge, das über dem Hafen schwebt, symbolisch gemeint ist?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -849,7 +849,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30027">
-                  <en><![CDATA[The Ravenhollow harbor should be free of this watchful eye.]]></en>
+                  <en><![CDATA[The Ravenhollow harbor will be free of this watchful eye.]]></en>
                   <de><![CDATA[Der Hafen von Ravenhollow sollte frei von diesem wachsamen Auge sein.]]></de>
                 </dia>
               </dialog>
@@ -922,8 +922,8 @@
                   <de><![CDATA[Moment ... Oh nein.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30032">
-                  <en><![CDATA[I think I’m going to be sick ... I shouldn’t have dropped that box from the lighthouse.]]></en>
-                  <de><![CDATA[Ich glaube, mir wird schlecht ... Ich hätte die Kiste nicht vom Leuchtturm werfen sollen.]]></de>
+                  <en><![CDATA[I think I’m going to be sick ... I shouldn’t have dropped that box from the lighthouse!]]></en>
+                  <de><![CDATA[Ich glaube, mir wird schlecht ... Ich hätte die Kiste nicht vom Leuchtturm werfen sollen!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1010,7 +1010,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30035">
-                  <en><![CDATA[Hurray, more fishing gear!]]></en>
+                  <en><![CDATA[Alright, more fishing gear!]]></en>
                   <de><![CDATA[Hurra, mehr Angelsachen!]]></de>
                 </dia>
               </dialog>
@@ -1065,7 +1065,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30037">
-                  <en><![CDATA[While I don’t profess to be a mariner, I do know a sinking ship when I see it.]]></en>
+                  <en><![CDATA[While I don’t profess to be a mariner, I do know a sinking rowboat when I see it.]]></en>
                   <de><![CDATA[Ich behaupte zwar nicht, ein Seemann zu sein, aber ich erkenne ein sinkendes Schiff, wenn ich eines sehe.]]></de>
                 </dia>
               </dialog>
@@ -1090,8 +1090,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/docks3_voice.swf:docks30038">
-                  <en><![CDATA[Ha ... you’re joking. ... right?]]></en>
-                  <de><![CDATA[Ha ... Das ist ein Scherz. ... oder?]]></de>
+                  <en><![CDATA[Ha ... you’re joking. ... Right?]]></en>
+                  <de><![CDATA[Ha ... Das ist ein Scherz. ... Oder?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1150,7 +1150,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="lspeak4" sound="voice/docks3_voice.swf:docks30041">
-                  <en><![CDATA[I do NOT need more smelly fishing inventory.]]></en>
+                  <en><![CDATA[The last thing I need is more smelly fishing inventory.]]></en>
                   <de><![CDATA[Ich brauche nicht NOCH mehr stinkendes Angelzubehör.]]></de>
                 </dia>
               </dialog>
@@ -1225,7 +1225,7 @@
                   <de><![CDATA[Was mache ich hier? ... Und wer sind Sie?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30047">
-                  <en><![CDATA[He is still suffering from the mind-altering effects of Lowell Cain’s hypnosis device.]]></en>
+                  <en><![CDATA[He’s still suffering from the mind-altering effects of Lowell Cain’s hypnosis device.]]></en>
                   <de><![CDATA[Er leidet noch unter der bewusstseinsverändernden Wirkung von Lowell Cains Hypnosegerät.]]></de>
                 </dia>
               </dialog>
@@ -1259,7 +1259,7 @@
                   <de><![CDATA[Donnerwetter! Beim gottlosen weißen Wal und den Möwen, die ihm folgen, was war das?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30050">
-                  <en><![CDATA[You’ve been under a heavy hypnosis. Are you feeling any better?]]></en>
+                  <en><![CDATA[You’ve been under heavy hypnosis. Are you feeling any better?]]></en>
                   <de><![CDATA[Sie standen unter schwerer Hypnose. Geht es ihnen jetzt besser?]]></de>
                 </dia>
                 <dia puppet="mcmanus" frame="" sound="voice/docks3_voice.swf:docks30051">
@@ -1283,8 +1283,8 @@
                   <de><![CDATA[Tun Sie mir einen Gefallen und verpassen Sie Vincent eine ordentliche Tracht Prügel, wenn Sie ihn finden. Ich werde nicht vergessen, was er meinem Schiff, der alten Seegurke, angetan hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30056">
-                  <en><![CDATA[Okay ... of course ... we will meet again, McManus!]]></en>
-                  <de><![CDATA[Ok ... natürlich ... wir sehen uns, McManus!]]></de>
+                  <en><![CDATA[Okay ... of course ... we will meet again, Mr. McManus!]]></en>
+                  <de><![CDATA[Ok ... natürlich ... wir sehen uns, Mr. McManus!]]></de>
                 </dia>
                 <dia puppet="mcmanus" frame="" sound="voice/docks3_voice.swf:docks30057">
                   <en><![CDATA[Indeed, we will! Take care, mate!]]></en>
@@ -1493,8 +1493,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30068">
-                  <en><![CDATA[Naw, I’ll save the satisfaction for the locals.]]></en>
-                  <de><![CDATA[Nein, diese Befriedigung überlasse ich den Dorfbewohnern.]]></de>
+                  <en><![CDATA[It's okay. I’ll save the satisfaction for the locals.]]></en>
+                  <de><![CDATA[Es ist in Ordnung, diese Befriedigung überlasse ich den Dorfbewohnern.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1548,8 +1548,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30070">
-                  <en><![CDATA[Naw, I don’t need any memorabilia of the regime.]]></en>
-                  <de><![CDATA[Nein, ich brauche keine Andenken an das Regime.]]></de>
+                  <en><![CDATA[No. I don’t need any memorabilia of the regime.]]></en>
+                  <de><![CDATA[Nein. Ich brauche keine Andenken an das Regime.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1623,8 +1623,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30071">
-                  <en><![CDATA[Haha! This barrel may become Lowel Cain’s new wardrobe.]]></en>
-                  <de><![CDATA[Haha! Dieses Fass könnte Lowell Cains neues Outfit werden.]]></de>
+                  <en><![CDATA[Ha. Lowel Cain’s new wardrobe.]]></en>
+                  <de><![CDATA[Ha. Lowell Cains neues Outfit werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1696,7 +1696,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30074">
-                  <en><![CDATA[Boathouse number 8... or infinity if you turn your head and squint at it.]]></en>
+                  <en><![CDATA[Boathouse Number 8... or, infinity, if you turn your head and squint at it.]]></en>
                   <de><![CDATA[Bootshaus Nummer 8 ... oder das Zeichen der Unendlichkeit, wenn man den Kopf so hält und die Augen zusammenkneift]]></de>
                 </dia>
               </dialog>

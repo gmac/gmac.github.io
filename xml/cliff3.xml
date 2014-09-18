@@ -99,7 +99,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30000">
-                  <en><![CDATA[That’s Henry LeMue LaFayette’s place. I had seen his zeppelin here, but I hadn’t met the man himself until tonight.]]></en>
+                  <en><![CDATA[That’s Henry LeMue-LaFayette’s place. I had seen his zeppelin here, but I hadn’t met the man himself until tonight.]]></en>
                   <de><![CDATA[Das ist Henry LeMue Lafayettes Mühle. Ich hatte schon seinen Zeppelin hier gesehen, aber bis heute Abend hatte ich den Mann selbst noch nicht getroffen.]]></de>
                 </dia>
               </dialog>
@@ -133,8 +133,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30003">
-                  <en><![CDATA[I don’t think Mr. LeMue LaFayette would appreciate it if I broke into his mill while he’s waiting in the swamp for me.]]></en>
-                  <de><![CDATA[Ich glaube nicht, dass Herr LeMue LaFayette es begrüßen würde, wenn ich in seine Mühle einbreche, während er im Sumpf auf mich wartet.]]></de>
+                  <en><![CDATA[I don’t think Mr. LeMue-LaFayette would appreciate it if I broke into his mill.]]></en>
+                  <de><![CDATA[Ich glaube nicht, dass Herr LeMue LaFayette es begrüßen würde, wenn ich in seine Mühle einbreche.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -244,8 +244,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30005">
-                  <en><![CDATA[I’m not inching out onto that cliff to pick it up. It’s a miracle that the propeller itself hasn’t fallen off yet!]]></en>
-                  <de><![CDATA[Ich wage mich nicht auf die Klippe, um ihn zu holen. Es ist ein Wunder, dass der Propeller noch nicht runtergefallen ist!]]></de>
+                  <en><![CDATA[I’m not inching out onto that cliff to pick it up ... It’s a miracle that the propeller itself hasn’t fallen off yet!]]></en>
+                  <de><![CDATA[Ich wage mich nicht auf die Klippe, um ihn zu holen ... Es ist ein Wunder, dass der Propeller noch nicht runtergefallen ist!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -374,8 +374,8 @@
                   <de><![CDATA[Hey! Ich kann von hier aus das alte Labor von Dr. Coppelius sehen!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30008">
-                  <en><![CDATA[It’s only been a couple of days since I’ve been over there but it feels like three years have gone by! Crazy.]]></en>
-                  <de><![CDATA[Es ist erst ein paar Tage her, seit ich dort gewesen bin, aber es fühlt sich an, als seien drei oder vier Jahre vergangen! Verrückt.]]></de>
+                  <en><![CDATA[While it’s only been a few days since I was over there, it feels like years have gone by. Crazy.]]></en>
+                  <de><![CDATA[Es ist erst ein paar Tage her, seit ich dort gewesen bin, aber es fühlt sich an, als seien drei oder vier Jahre vergangen. Verrückt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -399,7 +399,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30009">
-                  <en><![CDATA[Maybe I’ll go back there someday ... but not tonight.]]></en>
+                  <en><![CDATA[Maybe I’ll go back there sometime ... but not tonight.]]></en>
                   <de><![CDATA[Vielleicht werde ich eines Tages dorthin zurückkehren ... aber nicht heute Abend.]]></de>
                 </dia>
               </dialog>
@@ -433,7 +433,7 @@
                   <de><![CDATA[Da bin ich zum ersten Mal Shroom und McManus begegnet.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30011">
-                  <en><![CDATA[I can’t really make it out from here, but I hope his unlabeled boxes of alcohol are still there.]]></en>
+                  <en><![CDATA[I hope his unlabeled boxes of alcohol are still there ... I can’t really make them out from here.]]></en>
                   <de><![CDATA[Ich kann es von hier aus nicht richtig erkennen, aber ich hoffe, seine unmarkierten Kisten mit Alkohol sind immer noch da.]]></de>
                 </dia>
               </dialog>
@@ -488,7 +488,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30013">
-                  <en><![CDATA[It’s somehow discouraging to see how that duck tries so hard but in the end gets nowhere.]]></en>
+                  <en><![CDATA[It’s somehow discouraging to see how hard that duck tries, but in the end goes nowhere.]]></en>
                   <de><![CDATA[Es ist irgendwie entmutigend zu sehen, wie sich die Ente bemüht und letztendlich keinenn Schritt vorwärts kommt.]]></de>
                 </dia>
               </dialog>
