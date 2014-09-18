@@ -123,11 +123,11 @@
                   <de><![CDATA[Das war der Hauptsitz des berühmten Smith-Instituts?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30001">
-                  <en><![CDATA[Hmmm. This almost seems anti&#8212;climatic after discovering Dr. Coppelius’ secret laboratory hidden under a lake behind his house...]]></en>
-                  <de><![CDATA[Hmmm. Nach der Entdeckung des geheimen Labors von Dr. Coppelius, das unter einem Teich hinter seinem Haus versteckt war, ist das fast enttäuschend ...]]></de>
+                  <en><![CDATA[Hm. This almost seems anti-climatic after discovering Dr. Coppelius’ secret laboratory hidden under a lake behind his house...]]></en>
+                  <de><![CDATA[Hm. Nach der Entdeckung des geheimen Labors von Dr. Coppelius, das unter einem Teich hinter seinem Haus versteckt war, ist das fast enttäuschend ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/river3_voice.swf:river30002">
-                  <en><![CDATA[...I’m going to bet that the Institute must have a way cooler lab squirreled away in some secret location.]]></en>
+                  <en><![CDATA[...I’m going to bet that the Institute has a more spectacular lab hidden away in some secret location.]]></en>
                   <de><![CDATA[... Ich wette, dass das Institut an irgendeinem geheimen Ort ein noch viel cooleres Labor versteckt hat.]]></de>
                 </dia>
               </dialog>
@@ -223,7 +223,7 @@
                   <de><![CDATA[... oh nein, er guckt hier rüber.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/river3_voice.swf:river30009">
-                  <en><![CDATA[... but I know you! You are Lowell Cain’s men. Do you really think you can just walk away from all this??]]></en>
+                  <en><![CDATA[... I know you two! You’re Lowell Cain’s men. Do you really think you can just walk away from all this??]]></en>
                   <de><![CDATA[... aber ich kenne euch! Ihr seid Lowell Cains Männer. Glaubt ihr wirklich, ihr könnt einfach so abhauen?]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="lspeak" sound="voice/river3_voice.swf:river30010">
@@ -247,8 +247,8 @@
                   <de><![CDATA[Du bist so dumm ... ich bin ohne dich besser dran ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/river3_voice.swf:river30015">
-                  <en><![CDATA[I’ll report you! I’ll get someone and then both of you will get the punishment you deserve.]]></en>
-                  <de><![CDATA[Ich werde euch melden! Ich werde jemanden holen, und dann werdet ihr beide die Strafe erhalten, die ihr verdient.]]></de>
+                  <en><![CDATA[I’ll report you! Then you’ll get the punishment you deserve.]]></en>
+                  <de><![CDATA[Ich werde euch melden! Dann werdet ihr beide die Strafe erhalten, die ihr verdient.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -541,8 +541,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30018">
-                  <en><![CDATA[Na, that’s about as exciting as reading the phone book.]]></en>
-                  <de><![CDATA[Nein, das ist in etwa so spannend wie das Telefonbuch.]]></de>
+                  <en><![CDATA[No. That’s about as exciting as reading the phone book.]]></en>
+                  <de><![CDATA[Nein. Das ist in etwa so spannend wie das Telefonbuch.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -586,7 +586,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30020">
-                  <en><![CDATA[That’s the top part of that strange device that I saw in the Smith Institute.]]></en>
+                  <en><![CDATA[That’s the upper-end of that strange device that I saw in the Smith Institute.]]></en>
                   <de><![CDATA[Das ist der obere Teil dieses seltsamen Geräts, das ich im Institut gesehen habe.]]></de>
                 </dia>
               </dialog>
@@ -611,7 +611,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30021">
-                  <en><![CDATA[There’s not much that I can do with it from here unless I can find a way to control the device remotely.]]></en>
+                  <en><![CDATA[There’s not much I can do with it from here, unless I can find a way to control the device remotely.]]></en>
                   <de><![CDATA[Von hier aus kann ich nicht viel damit machen, wenn ich keinen Weg finde, es aus der Ferne zu bedienen.]]></de>
                 </dia>
               </dialog>
@@ -627,8 +627,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30022">
-                  <en><![CDATA[The device will need to be activated before it even has a chance of being responsive.]]></en>
-                  <de><![CDATA[Dieses Gerät muss eingeschaltet werden, bevor es aktiviert werden kann.]]></de>
+                  <en><![CDATA[That device will need to be activated first.]]></en>
+                  <de><![CDATA[Dieses Gerät muss eingeschaltet werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -652,7 +652,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30020">
-                  <en><![CDATA[That’s the top part of that strange device that I saw in the Smith Institute.]]></en>
+                  <en><![CDATA[That’s the upper-end of that strange device that I saw in the Smith Institute.]]></en>
                   <de><![CDATA[Das ist der obere Teil dieses seltsamen Geräts, das ich im Institut gesehen habe.]]></de>
                 </dia>
               </dialog>
@@ -677,7 +677,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30021">
-                  <en><![CDATA[There’s not much that I can do with it from here unless I can find a way to control the device remotely.]]></en>
+                  <en><![CDATA[There’s not much I can do with it from here, unless I can find a way to control the device remotely.]]></en>
                   <de><![CDATA[Von hier aus kann ich nicht viel damit machen, wenn ich keinen Weg finde, es aus der Ferne zu bedienen.]]></de>
                 </dia>
               </dialog>
@@ -743,7 +743,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30020">
-                  <en><![CDATA[That’s the top part of that strange device that I saw in the Smith Institute.]]></en>
+                  <en><![CDATA[That’s the upper-end of that strange device that I saw in the Smith Institute.]]></en>
                   <de><![CDATA[Das ist der obere Teil dieses seltsamen Geräts, das ich im Institut gesehen habe.]]></de>
                 </dia>
               </dialog>
@@ -768,7 +768,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30021">
-                  <en><![CDATA[There’s not much that I can do with it from here unless I can find a way to control the device remotely.]]></en>
+                  <en><![CDATA[There’s not much I can do with it from here, unless I can find a way to control the device remotely.]]></en>
                   <de><![CDATA[Von hier aus kann ich nicht viel damit machen, wenn ich keinen Weg finde, es aus der Ferne zu bedienen.]]></de>
                 </dia>
               </dialog>
@@ -784,8 +784,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30025">
-                  <en><![CDATA[Attracting lightning bolts will never get old!]]></en>
-                  <de><![CDATA[Blitze anziehen wird nie langweilig!]]></de>
+                  <en><![CDATA[Attracting lightning bolts will never get old.]]></en>
+                  <de><![CDATA[Blitze anziehen wird nie langweilig.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -819,12 +819,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30026">
-                  <en><![CDATA[He tries to look cool, but I have seen him during his night shift at the castle gate. That guy is a coward.]]></en>
+                  <en><![CDATA[He tries to act tough, but I have seen him during his night shift at the castle gate. That guy is a coward.]]></en>
                   <de><![CDATA[Er versucht, cool aussehen, aber ich habe ihn während seiner Nachtschicht beim Schlosstor gesehen. Der Kerl ist ein Feigling.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30027">
-                  <en><![CDATA[By the way ... didn’t he have brown hair?]]></en>
-                  <de><![CDATA[Übrigens ... hatte er nicht braune Haare?]]></de>
+                  <en><![CDATA[Also ... didn’t he have brown hair?]]></en>
+                  <de><![CDATA[Auch ... hatte er nicht braune Haare?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -837,9 +837,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30028">
-                  <en><![CDATA[I’ll report you! I’ll get someone and then you will get the punishment you deserve.]]></en>
-                  <de><![CDATA[Ich werde dich melden! Ich werde jemanden holen, und du wirst die Strafe erhalten, die du verdienst.]]></de>
+                <dia puppet="_avatar" frame="lspeak" sound="voice/river3_voice.swf:river30015">
+                  <en><![CDATA[I’ll report you! Then you’ll get the punishment you deserve.]]></en>
+                  <de><![CDATA[Ich werde euch melden! Dann werdet ihr beide die Strafe erhalten, die ihr verdient.]]></de>
                 </dia>
                 <dia puppet="guard" frame="lspeak" sound="voice/river3_voice.swf:river30029">
                   <en><![CDATA[If I were guilty the heavens shall strike me down ... here and now!]]></en>
@@ -944,8 +944,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30030">
-                  <en><![CDATA[Woo... the dark water is mysterious.]]></en>
-                  <de><![CDATA[Wow ... das dunkle Wasser ist geheimnisvoll.]]></de>
+                  <en><![CDATA[Oh my, the dark water is mysterious.]]></en>
+                  <de><![CDATA[Wow, das dunkle Wasser ist geheimnisvoll.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1042,7 +1042,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30034">
-                  <en><![CDATA[I don’t want to find out how the guard would react if I tried to steal his loot from right under his nose.]]></en>
+                  <en><![CDATA[I don’t want to find out how the guard would react if I tried to steal his loot out from under his nose.]]></en>
                   <de><![CDATA[Ich möchte nicht herausfinden, wie der Kerl reagiert, wenn ich ihm seine Beute direkt unter der Nase wegnehmen würde.]]></de>
                 </dia>
               </dialog>
@@ -1058,7 +1058,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30035">
-                  <en><![CDATA[Even if the guard wasn’t watching, I think he’d notice the difference between these two boxes.]]></en>
+                  <en><![CDATA[Even if the guard wasn’t watching, I think he’d notice the difference between these boxes.]]></en>
                   <de><![CDATA[Selbst wenn der Kerl nicht zuschauen würde, würde er wahrscheinlich den Unterschied zwischen diesen beiden Kisten bemerken.]]></de>
                 </dia>
               </dialog>
@@ -1126,8 +1126,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30037">
-                  <en><![CDATA[No way, the guard will notice that the chest is missing once he stops cowering!]]></en>
-                  <de><![CDATA[Auf keinen Fall. Der Typ wird merken, dass die Truhe fehlt, wenn er aufsteht!]]></de>
+                  <en><![CDATA[No, the guard will notice that the chest is missing once he stops cowering.]]></en>
+                  <de><![CDATA[Auf keinen Fall. Der Typ wird merken, dass die Truhe fehlt, wenn er aufsteht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1191,7 +1191,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30040">
-                  <en><![CDATA[Almost looks like the original.]]></en>
+                  <en><![CDATA[It almost looks like the original.]]></en>
                   <de><![CDATA[Sieht fast aus wie das Original.]]></de>
                 </dia>
               </dialog>
@@ -1216,8 +1216,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30041">
-                  <en><![CDATA[No. I already have the real box, remember?]]></en>
-                  <de><![CDATA[Nein. Ich habe die echte schon Kiste, schon vergessen?]]></de>
+                  <en><![CDATA[No. I already have the box I want.]]></en>
+                  <de><![CDATA[Nein. Ich habe die echte schon Kiste.]]></de>
                 </dia>
               </dialog>
               <script>
