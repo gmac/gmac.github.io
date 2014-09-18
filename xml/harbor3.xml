@@ -148,7 +148,7 @@
                   <de><![CDATA[Das ist ein alter, nicht mehr aktueller Fahrplan für die Fähre.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30001">
-                  <en><![CDATA[I think I saw one of those near Coppelius’ lab, too.]]></en>
+                  <en><![CDATA[I think I saw one of these near Coppelius’ house, too.]]></en>
                   <de><![CDATA[Ich glaube, beim Labor von Coppelius habe ich auch so einen Anleger gesehen.]]></de>
                 </dia>
               </dialog>
@@ -226,7 +226,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30002">
-                  <en><![CDATA[The Ravenhollow port authority, now officially free of the castle.]]></en>
+                  <en><![CDATA[The Ravenhollow Port Authority. Now officially free of the castle.]]></en>
                   <de><![CDATA[Die Hafenbehörde von Ravenhollow, jetzt offiziell unabhängig vom Schloss.]]></de>
                 </dia>
               </dialog>
@@ -441,7 +441,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30005">
-                  <en><![CDATA[It’s locked up tight. Apparently the folks down here in the harbor have left to join in the village festivities.]]></en>
+                  <en><![CDATA[It’s locked up tight. Apparently the harbor folk have joined in the village festivities.]]></en>
                   <de><![CDATA[Sie ist fest verschlossen. Offensichtlich sind die Leute hier im Hafen zum Fest im Dorf gegangen.]]></de>
                 </dia>
               </dialog>
@@ -471,12 +471,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30006">
-                  <en><![CDATA[Closed... but wait, they’ve scrawled a note in the window:]]></en>
+                  <en><![CDATA[Closed, but they’ve scrawled a note in the window:]]></en>
                   <de><![CDATA[Geschlossen ... aber Moment, im Fenster hängt ein Zettel:]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30007">
-                  <en><![CDATA[&#8222;In response to the castle’s defeat, we will reopen tomorrow!&#8220;]]></en>
-                  <de><![CDATA[&#8222;Als Folge des Sieges über das Schloss haben wir morgen wieder geöffnet!&#8220;]]></de>
+                  <en><![CDATA[&#8222;Following the castle’s defeat, we will reopen tomorrow.&#8220;]]></en>
+                  <de><![CDATA[&#8222;Als Folge des Sieges über das Schloss haben wir morgen wieder geöffnet.&#8220;]]></de>
                 </dia>
               </dialog>
               <script>
@@ -494,11 +494,11 @@
                   <de><![CDATA[Hallo!? Ist jemand zu Hause?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30009">
-                  <en><![CDATA[...]]></en>
-                  <de><![CDATA[...]]></de>
+                  <en><![CDATA[... hm ...]]></en>
+                  <de><![CDATA[... hm ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30010">
-                  <en><![CDATA[No answer ... but I think I saw someone move behind the curtains up on the first floor.]]></en>
+                  <en><![CDATA[No answer ... but I think I saw someone move behind the curtains on the first floor.]]></en>
                   <de><![CDATA[Keine Antwort ... aber ich glaube, im ersten Stock hat sich jemand hinter dem Vorhang bewegt.]]></de>
                 </dia>
               </dialog>
@@ -513,8 +513,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30011">
-                  <en><![CDATA[Mh, the store is closed.]]></en>
-                  <de><![CDATA[Hm, der Laden ist geschlossen.]]></de>
+                  <en><![CDATA[The store is closed.]]></en>
+                  <de><![CDATA[Der Laden ist geschlossen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -580,7 +580,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30016">
-                  <en><![CDATA[With the bait shop reopening tomorrow, worm&#8212;hunting may yet become a lucrative prospect.]]></en>
+                  <en><![CDATA[With the bait shop reopening tomorrow, worm-hunting may yet become a lucrative prospect.]]></en>
                   <de><![CDATA[Wenn der Angelladen morgen wieder öffnet, wird die Wurmjagd vielleicht noch zu einem lukrativen Geschäft.]]></de>
                 </dia>
               </dialog>
@@ -614,7 +614,7 @@
                   <de><![CDATA[McPhersons Lagerhaus ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30018">
-                  <en><![CDATA[Legitimate business or smuggling front? We may never know.]]></en>
+                  <en><![CDATA[Legitimate business or smuggling front? We’ll never know.]]></en>
                   <de><![CDATA[Ordentliches Geschäft oder Fassade für Schmuggelei? Wir werden es wohl nie erfahren.]]></de>
                 </dia>
               </dialog>
@@ -684,7 +684,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30021">
-                  <en><![CDATA[Throughout my travels, I’ve learned not to trust unknown water supplies.]]></en>
+                  <en><![CDATA[Through my travels, I’ve learned to distrust unknown water supplies.]]></en>
                   <de><![CDATA[Auf meinen Reisen habe ich gelernt, unbekannten Wasserquellen nicht zu trauen.]]></de>
                 </dia>
               </dialog>
@@ -699,8 +699,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30022">
-                  <en><![CDATA[While I may be a poor university student, I’m not that badly off!]]></en>
-                  <de><![CDATA[Ich bin vielleicht nur ein armer Student, aber so arm bin ich nicht!]]></de>
+                  <en><![CDATA[I’m not that desperate.]]></en>
+                  <de><![CDATA[Ich bin nicht so verzweifelt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -733,8 +733,8 @@
                   <de><![CDATA[Whale Spotters, Inc.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30024">
-                  <en><![CDATA[Hey, there’s a sign on the door saying that they’re opening tomorrow for the first time in months!]]></en>
-                  <de><![CDATA[He, da hängt ein Schild an der Tür, auf dem steht, dass sie morgen zum ersten Mal seit Monaten geöffnet haben!]]></de>
+                  <en><![CDATA[There’s a sign on the door saying that they’re opening tomorrow for the first time in months.]]></en>
+                  <de><![CDATA[Da hängt ein Schild an der Tür, auf dem steht, dass sie morgen zum ersten Mal seit Monaten geöffnet haben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -758,7 +758,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30025">
-                  <en><![CDATA[The door is locked. I suppose I need to come back during standard business hours.]]></en>
+                  <en><![CDATA[The door is locked. I suppose I need to come back during business hours.]]></en>
                   <de><![CDATA[Die Tür ist verschlossen. Ich sollte wohl zu den normalen Geschäftszeiten wiederkommen.]]></de>
                 </dia>
               </dialog>
@@ -872,8 +872,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30032">
-                  <en><![CDATA[Hey, that’s not a real pirate... He doesn’t have a drunk parrot on his shoulder!]]></en>
-                  <de><![CDATA[He, das ist kein echter Pirat ... Er hat keinen betrunkenen Papagei auf der Schulter!]]></de>
+                  <en><![CDATA[That’s not a real pirate... I can tell because he doesn’t have a drunk parrot on his shoulder.]]></en>
+                  <de><![CDATA[Das ist kein echter Pirat ... Er hat keinen betrunkenen Papagei auf der Schulter.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -902,8 +902,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30034">
-                  <en><![CDATA[You must think I’m Carmen Santiago...]]></en>
-                  <de><![CDATA[Sie müssen mich für Carmen Santiago halten ...]]></de>
+                  <en><![CDATA[There are flaws in this plan.]]></en>
+                  <de><![CDATA[Es gibt Mängel in diesem Plan.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -987,12 +987,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30037">
-                  <en><![CDATA[Hey look, Ravenhollow and the Smith Institute embrace clean, renewable energy sources!]]></en>
-                  <de><![CDATA[Na sieh an, Ravenhollow und das Smith-Institut setzen auf saubere, erneuerbare Energiequellen!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30038">
-                  <en><![CDATA[...there’s a lesson to be had there.]]></en>
-                  <de><![CDATA[... da kann man was draus lernen.]]></de>
+                  <en><![CDATA[Excellent. Ravenhollow and the Smith Institute have embraced clean renewable energy sources.]]></en>
+                  <de><![CDATA[Na sieh an, Ravenhollow und das Smith-Institut setzen auf saubere, erneuerbare Energiequellen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1046,11 +1042,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30040">
-                  <en><![CDATA[Still waters run deep!]]></en>
-                  <de><![CDATA[Stille Wasser sind tief!]]></de>
+                  <en><![CDATA[Still Waters Run Deep?!]]></en>
+                  <de><![CDATA[Stille Wasser Sind Tief?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30041">
-                  <en><![CDATA[Unbelievable with how much emotion he plays.]]></en>
+                  <en><![CDATA[Unbelievable how much emotion he conveys.]]></en>
                   <de><![CDATA[Unglaublich, mit wie viel Gefühl er spielt.]]></de>
                 </dia>
               </dialog>
@@ -1065,7 +1061,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30042">
-                  <en><![CDATA[I better not disturb him.]]></en>
+                  <en><![CDATA[I’d better not disturb him.]]></en>
                   <de><![CDATA[Ich störe ihn besser nicht.]]></de>
                 </dia>
               </dialog>
@@ -1105,7 +1101,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30043">
-                  <en><![CDATA[My aquatics merit badge instructor would not approve of this situation.]]></en>
+                  <en><![CDATA[My old aquatics instructor would not approve of this situation.]]></en>
                   <de><![CDATA[Der Schwimmlehrer in meinem Seepferdchenkurs fände das nicht gut.]]></de>
                 </dia>
               </dialog>
@@ -1130,7 +1126,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30044">
-                  <en><![CDATA[In this case, I think I would drown.]]></en>
+                  <en><![CDATA[In this case, I think I’d drown.]]></en>
                   <de><![CDATA[In diesem Fall würde ich wahrscheinlich ertrinken.]]></de>
                 </dia>
               </dialog>
@@ -1174,17 +1170,9 @@
                 <de><![CDATA[Iss]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30046">
-                  <en><![CDATA[That reminds me of a song...]]></en>
-                  <de><![CDATA[Das erinnert mich an ein Gedicht ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30047">
-                  <en><![CDATA[&#8222;Mares eat oats and goats eat oats and little lambs eat ivy...]]></en>
-                  <de><![CDATA[&#8222;Herr Afeu frug Herrn Befeu: Wo bleibt denn bloß Herr Cefeu, da sprach Herr Befeu: Cefeu?]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30048">
-                  <en><![CDATA[A kid’ll eat ivy too, wouldn’t you?&#8220;]]></en>
-                  <de><![CDATA[Der sitzt mit Fräulein Defeu dort unten hinterm Efeu.&#8220;]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30049">
+                  <en><![CDATA[No, it looks very nice here in the planter.]]></en>
+                  <de><![CDATA[Nein, der sieht hier in dem Topf sehr schön aus.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1242,17 +1230,9 @@
                 <de><![CDATA[Iss]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30051">
-                  <en><![CDATA[That reminds me of a song...]]></en>
-                  <de><![CDATA[Das erinnert mich an ein Gedicht ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30052">
-                  <en><![CDATA[&#8222;Mares eat oats and goats eat oats and little lambs eat ivy...]]></en>
-                  <de><![CDATA[&#8222;Herr Afeu frug Herrn Befeu: Wo bleibt denn bloß Herr Cefeu? Da sprach Herr Befeu: Cefeu?]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30053">
-                  <en><![CDATA[A kid’ll eat ivy too, wouldn’t you?&#8220;]]></en>
-                  <de><![CDATA[Der sitzt mit Fräulein Defeu dort hinten unterm Efeu.&#8220;]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30049">
+                  <en><![CDATA[No, it looks very nice here in the planter.]]></en>
+                  <de><![CDATA[Nein, der sieht hier in dem Topf sehr schön aus.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1296,7 +1276,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30055">
-                  <en><![CDATA[This storehouse is obviously locked.]]></en>
+                  <en><![CDATA[This storehouse is definitely locked.]]></en>
                   <de><![CDATA[Dieses Lagerhaus ist offensichtlich verschlossen.]]></de>
                 </dia>
               </dialog>
@@ -1365,7 +1345,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30057">
-                  <en><![CDATA[It looks like the fishermen have reclaimed their catch of the day from the castle.]]></en>
+                  <en><![CDATA[It looks like the fishermen have reclaimed their catch from the castle.]]></en>
                   <de><![CDATA[Sieht aus, als hätten sich die Fischer ihren Tagesfang vom Schloss zurückgeholt.]]></de>
                 </dia>
               </dialog>
@@ -1450,7 +1430,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30061">
-                  <en><![CDATA[There’s not much that I can do with a floating buoy from dry land.]]></en>
+                  <en><![CDATA[There’s not much that I can do with a floating buoy on dry land.]]></en>
                   <de><![CDATA[Auf dem Trockenen kann ich mit einer Schwimmboje nicht viel anfangen.]]></de>
                 </dia>
               </dialog>
@@ -1484,8 +1464,8 @@
                   <de><![CDATA[Derjenige, der das Ruderboot geflickt hat, hatte keine Ahnung, was er tut. Höchst unprofessionell.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30063">
-                  <en><![CDATA[I, on the other hand, have crafted my own fishing rod before!]]></en>
-                  <de><![CDATA[Ich hingegen habe schon mal eine Angel selbst gebastelt!]]></de>
+                  <en><![CDATA[I, on the other hand, have crafted my own fishing rod before.]]></en>
+                  <de><![CDATA[Ich hingegen habe schon mal eine Angel selbst gebastelt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1566,7 +1546,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30065">
-                  <en><![CDATA[It looks like the fishermen have reclaimed their catch of the day from the castle.]]></en>
+                  <en><![CDATA[It looks like the fishermen have reclaimed their catch from the castle.]]></en>
                   <de><![CDATA[Sieht aus, als hätten sich die Fischer ihren Tagesfang vom Schloss zurückgeholt.]]></de>
                 </dia>
               </dialog>
@@ -1649,11 +1629,11 @@
                   <de><![CDATA[Nathan Mallory. Wie geht es Ihnen? Ich habe Sie nicht gesehen, seit Sie sich in den Fischkisten versteckt haben, um sich ins Schloss einzuschleichen ... hat das funktioniert?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30071">
-                  <en><![CDATA[Yeah, actually it did. I really need to take a bath, but somehow we defeated Lowell Cain ... it’s complicated.]]></en>
+                  <en><![CDATA[Yes, actually it did. I really need to take a bath, but at least we defeated Lowell Cain ... it’s complicated.]]></en>
                   <de><![CDATA[Ja, es hat tatsächlich funktioniert. Ich muss dringend ein Bad nehmen, aber irgendwie haben wir Lowell Cain geschlagen ... Komplizierte Geschichte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30072">
-                  <en><![CDATA[But at least now you should be able to get back the goods that were stolen from you.]]></en>
+                  <en><![CDATA[But now you should be able to get the goods back that were stolen from you.]]></en>
                   <de><![CDATA[Aber wenigstens können Sie jetzt wohl die Waren zurückbekommen, die Ihnen gestohlen wurden.]]></de>
                 </dia>
                 <dia puppet="amayi" frame="hspeak" sound="voice/harbor3_voice.swf:harbor30073">
@@ -1759,15 +1739,15 @@
                   <de><![CDATA[Wenn Sie sie mir zurückbringen, schenke ich Ihnen diese bunten Kristall-Tikiköpfe, die ich beim Spiel mit einem Seemann gewonnen habe, der sie aus den Tiefen der Karibik mitgebracht hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/harbor3_voice.swf:harbor30085">
-                  <en><![CDATA[Crystal, uh?]]></en>
-                  <de><![CDATA[Kristall, hm?]]></de>
+                  <en><![CDATA[Crystal, hu?]]></en>
+                  <de><![CDATA[Kristall, hu?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30086">
-                  <en><![CDATA[I will see what I can do.]]></en>
+                  <en><![CDATA[I’ll see what I can do.]]></en>
                   <de><![CDATA[Ich sehe mal, was ich tun kann.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30087">
-                  <en><![CDATA[I think I am done here.]]></en>
+                  <en><![CDATA[I think I’m done here.]]></en>
                   <de><![CDATA[Ich glaube, ich bin hier fertig.]]></de>
                 </dia>
               </dialog>
@@ -1827,7 +1807,7 @@
                   <de><![CDATA[Ach ... Si! Jetzt weiß ich wieder ... ja. Nehmen Sie die Tikiköpfe ... aber Vorsicht ... sie könnten verflucht sein!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/harbor3_voice.swf:harbor30094">
-                  <en><![CDATA[Cursed!? That is a bit far fetched ...]]></en>
+                  <en><![CDATA[Cursed!? That’s a bit far fetched ...]]></en>
                   <de><![CDATA[Verflucht!? Das ist ein bisschen weit her geholt ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak5" sound="voice/harbor3_voice.swf:harbor30095">
