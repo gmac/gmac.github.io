@@ -149,7 +149,7 @@
                   <de><![CDATA[Hallo?]]></de>
                 </dia>
                 <dia puppet="fishcrate" frame="" sound="voice/cellar_voice.swf:cellar0002">
-                  <en><![CDATA[Yes ... could you help me to get out of here?]]></en>
+                  <en><![CDATA[Yes ... could you help get me out of here?]]></en>
                   <de><![CDATA[Ja ... könnten Sie mir helfen, hier raus zu kommen?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0003">
@@ -178,7 +178,7 @@
                   <de><![CDATA[Schauen wir mal ...]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0005">
-                  <en><![CDATA[Finally. Freedom at last!]]></en>
+                  <en><![CDATA[Finally, freedom at last!]]></en>
                   <de><![CDATA[O süße Freiheit!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0006">
@@ -206,15 +206,15 @@
                   <de><![CDATA[Den Teil bitte überspringen ...]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0012">
-                  <en><![CDATA[If you insist. Well, in the end I simply hid in this crate. One of the boxes of fish that Lowell Cain’s men transport up to the Castle each day. ]]></en>
+                  <en><![CDATA[If you insist. In the end I simply hid in this crate. It’s one of the boxes of fish that Lowell Cain’s men transport up to the Castle each day.]]></en>
                   <de><![CDATA[Okay. Am Ende habe ich mich jedenfalls in dieser Kiste versteckt - also einer der Kisten Fisch, die Lowell Cains Männer jeden Tag zum Schloss transportieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0013">
-                  <en><![CDATA[Now that you were kind enough to release me from that slippery box of horrible odors, I will rescue Dr. Coppelius who is being held prisoner somewhere in the Castle.]]></en>
+                  <en><![CDATA[Now that you were kind enough to release me from that slippery box of horrible odors, I will rescue Dr. Coppelius. He’s being held prisoner somewhere in the Castle.]]></en>
                   <de><![CDATA[Jetzt da du mir aus dieser glitschigen Kiste mit ihren schrecklichen Gerüchen geholfen hast, kann ich Dr. Coppelius retten.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0014">
-                  <en><![CDATA[I just hope that my overpowering smell of fish doesn’t give away my position. What are you doing here?]]></en>
+                  <en><![CDATA[I just hope that my overpowering smell of fish doesn’t give away my position. Now, what are you doing here?]]></en>
                   <de><![CDATA[Ich hoffe nur, dass mein überwältigender Geruch nach Fisch den Schlossbeamten nicht auffällt. Und was machst du hier?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0015">
@@ -226,7 +226,7 @@
                   <de><![CDATA[Und ich will mich auch für den Besitzer des Maskengeschäfts einsetzen, der von Lowell Cain und seinen Männern hypnotisiert wurde.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0017">
-                  <en><![CDATA[Mr. Mandelbaum? Has he been flashed?]]></en>
+                  <en><![CDATA[Mr. Mandelbaum? Has he been flashed too?]]></en>
                   <de><![CDATA[Herr Mandelbaum? Wurde er geblitzt?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0018">
@@ -234,7 +234,7 @@
                   <de><![CDATA[Ja, woher weisst du das?]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0019">
-                  <en><![CDATA[It seems a couple of other villagers have been flashed too ... and I had a similar experience once back in Dr. Copellius’ lab. I wonder if there’s a connection ...]]></en>
+                  <en><![CDATA[It seems that several villagers have suffered memory loss ... I had a similar experience once back in Dr. Copellius’ lab. I wonder if there’s a connection ...]]></en>
                   <de><![CDATA[Anscheinend wurden auch ein paar andere Dorfbewohner geblitzt ... und ich hatte einmal ein ähnliches Erlebnis im Labor von Dr. Copellius. Ich frage mich, ob es eine Verbindung gibt ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0020">
@@ -246,7 +246,7 @@
                   <de><![CDATA[Mir nach.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/cellar_voice.swf:cellar0022">
-                  <en><![CDATA[I learned some of the castle’s layout by looking out through a knot hole in my crate. It’s quite a lot of stairs up to the first floor ...]]></en>
+                  <en><![CDATA[I learned some of the castle’s layout by looking through a knot hole in my crate. It’s quite a lot of stairs up to the first floor ...]]></en>
                   <de><![CDATA[Ich habe mir den Gebäudeplan des Schlosses gemerkt, als ich durch ein Loch in meiner Kiste geschaut habe. Es gibt ziemlich viele Stufen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0023">
@@ -892,8 +892,8 @@
                   <de><![CDATA[Ist jemand hier?]]></de>
                 </dia>
                 <dia puppet="fishcrate" frame="" sound="voice/cellar_voice.swf:cellar0045">
-                  <en><![CDATA[Yes.]]></en>
-                  <de><![CDATA[Ja.]]></de>
+                  <en><![CDATA[Yes!]]></en>
+                  <de><![CDATA[Ja!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar_voice.swf:cellar0046">
                   <en><![CDATA[Now wait a minute! Who said that!?]]></en>

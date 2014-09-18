@@ -332,7 +332,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30003">
-                  <en><![CDATA[I’m not going to walk along the rail tracks ... whatever that train looks like, there won’t be enough room for both of us if I run into it.]]></en>
+                  <en><![CDATA[I’m not going to walk along the rail tracks ... the train will win if I run into it.]]></en>
                   <de><![CDATA[Ich werde nicht die Gleise entlang laufen ... wie der Zug auch aussieht, wenn er kommt, wird es hier nicht genug Platz für uns beide geben.]]></de>
                 </dia>
               </dialog>
@@ -425,7 +425,7 @@
                   <de><![CDATA[Diese Abgasturbinen belüften diese Anlage.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30005">
-                  <en><![CDATA[I guess that means I shouldn’t tamper with them.]]></en>
+                  <en><![CDATA[I guess that means I shouldn’t mess with them.]]></en>
                   <de><![CDATA[Ich vermute, das heißt, ich sollte nicht an ihnen herumpfuschen.]]></de>
                 </dia>
               </dialog>
@@ -450,7 +450,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30006">
-                  <en><![CDATA[I can’t reach them. Besides, tampering with spinning blades is just begging for a denied insurance claim.]]></en>
+                  <en><![CDATA[I can’t reach them. Besides, tampering with spinning blades just begs for a denied insurance claim.]]></en>
                   <de><![CDATA[Ich kann sie nicht erreichen. Außerdem ist das Werkeln an Rotorblättern geradezu eine Einladung für abgelehnte Versicherungsansprüche.]]></de>
                 </dia>
               </dialog>
@@ -1085,12 +1085,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30012">
-                  <en><![CDATA[That’s the call mechanism for the train ... Dr. LeMue LaFayette couldn’t call the train because someone changed the activation code.]]></en>
+                  <en><![CDATA[That’s the call mechanism for the train ... Dr. LeMue-LaFayette couldn’t call the train because someone changed the activation code.]]></en>
                   <de><![CDATA[Das ist der Rufmechanismus für den Zug ... Dr. LeMue LaFayette konnte den Zug nicht rufen, weil jemand den Aktivierungscode geändert hatte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30013">
-                  <en><![CDATA[Now he and Coppelius want to get their hands on Nigel’s photograph because his father might have written the code on it.]]></en>
-                  <de><![CDATA[Jetzt wollen er und Coppelius Nigels Foto in die Finger kriegen, weil sein Vater den Code darauf geschrieben haben könnte.]]></de>
+                  <en><![CDATA[Now he and Coppelius want to get their hands on Nigel’s photograph, because they think it has the new code written on it.]]></en>
+                  <de><![CDATA[Jetzt wollen er und Coppelius Nigels Foto in die Finger kriegen, weil sie denken, es den neuen Code auf der es geschrieben hat.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1114,8 +1114,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30014">
-                  <en><![CDATA[If the Zeppelin Guy couldn’t activate the call mechanism, then I won’t have much luck either!]]></en>
-                  <de><![CDATA[Wenn der Zeppelin-Mann den Rufmechanismus nicht aktivieren konnte, dann werde ich auch nicht viel Glück damit haben!]]></de>
+                  <en><![CDATA[If Dr. LeMue-LaFayette couldn’t activate the call mechanism, then I probably won’t have much luck either.]]></en>
+                  <de><![CDATA[Wenn Dr. LeMue LaFayette den Rufmechanismus nicht aktivieren konnte, dann werde ich auch nicht viel Glück damit haben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1268,8 +1268,8 @@
                   <de><![CDATA[Ja, und der Energieknoten im Sumpf sollte noch aufgeladen sein ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30046">
-                  <en><![CDATA[Where are you going? And what are you talking about?]]></en>
-                  <de><![CDATA[Wohin gehen Sie denn jetzt wieder hin? Und wovon sprechen Sie?]]></de>
+                  <en><![CDATA[Where are you going? And ... what are you talking about?]]></en>
+                  <de><![CDATA[Wohin gehen Sie denn jetzt wieder hin? Und ... wovon sprechen Sie?]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30047">
                   <en><![CDATA[I think we have to get Nigel Trelawney’s photograph to activate this train, and then follow Vincent to Mount Misery ... somehow.]]></en>
@@ -1401,8 +1401,8 @@
                   <de><![CDATA[Kommt! Wir müssen zum Mount Misery und Vincent ein für alle Mal aufhalten!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30053">
-                  <en><![CDATA[I just hope we arrive in time to stop Vincent ...]]></en>
-                  <de><![CDATA[Ich hoffe nur, wir sind noch rechtzeitig, um Vincent aufzuhalten ...]]></de>
+                  <en><![CDATA[I just hope we arrive in time ...]]></en>
+                  <de><![CDATA[Ich hoffe nur, wir sind noch rechtzeitig ...]]></de>
                 </dia>
               </dialog>
               <script>
