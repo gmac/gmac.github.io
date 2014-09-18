@@ -214,12 +214,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30005">
-                  <en><![CDATA[Unfortunately the lighter’s puny flame won’t do much against this stifling darkness ...]]></en>
+                  <en><![CDATA[Unfortunately, the lighter’s puny flame won’t do much against this stifling darkness ...]]></en>
                   <de><![CDATA[Leider kann die schwache Flamme des Feuerzeugs nicht viel gegen die tiefe Dunkelheit ausrichten ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30006">
-                  <en><![CDATA[... or at least, not enough that I’m willing to fumble along a narrow walkway next to a chasm of unknown depths.]]></en>
-                  <de><![CDATA[... zumindest nicht genug, als dass ich mich auf einem schmalen Pfad an dieser tiefen Schlucht entlangtaste.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -243,7 +239,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30007">
-                  <en><![CDATA[What a utilitarian use for juggling equipment.]]></en>
+                  <en><![CDATA[What a practical use for juggling equipment.]]></en>
                   <de><![CDATA[Eine nützliche Verwendung für Jonglierausrüstung.]]></de>
                 </dia>
               </dialog>
@@ -268,7 +264,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30008">
-                  <en><![CDATA[I’m not crazy enough to attempt juggling fire... especially when I risk dropping my light source down a chasm.]]></en>
+                  <en><![CDATA[I’m not crazy enough to attempt juggling fire... especially when I’d risk dropping my light source down a chasm.]]></en>
                   <de><![CDATA[Ich versuche doch nicht, mit Feuer zu jonglieren ... meine Lichtquelle könnte in eine Schlucht fallen!]]></de>
                 </dia>
               </dialog>
@@ -323,7 +319,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30010">
-                  <en><![CDATA[I’ve gotten my fill of fish, thank you very much.]]></en>
+                  <en><![CDATA[I’ve had my fill of fish, thank you very much.]]></en>
                   <de><![CDATA[Ich hab meine Fischration gehabt, vielen Dank!]]></de>
                 </dia>
               </dialog>
@@ -353,7 +349,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30011">
-                  <en><![CDATA[I have many bitter, smelly memories of the inside of this crate.]]></en>
+                  <en><![CDATA[I have many bitter and smelly memories of the inside of this crate.]]></en>
                   <de><![CDATA[Ich hab viele bittere, stinkende Erinnerungen an diese Kiste.]]></de>
                 </dia>
               </dialog>
@@ -378,8 +374,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/cellar3_voice.swf:cellar30012">
-                  <en><![CDATA[There is no way that I am getting back into that crate!]]></en>
-                  <de><![CDATA[Keine Chance, dass ich da nochmal reingehe!]]></de>
+                  <en><![CDATA[There is no way that I’m getting back into that crate.]]></en>
+                  <de><![CDATA[Keine Chance, dass ich da nochmal reingehe.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -433,11 +429,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30014">
-                  <en><![CDATA[Naw, they’re not exactly my idea of light reading ...]]></en>
-                  <de><![CDATA[Nee, ich steh mehr auf leichte Literatur ...]]></de>
+                  <en><![CDATA[No, they’re not exactly my idea of light reading ...]]></en>
+                  <de><![CDATA[Nein, ich steh mehr auf leichte Literatur ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30015">
-                  <en><![CDATA[This cellar will probably get more use out of them than I will.]]></en>
+                  <en><![CDATA[This dank cellar will probably get more use out of them than I will.]]></en>
                   <de><![CDATA[Dieser Keller kann damit wahrscheinlich mehr anfangen als ich.]]></de>
                 </dia>
               </dialog>
@@ -589,11 +585,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30022">
-                  <en><![CDATA[It’s a portrait of an old woman; the plaque on the bottom reads &#8222;Theodora Trelawney (born Bunbury) &#8212; loving wife of George Adam&#8220;.]]></en>
-                  <de><![CDATA[Das Portrait einer alten Frau; auf dem Schild unten steht &#8222;Theodora Trelawney (geborene Bunbury) – geliebte Ehefrau von George Adam&#8220;.]]></de>
+                  <en><![CDATA[It’s a portrait of an old woman. The plaque on the bottom reads, &#8222;Theodora Trelawney (born Bunbury) &#8212; loving wife of George Adam&#8220;.]]></en>
+                  <de><![CDATA[Das Portrait einer alten Frau. Auf dem Schild unten steht, &#8222;Theodora Trelawney (geborene Bunbury) – geliebte Ehefrau von George Adam&#8220;.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30023">
-                  <en><![CDATA[Hey, That’s probably Nigel’s grandmother!]]></en>
+                  <en><![CDATA[Hey, that may be Nigel’s grandmother!]]></en>
                   <de><![CDATA[Hey, das ist bestimmt Nigels Großmutter!]]></de>
                 </dia>
               </dialog>
@@ -699,7 +695,7 @@
                   <de><![CDATA[Das scheint der Rollstuhl von Professor Von Sternberg aus dem Smith-Institut zu sein ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30026">
-                  <en><![CDATA[Vincent must have been after him, too. I wonder what happened to him.]]></en>
+                  <en><![CDATA[Vincent must have been after him, too. I wonder what happened to him?]]></en>
                   <de><![CDATA[Vincent war wohl auch hinter ihm her. Wo er jetzt wohl sein mag?]]></de>
                 </dia>
               </dialog>
@@ -754,7 +750,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30028">
-                  <en><![CDATA[This looks interesting... it’s a records box sealed with tape.]]></en>
+                  <en><![CDATA[This looks interesting... it’s a box of old records, sealed with tape.]]></en>
                   <de><![CDATA[Was ist das? Eine mit Klebeband verschlossene Kiste mit Unterlagen.]]></de>
                 </dia>
               </dialog>
@@ -779,7 +775,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30029">
-                  <en><![CDATA[Ugh... there’s a label scrawled on the back that reads &#8222;inventory forms&#8220;.]]></en>
+                  <en><![CDATA[Ugh... there’s a label scrawled on the back that reads &#8222;Inventory Forms&#8220;.]]></en>
                   <de><![CDATA[Hm ... da ist was hinten drauf gekritzelt, ich glaub &#8222;Inventarlisten&#8220;.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30030">
@@ -982,7 +978,7 @@
                   <de><![CDATA[Da ist ein kleiner Aufkleber an der Ecke der Kiste. Darauf steht: &#8222;Eigentum des Smith&#8212;Instituts&#8220;]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30032">
-                  <en><![CDATA[Gosh, there sure is a lot of old material from the Institute down here. It looks like someone has been hoarding it all.]]></en>
+                  <en><![CDATA[Gosh, there sure is a lot of old material from the Institute down here. It looks like someone has been hoarding it.]]></en>
                   <de><![CDATA[Mann, hier unten ist echt viel altes Material vom Institut. Scheint, als würde das hier jemand sammeln.]]></de>
                 </dia>
               </dialog>
@@ -1235,7 +1231,7 @@
                   <de><![CDATA[Hey, das sieht aus wie die nackte Version der Puppe, die draußen im Wald hängt ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30041">
-                  <en><![CDATA[I wonder how many dangerous experiments this poor guy had to live through.]]></en>
+                  <en><![CDATA[I wonder how many dangerous experiments this poor guy had to suffer through.]]></en>
                   <de><![CDATA[Ich frag mich, wie viele gefährliche Experimente der arme Kerl schon erlebt hat.]]></de>
                 </dia>
               </dialog>
@@ -1250,7 +1246,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30042">
-                  <en><![CDATA[He doesn’t seem to be in the mood for a conversation.]]></en>
+                  <en><![CDATA[He doesn’t seem to be in the mood for conversation.]]></en>
                   <de><![CDATA[Er hat sicher keine Lust auf ein Gespräch.]]></de>
                 </dia>
               </dialog>
@@ -1323,7 +1319,7 @@
                   <de><![CDATA[Der Brief ist an Dr. Coppelius gerichtet! Das Schloss muss ihn abgefangen haben ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30046">
-                  <en><![CDATA[I will add the letter to Nigel’s notebook.]]></en>
+                  <en><![CDATA[I’ll add the letter to Nigel’s notebook.]]></en>
                   <de><![CDATA[Der Brief kommt zu Nigels Notizheft.]]></de>
                 </dia>
               </dialog>
@@ -1397,8 +1393,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/cellar3_voice.swf:cellar30051">
-                  <en><![CDATA[No way, I’m not fumbling around in the dark along the edge of that chasm!]]></en>
-                  <de><![CDATA[Keine Chance, ich taste mich bestimmt nicht im Dunkeln am Rand dieser Schlucht entlang!]]></de>
+                  <en><![CDATA[No way, I’m not fumbling around in the dark along the edge of that chasm.]]></en>
+                  <de><![CDATA[Keine Chance, ich taste mich bestimmt nicht im Dunkeln am Rand dieser Schlucht entlang.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/cellar3_voice.swf:cellar30052">
                   <en><![CDATA[I can’t go any further in that direction without a light source.]]></en>
@@ -1480,8 +1476,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30053">
-                  <en><![CDATA[Wow, now this is what we need at university parties!]]></en>
-                  <de><![CDATA[Wow, das wäre etwas für unsere Uni-Parties!]]></de>
+                  <en><![CDATA[Wow, just one of these casks could supply an entire sommelier convention.]]></en>
+                  <de><![CDATA[Wow, nur eines dieser Fässer eine ganze Sommelier Konvention liefern könnte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1585,7 +1581,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30059">
-                  <en><![CDATA[This dry barrel won’t help me to douse the touch wicks with something flammable.]]></en>
+                  <en><![CDATA[This dry barrel won’t make the touch wicks any more flammable.]]></en>
                   <de><![CDATA[Bei einem trockenen Fass kann ich die Dochte nicht in etwas Entflammbares tauchen.]]></de>
                 </dia>
               </dialog>
@@ -1614,7 +1610,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30060">
-                  <en><![CDATA[What a dangerous feature for a dark cellar. You’d think they could at least build a railing!]]></en>
+                  <en><![CDATA[What a dangerous feature for a dark cellar. You’d think someone might build a railing!]]></en>
                   <de><![CDATA[Eine gefährliche Sache in so einem dunklen Keller. Sie hätten wenigstens ein Geländer bauen können!]]></de>
                 </dia>
               </dialog>
@@ -1644,7 +1640,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30064">
-                  <en><![CDATA[I don’t want to find out how deep that black abyss goes.]]></en>
+                  <en><![CDATA[I don’t want to find out how deep that black abyss is.]]></en>
                   <de><![CDATA[Ich möchte nicht herausfinden, wie tief der Abgrund ist.]]></de>
                 </dia>
               </dialog>
