@@ -207,7 +207,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30000">
-                  <en><![CDATA[I can just barely see the glow of the distant remains of a campfire out there.]]></en>
+                  <en><![CDATA[I can just barely make out the glow from the remains of a campfire out there.]]></en>
                   <de><![CDATA[Ich kann da draußen in der Entfernung gerade noch die Glut der Überreste eines Lagerfeuers erkennen.]]></de>
                 </dia>
               </dialog>
@@ -347,8 +347,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30006">
-                  <en><![CDATA[Ack, no! Call me a coward, but the statue is terrifying enough that I don’t want to go near it.]]></en>
-                  <de><![CDATA[Ach, nein! Vielleicht bin ich ein Feigling, aber die Statue jagt mir so viel Angst ein, dass ich mich ihr nicht nähern will.]]></de>
+                  <en><![CDATA[Call me a coward, but this statue is terrifying enough that I don’t want to go near it.]]></en>
+                  <de><![CDATA[Vielleicht bin ich ein Feigling, aber die Statue jagt mir so viel Angst ein, dass ich mich ihr nicht nähern will.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -488,7 +488,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30009">
-                  <en><![CDATA[These eagle statues are pretty scary ... I almost don’t dare to walk through the castle gate.]]></en>
+                  <en><![CDATA[These eagle statues are pretty scary ... they make me a bit hesitant to walk through the castle gate.]]></en>
                   <de><![CDATA[Diese Adlerstatuen sind ziemlich beängstigend ... Ich wage es fast nicht, durch das Schlosstor zu gehen.]]></de>
                 </dia>
               </dialog>
@@ -503,8 +503,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30010">
-                  <en><![CDATA[No ... not tonight.]]></en>
-                  <de><![CDATA[Nein ... nicht heute Abend.]]></de>
+                  <en><![CDATA[Not tonight.]]></en>
+                  <de><![CDATA[Nicht heute Abend.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -543,7 +543,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30011">
-                  <en><![CDATA[These eagle statues are pretty scary ... I almost don’t dare to walk through the castle gate.]]></en>
+                  <en><![CDATA[These eagle statues are pretty scary ... they make me a bit hesitant to walk through the castle gate.]]></en>
                   <de><![CDATA[Diese Adlerstatuen sind ziemlich beängstigend ... Ich wage es fast nicht, durch das Schlosstor zu gehen.]]></de>
                 </dia>
               </dialog>

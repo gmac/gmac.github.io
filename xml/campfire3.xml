@@ -358,7 +358,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/campfire3_voice.swf:campfire30002">
-                  <en><![CDATA[It’s a log raft that I can use to venture into the swamp with.]]></en>
+                  <en><![CDATA[It’s a log raft that I can use to venture into the swamp.]]></en>
                   <de><![CDATA[Das ist ein Holzfloß, mit dem ich mich in den Sumpf wagen kann.]]></de>
                 </dia>
               </dialog>
@@ -438,7 +438,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/campfire3_voice.swf:campfire30005">
-                  <en><![CDATA[This is not the time for mud baths.]]></en>
+                  <en><![CDATA[This is not the time for a mud bath.]]></en>
                   <de><![CDATA[Das ist nicht der Augenblick für Schlammbäder.]]></de>
                 </dia>
               </dialog>
@@ -704,7 +704,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/campfire3_voice.swf:campfire30008">
-                  <en><![CDATA[Seems like this fire has been doused only a short time ago. The logs are still glowing hot.]]></en>
+                  <en><![CDATA[Looks like this fire was only doused a short time ago. The logs are still glowing hot.]]></en>
                   <de><![CDATA[Offenbar ist dieses Feuer erst vor Kurzem gelöscht worden. Die Scheite sind noch glühend heiß.]]></de>
                 </dia>
               </dialog>
