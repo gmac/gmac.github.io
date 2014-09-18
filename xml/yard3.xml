@@ -208,8 +208,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30004">
-                  <en><![CDATA[My goodness, how Mr. Caro’s garden grows!]]></en>
-                  <de><![CDATA[Meine Güte, wie Herr Caros Garten blüht!]]></de>
+                  <en><![CDATA[My goodness, Mr. Caro’s garden is lovely.]]></en>
+                  <de><![CDATA[Meine Güte, wie Herr Caros Garten blüht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -233,8 +233,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30005">
-                  <en><![CDATA[Come on, I’m not dead yet ...]]></en>
-                  <de><![CDATA[Komm schon, ich bin noch nicht tot ...]]></de>
+                  <en><![CDATA[Very funny ...]]></en>
+                  <de><![CDATA[Sehr lustig ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -263,8 +263,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30006">
-                  <en><![CDATA[Would you look at that... the milkman and paper boy have resumed their deliveries!]]></en>
-                  <de><![CDATA[Schau sich einer das an ... der Milchmann und der Zeitungsjunge haben ihre Lieferungen wieder aufgenommen!]]></de>
+                  <en><![CDATA[Well look at that... the milkman and paper boy have resumed their deliveries.]]></en>
+                  <de><![CDATA[Schau sich einer das an ... der Milchmann und der Zeitungsjunge haben ihre Lieferungen wieder aufgenommen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30007">
                   <en><![CDATA[I bet tomorrow’s news headline reads &#8222;Northwest Castle Defeated!&#8220;]]></en>
@@ -292,7 +292,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30008">
-                  <en><![CDATA[Mr. Caro won’t notice if his services take one extra day to resume, right?]]></en>
+                  <en><![CDATA[Mr. Caro won’t notice if his services takes an extra day to resume, right?]]></en>
                   <de><![CDATA[Herr Caro wird es nicht bemerken, wenn es einen Tag länger dauert, bis Zeitung und Milch wieder kommen, oder?]]></de>
                 </dia>
               </dialog>
@@ -411,12 +411,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30012">
-                  <en><![CDATA[Good evening, fine fellow... why the stone&#8212;faced expression?]]></en>
-                  <de><![CDATA[Guten Abend, feiner Kerl ... warum der steinerne Gesichtsausdruck?]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="lspeak" sound="voice/yard3_voice.swf:yard30013">
-                  <en><![CDATA[... I can’t believe I’m standing in the dark cracking bad jokes at statues.]]></en>
-                  <de><![CDATA[... Ich kann nicht glauben, dass ich den Statuen im Dunkeln schlechte Witze erzähle.]]></de>
+                  <en><![CDATA[Good evening, fine fellow...]]></en>
+                  <de><![CDATA[Guten Abend, feiner Kerl ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -430,7 +426,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30014">
-                  <en><![CDATA[Even if I could, I shouldn’t. It looks like he’s load&#8212;bearing.]]></en>
+                  <en><![CDATA[Even if I could, I shouldn’t. It looks like he’s load-bearing.]]></en>
                   <de><![CDATA[Selbst wenn ich könnte, sollte ich nicht. Es sieht aus, als sei er tragend.]]></de>
                 </dia>
               </dialog>
