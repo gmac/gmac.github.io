@@ -475,12 +475,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/yard3_voice.swf:yard30017">
-                  <en><![CDATA[Oh my lady, would your star&#8212;lit beauty consider a wandering fool like myself a worthy suitor?]]></en>
+                  <en><![CDATA[Oh fair lady, would your star-lit beauty consider a wandering fool like myself a worthy suitor?]]></en>
                   <de><![CDATA[Oh meine Dame, wäre ein wandernder Narr wie ich ein würdiger Verehrer Eurer vom Sternenlicht beleuchteten Schönheit?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/yard3_voice.swf:yard30018">
-                  <en><![CDATA[... and my hopeless interaction with women has hit a new all&#8212;time low.]]></en>
-                  <de><![CDATA[... und meine hoffnungslose Interaktion mit Frauen ist auf einem neuen Allzeittief.]]></de>
+                  <en><![CDATA[And ... my hopeless interaction with women has hit a new alltime low.]]></en>
+                  <de><![CDATA[Und ... meine hoffnungslose Interaktion mit Frauen ist auf einem neuen Allzeittief.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -597,7 +597,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30021">
-                  <en><![CDATA[While it looks clean, I’m not thirsty enough to chance it.]]></en>
+                  <en><![CDATA[While it looks clean, I’m not thirsty enough to chance illness.]]></en>
                   <de><![CDATA[Es sieht zwar sauber aus, aber ich bin nicht durstig genug, das Risiko auf mich zu nehmen.]]></de>
                 </dia>
               </dialog>
@@ -846,7 +846,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/yard3_voice.swf:yard30028">
-                  <en><![CDATA[&#8222;Caro’s Antiques&#8220;, spelled out in elegant wrought&#8212;iron.]]></en>
+                  <en><![CDATA[&#8222;Caro’s Antiques&#8220;, spelled out in elegant wrought-iron.]]></en>
                   <de><![CDATA[&#8222;Caros Antiquitäten&#8220;, in eleganten schmiedeeisernen Buchstaben geschrieben.]]></de>
                 </dia>
               </dialog>
