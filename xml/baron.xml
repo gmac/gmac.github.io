@@ -356,7 +356,7 @@
                   <de><![CDATA[Hm ... Klingt, als würde eine dieser Uhren nicht richtig funktionieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0009">
-                  <en><![CDATA[So you’re hearing that ticking noise, as well? It sounds strangely irregular, doesn’t it?]]></en>
+                  <en><![CDATA[So you’re hearing that ticking noise as well? It sounds strangely irregular, doesn’t it?]]></en>
                   <de><![CDATA[Also hörst du dieses tickende Geräusch auch? Es klingt so seltsam unregelmäßig, nicht wahr?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0010">
@@ -414,7 +414,7 @@
                   <de><![CDATA[Hm ... Klingt, als würde eine dieser Uhren nicht richtig funktionieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0012">
-                  <en><![CDATA[So you’re hearing that ticking noise, as well? It sounds strangely irregular, doesn’t it?]]></en>
+                  <en><![CDATA[So you’re hearing that ticking noise as well? It sounds strangely irregular, doesn’t it?]]></en>
                   <de><![CDATA[Also hörst du dieses tickende Geräusch auch? Es klingt so seltsam unregelmäßig, nicht wahr?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0013">
@@ -472,7 +472,7 @@
                   <de><![CDATA[Hm ... Klingt, als würde eine dieser Uhren nicht richtig funktionieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0015">
-                  <en><![CDATA[So you’re hearing that ticking noise, as well? It sounds strangely irregular, doesn’t it?]]></en>
+                  <en><![CDATA[So you’re hearing that ticking noise as well? It sounds strangely irregular, doesn’t it?]]></en>
                   <de><![CDATA[Also hörst du dieses tickende Geräusch auch? Es klingt so seltsam unregelmäßig, nicht wahr?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0016">
@@ -530,7 +530,7 @@
                   <de><![CDATA[Hm ... Klingt, als würde eine dieser Uhren nicht richtig funktionieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0018">
-                  <en><![CDATA[So you’re hearing that ticking noise, as well? It sounds strangely irregular, doesn’t it?]]></en>
+                  <en><![CDATA[So you’re hearing that ticking noise as well? It sounds strangely irregular, doesn’t it?]]></en>
                   <de><![CDATA[Also hörst du dieses tickende Geräusch auch? Es klingt so seltsam unregelmäßig, nicht wahr?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0019">
@@ -664,7 +664,7 @@
                   <de><![CDATA[Ja! Ich habe die Unterschrift des Barons. Endlich kann ich das Erbe meines Vaters antreten!]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0031">
-                  <en><![CDATA[Nigel, look ... he has written something else.]]></en>
+                  <en><![CDATA[Nigel, look ... he’s written something else.]]></en>
                   <de><![CDATA[Nigel, sie nur ... er hat da noch etwas anderes geschrieben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0032">
@@ -692,7 +692,7 @@
                   <de><![CDATA[Diese ganze neue Regierung besteht nur aus Betrügern ... obwohl das nicht erklärt, was Lowell Cain und seine Leute wollen.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0038">
-                  <en><![CDATA[We’ll find out. I’m sure Lowell Cain is close by ... and if we find him then we’ll surely find Dr. Coppelius as well.]]></en>
+                  <en><![CDATA[We’ll find out. I’m sure Lowell Cain is close by ... and if we find him, then we’ll surely find Dr. Coppelius as well.]]></en>
                   <de><![CDATA[Wir werden es herausfinden. Ich bin sicher, dass Lowell Cain in der Nähe ist ... und wenn wir ihn finden, finden wir sicher auch Dr. Coppelius.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0039">
@@ -1059,8 +1059,8 @@
                   <de><![CDATA[Das ist nicht mein Bier ...]]></de>
                 </dia>
                 <dia puppet="nathan" frame="hspeak" sound="voice/baron_voice.swf:baron0057">
-                  <en><![CDATA[Hah! That was a good one.]]></en>
-                  <de><![CDATA[Hah! Der war gut.]]></de>
+                  <en><![CDATA[Ha! Good one.]]></en>
+                  <de><![CDATA[Ha! Der war gut.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0058">
                   <en><![CDATA[Thanks.]]></en>
@@ -1364,8 +1364,8 @@
                   <de><![CDATA[Nicht schon wieder ... Warum muss ich heute Abend den Baron bewachen?]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0074">
-                  <en><![CDATA[Hush. I hear the guard coming!]]></en>
-                  <de><![CDATA[Still. Ich höre die Wache kommen!]]></de>
+                  <en><![CDATA[Shhh. I hear the guard coming!]]></en>
+                  <de><![CDATA[Shhh. Ich höre die Wache kommen!]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="" sound="voice/baron_voice.swf:baron0075">
                   <en><![CDATA[What is it??]]></en>
@@ -1392,7 +1392,7 @@
                   <de><![CDATA[Das hat nicht wirklich geholfen ...]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0081">
-                  <en><![CDATA[We will just have to give that guard a reason to leave ...]]></en>
+                  <en><![CDATA[We’ll just have to give that guard a reason to leave ...]]></en>
                   <de><![CDATA[Wir müssen der Wache einfach einen Grund geben, wegzugehen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0082">
@@ -1400,7 +1400,7 @@
                   <de><![CDATA[Ich benutze nochmal die Klingel, vielleicht füllt die Wache die Teetasse des Barons neu.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0083">
-                  <en><![CDATA[I guess we need to make it a bit more obvious that the Baron would like a cup of tea.]]></en>
+                  <en><![CDATA[I guess we need to make it more obvious that the Baron would like a new cup of tea.]]></en>
                   <de><![CDATA[Ich schätze, wir müssen es etwas offensichtlicher machen, dass der Baron eine Tasse Tee möchte.]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="" sound="voice/baron_voice.swf:baron0084">
@@ -1775,7 +1775,7 @@
                   <de><![CDATA[Das ist Nathan, der Assistent von Dr. Coppelius.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0101">
-                  <en><![CDATA[Well ... I am helping him to find his granddaughter Nora. I don’t know if that makes me his assistant.]]></en>
+                  <en><![CDATA[Well ... I’m helping him to find his granddaughter Nora. I don’t know if that makes me his assistant.]]></en>
                   <de><![CDATA[Also ... Ich helfe ihm, seine Enkelin Nora zu finden. Ich weiß nicht, ob mich das zu seinem Assistenten macht.]]></de>
                 </dia>
               </dialog>
@@ -1794,7 +1794,7 @@
                   <de><![CDATA[He, Nathan! Was meinst du, sollten wir als nächstes tun?]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0103">
-                  <en><![CDATA[Once you got your signature from the Baron we should try to get into the main tower. I bet that we will find Dr. Coppelius and Lowell Cain there.]]></en>
+                  <en><![CDATA[Once you get your signature from the Baron, then we should try to get into the main tower. I bet that we’ll find Dr. Coppelius and Lowell Cain in there.]]></en>
                   <de><![CDATA[Wenn du die Unterschrift des Barons hast, sollten wir versuchen, in den Hauptturm zu gelangen. Ich wette, dort finden wir Dr. Coppelius und Lowell Cain.]]></de>
                 </dia>
               </dialog>
@@ -1894,7 +1894,7 @@
                   <de><![CDATA[Baron Nordwest?]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0109">
-                  <en><![CDATA[Where is Dr. Coppelius, Baron? Your man Lowell Cain arrested him a couple of days ago.]]></en>
+                  <en><![CDATA[Where is Dr. Coppelius, Baron? Your man Lowell Cain arrested him a couple days ago.]]></en>
                   <de><![CDATA[Wo ist Dr. Coppelius, Baron? Ihr Stellvertreter, Lowell Cain, hat ihn vor ein paar Tagen festgenommen.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0110">
@@ -1967,7 +1967,7 @@
                   <de><![CDATA[Hm ... Klingt, als würde eine dieser Uhren nicht richtig funktionieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0112">
-                  <en><![CDATA[So you’re hearing that ticking noise, as well? It sounds strangely irregular, doesn’t it?]]></en>
+                  <en><![CDATA[So you’re hearing that ticking noise as well? It sounds strangely irregular, doesn’t it?]]></en>
                   <de><![CDATA[Also hörst du dieses tickende Geräusch auch? Es klingt so seltsam unregelmäßig, nicht wahr?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0113">
@@ -2025,7 +2025,7 @@
                   <de><![CDATA[Hm ... Klingt, als würde eine dieser Uhren nicht richtig funktionieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/baron_voice.swf:baron0115">
-                  <en><![CDATA[So you’re hearing that ticking noise, as well? It sounds strangely irregular, doesn’t it?]]></en>
+                  <en><![CDATA[So you’re hearing that ticking noise as well? It sounds strangely irregular, doesn’t it?]]></en>
                   <de><![CDATA[Also hörst du dieses tickende Geräusch auch? Es klingt so seltsam unregelmäßig, nicht wahr?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0116">

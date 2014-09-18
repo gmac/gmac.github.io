@@ -136,7 +136,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30000">
-                  <en><![CDATA[The water is so murky here that I can’t see the bottom.]]></en>
+                  <en><![CDATA[The water is so murky that I can’t see the bottom.]]></en>
                   <de><![CDATA[Das Wasser ist so trübe hier, dass ich den Grund nicht sehen kann.]]></de>
                 </dia>
               </dialog>
@@ -161,7 +161,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30001">
-                  <en><![CDATA[While I need a bath after that crate of fish, I’m not bothered by my own smell enough to jump into that cold, murky water.]]></en>
+                  <en><![CDATA[While I DO need a bath after that crate of fish, I’m not bothered enough by my own smell to jump into that cold water.]]></en>
                   <de><![CDATA[Ich brauche nach dieser Kiste Fisch zwar ein Bad, aber mein eigener Geruch stört mich nicht so sehr, als dass ich in dieses kalte, trübe Wasser springen würde.]]></de>
                 </dia>
               </dialog>
@@ -230,7 +230,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30003">
-                  <en><![CDATA[It doesn’t budge. The chain is probably twisted within the winch gears.]]></en>
+                  <en><![CDATA[It doesn’t budge. The chain is probably twisted in the winch gears.]]></en>
                   <de><![CDATA[Sie bewegt sich nicht. Die Kette ist wahrscheinlich innerhalb des Windegetriebes verdreht.]]></de>
                 </dia>
               </dialog>
@@ -290,7 +290,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30005">
-                  <en><![CDATA[I can’t reach the door to close them.]]></en>
+                  <en><![CDATA[I can’t reach the doors to close them.]]></en>
                   <de><![CDATA[Ich kann die Tür nicht erreichen, um sie zu schließen.]]></de>
                 </dia>
               </dialog>
@@ -320,8 +320,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30006">
-                  <en><![CDATA[Ah, what a practical addition to a boathouse full of rowboats.]]></en>
-                  <de><![CDATA[Ach, was für eine praktische Ergänzung zu einem Bootshaus voller Ruderboote.]]></de>
+                  <en><![CDATA[What a practical addition to a boathouse full of rowboats.]]></en>
+                  <de><![CDATA[Was für eine praktische Ergänzung zu einem Bootshaus voller Ruderboote.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -345,8 +345,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30007">
-                  <en><![CDATA[No, even if it was free from the wall, I still couldn’t lift it.]]></en>
-                  <de><![CDATA[Nein, auch wenn es von der Wand los wäre, könnte ich es immer noch nicht anheben.]]></de>
+                  <en><![CDATA[No. Even if it was free from the wall, I still couldn’t lift it.]]></en>
+                  <de><![CDATA[Nein. Auch wenn es von der Wand los wäre, könnte ich es immer noch nicht anheben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -375,11 +375,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30008">
-                  <en><![CDATA[If this was MUCH smaller, then it might work as the fan blade that Coppelius is seeking.]]></en>
+                  <en><![CDATA[If this were MUCH smaller, then it might work as the fan blade that Coppelius is seeking.]]></en>
                   <de><![CDATA[Wenn das VIEL kleiner wäre, dann könnte es als Rotorblatt funktionieren, das Coppelius sucht.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30009">
-                  <en><![CDATA[Alas, where is my shrinking ray&#8212;gun when I need it?]]></en>
+                  <en><![CDATA[Alas, where’s my shrink-ray gun when I need it?]]></en>
                   <de><![CDATA[Oje, wo ist meine schrumpfende Strahlenkanone, wenn ich sie brauche?]]></de>
                 </dia>
               </dialog>
@@ -434,7 +434,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30011">
-                  <en><![CDATA[Just think, these nets would be all I’d need to lead a quiet, comfortable life as a fishermen without concern for kidnapped scientists or evil maniacs.]]></en>
+                  <en><![CDATA[Just think, these nets would be all I’d need to lead a quiet life as a fishermen without concern for kidnapped scientists or evil maniacs.]]></en>
                   <de><![CDATA[Man denke nur, diese Netze wären alles, was ich brauche, um ein ruhiges, komfortables Leben als Fischer ohne Sorge um entführte Wissenschaftler oder böse Verrückte führen zu können.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30012">
@@ -538,7 +538,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30014">
-                  <en><![CDATA[Hey, this gives me a good idea for a bumper sticker...]]></en>
+                  <en><![CDATA[Hey, this gives me an idea for a bumper sticker...]]></en>
                   <de><![CDATA[Hey, da kommt mir eine Idee ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30015">
@@ -567,7 +567,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30016">
-                  <en><![CDATA[My fishy smell is all the reminder that I need of Northwest Castle.]]></en>
+                  <en><![CDATA[My fishy smell is all the reminder I need of Northwest Castle.]]></en>
                   <de><![CDATA[Meine Fischgeruch ist das einzige Souvenir, das ich von Schloss Nordwest brauche.]]></de>
                 </dia>
               </dialog>
@@ -622,8 +622,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30018">
-                  <en><![CDATA[Why would I climb up to the roof when I can just exit through the wide&#8212;open door...]]></en>
-                  <de><![CDATA[Warum sollte ich hinauf auf das Dach klettern, wenn ich durch die weit geöffnete Tür gehen kann ...]]></de>
+                  <en><![CDATA[Why would I climb up to the roof when I can just exit through the wide-open door...?]]></en>
+                  <de><![CDATA[Warum sollte ich hinauf auf das Dach klettern, wenn ich durch die weit geöffnete Tür gehen kann ...?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30019">
                   <en><![CDATA[Actually, where IS the door?]]></en>
@@ -755,7 +755,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30020">
-                  <en><![CDATA[Awe shoot... now I have bright spots burned into my field of vision.]]></en>
+                  <en><![CDATA[Shoot... now I have bright spots burned into my field of vision.]]></en>
                   <de><![CDATA[Verdammt ... jetzt sehe ich helle Flecken, wohin ich auch schaue.]]></de>
                 </dia>
               </dialog>
@@ -780,7 +780,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30021">
-                  <en><![CDATA[I’m clumsy enough to have a personal rule against tampering with electrically&#8212;charged devices.]]></en>
+                  <en><![CDATA[I’m clumsy enough that I have a personal rule against tampering with electrically-charged devices.]]></en>
                   <de><![CDATA[Ich bin ungeschickt genug, um eine persönliche Regel gegen das Manipulieren von elektrisch geladenen Geräte zu haben.]]></de>
                 </dia>
               </dialog>
@@ -823,7 +823,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30022">
-                  <en><![CDATA[Now that’s what I call dry&#8212;docking!]]></en>
+                  <en><![CDATA[Now that’s what I call dry-docking!]]></en>
                   <de><![CDATA[Das nenne ich mal ein Trockendock!]]></de>
                 </dia>
               </dialog>
