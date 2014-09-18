@@ -959,8 +959,8 @@
                   <de><![CDATA[Ich fürchte, ich werde auch Ihre Hilfe benötigen, Professor Smith! Ich bin sicher, Sie werden den Ausflug genießen!]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/tower_voice.swf:tower0072">
-                  <en><![CDATA[He jumped!! Why in the world ...]]></en>
-                  <de><![CDATA[Er ist gesprungen!! Warum um alles in der Welt ...]]></de>
+                  <en><![CDATA[He jumped!! Why in the world ...?]]></en>
+                  <de><![CDATA[Er ist gesprungen!! Warum um alles in der Welt ...?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="lspeak" sound="voice/tower_voice.swf:tower0073">
                   <en><![CDATA[What happened to my Zeppelin??]]></en>
