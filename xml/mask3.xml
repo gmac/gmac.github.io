@@ -281,11 +281,11 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30000">
                   <en><![CDATA[&#8222;The Amazing Entertainment Cart &#8212; Coming Soon&#8220;]]></en>
-                  <de><![CDATA[&#8222;Der großartige Vergnügungswagen – Demnächst&#8220;]]></de>
+                  <de><![CDATA[&#8222;Der großartige Vergnügungswagen &#8212; Demnächst&#8220;]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/mask3_voice.swf:mask30001">
-                  <en><![CDATA[Actually, the wait is over! They’re just outside!]]></en>
-                  <de><![CDATA[Endlich ist das Warten vorbei! Sie sind direkt draußen!]]></de>
+                  <en><![CDATA[Actually, the wait is over. They’re just outside.]]></en>
+                  <de><![CDATA[Endlich ist das Warten vorbei. Sie sind direkt draußen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -384,12 +384,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30003">
-                  <en><![CDATA[The cat left its dinner half&#8212;eaten.]]></en>
-                  <de><![CDATA[Der Fressnapf der Katze ist noch halbvoll.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30004">
-                  <en><![CDATA[... and time is not making the kitty chow look any more appetizing.]]></en>
-                  <de><![CDATA[... und das Katzenfutter sieht mit der Zeit auch nicht appetitlicher aus.]]></de>
+                  <en><![CDATA[The cat left his dinner half-eaten ... and time is not making that cat food look any more appetizing.]]></en>
+                  <de><![CDATA[Der Fressnapf der Katze ist noch halbvoll ... und das Katzenfutter sieht mit der Zeit auch nicht appetitlicher aus.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -418,8 +414,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30006">
-                  <en><![CDATA[I really don’t want to carry around a disgusting bowl full of partially&#8212;chewed kitty chow.]]></en>
-                  <de><![CDATA[Ich möchte wirklich keinen Fressnapf voll halbvergammeltem Katzenfutter mit mir rumtragen.]]></de>
+                  <en><![CDATA[No. I don’t need a disgusting bowl of partly-chewed cat food.]]></en>
+                  <de><![CDATA[Nein. Ich habe kein ekelhaft Schüssel teilweise gekaut Katzenfutter benötigen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -490,8 +486,8 @@
                   <de><![CDATA[Warum wollen alle entweder mich oder meine Sachen holen?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30012">
-                  <en><![CDATA[Okay then... sorry. I’ll leave it be.]]></en>
-                  <de><![CDATA[Okay... sorry. Dann lass ich es.]]></de>
+                  <en><![CDATA[Okay, sorry. I’ll leave it be.]]></en>
+                  <de><![CDATA[Okay, sorry. Dann lass ich es.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -553,15 +549,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30013">
-                  <en><![CDATA[Er, Mr. Mandelbaum...]]></en>
-                  <de><![CDATA[Ähm, Herr Mandelbaum ...]]></de>
+                  <en><![CDATA[Mr. Mandelbaum ...?]]></en>
+                  <de><![CDATA[Herr Mandelbaum ...?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30014">
-                  <en><![CDATA[Yes lad?]]></en>
+                  <en><![CDATA[Yes?]]></en>
                   <de><![CDATA[Ja?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30015">
-                  <en><![CDATA[May I borrow this milk bowl? It may come in handy while looking for your cat.]]></en>
+                  <en><![CDATA[May I borrow this milk bowl? It may be helpful while looking for your cat.]]></en>
                   <de><![CDATA[Darf ich mir diese Milchschale ausleihen? Sie könnte mir bei der Suche nach Ihrer Katze helfen?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30016">
@@ -605,7 +601,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30018">
-                  <en><![CDATA[These masks look pretty scary. Especially in this flickering light of the candles.]]></en>
+                  <en><![CDATA[Those masks look pretty scary, especially in this flickering candle light.]]></en>
                   <de><![CDATA[Diese Masken sehen unheimlich aus. Besonders im flackernden Kerzenschein.]]></de>
                 </dia>
               </dialog>
@@ -629,9 +625,9 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30019">
-                  <en><![CDATA[I’d like to examine them closer but I’m really in a hurry right now!]]></en>
-                  <de><![CDATA[Ich würde sie mir gerne genauer ansehen, aber ich bin sehr in Eile!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30024">
+                  <en><![CDATA[No time for masquerades!]]></en>
+                  <de><![CDATA[Keine Zeit für Maskerade!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -660,8 +656,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30020">
-                  <en><![CDATA[Nice workplace ... Mr. Mandelbaum has all kinds of tools there.]]></en>
-                  <de><![CDATA[Schöner Arbeitsplatz ... Herr Mandelbaum hat alle möglichen Werkzeuge hier.]]></de>
+                  <en><![CDATA[Nice workplace. Mr. Mandelbaum has all kinds of tools there.]]></en>
+                  <de><![CDATA[Schöner Arbeitsplatz. Herr Mandelbaum hat alle möglichen Werkzeuge hier.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -685,7 +681,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30021">
-                  <en><![CDATA[I don’t think I’d be very good at mask carving.]]></en>
+                  <en><![CDATA[I don’t think I’d be very good at carving masks.]]></en>
                   <de><![CDATA[Ich schätze, ich habe kein Talent für das Maskenschnitzen.]]></de>
                 </dia>
               </dialog>
@@ -715,8 +711,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30022">
-                  <en><![CDATA[Venetian masks ... those are pretty scary too!]]></en>
-                  <de><![CDATA[Venezianische Masken ... die sind auch sehr unheimlich!]]></de>
+                  <en><![CDATA[Venetian masks. Those are pretty scary too!]]></en>
+                  <de><![CDATA[Venezianische Masken. Die sind auch sehr unheimlich!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -778,9 +774,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30023">
-                  <en><![CDATA[More scary masks ...]]></en>
-                  <de><![CDATA[Noch mehr unheimliche Masken ...]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30018">
+                  <en><![CDATA[Those masks look pretty scary, especially in this flickering candle light.]]></en>
+                  <de><![CDATA[Diese Masken sehen unheimlich aus. Besonders im flackernden Kerzenschein.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -834,8 +830,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30025">
-                  <en><![CDATA[Those are some good looking carving knives ...]]></en>
-                  <de><![CDATA[Das sind ein paar hübsche Schnitzmesser ...]]></de>
+                  <en><![CDATA[Those are three good looking carving knives ...]]></en>
+                  <de><![CDATA[Das sind drei gut aussehende Schnitzmesser ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -859,7 +855,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30026">
-                  <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine looking carving knives?]]></en>
+                  <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine carving knives?]]></en>
                   <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30027">
@@ -918,11 +914,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30029">
-                  <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine looking carving knives?]]></en>
+                  <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine carving knives?]]></en>
                   <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30030">
-                  <en><![CDATA[Well, I don’t normally lend out my tools. Nothing personal, but I find that I generally don’t see them returned is all.]]></en>
+                  <en><![CDATA[Well, I don’t normally lend out my tools. Nothing personal, but I find that I generally don’t see them returned.]]></en>
                   <de><![CDATA[Naja, ich verleihe meine Werkzeuge eigentlich nie. Hat nichts mit Ihnen zu tun, aber ich bekomme sie einfach zu selten zurück.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30031">
@@ -987,8 +983,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30032">
-                  <en><![CDATA[Show me your ball play animation!]]></en>
-                  <de><![CDATA[Ich möchte die Ballspielanimation sehen!]]></de>
+                  <en><![CDATA[Do you want to play with your ball?]]></en>
+                  <de><![CDATA[Wollen Sie mit dem Ball zu spielen?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1025,7 +1021,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30033">
-                  <en><![CDATA[He is tired and happy to be home again.]]></en>
+                  <en><![CDATA[He’s tired and happy to be home again.]]></en>
                   <de><![CDATA[Er ist müde und froh, wieder zuhause zu sein.]]></de>
                 </dia>
               </dialog>
@@ -1080,7 +1076,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30035">
-                  <en><![CDATA[She looks afraid ... poor Eve. First her dad gets hypnotized and now Mr. Boots is gone.]]></en>
+                  <en><![CDATA[She looks afraid ... poor Eve. First her father gets hypnotized, and now Mr. Boots is gone.]]></en>
                   <de><![CDATA[Sie hat Angst ... arme Eve. Erst wird ihr Vater hypnotisiert und jetzt ist Mr. Boots verschwunden.]]></de>
                 </dia>
               </dialog>
@@ -1126,8 +1122,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30038">
-                  <en><![CDATA[I’d better give the cat back to Mandelbaum directly... who knows, maybe he’ll offer a reward.]]></en>
-                  <de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ... vielleicht bietet er mir ja eine Belohnung an.]]></de>
+                  <en><![CDATA[I’d better give the cat back to Mandelbaum directly ...]]></en>
+                  <de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1195,9 +1191,9 @@
                 <en><![CDATA[]]></en>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30042">
-                  <en><![CDATA[I’d better give the cat back to Mandelbaum directly... who knows, maybe he’ll offer a reward.]]></en>
-                  <de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ... vielleicht bietet er mir ja eine Belohnung an.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30038">
+                  <en><![CDATA[I’d better give the cat back to Mandelbaum directly ...]]></en>
+                  <de><![CDATA[Ich bringe die Katze am besten direkt zu Mandelbaum zurück ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1244,7 +1240,7 @@
                   <de><![CDATA[Sind Sie okay?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30045">
-                  <en><![CDATA[Is that cat horrible cat gone!? Is it!?]]></en>
+                  <en><![CDATA[Is that horrible cat gone!? Is it!?]]></en>
                   <de><![CDATA[Ist diese schreckliche Katze weg!? Ist sie weg!?]]></de>
                 </dia>
                 <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30046">
@@ -1287,7 +1283,7 @@
                   <de><![CDATA[Aber Papa, Mr. Boots ist UNSERE Katze! Warum hast du ihn verjagt?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30050">
-                  <en><![CDATA[Don’t worry Eve, he will remember him again ...]]></en>
+                  <en><![CDATA[Don’t worry Eve, he will remember again ...]]></en>
                   <de><![CDATA[Keine Sorge, Eve, er wird sich bald erinnern ...]]></de>
                 </dia>
                 <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30051">
@@ -1295,7 +1291,7 @@
                   <de><![CDATA[Nigel hat das auch gesagt. Er wollte helfen, aber er kam nie mehr zurück ... und Mr. Boots ist auch weggelaufen. Er hatte Angst vor Papa ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30052">
-                  <en><![CDATA[I know for sure, that Nigel would come if he could. You see, without him I wouldn’t have this ...]]></en>
+                  <en><![CDATA[I know that Nigel would come if he could. You see, without him I wouldn’t have this ...]]></en>
                   <de><![CDATA[Ich weiß genau, dass Nigel kommen würde, wenn er könnte. Ohne ihn hätte ich nicht das hier ...]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30053">
@@ -1303,11 +1299,11 @@
                   <de><![CDATA[Nathan ... Eve ...? Was ist passiert? Warum schaut ihr mich so an?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30054">
-                  <en><![CDATA[Hello Mr. Mandelbaum, are you feeling better?]]></en>
-                  <de><![CDATA[Hallo, Herr Mandelbaum, geht es Ihnen besser?]]></de>
+                  <en><![CDATA[Hello, Mr. Mandelbaum. Are you feeling better?]]></en>
+                  <de><![CDATA[Hallo, Herr Mandelbaum. Geht es Ihnen besser?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30055">
-                  <en><![CDATA[Why yes, what happened?]]></en>
+                  <en><![CDATA[Why, yes ... what happened?]]></en>
                   <de><![CDATA[Ja, was ist denn passiert?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30056">
@@ -1412,12 +1408,7 @@
                 <en><![CDATA[Use]]></en>
                 <de><![CDATA[Benutze]]></de>
               </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30065">
-                  <en><![CDATA[Back to normal again, please!]]></en>
-                  <de><![CDATA[Zurück zur Normalität, bitte!]]></de>
-                </dia>
-              </dialog>
+              <dialog />
               <script>
                 <dialogue play="*" />
               </script>
@@ -1439,32 +1430,24 @@
                   <de><![CDATA[Wenn ich mich irgendwie revanchieren kann, lassen Sie es mich wissen!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30068">
-                  <en><![CDATA[Well, to be honest, I’ve been admiring those fine carving knives of yours over there. They look like they could be really useful!]]></en>
-                  <de><![CDATA[Also, ehrlich gesagt gefallen mir Ihre schönen Schnitzmesser da drüben sehr gut. Die könnten mir bestimmt hilfreich sein!]]></de>
+                  <en><![CDATA[Well to be honest, I’ve been admiring those fine carving knives over there. That set of three looks useful.]]></en>
+                  <de><![CDATA[Also, ehrlich gesagt gefallen mir Ihre schönen Schnitzmesser da drüben sehr gut. Das Set aus drei sieht nützlich.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30069">
-                  <en><![CDATA[Those old things?! But of course! By all means lad, if you think they’d be useful, then they’ll do you more good than I.]]></en>
-                  <de><![CDATA[Diese alten Dinger?! Aber natürlich! Na klar, wenn Sie sie brauchen können. Ihnen sind sie bestimmt nützlicher als mir.]]></de>
+                  <en><![CDATA[Those old things? But of course! Goodness knows that I have more than enough knives to facilitate my work.]]></en>
+                  <de><![CDATA[Diese alten Dinger? Aber natürlich! Ich hab nun wirklich genug Messer für meine Schnitzarbeiten.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30070">
-                  <en><![CDATA[Heaven knows that I have more than enough knives to facilitate my work. Please, take them as my thanks to you for your help!]]></en>
-                  <de><![CDATA[Ich hab nun wirklich genug Messer für meine Schnitzarbeiten. Bitte, nehmen Sie sie als Belohnung für Ihre Hilfe!]]></de>
+                  <en><![CDATA[Please, take them as my thanks for your help.]]></en>
+                  <de><![CDATA[Bitte, nehmen Sie sie als Belohnung für Ihre Hilfe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30071">
-                  <en><![CDATA[Oh, thank you! Are these as sharp as those they advertise on radio? Can these cut through a shoe?]]></en>
-                  <de><![CDATA[Oh, Dankeschön! Sind die so scharf, wie sie es im Radio anpreisen? Können die einen Schuh durchschneiden?]]></de>
-                </dia>
-                <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30072">
-                  <en><![CDATA[Well, they are carving knives. I am sure you could cut through things like that but ...]]></en>
-                  <de><![CDATA[Nun ja, es sind Schnitzmesser. Ich denke schon, dass man das kann, aber ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30073">
-                  <en><![CDATA[Amazing, thank you! I always wanted knives that can cut through a shoe.]]></en>
-                  <de><![CDATA[Klasse, Dankeschön! Ich wollte schon immer ein Messer, das durch einen Schuh schneidet.]]></de>
+                  <en><![CDATA[Thank you! Are these knives as sharp as the ones they advertise on radio? Could they cut through a shoe?]]></en>
+                  <de><![CDATA[Dankeschön! Sind die so scharf, wie sie es im Radio anpreisen? Können die einen Schuh durchschneiden?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30074">
-                  <en><![CDATA[Err ...yes. And now let’s join in the celebration outside! What do you say, Eve?]]></en>
-                  <de><![CDATA[Äh ... ja. Und jetzt auf zur Party draußen! Was sagst du dazu, Eve?]]></de>
+                  <en><![CDATA[Ah ... perhaps. Come now! Let’s join in the celebration outside. What do you say, Eve?]]></en>
+                  <de><![CDATA[Äh ... vielleicht. Und jetzt auf zur Party draußen! Was sagst du dazu, Eve?]]></de>
                 </dia>
                 <dia puppet="eve" frame="" sound="voice/mask3_voice.swf:mask30075">
                   <en><![CDATA[Yay!]]></en>
