@@ -148,15 +148,15 @@
                   <de><![CDATA[Hier haben wir etwas Interessantes ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30003">
-                  <en><![CDATA[There’s a uniform shirt in here with a patch that reads &#8222;Pete, the lighthouse keeper&#8220;]]></en>
-                  <de><![CDATA[Da ist ein Uniformhemd mit einem Flicken drauf, auf dem &#8222;Pete, der Leuchtturmwärter&#8220; steht]]></de>
+                  <en><![CDATA[There’s a uniform shirt in here with a patch that reads, &#8222;Pete, Lighthouse Keeper&#8220;]]></en>
+                  <de><![CDATA[Da ist ein Uniformhemd mit einem Flicken drauf, auf dem &#8222;Pete, Leuchtturmwärter&#8220; steht]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30004">
                   <en><![CDATA[This shirt may prove useful tonight... I’ll borrow it, although it does pain me to raid someone’s laundry.]]></en>
                   <de><![CDATA[Dieses Hemd könnte sich heute Abend noch als nützlich erweisen ... Ich werde es mir ausleihen, auch wenn ich nicht gerne die Wäsche anderer Leute durchwühle.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30005">
-                  <en><![CDATA[I’ll make sure to swing by the inn in the morning to return it.]]></en>
+                  <en><![CDATA[I’ll make sure to swing by in the morning to return it.]]></en>
                   <de><![CDATA[Ich werde morgen früh beim Gasthof vorbeigehen, um es zurückzubringen.]]></de>
                 </dia>
               </dialog>
@@ -257,9 +257,9 @@
                 <de><![CDATA[Blase aus]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30009">
-                  <en><![CDATA[Even if I wanted to, I couldn’t blow it out without removing its glass globe.]]></en>
-                  <de><![CDATA[Selbst wenn ich wollte, könnte ich sie nicht ausblasen, ohne ihre Glaskugel abzunehmen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30054">
+                  <en><![CDATA[No. I wouldn’t want to diminish the warmth that it gives to this room.]]></en>
+                  <de><![CDATA[No. ich will die romantische Stimmung nicht verderben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -273,7 +273,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30010">
-                  <en><![CDATA[A hardened adventurer, I am. However, that doesn’t make me indestructible or impervious to burns.]]></en>
+                  <en><![CDATA[A hardened adventurer, I am. However, that doesn’t make me impervious to burns.]]></en>
                   <de><![CDATA[Was für ein abgehärteter Abenteurer ich doch bin. Allerdings macht mich das weder unzerstörbar noch unempfindlich gegen Verbrennungen.]]></de>
                 </dia>
               </dialog>
@@ -289,12 +289,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30011">
-                  <en><![CDATA[Good idea, but the oil in this lamp’s tiny reservoir would barely dampen the torch wicks.]]></en>
+                  <en><![CDATA[Good idea, but the oil in this lamp’s tiny reservoir would barely dampen these torch wicks.]]></en>
                   <de><![CDATA[Gute Idee, aber das Öl im winzigen Tank dieser Lampe würde die Fackel kaum anfeuchten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30012">
-                  <en><![CDATA[There must be a ... BIGGER ... lamp around that I could soak up some oil from.]]></en>
-                  <de><![CDATA[Hier muss es eine ... GRÖSSERE ... Lampe geben, aus der ich Öl bekommen könnte.]]></de>
+                  <en><![CDATA[There must be a bigger lamp around that I could soak up some oil from.]]></en>
+                  <de><![CDATA[Hier muss es eine grössere Lampe geben, aus der ich Öl bekommen könnte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -307,7 +307,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30013">
-                  <en><![CDATA[These torches are already saturated with oil.]]></en>
+                  <en><![CDATA[The torches are already saturated with oil.]]></en>
                   <de><![CDATA[Diese Fackeln sind bereits mit Öl getränkt.]]></de>
                 </dia>
               </dialog>
@@ -440,7 +440,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30017">
-                  <en><![CDATA[This is no time for napping; we’re in hot pursuit of Vincent!]]></en>
+                  <en><![CDATA[This is no time for napping. We’re in pursuit of Vincent!]]></en>
                   <de><![CDATA[Dies ist keine Zeit für ein Schläfchen. Wir sind Vincent auf den Fersen!]]></de>
                 </dia>
               </dialog>
@@ -470,7 +470,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30018">
-                  <en><![CDATA[There is even a phone in this inn?]]></en>
+                  <en><![CDATA[There’s even a phone in this inn?]]></en>
                   <de><![CDATA[Es gibt sogar ein Telefon in diesem Gasthof?]]></de>
                 </dia>
               </dialog>
@@ -605,8 +605,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30021">
-                  <en><![CDATA[Just because the castle’s reign is over doesn’t mean that I should loot the place.]]></en>
-                  <de><![CDATA[Nur weil die Herrschaft des Schlosses vorbei ist, bedeutet es nicht, dass ich den Ort plündern sollte.]]></de>
+                  <en><![CDATA[No. I shouldn’t loot the place.]]></en>
+                  <de><![CDATA[Nein. Ich den Ort plündern sollte nicht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -639,7 +639,7 @@
                   <de><![CDATA[Skippy der Hai und Drei-Angelruten-Verne.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30023">
-                  <en><![CDATA[A really heart warming story.]]></en>
+                  <en><![CDATA[What a heart warming story.]]></en>
                   <de><![CDATA[Eine wirklich herzerwärmende Geschichte.]]></de>
                 </dia>
               </dialog>
@@ -940,8 +940,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30032">
-                  <en><![CDATA[I don’t have time for cookery right now!]]></en>
-                  <de><![CDATA[Ich habe jetzt keine Zeit zum Kochen!]]></de>
+                  <en><![CDATA[I don’t have time for cooking right now.]]></en>
+                  <de><![CDATA[Ich habe jetzt keine Zeit zum Kochen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1001,8 +1001,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30035">
-                  <en><![CDATA[This is not the time!]]></en>
-                  <de><![CDATA[Das ist nicht der richtige Zeitpunkt!]]></de>
+                  <en><![CDATA[This is not the time.]]></en>
+                  <de><![CDATA[Das ist nicht der richtige Zeitpunkt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1016,8 +1016,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30036">
-                  <en><![CDATA[No, all this alcohol must have been a substantial investment for Webb.]]></en>
-                  <de><![CDATA[Nein, dieser ganze Alkohol muss eine erhebliche Investition für Webb gewesen sein.]]></de>
+                  <en><![CDATA[No. This alcohol must have been a substantial investment for Webb.]]></en>
+                  <de><![CDATA[Nein. Dieser ganze Alkohol muss eine erhebliche Investition für Webb gewesen sein.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30037">
                   <en><![CDATA[It would be wrong to steal from it.]]></en>
@@ -1037,24 +1037,24 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30038">
-                  <en><![CDATA[Hmmm ... let’s see if there’s anything flammable up here that I could douse these torches in ...]]></en>
-                  <de><![CDATA[Hmmm ... Mal sehen, ob es hier oben etwas Brennbares gibt, mit dem ich diese Fackeln tränken könnte ...]]></de>
+                  <en><![CDATA[Hm. Let’s see if there’s anything flammable up here that I could douse these torches in ...]]></en>
+                  <de><![CDATA[Hm. Mal sehen, ob es hier oben etwas Brennbares gibt, mit dem ich diese Fackeln tränken könnte ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30039">
-                  <en><![CDATA[A bourbon for light&#8212;weights? ... girly flavored vodka? ... skull&#8212;and&#8212;crossbones schnapps?]]></en>
-                  <de><![CDATA[Ein Bourbon für Leichtgewichte? ... aromatisierter Mädchenvodka? ... Totenkopf-Schnaps?]]></de>
+                  <en><![CDATA[A bourbon for light-weights? ... Chic flavored vodka? ... Hellfire schnapps?]]></en>
+                  <de><![CDATA[Ein Bourbon für Leichtgewichte? ... Aromatisierter Mädchenvodka? ... Höllenfeuer-Schnaps?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30040">
-                  <en><![CDATA[There’s nothing here that’s strong enough to burn!]]></en>
-                  <de><![CDATA[Es gibt hier nichts, das stark genug ist, um zu brennen!]]></de>
+                  <en><![CDATA[There’s nothing here that’s strong enough to burn.]]></en>
+                  <de><![CDATA[Es gibt hier nichts, das stark genug ist, um zu brennen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30041">
-                  <en><![CDATA[How odd, just the other day I could swear I saw a bottle of cheap whiskey with flammable warnings on it.]]></en>
+                  <en><![CDATA[How odd, just the other day I saw a bottle of cheap whiskey with flammability warnings on it.]]></en>
                   <de><![CDATA[Wie seltsam, erst kürzlich habe ich eine Flasche mit billigem Whiskey gesehen, auf dem ein Warnzeichen war, dass er brennbar ist.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30042">
-                  <en><![CDATA[... I wonder what happened to it?]]></en>
-                  <de><![CDATA[... Ich frage mich, was damit passiert ist?]]></de>
+                  <en><![CDATA[I wonder what happened to that?]]></en>
+                  <de><![CDATA[Ich frage mich, was damit passiert ist?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1068,8 +1068,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30043">
-                  <en><![CDATA[These torches are already saturated with a flammable substance.]]></en>
-                  <de><![CDATA[Diese Fackeln sind bereits mit einer brennbaren Substanz gesättigt.]]></de>
+                  <en><![CDATA[The torches are already saturated with oil.]]></en>
+                  <de><![CDATA[Diese Fackeln sind bereits mit einer mit Öl gesättigt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1083,7 +1083,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30044">
-                  <en><![CDATA[While none of that alcohol looks very potent, I still wouldn’t dare to attempt lighting it.]]></en>
+                  <en><![CDATA[While none of that alcohol looks potent, I still wouldn’t dare attempt igniting it.]]></en>
                   <de><![CDATA[Auch wenn keine dieser Spirituosen sehr stark aussieht, würde ich es doch nicht wagen, sie anzuzünden.]]></de>
                 </dia>
               </dialog>
@@ -1169,7 +1169,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30048">
-                  <en><![CDATA[Perfect! It’s now a metal plate of roughly human&#8212;sized dimensions.]]></en>
+                  <en><![CDATA[Perfect! It’s now a metal plate of roughly human-sized dimensions.]]></en>
                   <de><![CDATA[Perfekt! Jetzt habe ich eine Metallplatte, die etwa menschengroß ist.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30049">
@@ -1231,7 +1231,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30052">
-                  <en><![CDATA[This fish is beyond the point where wrapping it could preserve freshness.]]></en>
+                  <en><![CDATA[This fish is beyond wrapping to preserve freshness.]]></en>
                   <de><![CDATA[Dieser Fisch ist über den Punkt hinaus, an dem Einpacken ihn frisch halten würde.]]></de>
                 </dia>
               </dialog>
@@ -1275,8 +1275,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30054">
-                  <en><![CDATA[Naw, I wouldn’t want to diminish the warmth that it gives to this room.]]></en>
-                  <de><![CDATA[Nee, ich will die romantische Stimmung nicht verderben.]]></de>
+                  <en><![CDATA[No. I wouldn’t want to diminish the warmth that it gives to this room.]]></en>
+                  <de><![CDATA[No. ich will die romantische Stimmung nicht verderben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1289,9 +1289,9 @@
                 <de><![CDATA[Berühre]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30055">
-                  <en><![CDATA[A hardened adventurer, I am. However, that doesn’t make me indestructible.]]></en>
-                  <de><![CDATA[Was für ein abgehärteter Abenteurer ich doch bin. Allerdings macht mich das nicht unzerstörbar.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30010">
+                  <en><![CDATA[A hardened adventurer, I am. However, that doesn’t make me impervious to burns.]]></en>
+                  <de><![CDATA[Was für ein abgehärteter Abenteurer ich doch bin. Allerdings macht mich das weder unzerstörbar noch unempfindlich gegen Verbrennungen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1378,7 +1378,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30061">
-                  <en><![CDATA[The fishermen seem to be in a much better mood now that no one is stealing their catch.]]></en>
+                  <en><![CDATA[The fishermen seem to be in a better mood now without anyone stealing their catch.]]></en>
                   <de><![CDATA[Die Fischer scheinen jetzt in einer viel besseren Stimmung zu sein, seit niemand mehr ihren Fang stiehlt.]]></de>
                 </dia>
               </dialog>
@@ -1445,8 +1445,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30069">
-                  <en><![CDATA[Can I interest you fine gentleman in this ... umm ... once&#8212;fresh fish?]]></en>
-                  <de><![CDATA[Kann ich die feinen Herren an diesem ... äh ... einmal frischen Fisch interessieren?]]></de>
+                  <en><![CDATA[Can I interest you fine gentleman in this once-fresh fish?]]></en>
+                  <de><![CDATA[Kann ich die feinen Herren an diesem einmal frischen Fisch interessieren?]]></de>
                 </dia>
                 <dia puppet="bill" frame="" sound="voice/inn3_voice.swf:inn30070">
                   <en><![CDATA[Hehe, no thanks lad. We can catch our own fresh fish.]]></en>
@@ -1486,12 +1486,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30073">
-                  <en><![CDATA[Beer doesn’t seem to be his cup of tea.]]></en>
-                  <de><![CDATA[Bier scheint er nicht zu mögen.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="hspeak5" sound="voice/inn3_voice.swf:inn30074">
-                  <en><![CDATA[What a great joke!]]></en>
-                  <de><![CDATA[Vielleicht ist er erkältet?]]></de>
+                  <en><![CDATA[He seems to be enjoying his cup of tea.]]></en>
+                  <de><![CDATA[Er scheint seine Tasse Tee genießen.]]></de>
                 </dia>
               </dialog>
               <script>
