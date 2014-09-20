@@ -463,7 +463,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30013">
-                  <en><![CDATA[No, I might be robbing some poor fisherman of their livelihood if I took them.]]></en>
+                  <en><![CDATA[No, I might be robbing some poor old fisherman of their livelihood if I took them.]]></en>
                   <de><![CDATA[Nein, vielleicht würde ich arme Fischer um ihre Existenzgrundlage berauben, wenn ich sie nehmen würde.]]></de>
                 </dia>
               </dialog>
