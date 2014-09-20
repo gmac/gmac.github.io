@@ -557,9 +557,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30012">
-                  <en><![CDATA[No ... not tonight.]]></en>
-                  <de><![CDATA[Nein ... nicht heute Abend.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/castle3_voice.swf:castle30010">
+                  <en><![CDATA[Not tonight.]]></en>
+                  <de><![CDATA[Nicht heute Abend.]]></de>
                 </dia>
               </dialog>
               <script>
