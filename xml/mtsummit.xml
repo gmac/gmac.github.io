@@ -295,7 +295,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0002">
-                  <en><![CDATA[No, I don’t want to divert power back to the rift.]]></en>
+                  <en><![CDATA[No, I don’t want to divert power back to the Rift.]]></en>
                   <de><![CDATA[Nein, ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
                 </dia>
               </dialog>
@@ -403,7 +403,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0005">
-                  <en><![CDATA[No, I don’t want to divert power back to the rift.]]></en>
+                  <en><![CDATA[No, I don’t want to divert power back to the Rift.]]></en>
                   <de><![CDATA[Nein, ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
                 </dia>
               </dialog>
@@ -584,8 +584,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0010">
-                  <en><![CDATA[Wow, those Smith Institute scientists sure knew how to make a secret laboratory with style!]]></en>
-                  <de><![CDATA[Wow, diese Wissenschaftler vom Smith-Institut wussten wirklich, wie man ein geheimes Labor mit Stil errichtet!]]></de>
+                  <en><![CDATA[Those Smith Institute scientists sure knew how to make a secret laboratory with style!]]></en>
+                  <de><![CDATA[Diese Wissenschaftler vom Smith-Institut wussten wirklich, wie man ein geheimes Labor mit Stil errichtet!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -811,8 +811,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0012">
-                  <en><![CDATA[Wow, that would be a great place to build an igloo. Talk about a room with a view!]]></en>
-                  <de><![CDATA[Wow, das wäre ein großartiger Ort, um ein Iglu zu bauen. Was für ein Zimmer mit Aussicht!]]></de>
+                  <en><![CDATA[Wow, that would be a great place to build an igloo. What a view!]]></en>
+                  <de><![CDATA[Wow, das wäre ein großartiger Ort, um ein Iglu zu bauen. Was für eine Aussicht!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -830,8 +830,8 @@
                   <de><![CDATA[ECHO!!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0016">
-                  <en><![CDATA[Neat!]]></en>
-                  <de><![CDATA[Schön!]]></de>
+                  <en><![CDATA[Neat.]]></en>
+                  <de><![CDATA[Schön.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -920,7 +920,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0005">
-                  <en><![CDATA[That’s the crevasse leading into the mountain train station.]]></en>
+                  <en><![CDATA[That’s the crevasse leading down into the mountain train station.]]></en>
                   <de><![CDATA[Das ist der Durchgang, der zurück zur Bergbahn führt.]]></de>
                 </dia>
               </dialog>
@@ -935,16 +935,16 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0019">
-                  <en><![CDATA[Hey guys!! Look at me!! I’m on top of the world!]]></en>
+                  <en><![CDATA[Hey guys! Look at me! I’m on top of the world!]]></en>
                   <de><![CDATA[Hey Jungs! Schaut mich an! Ich bin auf dem Dach der Welt!]]></de>
                 </dia>
                 <dia puppet="exit_mtstation" frame="" sound="voice/mtsummit_voice.swf:mtsummit0020">
-                  <en><![CDATA[Nathan, quit messing around and get those power feeds diverted into this station!]]></en>
+                  <en><![CDATA[Nathan, quit messing around out there and get those power feeds diverted into the station!]]></en>
                   <de><![CDATA[Nathan, hör mit den Spielchen auf und lenke den Strom in diesen Bahnhof!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0021">
-                  <en><![CDATA[... Gee, for once I almost wish I hadn’t been heard.]]></en>
-                  <de><![CDATA[... Mann, ich wünschte mir fast, ich wäre nicht gehört worden.]]></de>
+                  <en><![CDATA[Gee ... for once I almost wish no one had heard me.]]></en>
+                  <de><![CDATA[Mann ... ich wünschte mir fast, ich wäre nicht gehört worden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -992,8 +992,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0023">
-                  <en><![CDATA[It’s a lift leading to the top of this attractor tower, although it will need power to operate.]]></en>
-                  <de><![CDATA[Es ist ein Aufzug, der hoch zur Steuerung des Attraktorturms führt, aber er braucht Strom, um zu funktionieren.]]></de>
+                  <en><![CDATA[It’s a lift leading to the top of this attractor tower.]]></en>
+                  <de><![CDATA[Es ist ein Aufzug, der hoch zur Steuerung des Attraktorturms führt.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0024">
+                  <en><![CDATA[It looks like the lift needs power.]]></en>
+                  <de><![CDATA[Es sieht aus, als brauche der Aufzug Strom.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1017,8 +1021,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0024">
-                  <en><![CDATA[Hmm. Nothing. It looks like the lift needs power.]]></en>
-                  <de><![CDATA[Hmm. Nichts. Es sieht aus, als brauche der Aufzug Strom.]]></de>
+                  <en><![CDATA[It looks like the lift needs power.]]></en>
+                  <de><![CDATA[Es sieht aus, als brauche der Aufzug Strom.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1105,9 +1109,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0026">
-                  <en><![CDATA[Hey, talk about ground transportation...]]></en>
-                  <de><![CDATA[Hey, wo wir schon von Bodentransport reden ...]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0023">
+                  <en><![CDATA[It’s a lift leading to the top of this attractor tower.]]></en>
+                  <de><![CDATA[Es ist ein Aufzug, der hoch zur Steuerung des Attraktorturms führt.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0025">
+                  <en><![CDATA[The lift appears to be operational now.]]></en>
+                  <de><![CDATA[Der Lift scheint nun betriebsbereit zu sein.]]></de>
                 </dia>
               </dialog>
               <script>

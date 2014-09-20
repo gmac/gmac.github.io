@@ -387,8 +387,8 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0000">
-                  <en><![CDATA[Hmm, it looks like some of the old hardware around this station has broken down over the years and gone offline.]]></en>
-                  <de><![CDATA[Hmm, es sieht aus, als seien Teile der alten Anlagen hier im Laufe der Jahre kaputt und vom Stromnetz gegangen.]]></de>
+                  <en><![CDATA[Hm. It looks like some of the old hardware around this station has broken down over the years and gone offline.]]></en>
+                  <de><![CDATA[Hm. Es sieht aus, als seien Teile der alten Anlagen hier im Laufe der Jahre kaputt und vom Stromnetz gegangen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -446,9 +446,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0003">
-                  <en><![CDATA[Hmm, it looks like some of the old hardware around this station has broken down over the years and gone offline.]]></en>
-                  <de><![CDATA[Hmm, es sieht aus, als seien Teile der alten Anlagen hier im Laufe der Jahre kaputt und vom Stromnetz gegangen.]]></de>
+                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0000">
+                  <en><![CDATA[Hm. It looks like some of the old hardware around this station has broken down over the years and gone offline.]]></en>
+                  <de><![CDATA[Hm. Es sieht aus, als seien Teile der alten Anlagen hier im Laufe der Jahre kaputt und vom Stromnetz gegangen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -511,7 +511,7 @@
                   <de><![CDATA[Das ist der Strompuffer der Bahnstation.]]></de>
                 </dia>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0007">
-                  <en><![CDATA[If I could charge that up, then I should be able to start bringing the station utilities online.]]></en>
+                  <en><![CDATA[If I could charge that up, then I should be able to bring the station utilities online.]]></en>
                   <de><![CDATA[Wenn ich den aufladen kann, dann sollte die Stromversorgung der Anlagen hier in der Bahnstation wieder funktionieren.]]></de>
                 </dia>
               </dialog>
@@ -566,12 +566,12 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0009">
-                  <en><![CDATA[That must be the main capacitor that is powering Vincent’s time rift.]]></en>
+                  <en><![CDATA[That must be the main capacitor powering Vincent’s Time Rift.]]></en>
                   <de><![CDATA[Das muss der Hauptenergiepuffer sein, der Vincents Zeitriss mit Strom versorgt.]]></de>
                 </dia>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0010">
-                  <en><![CDATA[I have to find a way to drain the power from it!]]></en>
-                  <de><![CDATA[Ich muss einen Weg finden, den Strom aus dem Puffer zu ziehen!]]></de>
+                  <en><![CDATA[I have to find a way to draw the power away from it.]]></en>
+                  <de><![CDATA[Ich muss einen Weg finden, den Strom aus dem Puffer zu ziehen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -600,7 +600,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0012">
-                  <en><![CDATA[I’ll need to use the station utility controls to try to draw power away from the rift’s capacitor.]]></en>
+                  <en><![CDATA[I’ll need to use the station utilities to draw power away from the Rift’s capacitor.]]></en>
                   <de><![CDATA[Ich muss die Stromversorgungs-Steuerung für die Bahnstation benutzen, um die Energie aus dem Riss-Energiepuffer abzuleiten.]]></de>
                 </dia>
               </dialog>
@@ -630,7 +630,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0013">
-                  <en><![CDATA[That’s the mountain top lab where Vincent is opening up a time rift.]]></en>
+                  <en><![CDATA[That’s the mountain top laboratory where Vincent is opening a Time Rift.]]></en>
                   <de><![CDATA[Das ist das Gipfellabor, in dem Vincent einen Zeitriss öffnen will.]]></de>
                 </dia>
               </dialog>
@@ -660,7 +660,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0015">
-                  <en><![CDATA[I’ll need to use the elevator to reach the laboratory.]]></en>
+                  <en><![CDATA[I’ll need to use the elevator to get up to the laboratory.]]></en>
                   <de><![CDATA[Ich muss den Aufzug benutzen, um zum Labor zu gelangen.]]></de>
                 </dia>
               </dialog>
@@ -719,7 +719,7 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0018">
+                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0021">
                   <en><![CDATA[I’ll need to go outside if I want to do anything with that attractor tower.]]></en>
                   <de><![CDATA[Ich muss nach draußen gehen, wenn ich etwas mit dem Attraktorturm machen will.]]></de>
                 </dia>
@@ -934,8 +934,8 @@
                   <de><![CDATA[Der Bahnsteig hat jetzt wieder Strom.]]></de>
                 </dia>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0029">
-                  <en><![CDATA[I activated all devices around the station ... now Vincent’s time rift should become unstable!]]></en>
-                  <de><![CDATA[Ich habe alle Anlagen rund um die Bahnstation aktiviert ... jetzt sollte Vincents Zeitriss instabil werden!]]></de>
+                  <en><![CDATA[I’ve activated all devices around the station ... now Vincent’s Time Rift is destabilized.]]></en>
+                  <de><![CDATA[Ich habe alle Anlagen rund um die Bahnstation aktiviert ... jetzt sollte Vincents Zeitriss instabil werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -958,7 +958,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0030">
-                  <en><![CDATA[The station platform is now deactivated]]></en>
+                  <en><![CDATA[The station platform has been deactivated.]]></en>
                   <de><![CDATA[Der Bahnsteig ist jetzt deaktiviert.]]></de>
                 </dia>
               </dialog>
@@ -977,9 +977,9 @@
                   <en><![CDATA[The lift outside is now online.]]></en>
                   <de><![CDATA[Der Aufzug draußen ist jetzt aktiviert.]]></de>
                 </dia>
-                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0032">
-                  <en><![CDATA[I activated all devices around the station ... now Vincent’s time rift should become unstable!]]></en>
-                  <de><![CDATA[Ich habe alle Anlagen rund um die Bahnstation aktiviert ... jetzt sollte Vincents Zeitriss instabil werden!]]></de>
+                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0029">
+                  <en><![CDATA[I’ve activated all devices around the station ... now Vincent’s Time Rift is destabilized.]]></en>
+                  <de><![CDATA[Ich habe alle Anlagen rund um die Bahnstation aktiviert ... jetzt sollte Vincents Zeitriss instabil werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1002,7 +1002,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0033">
-                  <en><![CDATA[The lift outside is now deactivated.]]></en>
+                  <en><![CDATA[The lift outside has been deactivated.]]></en>
                   <de><![CDATA[Der Aufzug draußen ist jetzt deaktiviert.]]></de>
                 </dia>
               </dialog>
@@ -1021,9 +1021,9 @@
                   <en><![CDATA[The station elevator is now online.]]></en>
                   <de><![CDATA[Der Fahrstuhl hoch zur Kuppel ist jetzt aktiviert.]]></de>
                 </dia>
-                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0035">
-                  <en><![CDATA[I activated all devices around the station ... now Vincent’s time rift should become unstable!]]></en>
-                  <de><![CDATA[Ich habe alle Anlagen rund um die Bahnstation aktiviert ... jetzt sollte Vincents Zeitriss instabil werden!]]></de>
+                <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0029">
+                  <en><![CDATA[I’ve activated all devices around the station ... now Vincent’s Time Rift is destabilized.]]></en>
+                  <de><![CDATA[Ich habe alle Anlagen rund um die Bahnstation aktiviert ... jetzt sollte Vincents Zeitriss instabil werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1046,7 +1046,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0036">
-                  <en><![CDATA[The station elevator is now deactivated.]]></en>
+                  <en><![CDATA[The station elevator has been deactivated.]]></en>
                   <de><![CDATA[Der Fahrstuhl hoch zur Kuppel ist jetzt deaktiviert.]]></de>
                 </dia>
               </dialog>

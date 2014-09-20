@@ -66,9 +66,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0006">
+                  <en><![CDATA[It’s a fallen tile from one of the collapsed walkways.]]></en>
+                  <de><![CDATA[Es ist eine heruntergestürzte Platte von einem dieser eingestürzten Laufstege.]]></de>
+                </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0000">
-                  <en><![CDATA[It’s a tile from one of these collapsed walkways frozen under a layer of ice.]]></en>
-                  <de><![CDATA[Das ist eine Platte von einem dieser eingestürzten Laufstege. Sie ist unter einer Schicht aus Eis eingefroren.]]></de>
+                  <en><![CDATA[It’s frozen under a layer of ice.]]></en>
+                  <de><![CDATA[Sie ist unter einer Schicht aus Eis eingefroren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -92,7 +96,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0001">
-                  <en><![CDATA[There’s no way I’m going to be able to free that tile from the ground with that layer of ice over it.]]></en>
+                  <en><![CDATA[There’s no way I’m going to be able to free that tile from the ground with a layer of ice covering it.]]></en>
                   <de><![CDATA[Mit dieser Eisschicht darüber werde ich diese Platte nie aus dem Boden befreien können.]]></de>
                 </dia>
               </dialog>
@@ -109,7 +113,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0002">
-                  <en><![CDATA[Let’s see if these noodles are hot enough to melt this tile out of the ground...]]></en>
+                  <en><![CDATA[Let’s see if these noodles are hot enough to melt the tile out of the ground ...]]></en>
                   <de><![CDATA[Mal sehen, ob diese Nudeln heiß genug sind, um diese Platte aus dem Boden zu schmelzen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0003">
@@ -137,11 +141,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/mtplateau_voice.swf:mtplateau0004">
-                  <en><![CDATA[I won’t be able to thaw the ice with cold noodles!]]></en>
-                  <de><![CDATA[Mit kalten Nudeln kann ich das Eis nicht schmelzen!]]></de>
+                  <en><![CDATA[No. I won’t be able to thaw the ice with cold noodles.]]></en>
+                  <de><![CDATA[Nein. Mit kalten Nudeln kann ich das Eis nicht schmelzen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0005">
-                  <en><![CDATA[I need to heat them first.]]></en>
+                  <en><![CDATA[I’ll need to heat them first.]]></en>
                   <de><![CDATA[Ich muss sie erst erhitzen.]]></de>
                 </dia>
               </dialog>
@@ -166,11 +170,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0006">
-                  <en><![CDATA[It’s a fallen tile from one of these collapsed walkways.]]></en>
+                  <en><![CDATA[It’s a fallen tile from one of the collapsed walkways.]]></en>
                   <de><![CDATA[Es ist eine heruntergestürzte Platte von einem dieser eingestürzten Laufstege.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0007">
-                  <en><![CDATA[I’ve now thawed it out of the ground.]]></en>
+                  <en><![CDATA[I’ve now thawed the tile out of the ice.]]></en>
                   <de><![CDATA[Ich habe sie jetzt vom Boden losgeschmolzen.]]></de>
                 </dia>
               </dialog>
@@ -227,8 +231,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0009">
-                  <en><![CDATA[There’s a recess left in the snow from where I thawed out that walkway tile.]]></en>
-                  <de><![CDATA[Im Schnee ist jetzt dort eine Vertiefung, wo ich die Laufstegplatte herausgenommen habe.]]></de>
+                  <en><![CDATA[There’s an impression of that walkway tile left in the snow.]]></en>
+                  <de><![CDATA[Es gibt einen Eindruck von diesem Gehweg Fliesen in der Schnee.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -242,8 +246,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0010">
-                  <en><![CDATA[No thanks, it’s no substitute for a snow cone.]]></en>
-                  <de><![CDATA[Nein, danke, es ist kein Ersatz für ein Eis am Stil.]]></de>
+                  <en><![CDATA[No. It’s no substitute for a snow cone.]]></en>
+                  <de><![CDATA[Nein. Es ist kein Ersatz für ein Eis am Stil.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -257,8 +261,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0011">
-                  <en><![CDATA[No thanks! I’m cold enough as it is without lying down to make snow angels.]]></en>
-                  <de><![CDATA[Nein, danke. Mir ist schon kalt genug, ohne mich hinzulegen und Schnee-Engel zu machen.]]></de>
+                  <en><![CDATA[No. I’m cold enough as it is without lying down to make snow angels.]]></en>
+                  <de><![CDATA[Nein. Mir ist schon kalt genug, ohne mich hinzulegen und Schnee-Engel zu machen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -274,8 +278,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0012">
-                  <en><![CDATA[Wowzers! That water froze almost instantly into a solid block of ice.]]></en>
-                  <de><![CDATA[Sehr schön! Das Wasser ist fast sofort zu einem festen Eisblock gefroren.]]></de>
+                  <en><![CDATA[Wow! The water froze almost instantly into a solid block of ice.]]></en>
+                  <de><![CDATA[Wow! Das Wasser ist fast sofort zu einem festen Eisblock gefroren.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0012">
+                  <en><![CDATA[What science!]]></en>
+                  <de><![CDATA[Was für die Wissenschaft!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -304,9 +312,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0013">
-                  <en><![CDATA[Wow, the water I poured into the tile impression has frozen into a perfect duplicate!]]></en>
-                  <de><![CDATA[Wow, das Wasser, das ich in den Abdruck der Platte gegossen habe, ist zu einem perfekten Duplikat gefroren!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0014">
+                  <en><![CDATA[This ice block is a perfect duplicate of the original tile.]]></en>
+                  <de><![CDATA[Dieser Eisblock ist ein perfektes Duplikat der echten Platte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -394,8 +402,8 @@
                   <de><![CDATA[Natürlich hatte ich damals Handschuhe und einen Schneeanzug.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0017">
-                  <en><![CDATA[Hey, there’s a power connector plugged into this joist.]]></en>
-                  <de><![CDATA[Hey, an diesem Stützelement ist noch ein Stromkabel angeschlossen.]]></de>
+                  <en><![CDATA[Hm. There’s an old power connector plugged into this joist.]]></en>
+                  <de><![CDATA[Hm. An diesem Stützelement ist noch ein Stromkabel angeschlossen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -476,8 +484,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0018">
-                  <en><![CDATA[It’s a pile of snow left from digging out that joist.]]></en>
-                  <de><![CDATA[Beim Ausgraben der Stütze ist ein kleiner Haufen Schnee entstanden.]]></de>
+                  <en><![CDATA[It’s a pile of snow.]]></en>
+                  <de><![CDATA[Es ist ein Haufen Schnee.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -490,9 +498,9 @@
                 <de><![CDATA[Iss]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0019">
-                  <en><![CDATA[There must be other ways to add water to my diet.]]></en>
-                  <de><![CDATA[Es muss noch andere Wege geben, um meiner Ernährung Wasser hinzuzufügen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0010">
+                  <en><![CDATA[No. It’s no substitute for a snow cone.]]></en>
+                  <de><![CDATA[Nein. Es ist kein Ersatz für ein Eis am Stil.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -505,12 +513,8 @@
                 <de><![CDATA[Nimm]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0020">
-                  <en><![CDATA[The thought of filling my pockets up with snow is chilling...]]></en>
-                  <de><![CDATA[Der Gedanke daran, meine Taschen mit Schnee zu füllen, lässt mich bibbern ...]]></de>
-                </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0021">
-                  <en><![CDATA[I’d need to put the snow in something if I was going to take it with me.]]></en>
+                  <en><![CDATA[I’ll need to put the snow in a container if I’m going to take some with me.]]></en>
                   <de><![CDATA[Ich muss den Schnee in irgendetwas aufbewahren, wenn ich ihn herumtragen will.]]></de>
                 </dia>
               </dialog>
@@ -527,7 +531,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0022">
-                  <en><![CDATA[The bottle is now filled with snow.]]></en>
+                  <en><![CDATA[The bottle is filled with snow now.]]></en>
                   <de><![CDATA[Die Flasche ist nun mit Schnee gefüllt.]]></de>
                 </dia>
               </dialog>
@@ -578,8 +582,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0023">
-                  <en><![CDATA[Naw, I’m done playing in the snow. My fingers are still chilled after filling up that milk bottle.]]></en>
-                  <de><![CDATA[Nee, ich bin fertig damit, im Schnee zu spielen. Meine Finger sind nach dem Auffüllen der Milchflasche immer noch kalt.]]></de>
+                  <en><![CDATA[No. I’m done playing in the snow. My fingers are still knumb from filling up that milk bottle.]]></en>
+                  <de><![CDATA[Nein. Ich bin fertig damit, im Schnee zu spielen. Meine Finger sind nach dem Auffüllen der Milchflasche immer noch kalt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -593,9 +597,9 @@
                 <en><![CDATA[]]></en>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0024">
-                  <en><![CDATA[Naw, I’m done playing in the snow. My fingers are still chilled from the last time I filled up the bottle.]]></en>
-                  <de><![CDATA[Nee, ich bin fertig damit, im Schnee zu spielen. Meine Finger sind nach dem letzten Auffüllen der Milchflasche immer noch kalt.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0023">
+                  <en><![CDATA[No. I’m done playing in the snow. My fingers are still knumb from filling up that milk bottle.]]></en>
+                  <de><![CDATA[Nein. Ich bin fertig damit, im Schnee zu spielen. Meine Finger sind nach dem Auffüllen der Milchflasche immer noch kalt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -759,8 +763,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0025">
-                  <en><![CDATA[It’s a long way down ... I could probably see Ravenhollow from up here if the clouds were to break.]]></en>
-                  <de><![CDATA[Es ist ein langer Weg nach unten ... Ich könnte wahrscheinlich von hier oben Ravenhollow sehen, wenn die Wolken aufbrechen würden.]]></de>
+                  <en><![CDATA[It’s a long way down. I could probably see Ravenhollow from up here if the clouds were to break.]]></en>
+                  <de><![CDATA[Es ist ein langer Weg nach unten. Ich könnte wahrscheinlich von hier oben Ravenhollow sehen, wenn die Wolken aufbrechen würden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -784,7 +788,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0026">
-                  <en><![CDATA[While the situation at hand is grave, I’m still not that desperate.]]></en>
+                  <en><![CDATA[While the situation at hand is grave, I’m not that desperate.]]></en>
                   <de><![CDATA[Zwar ist meine Situation sehr ernst, aber so verzweifelt bin ich noch nicht.]]></de>
                 </dia>
               </dialog>

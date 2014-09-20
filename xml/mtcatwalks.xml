@@ -318,9 +318,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0002">
-                  <en><![CDATA[Wow, that would be a great place to build an igloo. Talk about a room with a view!]]></en>
-                  <de><![CDATA[Wow, das wäre ein großartiger Ort, um ein Iglu zu bauen. Was für ein Zimmer mit Aussicht!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0012">
+                  <en><![CDATA[Wow, that would be a great place to build an igloo. What a view!]]></en>
+                  <de><![CDATA[Wow, das wäre ein großartiger Ort, um ein Iglu zu bauen. Was für eine Aussicht!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -338,8 +338,8 @@
                   <de><![CDATA[ECHO!!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0016">
-                  <en><![CDATA[Neat!]]></en>
-                  <de><![CDATA[Schön!]]></de>
+                  <en><![CDATA[Neat.]]></en>
+                  <de><![CDATA[Schön.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -387,7 +387,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0005">
-                  <en><![CDATA[That’s the crevasse leading into the mountain train station.]]></en>
+                  <en><![CDATA[That’s the crevasse leading down into the mountain train station.]]></en>
                   <de><![CDATA[Das ist der Durchgang, der zurück zur Bergbahn führt.]]></de>
                 </dia>
               </dialog>
@@ -402,16 +402,16 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0019">
-                  <en><![CDATA[Hey guys!! Look at me!! I’m on top of the world!]]></en>
+                  <en><![CDATA[Hey guys! Look at me! I’m on top of the world!]]></en>
                   <de><![CDATA[Hey Jungs! Schaut mich an! Ich bin auf dem Dach der Welt!]]></de>
                 </dia>
                 <dia puppet="exit_mtstation" frame="" sound="voice/mtsummit_voice.swf:mtsummit0020">
-                  <en><![CDATA[Nathan, quit messing around and get those power feeds diverted into this station!]]></en>
+                  <en><![CDATA[Nathan, quit messing around out there and get those power feeds diverted into the station!]]></en>
                   <de><![CDATA[Nathan, hör mit den Spielchen auf und lenke den Strom in diesen Bahnhof!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0021">
-                  <en><![CDATA[... Gee, for once I almost wish I hadn’t been heard.]]></en>
-                  <de><![CDATA[... Mann, ich wünschte mir fast, ich wäre nicht gehört worden.]]></de>
+                  <en><![CDATA[Gee ... for once I almost wish no one had heard me.]]></en>
+                  <de><![CDATA[Mann ... ich wünschte mir fast, ich wäre nicht gehört worden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -424,9 +424,13 @@
                 <de><![CDATA[Betrete]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0008">
-                  <en><![CDATA[I can’t get there from up here. I’ll need to go through the lab and take the elevator back down.]]></en>
-                  <de><![CDATA[Von hier oben komme ich da nicht hin. Ich muss durch das Labor gehen und mit dem Aufzug wieder nach unten fahren.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0004">
+                  <en><![CDATA[I can’t get there from up here.]]></en>
+                  <de><![CDATA[Von hier oben komme ich da nicht hin.]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/mtsummit_voice.swf:mtsummit0011">
+                  <en><![CDATA[I need to go up the elevator within the mountain.]]></en>
+                  <de><![CDATA[Ich muss mit dem Aufzug im Berg hochfahren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -459,7 +463,7 @@
                   <de><![CDATA[Es ist noch einer der Blitzkollektoren, die diese Einrichtung mit Strom versorgen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0010">
-                  <en><![CDATA[That attractor’s power is flowing directly into the time rift, and there’s nothing that I can do about it.]]></en>
+                  <en><![CDATA[That attractor’s power is flowing directly into the Time Rift, and there’s nothing I can do about it.]]></en>
                   <de><![CDATA[Der Strom fließt direkt zum Zeitriss, und es gibt nichts, was ich dagegen tun kann.]]></de>
                 </dia>
               </dialog>
@@ -543,7 +547,7 @@
                   <de><![CDATA[Der Strom des zweiten Kollektors wrd jetzt zur Bahnstation umgeleitet.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0014">
-                  <en><![CDATA[Now I just need to drain all the power in the station so that there’s nothing left for the rift.]]></en>
+                  <en><![CDATA[Now I just need to drain all the power in the station so that there’s nothing left for the Rift.]]></en>
                   <de><![CDATA[Alles was ich jetzt noch tun muss, ist von der Bahnstation aus, den ganzen Strom zu verbrauchen, damit nichts mehr für den Riss übrig ist.]]></de>
                 </dia>
               </dialog>
@@ -596,7 +600,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0015">
-                  <en><![CDATA[No, I don’t want to divert power back to the rift.]]></en>
+                  <en><![CDATA[No, I don’t want to divert power back to the Rift.]]></en>
                   <de><![CDATA[Nein, ich will den Strom nicht wieder zurück zum Riss lenken.]]></de>
                 </dia>
               </dialog>
@@ -879,16 +883,16 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0021">
-                  <en><![CDATA[Yikes ... this rickety old catwalk gives me the heebie&#8212;jeebies.]]></en>
+                  <en><![CDATA[Yikes ... this rickety old catwalk gives me the heebie-jeebies.]]></en>
                   <de><![CDATA[Huch ... dieser klapprige alte Laufsteg macht mir Gänsehaut.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0022">
                   <en><![CDATA[To think that I was nearly standing on that section of walkway when it gave out!]]></en>
                   <de><![CDATA[Wenn ich daran denke, dass ich fast auf diesem Teil des Laufstegs stand, als er nachgegeben hat!]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0023">
-                  <en><![CDATA[Now, I wonder if I can find something to bridge the gap with?]]></en>
-                  <de><![CDATA[Ich frage mich, ob ich etwas finden kann, um die Kluft zu überbrücken?]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0026">
+                  <en><![CDATA[I’ll need to find something to bridge the gap with.]]></en>
+                  <de><![CDATA[Ich muss einfach etwas finden, um die Kluft zu überbrücken.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -912,15 +916,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0024">
-                  <en><![CDATA[Ah ... no. The long jump was never my strong event.]]></en>
-                  <de><![CDATA[Ah ... nein. Im Weitsprung war ich noch nie gut.]]></de>
+                  <en><![CDATA[No. The long jump was never my field event.]]></en>
+                  <de><![CDATA[Nein. Im Weitsprung war ich noch nie gut.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0025">
                   <en><![CDATA[Even if I could jump down across the gap, there’d be no coming back up.]]></en>
                   <de><![CDATA[Selbst wenn ich über die Kluft hinunterspringen könnte, könnte ich nicht mehr zurück.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0026">
-                  <en><![CDATA[I’ll just need to find something to bridge the gap with.]]></en>
+                  <en><![CDATA[I’ll need to find something to bridge the gap with.]]></en>
                   <de><![CDATA[Ich muss einfach etwas finden, um die Kluft zu überbrücken.]]></de>
                 </dia>
               </dialog>
@@ -998,16 +1002,12 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0031">
-                  <en><![CDATA[This would be an easy downward jump ...]]></en>
-                  <de><![CDATA[Das wäre ein einfacher Sprung nach unten ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0032">
-                  <en><![CDATA[... but I don’t want to chance the upward jump coming back.]]></en>
-                  <de><![CDATA[... aber ich will den Sprung zurück nach oben nicht riskieren.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0025">
+                  <en><![CDATA[Even if I could jump down across the gap, there’d be no coming back up.]]></en>
+                  <de><![CDATA[Selbst wenn ich über die Kluft hinunterspringen könnte, könnte ich nicht mehr zurück.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0033">
-                  <en><![CDATA[I’d better finish filling in the hole.]]></en>
+                  <en><![CDATA[I’d better finish filling in the gap.]]></en>
                   <de><![CDATA[Ich fülle lieber erst das Loch.]]></de>
                 </dia>
               </dialog>
@@ -1031,16 +1031,12 @@
                 <de><![CDATA[Spring über]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0034">
-                  <en><![CDATA[This would be an easy downward jump ...]]></en>
-                  <de><![CDATA[Das wäre ein einfacher Sprung nach unten...]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0025">
+                  <en><![CDATA[Even if I could jump down across the gap, there’d be no coming back up.]]></en>
+                  <de><![CDATA[Selbst wenn ich über die Kluft hinunterspringen könnte, könnte ich nicht mehr zurück.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0035">
-                  <en><![CDATA[... but I don’t want to chance the upward jump coming back.]]></en>
-                  <de><![CDATA[... aber ich will den Sprung zurück nach oben nicht riskieren.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0036">
-                  <en><![CDATA[I’d better finish filling in the hole.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0033">
+                  <en><![CDATA[I’d better finish filling in the gap.]]></en>
                   <de><![CDATA[Ich fülle lieber erst das Loch.]]></de>
                 </dia>
               </dialog>
@@ -1136,16 +1132,12 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0031">
-                  <en><![CDATA[This would be an easy downward jump ...]]></en>
-                  <de><![CDATA[Das wäre ein einfacher Sprung nach unten ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0032">
-                  <en><![CDATA[... but I don’t want to chance the upward jump coming back.]]></en>
-                  <de><![CDATA[... aber ich will den Sprung zurück nach oben nicht riskieren.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0025">
+                  <en><![CDATA[Even if I could jump down across the gap, there’d be no coming back up.]]></en>
+                  <de><![CDATA[Selbst wenn ich über die Kluft hinunterspringen könnte, könnte ich nicht mehr zurück.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0033">
-                  <en><![CDATA[I’d better finish filling in the hole.]]></en>
+                  <en><![CDATA[I’d better finish filling in the gap.]]></en>
                   <de><![CDATA[Ich fülle lieber erst das Loch.]]></de>
                 </dia>
               </dialog>
@@ -1169,16 +1161,12 @@
                 <de><![CDATA[Spring über]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0034">
-                  <en><![CDATA[This would be an easy downward jump ...]]></en>
-                  <de><![CDATA[Das wäre ein einfacher Sprung nach unten...]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0025">
+                  <en><![CDATA[Even if I could jump down across the gap, there’d be no coming back up.]]></en>
+                  <de><![CDATA[Selbst wenn ich über die Kluft hinunterspringen könnte, könnte ich nicht mehr zurück.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0035">
-                  <en><![CDATA[... but I don’t want to chance the upward jump coming back.]]></en>
-                  <de><![CDATA[... aber ich will den Sprung zurück nach oben nicht riskieren.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0036">
-                  <en><![CDATA[I’d better finish filling in the hole.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0033">
+                  <en><![CDATA[I’d better finish filling in the gap.]]></en>
                   <de><![CDATA[Ich fülle lieber erst das Loch.]]></de>
                 </dia>
               </dialog>

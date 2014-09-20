@@ -696,9 +696,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0000">
-                  <en><![CDATA[Nigel is still under hypnosis. I have to help him!]]></en>
-                  <de><![CDATA[Nigel steht noch immer unter Hypnose. Ich muss ihm helfen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0002">
+                  <en><![CDATA[Nigel is still under hypnosis. I have to help him.]]></en>
+                  <de><![CDATA[Nigel steht noch immer unter Hypnose. Ich muss ihm helfen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -712,8 +712,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0001">
-                  <en><![CDATA[No, I don’t want to attract Vincent’s attention!]]></en>
-                  <de><![CDATA[Nein, ich will nicht Vincents Aufmerksamkeit erregen!]]></de>
+                  <en><![CDATA[No. I don’t want to attract Vincent’s attention.]]></en>
+                  <de><![CDATA[Nein. ich will nicht Vincents Aufmerksamkeit erregen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -748,8 +748,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0002">
-                  <en><![CDATA[Nigel is still under hypnosis. I have to help him!]]></en>
-                  <de><![CDATA[Nigel steht noch immer unter Hypnose. Ich muss ihm helfen!]]></de>
+                  <en><![CDATA[Nigel is still under hypnosis. I have to help him.]]></en>
+                  <de><![CDATA[Nigel steht noch immer unter Hypnose. Ich muss ihm helfen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -762,9 +762,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0003">
-                  <en><![CDATA[No, I don’t want to attract Vincent’s attention!]]></en>
-                  <de><![CDATA[Nein, ich will nicht Vincents Aufmerksamkeit erregen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0001">
+                  <en><![CDATA[No. I don’t want to attract Vincent’s attention.]]></en>
+                  <de><![CDATA[Nein. ich will nicht Vincents Aufmerksamkeit erregen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1406,9 +1406,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0004">
-                  <en><![CDATA[Vincent is already preparing the Apparatus to create a time rift!]]></en>
-                  <de><![CDATA[Vincent bereitet schon den Apparatus vor, um einen Zeitriss zu öffnen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0009">
+                  <en><![CDATA[I have to hurry! Vincent is already starting the Apparatus.]]></en>
+                  <de><![CDATA[Ich muss mich beeilen! Vincent startet bereits den Apparatus.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1432,7 +1432,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0005">
-                  <en><![CDATA[I can’t go in there. This laser barrier is blocking the way.]]></en>
+                  <en><![CDATA[I can’t go in there. This laser array is blocking the entrance.]]></en>
                   <de><![CDATA[Ich kann da nicht reingehen. Diese Laserbarriere versperrt mir den Weg.]]></de>
                 </dia>
               </dialog>
@@ -1459,8 +1459,8 @@
                   <de><![CDATA[Dieses Mal können sie mich nicht hinauswerfen! Diesmal werde ich Erfolg haben! Mit meiner überlegenen Intelligenz und der schieren Macht ihrer Erfindungen werde ich die Welt nach meinem Willen gestalten!!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0009">
-                  <en><![CDATA[I have to hurry! Vincent is already starting the Apparatus!]]></en>
-                  <de><![CDATA[Ich muss mich beeilen! Vincent startet bereits den Apparatus!]]></de>
+                  <en><![CDATA[I have to hurry! Vincent is already starting the Apparatus.]]></en>
+                  <de><![CDATA[Ich muss mich beeilen! Vincent startet bereits den Apparatus.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1496,7 +1496,7 @@
                   <de><![CDATA[Sehr gut! Benutzen Sie jetzt den zweiten Satz Siegelringe, um die Ladesequenz des Apparatus zu initialisieren.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0013">
-                  <en><![CDATA[I have to hurry and drain the energy away from the Apparatus!]]></en>
+                  <en><![CDATA[I have to hurry and draw power away from the Apparatus!]]></en>
                   <de><![CDATA[Ich muss dem Apparatus schnell die Energie entziehen!]]></de>
                 </dia>
               </dialog>
@@ -1577,8 +1577,8 @@
                   <de><![CDATA[Hören Sie damit auf, bevor Sie uns alle vernichten!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0025">
-                  <en><![CDATA[Oh, I’d have no trouble sacrificing you or anyone else, Smith!]]></en>
-                  <de><![CDATA[Oh, ich hätte kein Problem damit, Sie oder irgendjemand sonst zu opfern, Smith!]]></de>
+                  <en><![CDATA[Oh, I’d have no trouble sacrificing you or anyone else, Smith.]]></en>
+                  <de><![CDATA[Oh, ich hätte kein Problem damit, Sie oder irgendjemand sonst zu opfern, Smith.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0026">
                   <en><![CDATA[But you could die too!]]></en>
@@ -1665,8 +1665,8 @@
                   <de><![CDATA[Aaaaaah!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0047">
-                  <en><![CDATA[He’s gone! ]]></en>
-                  <de><![CDATA[Er ist weg!]]></de>
+                  <en><![CDATA[He’s gone.]]></en>
+                  <de><![CDATA[Er ist weg.]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0048">
                   <en><![CDATA[Does that mean he ... won?]]></en>
@@ -1689,7 +1689,7 @@
                   <de><![CDATA[Oh. JETZT erinnerst du dich plötzlich!?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0053">
-                  <en><![CDATA[The picture changed back to normal ... but ... where did Vincent go then?]]></en>
+                  <en><![CDATA[The picture changed back to normal ... but ... where did Vincent actually go?]]></en>
                   <de><![CDATA[Das Bild ist wieder normal ... aber ... wohin ist Vincent dann verschwunden?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0054">
@@ -1721,8 +1721,8 @@
                   <de><![CDATA[Klar.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0061">
-                  <en><![CDATA[So, then that’s that? No more surprises for today!]]></en>
-                  <de><![CDATA[Und das war’s dann? Keine Überraschungen mehr für heute!]]></de>
+                  <en><![CDATA[So, that’s that then? No more surprises for today?]]></en>
+                  <de><![CDATA[Und das war’s dann? Keine Überraschungen mehr für heute?]]></de>
                 </dia>
                 <dia puppet="slappyanthony" frame="sspeak" sound="voice/mtlab_voice.swf:mtlab0062">
                   <en><![CDATA[Nigel ...]]></en>
@@ -1942,8 +1942,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0073">
-                  <en><![CDATA[Vincent is busy preparing his time rift experiment ... he doesn’t even notice that I’m here.]]></en>
-                  <de><![CDATA[Vincent ist damit beschäftigt, sein Zeitriss&#8212;Experiment vorzubereiten ... Er bemerkt nicht einmal, dass ich hier bin.]]></de>
+                  <en><![CDATA[Vincent is busy preparing the Time Rift ... he doesn’t even notice that I’m here.]]></en>
+                  <de><![CDATA[Vincent ist damit beschäftigt, sein Zeitriss vorzubereiten ... Er bemerkt nicht einmal, dass ich hier bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1956,9 +1956,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0074">
-                  <en><![CDATA[No, I don’t want to attract Vincent’s attention!]]></en>
-                  <de><![CDATA[Nein, ich will nicht Vincents Aufmerksamkeit erregen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0001">
+                  <en><![CDATA[No. I don’t want to attract Vincent’s attention.]]></en>
+                  <de><![CDATA[Nein. ich will nicht Vincents Aufmerksamkeit erregen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1986,7 +1986,7 @@
           <param mapX="815" mapY="505" turnTo="5" turn="0" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[Prof. Smith]]></en>
+            <en><![CDATA[Professor Smith]]></en>
             <de><![CDATA[Prof. Smith]]></de>
           </title>
           <actions>
@@ -1997,7 +1997,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0075">
-                  <en><![CDATA[Prof. Smith is still hypnotized, too.]]></en>
+                  <en><![CDATA[Professor Smith is still hypnotized, too.]]></en>
                   <de><![CDATA[Prof. Smith steht immer noch unter Hypnose.]]></de>
                 </dia>
               </dialog>
@@ -2021,9 +2021,9 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0076">
-                  <en><![CDATA[No, I don’t want to attract Vincent’s attention!]]></en>
-                  <de><![CDATA[Nein, ich will nicht Vincents Aufmerksamkeit erregen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0001">
+                  <en><![CDATA[No. I don’t want to attract Vincent’s attention.]]></en>
+                  <de><![CDATA[Nein. ich will nicht Vincents Aufmerksamkeit erregen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2051,9 +2051,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0077">
-                  <en><![CDATA[Nigel is still under hypnosis. I have to help him!]]></en>
-                  <de><![CDATA[Nigel steht immer noch unter Hypnose. Ich muss ihm helfen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0002">
+                  <en><![CDATA[Nigel is still under hypnosis. I have to help him.]]></en>
+                  <de><![CDATA[Nigel steht noch immer unter Hypnose. Ich muss ihm helfen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2066,9 +2066,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0078">
-                  <en><![CDATA[No, I don’t want to attract Vincent’s attention!]]></en>
-                  <de><![CDATA[Nein, ich will nicht Vincents Aufmerksamkeit erregen]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0001">
+                  <en><![CDATA[No. I don’t want to attract Vincent’s attention.]]></en>
+                  <de><![CDATA[Nein. ich will nicht Vincents Aufmerksamkeit erregen.]]></de>
                 </dia>
               </dialog>
               <script>
