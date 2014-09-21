@@ -376,7 +376,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30004">
-                  <en><![CDATA[Well, the baron can’t say that he was excluded from the party.]]></en>
+                  <en><![CDATA[Well, the Baron certainly wasn’t excluded from the party.]]></en>
                   <de><![CDATA[Na, der Baron kann nicht sagen, dass er von der Party ausgeschlossen wurde.]]></de>
                 </dia>
               </dialog>
@@ -391,7 +391,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30005">
-                  <en><![CDATA[I have nothing to say to that stone effigy.]]></en>
+                  <en><![CDATA[I have nothing to say to that cold stone effigy.]]></en>
                   <de><![CDATA[Zu diesem steinharten Bildnis habe ich nichts zu sagen.]]></de>
                 </dia>
               </dialog>
@@ -564,8 +564,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30009">
-                  <en><![CDATA[Those are some fine looking clocks...]]></en>
-                  <de><![CDATA[Das sind aber edel aussehende Uhren ...]]></de>
+                  <en><![CDATA[Those are some fine looking clocks.]]></en>
+                  <de><![CDATA[Das sind aber edel aussehende Uhren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -589,8 +589,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30010">
-                  <en><![CDATA[This is no time for window shopping!]]></en>
-                  <de><![CDATA[Das ist nicht der Zeitpunkt für einen Schaufensterbummel!]]></de>
+                  <en><![CDATA[This is no time for window shopping.]]></en>
+                  <de><![CDATA[Das ist nicht der Zeitpunkt für einen Schaufensterbummel.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -619,8 +619,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30011">
-                  <en><![CDATA[&#8222;Turtle Lane&#8220;.]]></en>
-                  <de><![CDATA[&#8222;Schildkrötenweg&#8220;.]]></de>
+                  <en><![CDATA[Turtle Lane.]]></en>
+                  <de><![CDATA[Schildkrötenweg.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -669,8 +669,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30012">
-                  <en><![CDATA[&#8222;Raven Road&#8220;.]]></en>
-                  <de><![CDATA[&#8222;Rabengasse&#8220;.]]></de>
+                  <en><![CDATA[Raven Road.]]></en>
+                  <de><![CDATA[Rabengasse.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -833,7 +833,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30015">
-                  <en><![CDATA[Even Webb seems to enjoy the show.]]></en>
+                  <en><![CDATA[Even Webb seems to be enjoying the show.]]></en>
                   <de><![CDATA[Sogar Webb scheint die Show zu gefallen.]]></de>
                 </dia>
               </dialog>
@@ -848,8 +848,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30016">
-                  <en><![CDATA[Mr. Webster ...]]></en>
-                  <de><![CDATA[Herr Webster ...]]></de>
+                  <en><![CDATA[Mr. Webster?]]></en>
+                  <de><![CDATA[Herr Webster?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/square3_voice.swf:square30017">
                   <en><![CDATA[Have you heard? Lowell Cain and his men are history ... they had never been working for the Baron to begin with!]]></en>
@@ -908,7 +908,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30022">
-                  <en><![CDATA[It looks like he’s amazed by both the juggling and the thrilling story.]]></en>
+                  <en><![CDATA[It looks like he’s entranced by the juggling and the thrilling story.]]></en>
                   <de><![CDATA[Sieht aus, als wäre er sowohl vom Jonglieren als auch von der spannenden Geschichte fasziniert.]]></de>
                 </dia>
               </dialog>
@@ -990,8 +990,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30028">
-                  <en><![CDATA[He’s just reading a story ... I shouldn’t disturb him.]]></en>
-                  <de><![CDATA[Er liest gerade die Geschichte ... Ich sollte ihn nicht stören.]]></de>
+                  <en><![CDATA[No. He’s reading a story ... I shouldn’t disturb him.]]></en>
+                  <de><![CDATA[Nein. Er liest gerade die Geschichte ... Ich sollte ihn nicht stören.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1139,11 +1139,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30052">
-                  <en><![CDATA[He looks happy. Well, I guess I’d look happy too if someone like Cecily agreed to marry me.]]></en>
-                  <de><![CDATA[Er sieht glücklich aus. Naja, ich schätze, ich sähe auch glücklich aus, wenn mich jemand wie Cecily heiraten wollte.]]></de>
+                  <en><![CDATA[He looks happy. I guess I’d look happy too if someone like Cecily agreed to marry me.]]></en>
+                  <de><![CDATA[Er sieht glücklich aus. Ich schätze, ich sähe auch glücklich aus, wenn mich jemand wie Cecily heiraten wollte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30053">
-                  <en><![CDATA[Maybe I should ask Nora if she’d like to have a cup of coffee with me sometime ...]]></en>
+                  <en><![CDATA[Maybe I should ask Nora if she’d like to get coffee with me sometime ...]]></en>
                   <de><![CDATA[Vielleicht sollte ich Nora bei Gelegenheit mal auf einen Kaffee einladen ...]]></de>
                 </dia>
               </dialog>
@@ -1158,11 +1158,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30054">
-                  <en><![CDATA[Stig, it seems like Cecily made up her mind ...]]></en>
-                  <de><![CDATA[Stig, es scheint, Cecily hat sich entschieden ...]]></de>
+                  <en><![CDATA[Stig, it seems like Cecily made up her mind.]]></en>
+                  <de><![CDATA[Stig, es scheint, Cecily hat sich entschieden.]]></de>
                 </dia>
                 <dia puppet="stig" frame="" sound="voice/square3_voice.swf:square30055">
-                  <en><![CDATA[Yes, I am so glad. Everyday has been like a dream since she said &#8222;yes&#8220; ...]]></en>
+                  <en><![CDATA[Yes, I am so glad. Everyday has been like a dream since she said &#8222;yes&#8220;.]]></en>
                   <de><![CDATA[Ja, ich freue mich so. Jeder Tag ist wie ein Traum, seit sie &#8222;ja&#8220; gesagt hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30056">
@@ -1170,20 +1170,20 @@
                   <de><![CDATA[Vielleicht sollte ich mir auch eine Freundin suchen ...]]></de>
                 </dia>
                 <dia puppet="stig" frame="" sound="voice/square3_voice.swf:square30057">
-                  <en><![CDATA[You should ... men were not made to be alone, my grandfather used to say.]]></en>
-                  <de><![CDATA[Das solltest du ... Der Mensch ist nicht fürs Alleinsein gemacht, sagte mein Großvater immer.]]></de>
+                  <en><![CDATA[You should. Men were not made to be alone, my grandfather used to say.]]></en>
+                  <de><![CDATA[Das solltest du. Der Mensch ist nicht fürs Alleinsein gemacht, sagte mein Großvater immer.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30058">
-                  <en><![CDATA[I don’t know ... I think my head’s too large ... the kids at school always used to laugh at me.]]></en>
-                  <de><![CDATA[Ich weiß nicht ... Ich finde meinen Kopf zu groß ... Die Kinder in der Schule haben mich immer ausgelacht.]]></de>
+                  <en><![CDATA[I don’t know ... I think my head’s too large. The kids at school always used to laugh at me.]]></en>
+                  <de><![CDATA[Ich weiß nicht ... Ich finde meinen Kopf zu groß. Die Kinder in der Schule haben mich immer ausgelacht.]]></de>
                 </dia>
                 <dia puppet="stig" frame="" sound="voice/square3_voice.swf:square30059">
                   <en><![CDATA[Your head ... ?]]></en>
                   <de><![CDATA[Dein Kopf ... ... ?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/square3_voice.swf:square30060">
-                  <en><![CDATA[... don’t you think my head is larger than a normal person’s head?]]></en>
-                  <de><![CDATA[... findest du nicht, dass mein Kopf seltsam groß ist?]]></de>
+                  <en><![CDATA[Don’t you think my head is larger than a normal person’s head?]]></en>
+                  <de><![CDATA[Findest du nicht, dass mein Kopf seltsam groß ist?]]></de>
                 </dia>
                 <dia puppet="stig" frame="" sound="voice/square3_voice.swf:square30061">
                   <en><![CDATA[No, I really don’t think that your head’s too large ...]]></en>
@@ -1238,8 +1238,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30065">
-                  <en><![CDATA[Cecily Caro. ... Or should I already say, Cecily Sigmundson? Or, Cecily Caro-Sigmundson? That has a certain ring to it ...]]></en>
-                  <de><![CDATA[Cecily Caro. ... Oder sollte ich schon sagen: Cecily Sigmundson? Oder Cecily Caro Sigmundson? Das hat doch was ...]]></de>
+                  <en><![CDATA[Cecily Caro ... Or should I already say, Cecily Sigmundson? Or, Cecily Caro-Sigmundson? That has a certain ring to it ...]]></en>
+                  <de><![CDATA[Cecily Caro ... Oder sollte ich schon sagen: Cecily Sigmundson? Oder Cecily Caro Sigmundson? Das hat doch was ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1253,8 +1253,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30066">
-                  <en><![CDATA[Cecily ... I see you and Stig have finally found each other?]]></en>
-                  <de><![CDATA[Cecily ... Also habt ihr euch endlich gefunden?]]></de>
+                  <en><![CDATA[Cecily ... I see you and Stig have finally found each other.]]></en>
+                  <de><![CDATA[Cecily ... Also habt ihr euch endlich gefunden.]]></de>
                 </dia>
                 <dia puppet="cecily" frame="" sound="voice/square3_voice.swf:square30067">
                   <en><![CDATA[Yes, we were meant for each other. Even the heavens above supported me in my ...]]></en>
@@ -1484,7 +1484,7 @@
                   <de><![CDATA[Sind das Fackeln, mit denen er jongliert? Wie seltsam, dass sie nicht brennen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30080">
-                  <en><![CDATA[If this wasn’t a free show, I might feel a bit gypped.]]></en>
+                  <en><![CDATA[If this wasn’t a free show, then I might feel a bit gypped.]]></en>
                   <de><![CDATA[Wenn das keine kostenlose Vorstellung wäre, würde ich mich jetzt übers Ohr gehauen fühlen.]]></de>
                 </dia>
               </dialog>
@@ -1535,11 +1535,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30083">
-                  <en><![CDATA[Hello there, I think I may have something that would interest you!]]></en>
-                  <de><![CDATA[Hallo, ich glaube, ich habe da was, das dich interessieren könnte!]]></de>
+                  <en><![CDATA[Hey, I think I may have something that would interest you.]]></en>
+                  <de><![CDATA[Hallo, ich glaube, ich habe da was, das dich interessieren könnte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30084">
-                  <en><![CDATA[How about some knives to make your show look a little more dangerous?]]></en>
+                  <en><![CDATA[How about some knives to make your show look more dangerous?]]></en>
                   <de><![CDATA[Wie wäre es mit ein paar Messern, um deine Show etwas gefährlicher wirken zu lassen?]]></de>
                 </dia>
                 <dia puppet="juggler" frame="" sound="voice/square3_voice.swf:square30085">
@@ -1627,9 +1627,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30095">
-                  <en><![CDATA[I shouldn’t distract him ... those knives I gave him are actually sharp. ]]></en>
-                  <de><![CDATA[Ich sollte ihn nicht ablenken ... diese Messer, die ich ihm gegeben habe, sind ziemlich scharf.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30082">
+                  <en><![CDATA[No. I’d better leave him alone while he’s concentrating on his performance.]]></en>
+                  <de><![CDATA[Nein, ich lasse ihn besser in Ruhe, während er sich auf seine Vorstellung konzentriert.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1643,7 +1643,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30082">
-                  <en><![CDATA[Naw, I’d better leave him alone while he’s concentrating on his performance.]]></en>
+                  <en><![CDATA[No. I’d better leave him alone while he’s concentrating on his performance.]]></en>
                   <de><![CDATA[Nein, ich lasse ihn besser in Ruhe, während er sich auf seine Vorstellung konzentriert.]]></de>
                 </dia>
               </dialog>
@@ -1673,8 +1673,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30096">
-                  <en><![CDATA[Ah, the finest in hearty, homegrown produce.]]></en>
-                  <de><![CDATA[Ah, der König unter den selbst anbaubaren Naturprodukten: die Kartoffel.]]></de>
+                  <en><![CDATA[Ah ... The finest in hearty, homegrown produce.]]></en>
+                  <de><![CDATA[Ah ... Der König unter den selbst anbaubaren Naturprodukten: die Kartoffel.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1703,7 +1703,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30098">
-                  <en><![CDATA[No. The village celebrates while I steal potatoes behind their back ...?]]></en>
+                  <en><![CDATA[No. The village celebrates while I steal potatoes behind their backs ...?]]></en>
                   <de><![CDATA[Mein. Das Dorf feiert, während ich hinter ihrem Rücken Kartoffeln stehle ...?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/square3_voice.swf:square30099">
@@ -1799,15 +1799,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30101">
-                  <en><![CDATA[So, is everything alright again?]]></en>
+                  <en><![CDATA[So, is everything alright now?]]></en>
                   <de><![CDATA[Ist also alles wieder in Ordnung?]]></de>
                 </dia>
                 <dia puppet="eve" frame="" sound="voice/square3_voice.swf:square30102">
-                  <en><![CDATA[Yes, thank you! Mr. Boots fell asleep after you brought him back, but he says thank you, too!]]></en>
+                  <en><![CDATA[Yes, thank you! Mr. Boots fell asleep after you brought him back, but he says thank you too!]]></en>
                   <de><![CDATA[Ja, danke! Mr. Boots ist eingeschlafen, nachdem Sie ihn zurückgebracht haben, aber er sagt auch danke!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30103">
-                  <en><![CDATA[A thank you from the most attractive cat in town ... I’m flattered!]]></en>
+                  <en><![CDATA[A thank you from the most handsome cat in town ... I’m flattered!]]></en>
                   <de><![CDATA[Ein Dankeschön vom attraktivsten Kater im Ort ... Ich fühle mich geschmeichelt!]]></de>
                 </dia>
               </dialog>
@@ -1847,7 +1847,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30104">
-                  <en><![CDATA[Mr. Mandelbaum is finally alright. That was a long night for him and his daughter.]]></en>
+                  <en><![CDATA[Mr. Mandelbaum is alright. That was a long night for him and his daughter.]]></en>
                   <de><![CDATA[Herrn Mandelbaum geht es endlich wieder gut. Das war eine lange Nacht für ihn und seine Tochter.]]></de>
                 </dia>
               </dialog>
@@ -1902,8 +1902,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30106">
-                  <en><![CDATA[Mr. Caro has a reason to celebrate. He can finally attend his Nature Friends Society congress.]]></en>
-                  <de><![CDATA[Herr Caro hat Grund zum Feiern. Er kann endlich wieder an den Treffen seiner Gesellschaft der Freunde der Natur teilnehmen.]]></de>
+                  <en><![CDATA[Mr. Caro has a reason to celebrate ... he can finally attend his Nature Friends Society congress.]]></en>
+                  <de><![CDATA[Herr Caro hat Grund zum Feiern ... er kann endlich wieder an den Treffen seiner Gesellschaft der Freunde der Natur teilnehmen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1937,7 +1937,7 @@
                   <de><![CDATA[Wissen Sie, was das bedeutet?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30112">
-                  <en><![CDATA[Freedom of Speech and no more Castle terror?]]></en>
+                  <en><![CDATA[Freedom of speech and no more Castle terror?]]></en>
                   <de><![CDATA[Redefreiheit und kein Terror mehr vom Schloss?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30113">
@@ -2005,7 +2005,7 @@
                   <de><![CDATA[Oh weh, war das eine echte Ming-Vase?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30121">
-                  <en><![CDATA[You bet it is ... or, WAS. So how much is it worth?]]></en>
+                  <en><![CDATA[I think it is ... or, WAS. So how much is it worth?]]></en>
                   <de><![CDATA[Genau das ist sie ... äh, WAR sie. Und wieviel ist sie wert?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30122">
