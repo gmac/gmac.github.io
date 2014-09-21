@@ -314,8 +314,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30005">
-                  <en><![CDATA[Hey Boots, how about some milk?]]></en>
-                  <de><![CDATA[Hey Boots, wie wäre es mit etwas Milch?]]></de>
+                  <en><![CDATA[Hey Boots, how about some delicious fresh milk?]]></en>
+                  <de><![CDATA[Hey Boots, wie wäre es mit köstlichen frischen Milch?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30006">
                   <en><![CDATA[Good boy!]]></en>
@@ -395,12 +395,12 @@
                   <de><![CDATA[Hier Boots, wie wäre es mit einem leckeren Fisch?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30013">
-                  <en><![CDATA[Hmmm ... no response. He doesn’t seem to be interested.]]></en>
-                  <de><![CDATA[Hmmm ... keine Antwort. Er scheint nicht interessiert zu sein.]]></de>
+                  <en><![CDATA[Hm. No response. He doesn’t seem to be interested.]]></en>
+                  <de><![CDATA[Hm. Keine Antwort. Er scheint nicht interessiert zu sein.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30014">
-                  <en><![CDATA[... Although given the smell of this old fish, I can’t say that I blame him.]]></en>
-                  <de><![CDATA[... Aber angesichts des Geruchs dieses alten Fischs kann ich ihm das nicht verdenken.]]></de>
+                  <en><![CDATA[Given the smell of this old fish, I can’t say that I blame him.]]></en>
+                  <de><![CDATA[Angesichts des Geruchs dieses alten Fischs kann ich ihm das nicht verdenken.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -448,8 +448,8 @@
                   <de><![CDATA[Magst du deine frische Milch? Ich glaube, du magst deine frische Milch.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30017">
-                  <en><![CDATA[Boy, I sound like one of those people with twenty cats and an insane grin.]]></en>
-                  <de><![CDATA[Junge, ich höre mich an wie diese Leute mit zwanzig Katzen und einem verrückten Grinsen.]]></de>
+                  <en><![CDATA[Boy, I sound like one of those crazy people with twenty cats and a cardigan.]]></en>
+                  <de><![CDATA[Junge, ich höre mich an wie diese verrückt Leute mit zwanzig Katzen und Strickjacke.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -499,8 +499,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30019">
-                  <en><![CDATA[A classic tire swing. Great fun ... and it’s free.]]></en>
-                  <de><![CDATA[Eine klassische Reifenschaukel. Sehr spaßig ... und kostenlos.]]></de>
+                  <en><![CDATA[A classic tire swing. Great fun ... and for free!]]></en>
+                  <de><![CDATA[Eine klassische Reifenschaukel. Sehr spaßig ... und kostenlos!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -759,8 +759,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30024">
-                  <en><![CDATA[It’s a treehouse castle. With cardboard towers and all.]]></en>
-                  <de><![CDATA[Es ist ein Baumhaus-Schloss. Mit Kartontürmen und allem drum und dran.]]></de>
+                  <en><![CDATA[It’s a treehouse castle, complete with cardboard towers and all.]]></en>
+                  <de><![CDATA[Es ist ein Baumhaus-Schloss, mit Kartontürmen und allem drum und dran.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -784,12 +784,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30025">
-                  <en><![CDATA[Hmmm... a raised wooden structure built by a group of kids who probably used more bubble gum in the construction than nails.]]></en>
-                  <de><![CDATA[Hmmm ... eine Holzkonstruktion, die von einer Gruppe Kindern gebaut wurde, die beim Bauen wahrscheinlich mehr Kaugummi als Nägel benutzt haben.]]></de>
+                  <en><![CDATA[Hm. An elevated structure built by a group of kids using sub-prime building materials?]]></en>
+                  <de><![CDATA[Hm. Ein erhöhter Struktur durch eine Gruppe von Kindern gebaut mit schlechten Baumaterialien?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30026">
-                  <en><![CDATA[I think I’ll stay grounded and marvel at it from a distance.]]></en>
-                  <de><![CDATA[Ich glaube, ich bleibe unten und bewundere es aus der Ferne.]]></de>
+                  <en><![CDATA[I think I’ll safely marvel at it from the ground.]]></en>
+                  <de><![CDATA[Ich denke, ich werde es sicher bei bestaunen aus dem Boden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -877,9 +877,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30030">
-                  <en><![CDATA[No way! I’m no peeping&#8212;tom.]]></en>
-                  <de><![CDATA[Nie im Leben! Ich bin kein Spanner!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30031">
+                  <en><![CDATA[No. I don’t want to bother the home owner.]]></en>
+                  <de><![CDATA[Nein. ich will den Hausbesitzer nicht stören.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -893,8 +893,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30031">
-                  <en><![CDATA[Na, I don’t want to bother the home&#8212;owner.]]></en>
-                  <de><![CDATA[Nein, ich will den Hausbesitzer nicht stören.]]></de>
+                  <en><![CDATA[No. I don’t want to bother the home owner.]]></en>
+                  <de><![CDATA[Nein. ich will den Hausbesitzer nicht stören.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -908,7 +908,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30032">
-                  <en><![CDATA[That would be considered a break&#8212;in ... I’ll just pass and avoid the arrest.]]></en>
+                  <en><![CDATA[That would be considered a break-in ... I’ll pass and skip the arrest.]]></en>
                   <de><![CDATA[Das wäre Einbruch ... Das lasse ich lieber und vermeide die Festnahme.]]></de>
                 </dia>
               </dialog>
@@ -968,7 +968,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30035">
-                  <en><![CDATA[I can’t, it’s a fixture within the street.]]></en>
+                  <en><![CDATA[I can’t, it’s a fixture of the street.]]></en>
                   <de><![CDATA[Ich kann nicht, es ist in die Wand eingebaut.]]></de>
                 </dia>
               </dialog>
@@ -1002,7 +1002,7 @@
                   <de><![CDATA[&#8222;Meeresschildkröten-Brunnen. Gewidmet allen ähnlich langsamen, sanften und friedlichen Kreaturen.&#8220;]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/treehouse3_voice.swf:treehouse30037">
-                  <en><![CDATA[How wonderful! We need more recognition of the simple&#8212;minded creatures of the world.]]></en>
+                  <en><![CDATA[How wonderful! We need more recognition of the simple-minded creatures of the world.]]></en>
                   <de><![CDATA[Wie wunderbar! Wir brauchen mehr Anerkennung für die sanftmütigen Geschöpfe der Welt.]]></de>
                 </dia>
               </dialog>
