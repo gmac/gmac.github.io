@@ -467,12 +467,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30000">
-                  <en><![CDATA[Uh oh ... that reminds me that I should have cleaned the dishes before I left my apartment.]]></en>
-                  <de><![CDATA[Oje ... Das erinnert mich daran, dass ich das Geschirr hätte spülen sollen, bevor ich meine Wohnung verlassen habe.]]></de>
+                  <en><![CDATA[Hm. This reminds me that I should have cleaned the dishes before I left my apartment.]]></en>
+                  <de><![CDATA[Hm. Das erinnert mich daran, dass ich das Geschirr hätte spülen sollen, bevor ich meine Wohnung verlassen habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30001">
-                  <en><![CDATA[By the time I come back the tomato sauce on my plates is going to ask for a green card.]]></en>
-                  <de><![CDATA[Wenn ich wieder zurückkomme, wird die Tomatensauce auf meinen Tellern einen Personalausweis haben wollen.]]></de>
+                  <en><![CDATA[By the time I get back, I may find new lifeforms in my sink.]]></en>
+                  <de><![CDATA[Ich kann neue Lebensformen in meinem Waschbecken zu finden, wenn ich zurück bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -496,7 +496,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30002">
-                  <en><![CDATA[I like them where they are.]]></en>
+                  <en><![CDATA[I’ll leave them where they are.]]></en>
                   <de><![CDATA[Ich mag sie, wo sie sind.]]></de>
                 </dia>
               </dialog>
@@ -526,7 +526,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30003">
-                  <en><![CDATA[That looks pretty dramatic ... if I didn’t know better, I’d think that Dr. Trelawney had been arrested while having a cup of tea.]]></en>
+                  <en><![CDATA[That looks dramatic ... if I didn’t know better, I’d assume Dr. Trelawney had been arrested during a quiet cup of tea.]]></en>
                   <de><![CDATA[Das sieht ziemlich dramatisch aus ... wenn ich es nicht besser wüsste, würde ich denken, dass Dr. Trelawney verhaftet wurde, während er eine Tasse Tee trank.]]></de>
                 </dia>
               </dialog>
@@ -551,8 +551,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30004">
-                  <en><![CDATA[That would be Nigel’s job. Another reason to hurry up and save him.]]></en>
-                  <de><![CDATA[Das wäre Nigels Job. Ein weiterer Grund dafür, sich zu beeilen und ihn retten.]]></de>
+                  <en><![CDATA[That will be Nigel’s job. Yet another reason to hurry up and rescue him ...]]></en>
+                  <de><![CDATA[Das wäre Nigels Job. Ein weiterer Grund dafür, sich zu beeilen und ihn retten ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -581,8 +581,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30005">
-                  <en><![CDATA[The bed looks like you could spend a good night of sleep in it.]]></en>
-                  <de><![CDATA[Das Bett sieht aus, als könnte man gut eine Nacht darin schlafen.]]></de>
+                  <en><![CDATA[The bed looks forlorn. Its owner will never return to it.]]></en>
+                  <de><![CDATA[Das Bett sieht verlassen. Sein Besitzer wird nie zu ihr zurückkehren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -606,8 +606,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30006">
-                  <en><![CDATA[No, sleeping is not on the list of things Dr. Coppelius wants me to do.]]></en>
-                  <de><![CDATA[Nein, Schlafen steht nicht auf der Liste der Dinge, die Dr. Coppelius von mir will.]]></de>
+                  <en><![CDATA[No. Sleeping is not on the list of things Dr. Coppelius wants me to do.]]></en>
+                  <de><![CDATA[Nein. Schlafen steht nicht auf der Liste der Dinge, die Dr. Coppelius von mir will.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -636,8 +636,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30007">
-                  <en><![CDATA[Hey, that looks almost like the golden bird statue in Coppelius’ house. I wonder if they were crafted by the same artisan.]]></en>
-                  <de><![CDATA[Hey, der sieht fast wie der goldene Vogel im Haus von Coppelius aus. Ich frage mich, ob die vom selben Künstler gefertigt wurden.]]></de>
+                  <en><![CDATA[Hey, that looks like the golden bird statue in Coppelius’ house. I wonder if they were crafted by the same artisan?]]></en>
+                  <de><![CDATA[Hey, der sieht fast wie der goldene Vogel im Haus von Coppelius aus. Ich frage mich, ob die vom selben Künstler gefertigt wurden?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -687,8 +687,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30009">
-                  <en><![CDATA[I really like secret lifts ... and secret labs and levers and ... well, everything secret in general, I guess!]]></en>
-                  <de><![CDATA[Ich mag geheime Aufzüge sehr ... und geheime Labors und Hebel und ... gut, alles Geheime eben!]]></de>
+                  <en><![CDATA[I really like secret lifts ... and levers ... and labs. Anything secret, I guess.]]></en>
+                  <de><![CDATA[Ich mag geheime Aufzüge sehr ... und Hebel ... und geheime Labors. Alles Geheime eben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -742,8 +742,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30011">
-                  <en><![CDATA[Seems like Cain’s men raided this place ... they removed all of the pictures. Except for the large painting up there. I guess they couldn’t reach it.]]></en>
-                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert ... sie haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben. Ich vermute, sie konnten es nicht erreichen.]]></de>
+                  <en><![CDATA[Seems as though Cain’s men raided this place and removed all of the pictures. Except for that large painting up there ... I guess they couldn’t reach that.]]></en>
+                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert und haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben ... Ich vermute, sie konnten es nicht erreichen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -791,9 +791,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30012">
-                  <en><![CDATA[Seems like Cain’s men raided this place ... they removed all of the pictures. Except for the large painting up there. I guess they couldn’t reach it.]]></en>
-                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert ... sie haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben. Ich vermute, sie konnten es nicht erreichen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30011">
+                  <en><![CDATA[Seems as though Cain’s men raided this place and removed all of the pictures. Except for that large painting up there ... I guess they couldn’t reach that.]]></en>
+                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert und haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben ... Ich vermute, sie konnten es nicht erreichen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -841,9 +841,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30013">
-                  <en><![CDATA[Seems like Cain’s men raided this place ... they removed all of the pictures. Except for the large painting up there. I guess they couldn’t reach it.]]></en>
-                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert ... sie haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben. Ich vermute, sie konnten es nicht erreichen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30011">
+                  <en><![CDATA[Seems as though Cain’s men raided this place and removed all of the pictures. Except for that large painting up there ... I guess they couldn’t reach that.]]></en>
+                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert und haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben ... Ich vermute, sie konnten es nicht erreichen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -891,9 +891,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30014">
-                  <en><![CDATA[Seems like Cain’s men raided this place ... they removed all of the pictures. Except for the large painting up there. I guess they couldn’t reach it.]]></en>
-                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert ... sie haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben. Ich vermute, sie konnten es nicht erreichen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30011">
+                  <en><![CDATA[Seems as though Cain’s men raided this place and removed all of the pictures. Except for that large painting up there ... I guess they couldn’t reach that.]]></en>
+                  <de><![CDATA[Sieht aus, als haben Cains Männer hier alles geplündert und haben alle Bilder entfernt. Mit Ausnahme des großen Gemäldes da oben ... Ich vermute, sie konnten es nicht erreichen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -942,8 +942,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30015">
-                  <en><![CDATA[It seems the members of the Smith Institute keep in touch with the outside world. I saw a similar radio in Dr. Coppelius’ lab.]]></en>
-                  <de><![CDATA[Es scheint, als ob die Mitglieder des Smith-Instituts gern den Kontakt mit der Außenwelt aufrechterhalten haben. Ich habe ein ähnliches Funkgerät im Labor von Dr. Coppelius gesehen.]]></de>
+                  <en><![CDATA[The members of the Smith Institute must keep in touch with the outside world. I saw a similar radio in Dr. Coppelius’ lab.]]></en>
+                  <de><![CDATA[Als ob die Mitglieder des Smith-Instituts gern den Kontakt mit der Außenwelt aufrechterhalten haben. Ich habe ein ähnliches Funkgerät im Labor von Dr. Coppelius gesehen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -957,7 +957,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30016">
-                  <en><![CDATA[I really don’t have time for chit&#8212;chatting on the radio.]]></en>
+                  <en><![CDATA[I really don’t have time for radio chit-chat.]]></en>
                   <de><![CDATA[Ich habe wirklich keine Zeit für Plaudereien am Funkgerät!]]></de>
                 </dia>
               </dialog>
@@ -971,9 +971,9 @@
                 <de><![CDATA[Aktiviere]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30017">
-                  <en><![CDATA[Not now! We have to stop Vincent!]]></en>
-                  <de><![CDATA[Nicht jetzt! Wir müssen Vincent aufhalten!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30016">
+                  <en><![CDATA[I really don’t have time for radio chit-chat.]]></en>
+                  <de><![CDATA[Ich habe wirklich keine Zeit für Plaudereien am Funkgerät!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1002,7 +1002,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30018">
-                  <en><![CDATA[Mh ... it looks like these picture plates have moved slightly out of place.]]></en>
+                  <en><![CDATA[Hm ... it looks like these plates have moved slightly out of position.]]></en>
                   <de><![CDATA[Hm ... diese Bildplättchen scheinen sich etwas lose gerüttelt zu haben.]]></de>
                 </dia>
               </dialog>
@@ -1047,79 +1047,7 @@
               </script>
             </action>
           </actions>
-          <items>
-            <action id="locket1">
-              <title>
-                <en><![CDATA[]]></en>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30020">
-                  <en><![CDATA[Two halves of a locket are installed in the sockets.]]></en>
-                  <de><![CDATA[In den Fassungen sind zwei Hälften eines Medaillons angebracht.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30021">
-                  <en><![CDATA[... but I will have to take it apart so I can place each half into one of these sockets.]]></en>
-                  <de><![CDATA[... aber ich muss es auseinander nehmen, damit ich jede Hälfte in einer dieser Fassungen platzieren kann.]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <dialogue play="*" />
-              </script>
-            </action>
-            <action id="locket2">
-              <title>
-                <en><![CDATA[]]></en>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30022">
-                  <en><![CDATA[It looks like the locket uncle Slappy has given me has about the right shape to fit in these sockets ...]]></en>
-                  <de><![CDATA[Es sieht aus, als habe das Medaillon, das Onkel Slappy mir gegeben hat, ungefähr die richtig Form, um in diese Fassungen zu passen ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30023">
-                  <en><![CDATA[... but I will have to take it apart so I can place each half into one of these sockets.]]></en>
-                  <de><![CDATA[... aber ich muss es auseinander nehmen, damit ich jede Hälfte in einer dieser Fassungen platzieren kann.]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <dialogue play="*" />
-              </script>
-            </action>
-            <action id="locket3">
-              <title>
-                <en><![CDATA[]]></en>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30024">
-                  <en><![CDATA[This should work ...]]></en>
-                  <de><![CDATA[Das sollte funktionieren ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30025">
-                  <en><![CDATA[Amazing!]]></en>
-                  <de><![CDATA[Erstaunlich!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30026">
-                  <en><![CDATA[This seems to be some kind of secret elevator...]]></en>
-                  <de><![CDATA[Dies scheint eine Art geheimer Aufzug zu sein ...]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <method call="controls" enabled="0" cursor="0" />
-                <dialogue playList="0" />
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <cursor item="" />
-                <layerSprite target="lift_ani" animFrame="down" waitForComplete="0" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                <layerSprite target="lift_ani" animFrame="rising" waitForComplete="1" />
-                <layer target="_current:lift_ani" state="up" />
-                <layer target="_current:sockets" visible="0" />
-                <layer target="_current:birdlift" state="lift" />
-                <layer target="_current:exit_catwalk" visible="1" />
-                <dialogue playList="1" />
-                <dialogue playList="2" />
-                <method call="controls" enabled="1" cursor="1" />
-              </script>
-            </action>
-          </items>
+          <items />
         </state>
       </states>
     </layer>
@@ -1140,8 +1068,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30027">
-                  <en><![CDATA[The little plaque says: &#8222;George Adam Trelawney &#8212; caring husband of Theodora&#8220; ...]]></en>
-                  <de><![CDATA[Auf der kleinen Tafel steht: &#8222;George Adam Trelawney&#8212; liebender Ehemann von Theodora&#8220; ...]]></de>
+                  <en><![CDATA[The little plaque reads: &#8222;George Adam Trelawney &#8212; caring husband of Theodora&#8220;.]]></en>
+                  <de><![CDATA[Auf der kleinen Tafel steht: &#8222;George Adam Trelawney&#8212; liebender Ehemann von Theodora&#8220;.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1155,8 +1083,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30028">
-                  <en><![CDATA[Why are you looking so worried?]]></en>
-                  <de><![CDATA[Warum schaust du so besorgt aus?]]></de>
+                  <en><![CDATA[Why do you look so worried? We’ll find Theodora.]]></en>
+                  <de><![CDATA[Warum schaust du so besorgt aus? Wir werden Theodora finden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1170,7 +1098,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30029">
-                  <en><![CDATA[I can’t really reach it from here.]]></en>
+                  <en><![CDATA[I can’t reach it from here.]]></en>
                   <de><![CDATA[Von hier aus kann ich es nicht erreichen.]]></de>
                 </dia>
               </dialog>
@@ -1223,8 +1151,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30031">
-                  <en><![CDATA[That time can’t be correct.]]></en>
-                  <de><![CDATA[Diese Zeit kann nicht stimmen.]]></de>
+                  <en><![CDATA[That time can’t be correct ...]]></en>
+                  <de><![CDATA[Diese Zeit kann nicht stimmen ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1248,15 +1176,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30032">
-                  <en><![CDATA[I don’t know the exact time, so I can’t improve upon the time&#8212;related information that this clock communicates.]]></en>
+                  <en><![CDATA[I don’t know the exact time, so I can’t improve upon the time-related information that this clock communicates.]]></en>
                   <de><![CDATA[Ich weiß nicht genau, wie spät ist, also kann ich auch nicht mehr Informationen geben, als es diese Uhr bereits getan hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="speak4" sound="voice/trelawney3_voice.swf:trelawney30033">
-                  <en><![CDATA[That’s how we talk at the university.]]></en>
+                  <en><![CDATA[That’s how we talk at my university.]]></en>
                   <de><![CDATA[So sprechen wir an der Universität.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30034">
-                  <en><![CDATA[At least sometimes ...]]></en>
+                  <en><![CDATA[At least, sometimes ...]]></en>
                   <de><![CDATA[Zumindest manchmal ...]]></de>
                 </dia>
               </dialog>
@@ -1362,7 +1290,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30035">
-                  <en><![CDATA[Nigel must have been pretty angry when he saw what they did to his father’s place.]]></en>
+                  <en><![CDATA[Nigel must have been pretty angry when he saw what they did to his father’s home.]]></en>
                   <de><![CDATA[Nigel muss ziemlich wütend gewesen sein, als er sah, was sie mit dem Heim seines Vaters getan haben.]]></de>
                 </dia>
               </dialog>

@@ -124,11 +124,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30000">
-                  <en><![CDATA[This place here is located right at the base of Northwest Castle.]]></en>
+                  <en><![CDATA[This clearing is located right at the base of Northwest Castle.]]></en>
                   <de><![CDATA[Dieser Ort hier befindet sich genau am Fundament von Schloss Northwest.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30001">
-                  <en><![CDATA[The Castle is so high above me that I can barely make it out from here.]]></en>
+                  <en><![CDATA[The Castle is so high above me that I can barely make it out.]]></en>
                   <de><![CDATA[Das Schloss ist so hoch über mir, dass ich es von hier aus kaum sehen kann.]]></de>
                 </dia>
               </dialog>
@@ -223,8 +223,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30002">
-                  <en><![CDATA[Wow, now that would be fun to go over in a barrel.]]></en>
-                  <de><![CDATA[Wow, das würde Spaß machen, da in einem Fass runter zu stürzen.]]></de>
+                  <en><![CDATA[How serene.]]></en>
+                  <de><![CDATA[Wie heiter.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -665,11 +665,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30003">
-                  <en><![CDATA[It’s a bird.. or a bat.. or a bat...man?]]></en>
+                  <en><![CDATA[It’s a bird ... or a bat ... or a bat-man?]]></en>
                   <de><![CDATA[Es ist ein Vogel ... oder eine Fledermaus ... oder ein Fledermaus-Mann?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30004">
-                  <en><![CDATA[What ever it was intended to be passed out of knowledge long ago with the sculptor.]]></en>
+                  <en><![CDATA[Whatever this sculpture was intended to be passed out of knowledge long ago with its sculptor.]]></en>
                   <de><![CDATA[Was immer es auch hätte werden sollen, das Wissen darüber ist vor langer Zeit mit dem Bildhauer gestorben.]]></de>
                 </dia>
               </dialog>
@@ -702,9 +702,9 @@
         </state>
       </states>
     </layer>
-    <layer id="statue1star" type="puppet" asset="" depth="12" visible="1" state="no">
+    <layer id="statue1star" type="puppet" asset="" depth="12" visible="1" state="main">
       <states>
-        <state id="no" x="985" y="753" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-131" hitY="-121" hitW="55" hitH="57" shape="rect">
+        <state id="main" x="985" y="753" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-131" hitY="-121" hitW="55" hitH="57" shape="rect">
           <param mapX="1005" mapY="742" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
@@ -719,7 +719,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30005">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
+                  <en><![CDATA[There is a star-shaped symbol engraved on this metal plate.]]></en>
                   <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
                 </dia>
               </dialog>
@@ -743,157 +743,12 @@
                 <de><![CDATA[Drücken]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30006">
-                  <en><![CDATA[Nothing happens.]]></en>
-                  <de><![CDATA[Nichts passiert.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30007">
-                  <en><![CDATA[That looks good so far ...]]></en>
-                  <de><![CDATA[Das sieht soweit gut aus ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30008">
-                  <en><![CDATA[Uh oh. I think that was the wrong one. I think I have to start again.]]></en>
-                  <de><![CDATA[Oje. Ich glaube, das war falsch. Ich glaube, ich muss von vorn anfangen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
+                  <en><![CDATA[It’s already recessed.]]></en>
+                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
                 </dia>
               </dialog>
               <script>
-                <logic>
-                  <if eval="[need_thirdstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <layerSprite target="secretbuttons" animFrame="three_on" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="3" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <dialogue playList="1" />
-                    <cache field="need_thirdstar" value="0" />
-                    <cache field="need_fourthstar" value="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </if>
-                  <elseif eval="[need_secondstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <cache field="need_second" value="0" />
-                    <cache field="need_firststar" value="1" />
-                    <layerSprite target="secretbuttons" animFrame="one_off" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="all" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="4" />
-                    <dialogue playList="2" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </elseif>
-                  <else>
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                    <dialogue playList="0" />
-                  </else>
-                </logic>
-              </script>
-            </action>
-          </actions>
-          <items />
-        </state>
-        <state id="yes" x="986" y="750" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-131" hitY="-121" hitW="55" hitH="57" shape="rect">
-          <param mapX="1005" mapY="742" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
-          <vars />
-          <title>
-            <en><![CDATA[round metal plate]]></en>
-            <de><![CDATA[runde Metallplatte]]></de>
-          </title>
-          <actions>
-            <action id="act0">
-              <title>
-                <en><![CDATA[Look at]]></en>
-                <de><![CDATA[Untersuche]]></de>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30009">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
-                  <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <dialogue play="*" />
-              </script>
-            </action>
-            <action id="act1">
-              <title>
-                <en><![CDATA[Talk to]]></en>
-                <de><![CDATA[Sprich mit]]></de>
-              </title>
-              <dialog />
-              <script>
-                <dialogue play="*" />
-              </script>
-            </action>
-            <action id="act2">
-              <title>
-                <en><![CDATA[Press]]></en>
-                <de><![CDATA[Drücken]]></de>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30010">
-                  <en><![CDATA[Nothing happens.]]></en>
-                  <de><![CDATA[Nichts passiert.]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                <dialogue play="*" />
-              </script>
-            </action>
-          </actions>
-          <items />
-        </state>
-        <state id="done" x="986" y="750" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-131" hitY="-121" hitW="55" hitH="57" shape="rect">
-          <param mapX="1005" mapY="742" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
-          <vars />
-          <title>
-            <en><![CDATA[round metal plate]]></en>
-            <de><![CDATA[runde Metallplatte]]></de>
-          </title>
-          <actions>
-            <action id="act0">
-              <title>
-                <en><![CDATA[Look at]]></en>
-                <de><![CDATA[Untersuche]]></de>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30011">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
-                  <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <dialogue play="*" />
-              </script>
-            </action>
-            <action id="act1">
-              <title>
-                <en><![CDATA[Talk to]]></en>
-                <de><![CDATA[Sprich mit]]></de>
-              </title>
-              <dialog />
-              <script>
-                <dialogue play="*" />
-              </script>
-            </action>
-            <action id="act2">
-              <title>
-                <en><![CDATA[Press]]></en>
-                <de><![CDATA[Drücken]]></de>
-              </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30012">
-                  <en><![CDATA[Nothing happens.]]></en>
-                  <de><![CDATA[Nichts passiert.]]></de>
-                </dia>
-              </dialog>
-              <script>
-                <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
                 <dialogue play="*" />
               </script>
             </action>
@@ -919,7 +774,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30013">
-                  <en><![CDATA[This reminds me of the three weeks I spent doing a grape&#8212;stomping course at a monastery in France.]]></en>
+                  <en><![CDATA[This reminds me of the three weeks I spent at a monastery in France doing a grape-stomping course.]]></en>
                   <de><![CDATA[Das erinnert mich an die drei Wochen, in denen ich in einem Kloster in Frankreich einen Kurs im Trauben-Trampeln gemacht habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30014">
@@ -956,9 +811,9 @@
         </state>
       </states>
     </layer>
-    <layer id="statue2star" type="puppet" asset="" depth="14" visible="1" state="star">
+    <layer id="statue2star" type="puppet" asset="" depth="14" visible="1" state="main">
       <states>
-        <state id="star" x="1075" y="753" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="28" hitY="-176" hitW="36" hitH="37" shape="rect">
+        <state id="main" x="1075" y="753" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="1" blend="normal" alpha="1" bitmap="0" hit="1" hitX="28" hitY="-176" hitW="36" hitH="37" shape="rect">
           <param mapX="1063" mapY="742" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
@@ -972,8 +827,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30021">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30005">
+                  <en><![CDATA[There is a star-shaped symbol engraved on this metal plate.]]></en>
                   <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
                 </dia>
               </dialog>
@@ -998,12 +853,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
-                  <en><![CDATA[Nothing happens.]]></en>
-                  <de><![CDATA[Nichts passiert.]]></de>
+                  <en><![CDATA[It’s already recessed.]]></en>
+                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
                 </dia>
               </dialog>
               <script>
-                <dialogue playList="0" />
+                <dialogue play="*" />
               </script>
             </action>
           </actions>
@@ -1028,8 +883,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30024">
-                  <en><![CDATA[I wonder where its head is.]]></en>
-                  <de><![CDATA[Ich frage mich, wo sein Kopf ist.]]></de>
+                  <en><![CDATA[I wonder where his head is?]]></en>
+                  <de><![CDATA[Ich frage mich, wo sein Kopf ist?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1077,8 +932,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30025">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30005">
+                  <en><![CDATA[There is a star-shaped symbol engraved on this metal plate.]]></en>
                   <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
                 </dia>
               </dialog>
@@ -1102,94 +957,13 @@
                 <de><![CDATA[Drücken]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30026">
-                  <en><![CDATA[No reaction.]]></en>
-                  <de><![CDATA[Keine Reaktion.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30027">
-                  <en><![CDATA[That was the last one!]]></en>
-                  <de><![CDATA[Das war die letzte!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30028">
-                  <en><![CDATA[&#8222;... and the guard of stone will no more do his duty.&#8220; Thank you, Timothy Caro.]]></en>
-                  <de><![CDATA[&#8222;... und der Wächter aus Stein wird seine Pflicht nicht mehr tun.&#8220; Danke, Timothy Caro.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30029">
-                  <en><![CDATA[I found the secret access to the castle! I need to be careful not run into Lowell Cain and his men.]]></en>
-                  <de><![CDATA[Ich habe den Geheimgang zum Schloss gefunden! Ich muss aufpassen, nicht Lowell Cain und seinen Männern über den Weg zu laufen.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30030">
-                  <en><![CDATA[I hope I can find the Baron ... or Dr. Coppelius.]]></en>
-                  <de><![CDATA[Ich hoffe, ich kann den Baron finden ... oder Dr. Coppelius.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30031">
-                  <en><![CDATA[I think that was the wrong one ... the star plates rotated back into position.]]></en>
-                  <de><![CDATA[Ich glaube, das war die falsche ... die Stern&#8212;Platten wurden wieder in ihre alte Position gedreht.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
+                  <en><![CDATA[It’s already recessed.]]></en>
+                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
                 </dia>
               </dialog>
               <script>
-                <logic>
-                  <if eval="[need_fifthstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <layerSprite target="secretbuttons" animFrame="five_on" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="5" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <dialogue playList="1" />
-                    <cache field="need_fifthstar" value="0" />
-                    <layerState target="_current:_avatar:main" turnView="1" />
-                    <layerSprite target="secretdoor" animFrame="opening" waitForComplete="1" />
-                    <layer target="_current:secretdoor" state="open" />
-                    <dialogue playList="2" />
-                    <wait seconds="1" />
-                    <layerState target="_current:_avatar:main" turnView="5" />
-                    <dialogue playList="3,4" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </if>
-                  <elseif eval="[need_secondstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <cache field="need_secondstar" value="0" />
-                    <cache field="need_firststar" value="1" />
-                    <layerSprite target="secretbuttons" animFrame="one_off" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="all" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="5" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </elseif>
-                  <elseif eval="[need_thirdstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <cache field="need_thirdstar" value="0" />
-                    <cache field="need_firststar" value="1" />
-                    <layerSprite target="secretbuttons" animFrame="two_off" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="all" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="5" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </elseif>
-                  <elseif eval="[need_fourthstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <cache field="need_fourthstar" value="0" />
-                    <cache field="need_firststar" value="1" />
-                    <layerSprite target="secretbuttons" animFrame="three_off" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="all" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="5" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </elseif>
-                  <else>
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                    <dialogue playList="0" />
-                  </else>
-                </logic>
+                <dialogue play="*" />
               </script>
             </action>
           </actions>
@@ -1214,8 +988,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30032">
-                  <en><![CDATA[I call it &#8222;headless woman with dove&#8220;.]]></en>
-                  <de><![CDATA[Ich nenne es &#8222;kopflose Frau mit Taube&#8220;.]]></de>
+                  <en><![CDATA[I call it, &#8222;Headless Woman with Dove&#8220;.]]></en>
+                  <de><![CDATA[Ich nenne es, &#8222;Kopflose Frau mit Taube&#8220;.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1263,8 +1037,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30033">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30005">
+                  <en><![CDATA[There is a star-shaped symbol engraved on this metal plate.]]></en>
                   <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
                 </dia>
               </dialog>
@@ -1288,36 +1062,13 @@
                 <de><![CDATA[Drücken]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30034">
-                  <en><![CDATA[Nothing.]]></en>
-                  <de><![CDATA[Nichts.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30035">
-                  <en><![CDATA[I think that was the right one to press.]]></en>
-                  <de><![CDATA[Ich glaube, es war richtig, die zu drücken.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
+                  <en><![CDATA[It’s already recessed.]]></en>
+                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
                 </dia>
               </dialog>
               <script>
-                <logic>
-                  <if eval="[need_secondstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <layerSprite target="secretbuttons" animFrame="two_on" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="2" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <dialogue playList="1" />
-                    <cache field="need_secondstar" value="0" />
-                    <cache field="need_thirdstar" value="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </if>
-                  <else>
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="reach_out" waitForComplete="1" />
-                    <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                    <dialogue playList="0" />
-                  </else>
-                </logic>
+                <dialogue play="*" />
               </script>
             </action>
           </actions>
@@ -1391,8 +1142,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30037">
-                  <en><![CDATA[There is a star&#8212;shaped symbol engraved in this metal plate.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30005">
+                  <en><![CDATA[There is a star-shaped symbol engraved on this metal plate.]]></en>
                   <de><![CDATA[In diese Metallplatte ist ein sternförmiges Symbol eingraviert.]]></de>
                 </dia>
               </dialog>
@@ -1416,64 +1167,13 @@
                 <de><![CDATA[Drücken]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30038">
-                  <en><![CDATA[Nothing happens.]]></en>
-                  <de><![CDATA[Nichts passiert.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30039">
-                  <en><![CDATA[Ok, that was the right one!]]></en>
-                  <de><![CDATA[Okay, das war die richtige!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30040">
-                  <en><![CDATA[Oh no ... I think the mechanism just reset itself again.]]></en>
-                  <de><![CDATA[Oh nein ... Ich glaube, der Mechanismus wurde wieder zurückgesetzt.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
+                  <en><![CDATA[It’s already recessed.]]></en>
+                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
                 </dia>
               </dialog>
               <script>
-                <logic>
-                  <if eval="[need_fourthstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
-                    <layerSprite target="secretbuttons" animFrame="four_on" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="4" />
-                    <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
-                    <dialogue playList="1" />
-                    <cache field="need_fourthstar" value="0" />
-                    <cache field="need_fifthstar" value="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </if>
-                  <elseif eval="[need_secondstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
-                    <cache field="need_secondstar" value="0" />
-                    <cache field="need_firststar" value="1" />
-                    <layerSprite target="secretbuttons" animFrame="one_off" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="all" />
-                    <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="6" />
-                    <dialogue playList="2" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </elseif>
-                  <elseif eval="[need_thirdstar] EQ 1">
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
-                    <cache field="need_thirdstar" value="0" />
-                    <cache field="need_firststar" value="1" />
-                    <layerSprite target="secretbuttons" animFrame="two_off" waitForComplete="1" />
-                    <layer target="_current:secretbuttons" state="all" />
-                    <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
-                    <layerState target="_current:_avatar:main" turnView="4" />
-                    <dialogue playList="2" />
-                    <method call="controls" enabled="1" cursor="1" />
-                  </elseif>
-                  <else>
-                    <method call="controls" enabled="0" cursor="1" />
-                    <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
-                    <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
-                    <method call="controls" enabled="1" cursor="1" />
-                    <dialogue playList="0" />
-                  </else>
-                </logic>
+                <dialogue play="*" />
               </script>
             </action>
           </actions>
@@ -1587,6 +1287,10 @@
                   <en><![CDATA[How horrifying, it looks like my third grade math teacher!]]></en>
                   <de><![CDATA[Wie schrecklich, es sieht aus wie mein Mathelehrer in der dritten Klasse!]]></de>
                 </dia>
+                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30041">
+                  <en><![CDATA[No wonder I've always been intimidated by math ...]]></en>
+                  <de><![CDATA[Kein Wunder, ich habe immer von Mathematik eingeschüchtert worden.]]></de>
+                </dia>
               </dialog>
               <script>
                 <dialogue play="*" />
@@ -1601,10 +1305,6 @@
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30042">
                   <en><![CDATA[How’s it hanging up there?]]></en>
                   <de><![CDATA[Wie hängt es sich denn da oben?]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30043">
-                  <en><![CDATA[... it’s okay, you don’t have to answer me. I know you’re a little tied up right now.]]></en>
-                  <de><![CDATA[... es ist in Ordnung, Sie müssen mir nicht antworten. Ich weiß, Sie sind momentan etwas beschäftigt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1693,7 +1393,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30045">
-                  <en><![CDATA[It looks like the crashed remains of some experimental dirigible...]]></en>
+                  <en><![CDATA[It looks like the crashed remains of some experimental flying machine...]]></en>
                   <de><![CDATA[Sieht aus wie die Überreste eines abgestürzten experimentellen Luftschiffs ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30046">
@@ -1722,8 +1422,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30047">
-                  <en><![CDATA[Who am I? Tarzan?]]></en>
-                  <de><![CDATA[Wer bin ich? Tarzan?]]></de>
+                  <en><![CDATA[No. This waistcoat is a bit restrictive for climing trees.]]></en>
+                  <de><![CDATA[Nein. Schränkt diese Weste climing Bäumen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1777,8 +1477,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30049">
-                  <en><![CDATA[I’d better not; I’m not much of a rock climber.]]></en>
-                  <de><![CDATA[Lieber nicht, ich bin kein guter Kletterer.]]></de>
+                  <en><![CDATA[I’d better not. I’m no rock climber.]]></en>
+                  <de><![CDATA[Lieber nicht. ich bin kein guter Kletterer.]]></de>
                 </dia>
               </dialog>
               <script>

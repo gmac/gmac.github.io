@@ -82,12 +82,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30000">
-                  <en><![CDATA[What a view!]]></en>
-                  <de><![CDATA[Was für eine Aussicht!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30001">
-                  <en><![CDATA[You can see the whole village and the bay from up here.]]></en>
-                  <de><![CDATA[Man kann von hier oben aus das ganze Dorf und die Bucht sehen.]]></de>
+                  <en><![CDATA[What a view! You can see the whole village and the bay from up here.]]></en>
+                  <de><![CDATA[Was für eine Aussicht! Man kann von hier oben aus das ganze Dorf und die Bucht sehen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -111,8 +107,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30002">
-                  <en><![CDATA[That’s what Cain and his men tried to do and look what happened to them!]]></en>
-                  <de><![CDATA[Das wollten Cain und seine Männer machen und schau nur, was mit ihnen passiert ist!]]></de>
+                  <en><![CDATA[No. That’s what Cain and his men tried to do.]]></en>
+                  <de><![CDATA[Nein. Das wollten Cain und seine Männer machen und schau nur.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -183,7 +179,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30003">
-                  <en><![CDATA[It looks like the baron has locked himself away in his tower.]]></en>
+                  <en><![CDATA[It looks like the Baron has locked himself away in his tower.]]></en>
                   <de><![CDATA[Es sieht aus, als habe sich der Baron in seinem Turm eingesperrt.]]></de>
                 </dia>
               </dialog>
@@ -283,8 +279,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30005">
-                  <en><![CDATA[Looks like someone didn’t expect that his misdoings wouldn’t pay off in the end.]]></en>
-                  <de><![CDATA[Sieht aus, als habe jemand nicht erwartet, dass sich seine Vergehen am Ende nicht auszahlen würden.]]></de>
+                  <en><![CDATA[Looks like someone is surprised that his misdeeds lead to a bad end ...]]></en>
+                  <de><![CDATA[Sieht aus wie jemand ist überrascht, dass seine Missetaten führen zu einem schlechten Ende ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -298,8 +294,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30006">
-                  <en><![CDATA[Hey, what are you guys up to these days?]]></en>
-                  <de><![CDATA[Hey, was macht ihr denn heutzutage so?]]></de>
+                  <en><![CDATA[What are you guys up to these days?]]></en>
+                  <de><![CDATA[Was macht ihr denn heutzutage so?]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30007">
                   <en><![CDATA[Hey! Don’t try to blame me for something I didn’t do!]]></en>
@@ -326,7 +322,7 @@
                   <de><![CDATA[Das halte ich nicht aus! Ich bin zu weich für den Knast.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30013">
-                  <en><![CDATA[I know they are Lowell Cain’s men ... but I can’t help it. I feel sorry for them.]]></en>
+                  <en><![CDATA[I know they’re Lowell Cain’s men ... but I can’t help it. I feel sorry for them.]]></en>
                   <de><![CDATA[Ich weiß, dass es Lowell Cains Männer sind ... aber sie tun mir trotzdem Leid.]]></de>
                 </dia>
               </dialog>
@@ -366,8 +362,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30014">
-                  <en><![CDATA[Oh no ... he looks like he’s mad at me.]]></en>
-                  <de><![CDATA[Oh nein ... Er sieht aus, als sei er wütend auf mich.]]></de>
+                  <en><![CDATA[He looks angry with me.]]></en>
+                  <de><![CDATA[Er sieht aus, als sei er wütend auf mich.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -425,8 +421,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30017">
-                  <en><![CDATA[That’s Miriam B. Caro.]]></en>
-                  <de><![CDATA[Das ist Miriam B. Caro.]]></de>
+                  <en><![CDATA[It looks like Mrs. Caro is helping to take charge of this situation.]]></en>
+                  <de><![CDATA[Es sieht aus wie Frau Caro hilft, Führung in dieser Situation zu nehmen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -513,11 +509,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30024">
-                  <en><![CDATA[Oh boy, Lowell Cain looks even worse than McManus and the others. Seems like he got an extra strong dose of Vincent’s hypnosis rays.]]></en>
-                  <de><![CDATA[Oh Mann, Lowell Cain sieht noch schlimmer als McManus und die anderen aus. Es scheint, als habe er eine extra starke Dosis von Vincents Hypnosestrahlen abbekommen.]]></de>
+                  <en><![CDATA[Oh my, Lowell Cain looks even worse off than McManus and the others. It seems he suffered very strong exposure to Vincent’s hypnosis device.]]></en>
+                  <de><![CDATA[Oh-oh, Lowell Cain sieht noch schlimmer als McManus und die anderen aus. Es scheint, als habe er eine extra starke Dosis von Vincents Hypnosestrahlen abbekommen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30025">
-                  <en><![CDATA[I wonder if he’ll ever be in the condition to take responsibility for what he did here in the last few months.]]></en>
+                  <en><![CDATA[I wonder if he’ll ever recover enough to take responsibility for his actions of the past months.]]></en>
                   <de><![CDATA[Ich frage mich, ob er jemals wieder in dem Zustand sein wird, um die Verantwortung für das zu übernehmen, was er hier in den letzten Monaten angerichtet hat.]]></de>
                 </dia>
               </dialog>
@@ -532,12 +528,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30026">
-                  <en><![CDATA[Can you hear me?]]></en>
-                  <de><![CDATA[Können Sie mich hören?]]></de>
+                  <en><![CDATA[Mr. Cain, can you hear me?]]></en>
+                  <de><![CDATA[Herr Cain, können Sie mich hören?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30027">
-                  <en><![CDATA[I doubt he even knows I’m here. It’s like someone emptied his mind ...]]></en>
-                  <de><![CDATA[Ich bezweifle, dass er überhaupt weiß, dass ich hier bin. Es ist, als habe jemand seinen Geist ausgelöscht ...]]></de>
+                  <en><![CDATA[I doubt he even knows I’m here. It’s like someone has emptied his mind.]]></en>
+                  <de><![CDATA[Ich bezweifle, dass er überhaupt weiß, dass ich hier bin. Es ist, als habe jemand seinen Geist ausgelöscht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -550,9 +546,9 @@
                 <de><![CDATA[Drücke]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30028">
-                  <en><![CDATA[Naw, it looks like he’s in a bad enough state already.]]></en>
-                  <de><![CDATA[Nee, sein Zustand ist schon schlecht genug.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30029">
+                  <en><![CDATA[No, it looks like he’s had enough.]]></en>
+                  <de><![CDATA[Nein, es sieht aus, als hätte er genug.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -581,8 +577,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30030">
-                  <en><![CDATA[No, he’ll be more manageable in this docile state until the proper authorities can take him into custody.]]></en>
-                  <de><![CDATA[Nein, in diesem Zustand ist er leichter zu handhaben, bis die zuständigen Behörden ihn in Gewahrsam nehmen können.]]></de>
+                  <en><![CDATA[Not yet. He’ll be more manageable in this docile state until the proper authorities can take him into custody.]]></en>
+                  <de><![CDATA[Noch nicht. In diesem Zustand ist er leichter zu handhaben, bis die zuständigen Behörden ihn in Gewahrsam nehmen können.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -635,7 +631,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30032">
-                  <en><![CDATA[I swear to use this device only for the powers of good!]]></en>
+                  <en><![CDATA[I swear to only use this device for the powers of good!]]></en>
                   <de><![CDATA[Ich schwöre, dieses Gerät nur für die Kräfte des Guten zu verwenden!]]></de>
                 </dia>
               </dialog>
@@ -686,7 +682,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30034">
-                  <en><![CDATA[You said something about the police coming here?]]></en>
+                  <en><![CDATA[You said something about the police coming?]]></en>
                   <de><![CDATA[Sie sagten, dass die Polizei hierher unterwegs ist?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30035">
@@ -706,7 +702,7 @@
                   <de><![CDATA[Und diese Typen?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/tower3_voice.swf:tower30039">
-                  <en><![CDATA[The guy with the mustache here told me that they’re all hired thugs paid by Lowell Cain.]]></en>
+                  <en><![CDATA[The guy with the mustache there told me they were all hired thugs, paid by Lowell Cain.]]></en>
                   <de><![CDATA[Der Mann mit dem Schnurrbart hier hat mir gerade gesagt, dass sie alle Taschendiebe und Schläger sind, die von Lowell Cain bezahlt wurden.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="hspeak" sound="voice/tower3_voice.swf:tower30040">
@@ -779,8 +775,8 @@
                   <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043">
-                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
-                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                  <en><![CDATA[It almost seems they were meant to intimidate the Barons of Northwest Castle, so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[Es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -828,13 +824,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30044">
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30042">
                   <en><![CDATA[These wooden ravens look pretty scary.]]></en>
                   <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30045">
-                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
-                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043">
+                  <en><![CDATA[It almost seems they were meant to intimidate the Barons of Northwest Castle, so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[Es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -882,13 +878,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30046">
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30042">
                   <en><![CDATA[These wooden ravens look pretty scary.]]></en>
                   <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30047">
-                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
-                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043">
+                  <en><![CDATA[It almost seems they were meant to intimidate the Barons of Northwest Castle, so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[Es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -936,13 +932,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30048">
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30042">
                   <en><![CDATA[These wooden ravens look pretty scary.]]></en>
                   <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30049">
-                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
-                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043">
+                  <en><![CDATA[It almost seems they were meant to intimidate the Barons of Northwest Castle, so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[Es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -990,13 +986,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30050">
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30042">
                   <en><![CDATA[These wooden ravens look pretty scary.]]></en>
                   <de><![CDATA[Diese hölzernen Raben sehen ziemlich beängstigend aus.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30051">
-                  <en><![CDATA[... it almost seems like they were meant to intimidate the Barons of Northwest Castle so they wouldn’t go mad with power.]]></en>
-                  <de><![CDATA[... es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30043">
+                  <en><![CDATA[It almost seems they were meant to intimidate the Barons of Northwest Castle, so they wouldn’t go mad with power.]]></en>
+                  <de><![CDATA[Es scheint fast, als sollten sie die Barone von Schloss Nordwest einschüchtern, damit ihre Macht sie nicht wahnsinnig macht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1045,12 +1041,16 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30052">
-                  <en><![CDATA[&#8222;Mali Principii, Malus Finis.&#8220;]]></en>
-                  <de><![CDATA[&#8222;Mali Principii, Malus Finis.&#8220;]]></de>
+                  <en><![CDATA[“Mali Principii, Malus Finis.”]]></en>
+                  <de><![CDATA[“Mali Principii, Malus Finis.”]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30053">
-                  <en><![CDATA[What does that mean? If only I had managed to stay awake through at least one of my latin classes at university.]]></en>
-                  <de><![CDATA[Was bedeutet das? Hätte ich es nur geschafft, wenigstens in einem meiner Latein&#8212;Kurse an der Uni wach zu bleiben.]]></de>
+                  <en><![CDATA[Hey, I actually remember that one from Latin class ... “Bad beginnings lead to bad endings.”]]></en>
+                  <de><![CDATA[Hey, habe ich eigentlich daran erinnern, dass einer aus dem Latein-Kurse ... “Bad Anfänge führen zu schlechten Enden.”]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30053">
+                  <en><![CDATA[How fitting.]]></en>
+                  <de><![CDATA[Wie passend.]]></de>
                 </dia>
               </dialog>
               <script>

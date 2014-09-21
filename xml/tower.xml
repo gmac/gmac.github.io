@@ -727,8 +727,8 @@
                   <de><![CDATA[Nora??]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/tower_voice.swf:tower0014">
-                  <en><![CDATA[Uh oh ... if you’re here, then that must mean ...]]></en>
-                  <de><![CDATA[Oh&#8212;oh ... Wenn du hier bist, dann bedeutet das ...]]></de>
+                  <en><![CDATA[Oh no ... if you’re here, then that must mean ...]]></en>
+                  <de><![CDATA[Oh-oh ... Wenn du hier bist, dann bedeutet das ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0015">
                   <en><![CDATA[Yes, he’s here ... I’m sorry that we dragged you into this again, Nathan.]]></en>
@@ -815,8 +815,8 @@
                   <de><![CDATA[... und das Herz, das wir ihm eingepflanzt haben, vervierfacht seine Kraft!]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/tower_voice.swf:tower0036">
-                  <en><![CDATA[The heart? Uh oh ...]]></en>
-                  <de><![CDATA[Das Herz? Oh&#8212;oh ...]]></de>
+                  <en><![CDATA[The heart? Oh no ...]]></en>
+                  <de><![CDATA[Das Herz? Oh-oh ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/tower_voice.swf:tower0037">
                   <en><![CDATA[Yes, Vincent forced my grandfather and Professor Smith to reproduce my mechanical heart, and then to implant it in his chest.]]></en>
