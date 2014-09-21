@@ -819,7 +819,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30026">
-                  <en><![CDATA[He tries to act tough, but I have seen him during his night shift at the castle gate. That guy is a coward.]]></en>
+                  <en><![CDATA[He tries to act tough, but I’ve seen him during his night shift at the castle gate. That guy is a coward.]]></en>
                   <de><![CDATA[Er versucht, cool aussehen, aber ich habe ihn während seiner Nachtschicht beim Schlosstor gesehen. Der Kerl ist ein Feigling.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30027">
@@ -944,8 +944,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30030">
-                  <en><![CDATA[Oh my, the dark water is mysterious.]]></en>
-                  <de><![CDATA[Wow, das dunkle Wasser ist geheimnisvoll.]]></de>
+                  <en><![CDATA[The dark water is mysterious.]]></en>
+                  <de><![CDATA[Das dunkle Wasser ist geheimnisvoll.]]></de>
                 </dia>
               </dialog>
               <script>

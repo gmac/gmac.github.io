@@ -190,8 +190,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30000">
-                  <en><![CDATA[That’s either a toaster with a cannon function or a slide projector.]]></en>
-                  <de><![CDATA[Das ist entweder ein Toaster mit einer Kanonenfunktion oder ein Diaprojektor.]]></de>
+                  <en><![CDATA[That’s either a toaster with a cannon nozzle ... or a slide projector.]]></en>
+                  <de><![CDATA[Das ist entweder ein Toaster mit einer Kanonenfunktion ... oder ein Diaprojektor.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -214,9 +214,9 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30001">
-                  <en><![CDATA[I don’t have any slides on me ... and even if I had some: there’s absolutely no time for slide shows now!]]></en>
-                  <de><![CDATA[Ich habe keine Dias bei mir ... und selbst wenn ich welche hätte: Jetzt habe ich überhaupt keine Zeit für eine Dia-Show!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30005">
+                  <en><![CDATA[I really don’t have time for that. Nigel and Professor Smith are in danger!]]></en>
+                  <de><![CDATA[Dafür habe ich wirklich keine Zeit. Nigel und Prof. Smith sind in Gefahr!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -359,9 +359,9 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30003">
-                  <en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en>
-                  <de><![CDATA[Ich habe keine Zeit, um da oben herumzuklettern. Nigel und Prof. Smith sind in Gefahr!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30005">
+                  <en><![CDATA[I really don’t have time for that. Nigel and Professor Smith are in danger!]]></en>
+                  <de><![CDATA[Dafür habe ich wirklich keine Zeit. Nigel und Prof. Smith sind in Gefahr!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -415,8 +415,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30005">
-                  <en><![CDATA[I really don’t have time for this.]]></en>
-                  <de><![CDATA[Dafür habe ich wirklich keine Zeit!]]></de>
+                  <en><![CDATA[I really don’t have time for that. Nigel and Professor Smith are in danger!]]></en>
+                  <de><![CDATA[Dafür habe ich wirklich keine Zeit. Nigel und Prof. Smith sind in Gefahr!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -445,12 +445,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30006">
-                  <en><![CDATA[I’m too lazy to read the plaques on these things, so I’ll just make something up ...]]></en>
+                  <en><![CDATA[I’m too lazy to read the plaques on sculpture busts, so I’ll just make something up ...]]></en>
                   <de><![CDATA[Ich bin zu faul, um die Tafeln auf diesen Dingen zu lesen, also werde ich mir einfach etwas ausdenken ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30007">
-                  <en><![CDATA[Therefore this is obviously Burt Broomstick, the local beard&#8212;grooming champion.]]></en>
-                  <de><![CDATA[Deswegen ist das offensichtlich Bert Besenbart, der örtliche Bartwuchs-Champion.]]></de>
+                  <en><![CDATA[Therefore, this is obviously Burt Broomstick. The local beard-grooming champion.]]></en>
+                  <de><![CDATA[Deswegen ist das offensichtlich Bert Besenbart. Der örtliche Bartwuchs-Champion.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -474,8 +474,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30008">
-                  <en><![CDATA[I’m sure Bert wouldn’t like that.]]></en>
-                  <de><![CDATA[Ich bin sicher, Bert würde das nicht gefallen.]]></de>
+                  <en><![CDATA[I’m sure Burt wouldn’t like that.]]></en>
+                  <de><![CDATA[Ich bin sicher, Burt würde das nicht gefallen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -528,9 +528,9 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30010">
-                  <en><![CDATA[I have no time to climb around up there. Nigel and Prof. Smith are in danger!]]></en>
-                  <de><![CDATA[Ich habe keine Zeit, um da drüben herumzuklettern. Nigel und Prof. Smith sind in Gefahr!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30005">
+                  <en><![CDATA[I really don’t have time for that. Nigel and Professor Smith are in danger!]]></en>
+                  <de><![CDATA[Dafür habe ich wirklich keine Zeit. Nigel und Prof. Smith sind in Gefahr!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -608,8 +608,8 @@
                   <de><![CDATA[Es ist ein seltsames Gerät, das durch die kaputte Wand nach draußen ragt.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30012">
-                  <en><![CDATA[There’s a socket in the base, above which is labeled &#8222;LC 1983&#8220;]]></en>
-                  <de><![CDATA[Im Sockel gibt es eine Anschlussfläche die mit &#8222;LC 1983&#8220; beschriftet ist.]]></de>
+                  <en><![CDATA[There’s a socket in the base labeled as, &#8222;LC1983&#8220;]]></en>
+                  <de><![CDATA[Im Sockel gibt es eine Anschlussfläche die mit &#8222;LC1983&#8220; beschriftet ist.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -654,8 +654,8 @@
                   <de><![CDATA[Das Modul passt perfekt auf die Anschlussfläche dieses Geräts.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/smith3_voice.swf:smith30015">
-                  <en><![CDATA[It looks like the machine has been powered up!]]></en>
-                  <de><![CDATA[Es sieht so aus, als hätte sich die Maschine eingeschaltet!]]></de>
+                  <en><![CDATA[It looks like the machine has been powered up.]]></en>
+                  <de><![CDATA[Es sieht so aus, als hätte sich die Maschine eingeschaltet.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -676,7 +676,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30016">
-                  <en><![CDATA[This device will need to be powered up before it even has a chance of responding to controls.]]></en>
+                  <en><![CDATA[This device will need to be powered up before it can respond to controls.]]></en>
                   <de><![CDATA[Dieses Gerät muss eingeschaltet werden, bevor es auf die Steuerung reagieren kann.]]></de>
                 </dia>
               </dialog>
@@ -730,8 +730,8 @@
                   <de><![CDATA[Heiliger Bimbam!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30019">
-                  <en><![CDATA[This device must somehow create or attracting lighting! No wonder this tree smashed through the side of the building!]]></en>
-                  <de><![CDATA[Dieses Gerät scheint irgendwie Blitze zu erzeugen oder anzuziehen! Kein Wunder, dass der Baum durch die Seite des Gebäudes gekracht ist!]]></de>
+                  <en><![CDATA[This device must somehow create&#8212;or attract&#8212;lighting! No wonder this tree smashed through the side of the building.]]></en>
+                  <de><![CDATA[Dieses Gerät scheint irgendwie Blitze zu erzeugen oder anzuziehen! Kein Wunder, dass der Baum durch die Seite des Gebäudes gekracht ist.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -752,8 +752,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30020">
-                  <en><![CDATA[Neat! I can trigger the device with this remote!]]></en>
-                  <de><![CDATA[Wow! Ich kann das Gerät mit dieser Fernbedienung auslösen!]]></de>
+                  <en><![CDATA[Alright! I can trigger the device with this remote.]]></en>
+                  <de><![CDATA[Wow! Ich kann das Gerät mit dieser Fernbedienung auslösen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30021">
                   <en><![CDATA[What a mysterious device ... it seems to attract lighting to itself.]]></en>
@@ -870,8 +870,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30022">
-                  <en><![CDATA[Someone forced this safe open.]]></en>
-                  <de><![CDATA[Jemand hat diesen Tresor aufgebrochen.]]></de>
+                  <en><![CDATA[Someone broke this safe open ...]]></en>
+                  <de><![CDATA[Jemand hat diesen Tresor aufgebrochen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/smith3_voice.swf:smith30023">
                   <en><![CDATA[I bet Lowell Cain is responsible for that too!]]></en>
