@@ -248,7 +248,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0150">
-                  <en><![CDATA[It’s a cold insulated handle bar.]]></en>
+                  <en><![CDATA[It’s a metal handle bar coated with insulation.]]></en>
                   <de><![CDATA[Es ist ein kälteisolierter Griff.]]></de>
                 </dia>
               </dialog>
@@ -273,8 +273,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0000">
-                  <en><![CDATA[Ooops. I think I broke it.]]></en>
-                  <de><![CDATA[Hoppla. Ich habe es abgebrochen.]]></de>
+                  <en><![CDATA[Oops. I think I broke it.]]></en>
+                  <de><![CDATA[Oops. Ich habe es abgebrochen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -480,12 +480,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0007">
-                  <en><![CDATA[It looks like some kind of control panel for channeling power around the station, although it doesn’t appear to be operational. It looks like it needs power.]]></en>
+                  <en><![CDATA[It’s some kind of control panel for routing power around the station, although it doesn’t appear to be operational. It looks like it needs power.]]></en>
                   <de><![CDATA[Es sieht aus wie eine Art Schalttafel, um die Energie um den Bahnhof zu kanalisieren, aber sie scheint nicht in Betrieb zu sein. Anscheinend braucht sie Energie.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0008">
-                  <en><![CDATA[Actually, now that I think about it, it looks like this entire station has been powered down! I wonder if there’s a way to restore the power...]]></en>
-                  <de><![CDATA[Eigentlich, wenn ich so darüber nachdenke, scheint es, als wäre der gesamte Bahnhof außer Betrieb! Ich frage mich, ob man die Stromversorgung wiederherstellen kann ...]]></de>
+                  <en><![CDATA[Actually, it looks like this entire station is powered down. I wonder if there’s a way to restore the power?]]></en>
+                  <de><![CDATA[Eigentlich, scheint es, als wäre der gesamte Bahnhof außer Betrieb. Ich frage mich, ob man die Stromversorgung wiederherstellen kann?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -603,8 +603,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0010">
-                  <en><![CDATA[It’s a cold insulated handle bar.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0150">
+                  <en><![CDATA[It’s a metal handle bar coated with insulation.]]></en>
                   <de><![CDATA[Es ist ein kälteisolierter Griff.]]></de>
                 </dia>
               </dialog>
@@ -619,12 +619,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0011">
-                  <en><![CDATA[No way, I’m not falling for that again! Some kids back in school dared me to lick the flag pole and I was stuck there for hours.]]></en>
-                  <de><![CDATA[Ich werde auf keinen Fall noch mal darauf reinfallen! Damals in der Schule haben ein paar Kinder mich herausgefordert, die Fahnenstange abzulecken und ich hing dort für Stunden fest.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0012">
-                  <en><![CDATA[... it was traumatic.]]></en>
-                  <de><![CDATA[... es war traumatisch.]]></de>
+                  <en><![CDATA[No way, I’m not falling for that again! The last time was traumatic.]]></en>
+                  <de><![CDATA[Ich werde auf keinen Fall noch mal darauf reinfallen! Das letzte Mal war traumatisch.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -727,7 +723,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0014">
-                  <en><![CDATA[Amazing technology ... this doesn’t look like any of the trains I’ve been riding on so far.]]></en>
+                  <en><![CDATA[Amazing technology ... this doesn’t look like any train I’ve ridden before.]]></en>
                   <de><![CDATA[Großartige Technologie ... Das sieht wie keiner der Züge aus, mit denen ich bislang gefahren bin.]]></de>
                 </dia>
               </dialog>
@@ -752,11 +748,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0015">
-                  <en><![CDATA[We are not done here yet!]]></en>
+                  <en><![CDATA[We’re not done here yet!]]></en>
                   <de><![CDATA[Wir sind hier noch nicht fertig!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0016">
-                  <en><![CDATA[Also I hope that we’ll be able to use Dr. LeMue LaFayette’s zeppelin on the way back.]]></en>
+                  <en><![CDATA[Also, I hope that we’ll use Dr. LeMue-LaFayette’s zeppelin for the ride home.]]></en>
                   <de><![CDATA[Außerdem hoffe ich doch, dass wir auf dem Rückweg Dr. LeMue Lafayettes Zeppelin benutzen können.]]></de>
                 </dia>
               </dialog>
@@ -785,9 +781,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0019">
+                  <en><![CDATA[It’s the control pedestal for the train platform.]]></en>
+                  <de><![CDATA[Es ist die Steuersäule für den Bahnsteig.]]></de>
+                </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0017">
-                  <en><![CDATA[It’s the control pedestal for the train platform, although it doesn’t appear to be operational. It looks like it needs power.]]></en>
-                  <de><![CDATA[Es ist die Steuersäule für den Bahnsteig, aber sie scheint nicht in Betrieb zu sein. Anscheinend braucht sie Energie.]]></de>
+                  <en><![CDATA[It doesn’t appear to be operational. It looks like it needs power.]]></en>
+                  <de><![CDATA[Sie scheint nicht in Betrieb zu sein. Anscheinend braucht sie Energie.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -811,7 +811,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0018">
-                  <en><![CDATA[I’d better not touch it. I wouldn’t know what to do with it even if it had power and was operational.]]></en>
+                  <en><![CDATA[I’d better not touch it. I wouldn’t know what to do with it even if it was operational.]]></en>
                   <de><![CDATA[Ich fasse das lieber nicht an. Ich weiß ohnehin nicht, wie man sie bedient, auch wenn sie Strom hätte und in Betrieb wäre.]]></de>
                 </dia>
               </dialog>
@@ -862,7 +862,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0020">
-                  <en><![CDATA[I’d better not. I wouldn’t want to be responsible for a run&#8212;away train.]]></en>
+                  <en><![CDATA[I’d better not. I wouldn’t want to be responsible for a runaway train.]]></en>
                   <de><![CDATA[Ich lasse es lieber. Ich möchte dafür verantwortlich sein, wenn der Zug ohne uns wegfährt.]]></de>
                 </dia>
               </dialog>
@@ -962,8 +962,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0022">
-                  <en><![CDATA[Hmm. I think I’ve found the reason that none of the utilities around this station have power.]]></en>
-                  <de><![CDATA[Hmm. Ich glaube, ich weiß, warum keine der Anlagen in dieser Bahnstation Strom hat.]]></de>
+                  <en><![CDATA[Hm. I think I’ve found the reason why none of the utilities around this station have power ...]]></en>
+                  <de><![CDATA[Hm. Ich glaube, ich weiß, warum keine der Anlagen in dieser Bahnstation Strom hat ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1050,12 +1050,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0027">
-                  <en><![CDATA[While there’s power coming into the facility, this broken junction is preventing power from reaching any of the station’s utilities.]]></en>
+                  <en><![CDATA[While there is power coming into the facility, this broken junction is preventing power from reaching any of the station utilities.]]></en>
                   <de><![CDATA[Dieses Stromkabel versorgt den ganzen Bahnstationsbereich mit Energie.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0028">
-                  <en><![CDATA[While there’s power coming into the facility, this broken junction is preventing power from reaching any of the station’s utilities.]]></en>
-                  <de><![CDATA[Zwar gelangt Strom in die Bahnstation, aber das defekte Übertragungskabel hier verhindert, dass Strom die einzelnen Anlagen der Station erreicht.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0029">
                   <en><![CDATA[This sabotage must be the work of Vincent! He must have overcharged the junction to keep anyone from interfering with his rift experiment.]]></en>
@@ -1073,7 +1069,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0030">
-                  <en><![CDATA[I’m having a hard time thinking of a worse idea.]]></en>
+                  <en><![CDATA[It’s difficult to think of a worse idea.]]></en>
                   <de><![CDATA[Das ist echt eine üble Idee.]]></de>
                 </dia>
               </dialog>
@@ -1088,7 +1084,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0031">
-                  <en><![CDATA[With what? I’ll need some kind of jumper to connect the two sockets.]]></en>
+                  <en><![CDATA[With what? I’ll need some kind of jumper to connect the two ports.]]></en>
                   <de><![CDATA[Womit? Ich brauche irgendeine Überbrückung um die beiden Leitungsenden zu verbinden.]]></de>
                 </dia>
               </dialog>
@@ -1105,12 +1101,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0032">
-                  <en><![CDATA[Okay, let’s hope this works.]]></en>
-                  <de><![CDATA[Okay! Das sieht doch gut aus!]]></de>
+                  <en><![CDATA[Okay, let’s hope this works ...]]></en>
+                  <de><![CDATA[Okay, Das sieht doch gut aus ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0033">
-                  <en><![CDATA[That seems to have powered up this train station.]]></en>
-                  <de><![CDATA[Das scheint die Bahnstation jetzt mit Energie versorgt zu haben.]]></de>
+                  <en><![CDATA[That seems to have powered up the train station!]]></en>
+                  <de><![CDATA[Das scheint die Bahnstation jetzt mit Energie versorgt zu haben!]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="lspeak" sound="voice/mtstation_voice.swf:mtstation0034">
                   <en><![CDATA[Who’s there??]]></en>
@@ -1209,8 +1205,8 @@
                   <de><![CDATA[... und dann zog ich mich auf diesen kalten Berggipfel zurück, um den Apparatus zu bewachen ... nur für den Fall.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/mtstation_voice.swf:mtstation0058">
-                  <en><![CDATA[What about the photograph with that note you sent to Nigel? &#8222;A Stitch in Time Saves Nine?&#8220;]]></en>
-                  <de><![CDATA[Was ist mit dem Foto und der Nachricht? &#8222;A Stitch in Time Saves Nine ... Ein geflickter Riss zur rechten Zeit spart neunfach Müh und Leid?&#8220;]]></de>
+                  <en><![CDATA[What about that photograph with the note you sent to Nigel? &#8222;A Stitch in Time Saves Nine&#8220;?]]></en>
+                  <de><![CDATA[Was ist mit dem Foto und der Nachricht? &#8222;A Stitch in Time Saves Nine ... Ein geflickter Riss zur rechten Zeit spart neunfach Müh und Leid&#8220;?]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="" sound="voice/mtstation_voice.swf:mtstation0059">
                   <en><![CDATA[Indeed. I changed the train’s call code to spell &#8222;Nigel Come&#8220;, and then encrypted those letters in my note. I hoped he’d understand and come find me here ...]]></en>
@@ -1312,8 +1308,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0071">
-                  <en><![CDATA[That would probably kill me ... the cable’s insulation is almost completely gone!]]></en>
-                  <de><![CDATA[Das würde mich wahrscheinlich töten ... die Kabelisolierung ist fast vollständig weggefroren!]]></de>
+                  <en><![CDATA[That would probably kill me ... the cable’s insulation is almost completely gone.]]></en>
+                  <de><![CDATA[Das würde mich wahrscheinlich töten ... die Kabelisolierung ist fast vollständig weggefroren.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0072">
                   <en><![CDATA[I wonder if there’s some way to insulate this power connector?]]></en>
@@ -1335,7 +1331,7 @@
                   <de><![CDATA[Diese losen elektronischen Bauteile allein werden nicht viel nützen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0074">
-                  <en><![CDATA[I need to find some way to reassemble them into an insulated power connector.]]></en>
+                  <en><![CDATA[I need to assemble them into an insulated power connector.]]></en>
                   <de><![CDATA[Ich muss sie irgendwie mit etwas anderem zu einem isolierten Verbindungskabel zusammensetzen.]]></de>
                 </dia>
               </dialog>
@@ -1350,7 +1346,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0075">
-                  <en><![CDATA[Good idea, but this handlebar doesn’t have the connectors needed to plug into the power sockets.]]></en>
+                  <en><![CDATA[Good idea, but this handle bar is missing the necessary connectors for the power sockets.]]></en>
                   <de><![CDATA[Gute Idee, aber dieser Griff hat nicht die benötigten Anschlüsse für die Kabelenden.]]></de>
                 </dia>
               </dialog>
@@ -1375,11 +1371,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0076">
-                  <en><![CDATA[It’s the junction of power for this whole train station.]]></en>
+                  <en><![CDATA[It seems to be the main power junction for this whole train station.]]></en>
                   <de><![CDATA[Dieses Stromkabel versorgt den ganzen Bahnstationsbereich.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0077">
-                  <en><![CDATA[I’ve repaired the power connection to bring the station online.]]></en>
+                  <en><![CDATA[I’ve repaired the power connection and brought the station online.]]></en>
                   <de><![CDATA[Ich habe die Stromverbindung wiederhergestellt.]]></de>
                 </dia>
               </dialog>
@@ -1404,11 +1400,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0078">
-                  <en><![CDATA[No way! I’ve risked electrocution just trying to activate this power junction.]]></en>
+                  <en><![CDATA[No. I’ve risked electrocution just trying to activate this power junction.]]></en>
                   <de><![CDATA[Auf keinen Fall! Ich habe bereits einen Stromschlag riskiert, als ich das Kabel repariert habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0079">
-                  <en><![CDATA[I think I’ll stop tampering with it while I’m still ahead... and alive.]]></en>
+                  <en><![CDATA[I think I’ll stop tampering with it while I’m ahead ... and alive.]]></en>
                   <de><![CDATA[Ich sollte mein Glück nicht unnötig herausfordern.]]></de>
                 </dia>
               </dialog>
@@ -1528,8 +1524,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0080">
-                  <en><![CDATA[That’s the elevator that leads to the lab on the top of Mount Misery. I wonder if Vincent and Nigel are up there now.]]></en>
-                  <de><![CDATA[Das ist der Aufzug, der zum Labor auf dem Gipfel von Mount Misery führt. Ich frage mich, ob Vincent und Nigel gerade da oben sind.]]></de>
+                  <en><![CDATA[That’s the elevator leading up to the lab on top of Mount Misery. I wonder if Vincent and Nigel are up there now?]]></en>
+                  <de><![CDATA[Das ist der Aufzug, der zum Labor auf dem Gipfel von Mount Misery führt. Ich frage mich, ob Vincent und Nigel gerade da oben sind?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1553,7 +1549,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0081">
-                  <en><![CDATA[As long as the elevator has no power I can’t use it.]]></en>
+                  <en><![CDATA[As long as the elevator has no power, I can’t use it.]]></en>
                   <de><![CDATA[Solange der Aufzug keinen Strom hat, kann ich ihn nicht benutzen.]]></de>
                 </dia>
               </dialog>
