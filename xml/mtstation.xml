@@ -1145,7 +1145,7 @@
                   <de><![CDATA[Nun, das ist eine lange Geschichte ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0043">
-                  <en><![CDATA[Then speak quickly; we’re running out of time.]]></en>
+                  <en><![CDATA[Then speak quickly. We’re running out of time.]]></en>
                   <de><![CDATA[Dann erzähl schnell. Die Zeit läuft uns davon.]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="" sound="voice/mtstation_voice.swf:mtstation0044">
@@ -1308,8 +1308,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0071">
-                  <en><![CDATA[That would probably kill me ... the cable’s insulation is almost completely gone.]]></en>
-                  <de><![CDATA[Das würde mich wahrscheinlich töten ... die Kabelisolierung ist fast vollständig weggefroren.]]></de>
+                  <en><![CDATA[No. That would probably kill me ... the cable’s insulation is almost completely gone.]]></en>
+                  <de><![CDATA[Nein. Das würde mich wahrscheinlich töten ... die Kabelisolierung ist fast vollständig weggefroren.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0072">
                   <en><![CDATA[I wonder if there’s some way to insulate this power connector?]]></en>
@@ -1346,7 +1346,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0075">
-                  <en><![CDATA[Good idea, but this handle bar is missing the necessary connectors for the power sockets.]]></en>
+                  <en><![CDATA[Good idea, but this handle bar is missing the necessary connectors for those power sockets.]]></en>
                   <de><![CDATA[Gute Idee, aber dieser Griff hat nicht die benötigten Anschlüsse für die Kabelenden.]]></de>
                 </dia>
               </dialog>
@@ -1400,7 +1400,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0078">
-                  <en><![CDATA[No. I’ve risked electrocution just trying to activate this power junction.]]></en>
+                  <en><![CDATA[No. I risked electrocution just trying to activate this power junction.]]></en>
                   <de><![CDATA[Auf keinen Fall! Ich habe bereits einen Stromschlag riskiert, als ich das Kabel repariert habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0079">
@@ -1575,7 +1575,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0082">
-                  <en><![CDATA[The doors opened for a second, but the power is still down. I guess the door mechanism was only activated by a short power feedback when I fixed the grid.]]></en>
+                  <en><![CDATA[The power is still down. I guess the door mechanism was only activated by a short power burst when I fixed the grid.]]></en>
                   <de><![CDATA[Die Türen haben sich für eine Sekunde geöffnet, aber wir haben immer noch keinen Strom. Ich schätze, der Türmechanismus wurde durch eine kurze Netzrückspeisung aktiviert, als ich das Netz repariert habe.]]></de>
                 </dia>
               </dialog>
@@ -1599,8 +1599,8 @@
                 <de><![CDATA[Benutze]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0083">
-                  <en><![CDATA[As long as the elevator has no power I can’t use it.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0081">
+                  <en><![CDATA[As long as the elevator has no power, I can’t use it.]]></en>
                   <de><![CDATA[Solange der Aufzug keinen Strom hat, kann ich ihn nicht benutzen.]]></de>
                 </dia>
               </dialog>
@@ -1675,7 +1675,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0084">
-                  <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his old research lab.]]></en>
+                  <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his house.]]></en>
                   <de><![CDATA[Mir ist, als sei es erst gestern gewesen, dass ich Nora und Dr. Coppelius an diesem Weizenfeld in der Nähe seines alten Forschungslabors kennengelernt habe.]]></de>
                 </dia>
               </dialog>
@@ -1734,7 +1734,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0084">
-                  <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his old research lab.]]></en>
+                  <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his house.]]></en>
                   <de><![CDATA[Mir ist, als sei es erst gestern gewesen, dass ich Nora und Dr. Coppelius an diesem Weizenfeld in der Nähe seines alten Forschungslabors kennengelernt habe.]]></de>
                 </dia>
               </dialog>
@@ -1793,7 +1793,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0084">
-                  <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his old research lab.]]></en>
+                  <en><![CDATA[It feels like only yesterday when I first met Nora and Dr. Coppelius in that wheat field near his house.]]></en>
                   <de><![CDATA[Mir ist, als sei es erst gestern gewesen, dass ich Nora und Dr. Coppelius an diesem Weizenfeld in der Nähe seines alten Forschungslabors kennengelernt habe.]]></de>
                 </dia>
               </dialog>
@@ -1816,7 +1816,7 @@
                   <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0090">
-                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s time rift!]]></en>
+                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s Time Rift!]]></en>
                   <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren!]]></de>
                 </dia>
               </dialog>
@@ -1841,23 +1841,23 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0091">
-                  <en><![CDATA[I did it! I activated all devices down here, now the station should drain enough energy away from the Time Rift Apparatus!]]></en>
-                  <de><![CDATA[Ich hab es geschafft! Ich habe alle Anlagen hier unten aktiviert, jetzt sollte der Bahnstationsbereich genug Energie vom Zeitriss-Apparatus abziehen!]]></de>
+                  <en><![CDATA[I did it! I’ve activated all devices down here, so the station should be drawing significant energy away from the Apparatus.]]></en>
+                  <de><![CDATA[Ich hab es geschafft! Ich habe alle Anlagen hier unten aktiviert, jetzt sollte der Bahnstationsbereich genug Energie vom Apparatus abziehen.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0092">
-                  <en><![CDATA[Very good! That should destabilize the time rift!]]></en>
-                  <de><![CDATA[Sehr gut! Das sollte den Zeitriss destabilisieren!]]></de>
+                  <en><![CDATA[Very good! That should destabilize Vincent’s Time Rift.]]></en>
+                  <de><![CDATA[Sehr gut! Das sollte den Zeitriss destabilisieren.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0093">
-                  <en><![CDATA[I hope we are not too late!]]></en>
-                  <de><![CDATA[Ich hoffe, es ist noch nicht zu spät!]]></de>
+                  <en><![CDATA[I just hope we’re not too late.]]></en>
+                  <de><![CDATA[Ich hoffe, es ist noch nicht zu spät.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0094">
-                  <en><![CDATA[There’s only one way to find out. Let’s head up and face Vincent!]]></en>
-                  <de><![CDATA[Es gibt nur einen Weg, das herauszufinden. Gehen wir nach oben und treten wir Vincent gegenüber!]]></de>
+                  <en><![CDATA[There’s only one way to find out. It’s time to confront Vincent.]]></en>
+                  <de><![CDATA[Es gibt nur einen Weg, das herauszufinden. Gehen wir nach oben und treten wir Vincent gegenüber.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0095">
-                  <en><![CDATA[I will stay down here with Anthony ... we will come after you in a minute.]]></en>
+                  <en><![CDATA[I’ll stay down here with Anthony ... we’ll come after you in a minute.]]></en>
                   <de><![CDATA[Ich bleibe hier unten bei Anthony ... wir kommen in einer Minute nach.]]></de>
                 </dia>
               </dialog>
@@ -1888,8 +1888,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0096">
-                  <en><![CDATA[Dr. LeMue LaFayette looks kind of relaxed but I bet he’s pretty worried about Nigel.]]></en>
-                  <de><![CDATA[Dr. LeMue LaFayette wirkt zwar recht entspannt, aber ich wette, er ist ziemlich besorgt wegen Nigel.]]></de>
+                  <en><![CDATA[Dr. LeMue-LaFayette looks relaxed, but I’ll bet he’s secretly worried about Nigel.]]></en>
+                  <de><![CDATA[Dr. LeMue-LaFayette wirkt zwar recht entspannt, aber ich wette, er ist ziemlich besorgt wegen Nigel.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1946,9 +1946,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0100">
-                  <en><![CDATA[Dr. LeMue LaFayette looks kind of relaxed but I bet he’s pretty worried about Nigel.]]></en>
-                  <de><![CDATA[Dr. LeMue LaFayette wirkt zwar recht entspannt, aber ich wette, er ist ziemlich besorgt wegen Nigel.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0096">
+                  <en><![CDATA[Dr. LeMue-LaFayette looks relaxed, but I’ll bet he’s secretly worried about Nigel.]]></en>
+                  <de><![CDATA[Dr. LeMue-LaFayette wirkt zwar recht entspannt, aber ich wette, er ist ziemlich besorgt wegen Nigel.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2005,9 +2005,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0104">
-                  <en><![CDATA[Dr. LeMue LaFayette looks kind of relaxed but I bet he’s pretty worried about Nigel.]]></en>
-                  <de><![CDATA[Dr. LeMue LaFayette wirkt zwar recht entspannt, aber ich wette, er ist ziemlich besorgt wegen Nigel.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0096">
+                  <en><![CDATA[Dr. LeMue-LaFayette looks relaxed, but I’ll bet he’s secretly worried about Nigel.]]></en>
+                  <de><![CDATA[Dr. LeMue-LaFayette wirkt zwar recht entspannt, aber ich wette, er ist ziemlich besorgt wegen Nigel.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2025,7 +2025,7 @@
                   <de><![CDATA[Sagen Sie mir, was ich jetzt tun muss!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0106">
-                  <en><![CDATA[You should re-route all energy from the lightning collectors into this station, and then draw off enough power to destabilize Vincent’s Rift!]]></en>
+                  <en><![CDATA[You should reroute all energy from the lightning collectors into this station, and then draw off enough power to destabilize Vincent’s Rift!]]></en>
                   <de><![CDATA[Du musst die Energie des Blitzkollektors manuell zur Bahn hier unten umleiten, um den Zeitriss zu destabilisieren!]]></de>
                 </dia>
               </dialog>
@@ -2065,7 +2065,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0107">
-                  <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she traveled through time AND doesn’t seem to be freezing even though she’s only wearing a shirt with short sleeves.]]></en>
+                  <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she’s traveled through time, AND she doesn’t seem to be freezing up here.]]></en>
                   <de><![CDATA[Ich kann es nicht glauben ... Nora hat ein mechanisches Herz, sie ist durch die Zeit gereist und scheint nicht zu frieren, obwohl sie nur ein kurzärmliges Hemd trägt.]]></de>
                 </dia>
               </dialog>
@@ -2080,8 +2080,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0108">
-                  <en><![CDATA[I have no time for chit chat! We need to stop Vincent!]]></en>
-                  <de><![CDATA[Ich habe keine Zeit zum Plaudern! Wir müssen Vincent aufhalten!]]></de>
+                  <en><![CDATA[There’s no time for chit-chat. We need to stop Vincent.]]></en>
+                  <de><![CDATA[Ich habe keine Zeit zum Plaudern! Wir müssen Vincent aufhalten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2115,8 +2115,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0109">
-                  <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she traveled through time AND doesn’t seem to be freezing even though she’s only wearing a shirt with short sleeves.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0107">
+                  <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she’s traveled through time, AND she doesn’t seem to be freezing up here.]]></en>
                   <de><![CDATA[Ich kann es nicht glauben ... Nora hat ein mechanisches Herz, sie ist durch die Zeit gereist und scheint nicht zu frieren, obwohl sie nur ein kurzärmliges Hemd trägt.]]></de>
                 </dia>
               </dialog>
@@ -2131,8 +2131,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0110">
-                  <en><![CDATA[I have no time for chit chat! We need to stop Vincent!]]></en>
-                  <de><![CDATA[Ich habe keine Zeit zum Plaudern! Wir müssen Vincent aufhalten!]]></de>
+                  <en><![CDATA[There’s no time for chit-chat. We need to stop Vincent.]]></en>
+                  <de><![CDATA[Ich habe keine Zeit zum Plaudern! Wir müssen Vincent aufhalten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2166,8 +2166,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0111">
-                  <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she traveled through time AND doesn’t seem to be freezing even though she’s only wearing a shirt with short sleeves.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0107">
+                  <en><![CDATA[I can’t believe it ... Nora has a mechanical heart, she’s traveled through time, AND she doesn’t seem to be freezing up here.]]></en>
                   <de><![CDATA[Ich kann es nicht glauben ... Nora hat ein mechanisches Herz, sie ist durch die Zeit gereist und scheint nicht zu frieren, obwohl sie nur ein kurzärmliges Hemd trägt.]]></de>
                 </dia>
               </dialog>
@@ -2182,8 +2182,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0112">
-                  <en><![CDATA[I have no time for chit chat! We need to stop Vincent!]]></en>
-                  <de><![CDATA[Ich habe keine Zeit zum Plaudern! Wir müssen Vincent aufhalten!]]></de>
+                  <en><![CDATA[There’s no time for chit-chat. We need to stop Vincent.]]></en>
+                  <de><![CDATA[Ich habe keine Zeit zum Plaudern! Wir müssen Vincent aufhalten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2263,8 +2263,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0113">
-                  <en><![CDATA[Dr. Trelawney looks like he has given up hope of doing the right thing, once and for all.]]></en>
-                  <de><![CDATA[Dr. Trelawney scheint die Hoffnung ein für alle Mal aufgegeben zu haben, dass er das Richtige tun kann.]]></de>
+                  <en><![CDATA[Dr. Trelawney looks like he’s given up hope.]]></en>
+                  <de><![CDATA[Dr. Trelawney schaut, wie er die Hoffnung aufgegeben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2368,7 +2368,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0126">
-                  <en><![CDATA[Dr. Trelawney looks like he has given up hope of doing the right thing, once and for all.]]></en>
+                  <en><![CDATA[Dr. Trelawney looks like he’s given up hope.]]></en>
                   <de><![CDATA[Dr. Trelawney scheint die Hoffnung ein für alle aufgegeben zu haben, dass er das Richtige tun kann.]]></de>
                 </dia>
               </dialog>
@@ -2454,11 +2454,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0129">
-                  <en><![CDATA[Apparently this is the food supply for anyone working up here in this facility...]]></en>
+                  <en><![CDATA[Apparently this was the food supply for anyone working up here at this facility...]]></en>
                   <de><![CDATA[Anscheinend sind das Lebensmittel für jene, die hier in dieser Anlage gearbeitet haben ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0130">
-                  <en><![CDATA[Let’s hope they like noodles.]]></en>
+                  <en><![CDATA[Let’s hope they liked noodles.]]></en>
                   <de><![CDATA[Scheint so, als ob sie Nudeln mochten.]]></de>
                 </dia>
               </dialog>
@@ -2514,12 +2514,12 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0132">
-                  <en><![CDATA[Apparently this is the food supply for anyone working up here in this facility...]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0129">
+                  <en><![CDATA[Apparently this was the food supply for anyone working up here at this facility...]]></en>
                   <de><![CDATA[Anscheinend sind das Lebensmittel für jene, die hier in dieser Anlage gearbeitet haben ...]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0133">
-                  <en><![CDATA[Let’s hope they like noodles.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0130">
+                  <en><![CDATA[Let’s hope they liked noodles.]]></en>
                   <de><![CDATA[Scheint so, als ob sie Nudeln mochten.]]></de>
                 </dia>
               </dialog>
@@ -2544,7 +2544,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0134">
-                  <en><![CDATA[I’d better not. I’ve already taken my fair share of the food supply.]]></en>
+                  <en><![CDATA[I’d better not. I’ve already taken enough of the food supply.]]></en>
                   <de><![CDATA[Ich lasse es lieber. Ich habe schon meinen gerechten Anteil an Lebensmitteln bekommen.]]></de>
                 </dia>
               </dialog>
@@ -2574,8 +2574,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0135">
-                  <en><![CDATA[There seems to be some sort of control console in there ...]]></en>
-                  <de><![CDATA[Da vorne scheint eine Art von Steuerkonsole zu sein ...]]></de>
+                  <en><![CDATA[There seems to be some kind of control panel in there.]]></en>
+                  <de><![CDATA[Da vorne scheint eine Art von Steuerkonsole zu sein.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2637,8 +2637,8 @@
                   <de><![CDATA[Alles klar! Ihr könnt rauskommen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0139">
-                  <en><![CDATA[It’s pretty cold up here!]]></en>
-                  <de><![CDATA[Hier oben ist es echt kalt!]]></de>
+                  <en><![CDATA[It’s pretty cold up here.]]></en>
+                  <de><![CDATA[Hier oben ist es echt kalt.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0140">
                   <en><![CDATA[We’re right at the summit of Mount Misery. ]]></en>
@@ -2649,8 +2649,8 @@
                   <de><![CDATA[Dieser Ort ist seltsam ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0142">
-                  <en><![CDATA[I know what you mean. I get the feeling that someone is watching us.]]></en>
-                  <de><![CDATA[Ich weiß, was du meinst. Ich habe das Gefühl, dass uns jemand beobachtet.]]></de>
+                  <en><![CDATA[I know what you mean. I get the feeling that someone is watching us ...]]></en>
+                  <de><![CDATA[Ich weiß, was du meinst. Ich habe das Gefühl, dass uns jemand beobachtet ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0143">
                   <en><![CDATA[It’s just your imagination ... there hasn’t been a soul up here for over six years.]]></en>
@@ -2744,12 +2744,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0148">
-                  <en><![CDATA[Station TRA. Time Rift Apparatus ...]]></en>
-                  <de><![CDATA[ZVA&#8212;Station. Zeitriss&#8212;Apparat ...]]></de>
+                  <en><![CDATA[Station TRA. Time Rift Apparatus.]]></en>
+                  <de><![CDATA[ZVA-Station. Zeitriss-Apparat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0149">
-                  <en><![CDATA[I wonder how many people know about this place.]]></en>
-                  <de><![CDATA[Ich frage mich, wie viele Menschen von diesem Ort wissen.]]></de>
+                  <en><![CDATA[I wonder how many people know about this place?]]></en>
+                  <de><![CDATA[Ich frage mich, wie viele Menschen von diesem Ort wissen?]]></de>
                 </dia>
               </dialog>
               <script>
