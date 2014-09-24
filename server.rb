@@ -35,7 +35,8 @@ put '/recordings/:id' do
   @recording = Recording.find(params[:id])
   @recording.update({
     completed: body['completed'], 
-    actor: body['actor']
+    actor: body['actor'],
+    total: body['total'],
   })
   json @recording
 end

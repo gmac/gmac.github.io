@@ -195,13 +195,13 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30003">
-                  <en><![CDATA[Is anyone in there?]]></en>
-                  <de><![CDATA[Ist jemand hier drin?]]></de>
-                </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30004">
                   <en><![CDATA[Hello?]]></en>
                   <de><![CDATA[Hallo?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30003">
+                  <en><![CDATA[Is anyone in there?]]></en>
+                  <de><![CDATA[Ist jemand hier drin?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak5" sound="voice/docks3_voice.swf:docks30005">
                   <en><![CDATA[I don’t think there’s anyone inside the lighthouse.]]></en>
@@ -820,7 +820,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30025">
-                  <en><![CDATA[Good grief, those castle goons really did put Castle propaganda everywhere...]]></en>
+                  <en><![CDATA[Good grief, those goons really did put Castle propaganda everywhere...]]></en>
                   <de><![CDATA[Gute Güte, die Beamten vom Schloss haben ihre Propaganda wirklich überall angebracht ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks3_voice.swf:docks30026">
