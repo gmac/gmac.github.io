@@ -1180,7 +1180,7 @@
                   <de><![CDATA[Dieser Zug fährt direkt nach Mount Misery&#8212;zur größten und teuersten Testanlage des Smith-Instituts.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30024">
-                  <en><![CDATA[Vincent is heading to Mount Misery in the zeppelin ... to finish an experiment that we abandoned years ago.]]></en>
+                  <en><![CDATA[Vincent is heading to Mount Misery in that zeppelin. He’s going to finish an experiment that we abandoned years ago.]]></en>
                   <de><![CDATA[Vincent ist im Zeppelin auf dem Weg nach Mount Misery ... um ein Experiment zu Ende zu führen, dass wir vor mehr als Jahren aufgegeben haben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30025">
@@ -1196,7 +1196,7 @@
                   <de><![CDATA[William, Weißt du, ob Smith den Ruf-Code für den Zug geändert hat?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30028">
-                  <en><![CDATA[No, I don’t think he would have changed it without telling anyone ... did you try the old pass code?]]></en>
+                  <en><![CDATA[No, I don’t think he would have changed it without telling anyone ... did you try the old passcode?]]></en>
                   <de><![CDATA[Nein, ich glaube nicht, dass er ihn geändert hätte, ohne es uns zu sagen ... hast du unseren alten Code ausprobiert?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30029">
@@ -1208,32 +1208,32 @@
                   <de><![CDATA[Vielleicht hat Vincent ihn geändert, damit wir ihm nicht folgen können.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30031">
-                  <en><![CDATA[I don’t think so. We created a new password after we forced Vincent to leave the Institute ... one of the remaining eight of us must have altered it.]]></en>
+                  <en><![CDATA[I don’t think so. We created a new passcode after we forced Vincent to leave the Institute ... one of the remaining eight of us must have altered it.]]></en>
                   <de><![CDATA[Das glaube ich nicht. Wir haben ein neues Passwort erstellt, nachdem wir Vincent gezwungen hatten, das Institut zu verlassen ... einer der verbleibenden acht von uns muss ihn geändert haben.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30032">
-                  <en><![CDATA[Wait ... the password would be encoded in Morse alphabet ...]]></en>
-                  <de><![CDATA[Warte ... das Passwort muss doch im Morse-Alphabet codiert worden sein...]]></de>
+                  <en><![CDATA[Wait! The passcode would be encoded in Morse alphabet ...]]></en>
+                  <de><![CDATA[Warte! Das Passwort muss doch im Morse-Alphabet codiert worden sein...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30033">
                   <en><![CDATA[What is it, grandpa?]]></en>
                   <de><![CDATA[Was ist denn, Opa?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30034">
-                  <en><![CDATA[I remember running into Nigel Trelawney when we arrived in Ravenhollow ... ]]></en>
+                  <en><![CDATA[I remember running into Nigel Trelawney when we first arrived in Ravenhollow ... ]]></en>
                   <de><![CDATA[Ich erinnere mich an das Treffen mit Nigel Trelawneys, als wir in Ravenhollow angekommen waren ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30035">
-                  <en><![CDATA[He mentioned a note that his father wrote on a photograph ... and that it contained a hidden Morse code!]]></en>
-                  <de><![CDATA[Er erwähnte eine Notiz, die sein Vater auf einem Foto gemacht hatte ... und die einen geheimen Morse-Code enthielt!]]></de>
+                  <en><![CDATA[He mentioned a note that his father wrote on a photograph he was carrying, and that it contained a hidden Morse code!]]></en>
+                  <de><![CDATA[Er erwähnte eine Notiz, die sein Vater auf einem Foto gemacht hatte, und die einen geheimen Morse-Code enthielt!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30036">
                   <en><![CDATA[That must have been it! Trelawney must have changed the code, and then mailed it to his son. But why would he do that?]]></en>
                   <de><![CDATA[Das muss der Schlüssel gewesen sein! Trelawney muss den Code geändert und ihn an seinen Sohn geschickt haben. Aber warum sollte er das tun?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30037">
-                  <en><![CDATA[We have to get that code ... we must find the photograph!]]></en>
-                  <de><![CDATA[Wir müssen diesen Code bekommen ... wir müssen das Foto finden!]]></de>
+                  <en><![CDATA[We have to get that code ... we must find the photograph.]]></en>
+                  <de><![CDATA[Wir müssen diesen Code bekommen ... wir müssen das Foto finden.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30038">
                   <en><![CDATA[But how? Nigel told me it was stolen by some girl that he met. Even he wouldn’t know where it is now ...]]></en>
@@ -1260,8 +1260,8 @@
                   <de><![CDATA[Vielleicht müssen wir wie Vincent denken. Nur dieses eine Mal.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="hspeak" sound="voice/catwalk3_voice.swf:catwalk30044">
-                  <en><![CDATA[We’d have to open our own Rift to get the photograph ...]]></en>
-                  <de><![CDATA[Wir müssen unseren eigenen Riss öffnen, um das Foto zu bekommen ...]]></de>
+                  <en><![CDATA[We’d have to open our own Rift to get the photograph.]]></en>
+                  <de><![CDATA[Wir müssen unseren eigenen Riss öffnen, um das Foto zu bekommen.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30045">
                   <en><![CDATA[Yes, and the power node in the swamp should still be charged ...]]></en>
@@ -1389,12 +1389,12 @@
               </title>
               <dialog>
                 <dia puppet="slappy" frame="speak6" sound="voice/catwalk3_voice.swf:catwalk30050">
-                  <en><![CDATA[William, I’ll enter the password now.]]></en>
+                  <en><![CDATA[William, I’ll enter the passcode now.]]></en>
                   <de><![CDATA[William, ich werde das Passwort jetzt eingeben.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak6" sound="voice/catwalk3_voice.swf:catwalk30051">
-                  <en><![CDATA[Okay, let’s hope all this was worth the effort.]]></en>
-                  <de><![CDATA[Okay, hoffen wir, es war all die Mühe wert.]]></de>
+                  <en><![CDATA[Very good. Let’s hope all this was worth the effort.]]></en>
+                  <de><![CDATA[Sehr gut. Hoffen wir, es war all die Mühe wert.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/catwalk3_voice.swf:catwalk30052">
                   <en><![CDATA[Come on! We have to go to Mount Misery and stop Vincent once and for all!]]></en>

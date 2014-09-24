@@ -764,7 +764,7 @@
                   <de><![CDATA[Entschuldigung ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak_cane" sound="voice/docks_intro_voice.swf:docks_intro0026">
-                  <en><![CDATA[Young man, since you seem to be idle enough to overhear our conversation, maybe you can be so kind as to point us to a policeman or any other local law-defending authority?]]></en>
+                  <en><![CDATA[Young man, since you seem to be idle enough to overhear our conversation, perhaps you can be so kind as to point us to a policeman or any other local authority?]]></en>
                   <de><![CDATA[Junger Mann, da Sie offensichtlich die Zeit haben, unserer Konversation zu lauschen, könnten Sie uns freundlicherweise den Weg weisen zu einem Polizisten oder einem anderweitig verantworlichen Gesetzeshüter?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0027">
@@ -792,7 +792,7 @@
                   <de><![CDATA[Na, so etwas! Ich kenne das Foto, ich besitze selbst eine Kopie davon.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0033">
-                  <en><![CDATA[Indeed. Dr. Trelawney and I were both working at the Smith Institute here in Ravenhollow. If I remember correctly Anthony Trelawney’s wife left him with their son more than ... ]]></en>
+                  <en><![CDATA[Indeed. Dr. Trelawney and I were both working at the Smith Institute here in Ravenhollow. If I remember correctly, Anthony Trelawney’s wife left him with their son more than ... ]]></en>
                   <de><![CDATA[In der Tat. Dr. Trelawney und ich haben beide am Smith-Institut hier in Ravenhollow gearbeitet. Wenn ich mich recht erinnere, verließ Anthony Trelawneys Frau ihn mit ihrem Sohn vor mehr als ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0034">
@@ -804,11 +804,11 @@
                   <de><![CDATA[Coppelius, Dr. William Coppelius.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0036">
-                  <en><![CDATA[There are no coincidences involved I fear.]]></en>
+                  <en><![CDATA[There are no coincidences involved, I fear.]]></en>
                   <de><![CDATA[Und ich fürchte mit Zufall hat das keineswegs zu tun.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0037">
-                  <en><![CDATA[This is Mr. McManus.  The naive-looking young man who just walked off was my assistant Nathan.]]></en>
+                  <en><![CDATA[This is Mr. McManus.  The naive-looking young man who just walked off was my assistant, Nathan.]]></en>
                   <de><![CDATA[Das ist Herr McManus.  Der naiv aussehende junge Mann, der gerade weggegangen ist, war mein Assistent Nathan.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0038">
@@ -1009,7 +1009,7 @@
               <de><![CDATA[Entschuldigung, wer sind Sie nochmal?]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0041">
-              <en><![CDATA[Coppelius, Dr. William Coppelius. I’m traveling with my companions, Nathan and Mr. MacManus.]]></en>
+              <en><![CDATA[Coppelius, Dr. William Coppelius. I’m traveling with my associates, Nathan and Mr. MacManus.]]></en>
               <de><![CDATA[Coppelius, Dr. William Coppelius. Ich bin mit meinen Begleitern Nathan und McManus unterwegs.]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0042">
@@ -1036,7 +1036,7 @@
               <de><![CDATA[Arbeiten Sie immer noch am Smith-Institut hier in Ravenhollow?]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0045">
-              <en><![CDATA[No. After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en>
+              <en><![CDATA[No. After an incident at the Smith Institute five years ago, my colleagues and I decided to cease our researches and close the Institute.]]></en>
               <de><![CDATA[Nein. Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de>
             </dia>
           </dialog>
@@ -1055,7 +1055,7 @@
               <de><![CDATA[Hätten Sie nicht inzwischen vom Tod meines Vaters gehört haben müssen?]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0047">
-              <en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of the other colleagues in this photograph until recently. ]]></en>
+              <en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of my old colleagues in this photograph until recently.]]></en>
               <de><![CDATA[Ich war in den letzten Jahren nicht in Ravenhollow. Und von den anderen Kollegen auf dem Foto habe ich auch bis vor Kurzem nichts mehr gehört.]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0048">
@@ -1079,7 +1079,7 @@
               <de><![CDATA[Schöne Binsenweisheit, was?]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0053">
-              <en><![CDATA[Young man. Don’t underestimate your father. He may not have been a family man, but he was a most remarkable thinker.]]></en>
+              <en><![CDATA[Young man, don’t underestimate your father. He may not have been a family man, but he was a most remarkable thinker.]]></en>
               <de><![CDATA[Junger Mann. Unterschätzen Sie Ihren Vater nicht. Er war vielleicht kein mustergültiger Vater, aber ein äußerst bemerkenswerter Denker.]]></de>
             </dia>
             <dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0054">
@@ -1087,8 +1087,8 @@
               <de><![CDATA[Es soll nicht selten vorkommen, dass auch die Klügsten im Alter weich in der Birne werden.]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0055">
-              <en><![CDATA[Anthony Trelawney was 8 years my junior. And I surely haven’t started to lose my mind have I?]]></en>
-              <de><![CDATA[Anthony Trelawney war 8 Jahre jünger als ich. Und ich bin sicherlich weit davon entfernt, den Verstand zu verlieren, oder?]]></de>
+              <en><![CDATA[Anthony Trelawney was 8 years my junior, and I surely haven’t begun losing my mind, have I?]]></en>
+              <de><![CDATA[Anthony Trelawney war 8 Jahre jünger als ich, und ich bin sicherlich weit davon entfernt, den Verstand zu verlieren, oder?]]></de>
             </dia>
             <dia puppet="mcmanus" frame="" sound="voice/docks_intro_voice.swf:docks_intro0056">
               <en><![CDATA[Nay.]]></en>
@@ -1113,13 +1113,13 @@
               <en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en>
               <de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de>
             </dia>
-            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0059">
-              <en><![CDATA[I have neither been in Ravenhollow in the last years, nor have I heard from any of my colleagues in that photograph until recently.]]></en>
-              <de><![CDATA[Ich war in den letzten Jahren weder in Ravenhollow, noch habe ich von den anderen Kollegen auf dem Foto etwas gehört. Bis vor Kurzem.]]></de>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0047">
+              <en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of my old colleagues in this photograph until recently.]]></en>
+              <de><![CDATA[Ich war in den letzten Jahren nicht in Ravenhollow. Und von den anderen Kollegen auf dem Foto habe ich auch bis vor Kurzem nichts mehr gehört.]]></de>
             </dia>
-            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0060">
-              <en><![CDATA[After an incident at the Smith Institute five years ago, your father, our colleagues and I decided to end our research and to close the Institute.]]></en>
-              <de><![CDATA[Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de>
+            <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0045">
+              <en><![CDATA[No. After an incident at the Smith Institute five years ago, my colleagues and I decided to cease our researches and close the Institute.]]></en>
+              <de><![CDATA[Nein. Nach einem Zwischenfall im Smith-Institut vor fünf Jahren beschlossen Ihr Vater, unsere Kollegen und ich, unsere Forschungsarbeit zu beenden und das Institut zu schließen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0061">
               <en><![CDATA[I see. Thanks for clarifying that.]]></en>
@@ -1145,27 +1145,27 @@
               <de><![CDATA[Wir suchen nach einem Mann namens Vincent.]]></de>
             </dia>
             <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0064">
-              <en><![CDATA[He was one of our colleagues. One of the nine founding members of the Smith Institute. A most dangerous man as it turned out.]]></en>
+              <en><![CDATA[He was one of my old colleagues ... one of the nine founding members of the Smith Institute. A most dangerous man as it turned out.]]></en>
               <de><![CDATA[Er war einer unserer Kollegen. Eines der neun Gründungsmitglieder des Smith-Instituts. Ein äußerst gefährlicher Mann, wie sich herausstellte.]]></de>
             </dia>
             <dia puppet="coppelius" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0065">
-              <en><![CDATA[He kidnapped my granddaughter, Nora ....]]></en>
-              <de><![CDATA[Er hat meine Enkelin Nora entführt ...]]></de>
+              <en><![CDATA[He kidnapped my granddaughter, Nora.]]></en>
+              <de><![CDATA[Er hat meine Enkelin Nora entführt.]]></de>
             </dia>
             <dia puppet="mcmanus" frame="lspeak" sound="voice/docks_intro_voice.swf:docks_intro0066">
               <en><![CDATA[... and me ship, aye!]]></en>
               <de><![CDATA[... und mein Schiff, jawoll!]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0067">
-              <en><![CDATA[We found the ship here ... it’s hard to tell when Vincent actually arrived in Ravenhollow, but maybe he’s still around. We have to find him.]]></en>
-              <de><![CDATA[Wir haben das Schiff hier gefunden ... Es ist unklar, wann Vincent hier in Ravenhollow vor Anker ging, aber vielleicht ist er noch hier. Wir müssen ihn finden.]]></de>
+              <en><![CDATA[We found the ship here. It’s difficult to tell when Vincent actually arrived in Ravenhollow, but he may still be around. We have to find him!]]></en>
+              <de><![CDATA[Wir haben das Schiff hier gefunden ... Es ist unklar, wann Vincent hier in Ravenhollow vor Anker ging, aber vielleicht ist er noch hier. Wir müssen ihn finden!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0068">
               <en><![CDATA[He kidnapped your granddaughter ... why?]]></en>
               <de><![CDATA[Er hat Ihre Enkelin entführt ... warum?]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0069">
-              <en><![CDATA[That is a complicated story ... and I fear it’s possible that Vincent was involved in your father’s death, too. He swore vengeance against ...]]></en>
+              <en><![CDATA[That is a complicated story ... and I fear it’s possible that Vincent was also involved in your father’s death. He swore vengeance against ...]]></en>
               <de><![CDATA[Das ist eine komplizierte Geschichte ... und ich fürchte, dass Vincent vielleicht auch etwas mit dem Tod Ihres Vaters zu tun hat. Er schwor, Rache an ...]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0070">

@@ -654,8 +654,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30021">
-                  <en><![CDATA[This is &#8222;Turtle Lane&#8220;.]]></en>
-                  <de><![CDATA[Dies ist der &#8222;Schildkrötenweg&#8220;.]]></de>
+                  <en><![CDATA[This is Turtle Lane.]]></en>
+                  <de><![CDATA[Dies ist der Schildkrötenweg.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -709,8 +709,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30023">
-                  <en><![CDATA[Those stairs lead down to &#8222;Castle Road&#8220;.]]></en>
-                  <de><![CDATA[Diese Treppen führen hinunter zur &#8222;Schlossstrasse&#8220;.]]></de>
+                  <en><![CDATA[Those stairs lead down to Castle Road.]]></en>
+                  <de><![CDATA[Diese Treppen führen hinunter zur Schlossstrasse.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -908,7 +908,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/treehouse3_voice.swf:treehouse30032">
-                  <en><![CDATA[That would be considered a break-in ... I’ll pass and skip the arrest.]]></en>
+                  <en><![CDATA[That would be considered a break-in ... I’ll pass, and skip the arrest.]]></en>
                   <de><![CDATA[Das wäre Einbruch ... Das lasse ich lieber und vermeide die Festnahme.]]></de>
                 </dia>
               </dialog>

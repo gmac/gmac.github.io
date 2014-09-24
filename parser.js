@@ -176,7 +176,6 @@ function parseRoom(id, done) {
           _.each(action.dialog[0].dia, function(dialog) {
             var actor = getActor(dialog.$.puppet);
             
-            roomActors[actor] = layerActors[actor] = stateActors[actor] = actionActors[actor] = true;
             if (!cache[actor]) cache[actor] = {};
             
             var subtitle = dialog['en'][0];
@@ -185,6 +184,7 @@ function parseRoom(id, done) {
             
             if (!soundPath) {
               soundPath = cache[actor][subtitle] = ['lib/', scene, '_voice.swf:', scene, '_', ('0000' + nextIndex()).substr(-3)].join('');
+              roomActors[actor] = layerActors[actor] = stateActors[actor] = actionActors[actor] = true;
             } else {
               dups[scene]++;
             }
@@ -220,7 +220,6 @@ function parseRoom(id, done) {
           _.each(topic.dialog[0].dia, function(dialog) {
             var actor = getActor(dialog.$.puppet);
             
-            roomActors[actor] = treeActors[actor] = topicActors[actor] = true;
             if (!cache[actor]) cache[actor] = {};
             
             var subtitle = dialog['en'][0];
@@ -229,6 +228,7 @@ function parseRoom(id, done) {
 
             if (!soundPath) {
               soundPath = cache[actor][subtitle] = ['lib/', scene, '_voice.swf:', scene, '_', ('0000' + nextIndex()).substr(-3)].join('');
+              roomActors[actor] = treeActors[actor] = topicActors[actor] = true;
             } else {
               dups[scene]++;
             }
