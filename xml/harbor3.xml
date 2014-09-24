@@ -1275,9 +1275,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30055">
-                  <en><![CDATA[This storehouse is definitely locked.]]></en>
-                  <de><![CDATA[Dieses Lagerhaus ist offensichtlich verschlossen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30019">
+                  <en><![CDATA[It’s firmly locked.]]></en>
+                  <de><![CDATA[Es ist fest verschlossen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1300,9 +1300,9 @@
                 <de><![CDATA[Öffne]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30056">
-                  <en><![CDATA[It’s locked up tight.]]></en>
-                  <de><![CDATA[Das ist fest verschlossen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30019">
+                  <en><![CDATA[It’s firmly locked.]]></en>
+                  <de><![CDATA[Es ist fest verschlossen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1941,9 +1941,9 @@
                 <de><![CDATA[Betritt]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30099">
-                  <en><![CDATA[It’s locked.]]></en>
-                  <de><![CDATA[Da ist verschlossen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30019">
+                  <en><![CDATA[It’s firmly locked.]]></en>
+                  <de><![CDATA[Es ist fest verschlossen.]]></de>
                 </dia>
               </dialog>
               <script>

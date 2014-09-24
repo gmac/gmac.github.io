@@ -1082,8 +1082,8 @@
                 <de><![CDATA[Zünde #noun# mit #item# an]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30044">
-                  <en><![CDATA[While none of that alcohol looks potent, I still wouldn’t dare attempt igniting it.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30045">
+                  <en><![CDATA[While none of that alcohol looks very potent, I still wouldn’t dare to attempt lighting it.]]></en>
                   <de><![CDATA[Auch wenn keine dieser Spirituosen sehr stark aussieht, würde ich es doch nicht wagen, sie anzuzünden.]]></de>
                 </dia>
               </dialog>
@@ -1199,8 +1199,8 @@
                 <de><![CDATA[Umwickele #item# mit #noun#]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30050">
-                  <en><![CDATA[Perfect! It’s now a metal plate of roughly human&#8212;sized dimensions.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30048">
+                  <en><![CDATA[Perfect! It’s now a metal plate of roughly human-sized dimensions.]]></en>
                   <de><![CDATA[Perfekt! Jetzt habe ich eine Metallplatte, die etwa menschengroß ist.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30051">
