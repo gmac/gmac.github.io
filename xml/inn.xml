@@ -1175,9 +1175,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0049">
-                  <en><![CDATA[Don’t forget: the key I gave you will unlock the gate to Timothy Caro’s work place in the woods. The poem might help you to find the secret entrance to the Castle.]]></en>
-                  <de><![CDATA[Vergessen Sie nicht: Der Schlüssel, den ich Ihnen gegeben habe, öffnet Timothy Caros Steinbruch in den Wäldern. Das Gedicht hilft Ihnen vielleicht bei der Suche nach dem geheimen Eingang in das Schloss.]]></de>
+                <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0073">
+                  <en><![CDATA[Remember, the key I gave you will unlock the gate to Timothy Caro’s workplace in the woods. The poem might help you find the secret passage into the Castle.]]></en>
+                  <de><![CDATA[Merken, der Schlüssel, den ich Ihnen gegeben habe, öffnet Timothy Caros Steinbruch in den Wäldern. Das Gedicht hilft Ihnen vielleicht bei der Suche nach dem geheimen Eingang in das Schloss.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0050">
                   <en><![CDATA[Okay!]]></en>
@@ -1241,28 +1241,28 @@
                   <de><![CDATA[Aus genau diesem Grund habe ich mit Herrn Caro hier gesprochen ... es scheint, als hätte er einen Weg gefunden, wie Sie sich ins Schloss schleichen können.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0060">
-                  <en><![CDATA[In a bunch of old letters that my ancestor and master stone cutter&#8212;Timothy Caro&#8212;wrote to his beloved Lilly, he mentioned a secret passage into the castle cellars ... ]]></en>
+                  <en><![CDATA[In old letters that my ancestor and master stonecutter&#8212;Timothy Caro&#8212;wrote to his beloved Lilly, he mentioned a secret passage into the Castle cellars ... ]]></en>
                   <de><![CDATA[In einigen alten Briefen, die mein Vorfahre und Meistersteinmetz&#8212;Timothy Caro&#8212;an seine geliebte Lilly geschrieben hatte, erwähnte er einen geheimen Zugang zu den Kellergewölben des Schlosses ...]]></de>
                 </dia>
-                <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0061">
-                  <en><![CDATA[It seems the passage is accessed from his old work place ... a statue quarry in the woods at the foot of Northwest Castle.]]></en>
-                  <de><![CDATA[Es scheint, als liegt dieser Zugang in der Nähe seines alten Arbeitsplatzes ... einem Steinbruch in den Wäldern am Fuße von Schloss Nordwest.]]></de>
+                <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0064">
+                  <en><![CDATA[Caro built the passage for the Barons of Northwest to come and go undetected.]]></en>
+                  <de><![CDATA[Caro baute den Durchgang für die Freiherren von Northwest kommen und gehen unerkannt.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0062">
                   <en><![CDATA[If only we had a clue how to find it ...]]></en>
                   <de><![CDATA[Wenn wir nur einen Hinweis hätten, wo genau sich der Zugang befindet ...]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0063">
-                  <en><![CDATA[That, I think, we have. You see, I found an old key and a poem that once belonged to Timothy Caro. Take them.]]></en>
+                  <en><![CDATA[That, I think we have. You see, I found a key and an old poem that once belonged to Timothy Caro. Take them.]]></en>
                   <de><![CDATA[Ich glaube, den haben wir. Wissen Sie, ich habe einen alten Schlüssel und ein Gedicht gefunden, die einmal Timothy Caro gehörten. Nehmen Sie sie.]]></de>
                 </dia>
-                <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0064">
-                  <en><![CDATA[It seems that he was asked by the castle to construct a hidden mechanism so that only the barons of Northwest Castle could use the secret access.]]></en>
-                  <de><![CDATA[Es scheint, als wäre er vom Schloss beauftragt worden, einen verborgenen Mechanismus zu entwerfen, damit nur die Barone von Schloss Nordwest diesen geheimen Zugang benutzen konnten.]]></de>
+                <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0061">
+                  <en><![CDATA[It seems the passage is accessed from his old workplace: a statue quarry in the woods, at the foot of Northwest Castle.]]></en>
+                  <de><![CDATA[Es scheint, als liegt dieser Zugang in der Nähe seines alten Arbeitsplatzes: einem Steinbruch in den Wäldern am Fuße von Schloss Nordwest.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0065">
-                  <en><![CDATA[The key should unlock the gate to his old work place in the woods ...]]></en>
-                  <de><![CDATA[Der Schlüssel öffnet die Tür zu seinem alten Arbeitsplatz in den Wäldern ...]]></de>
+                  <en><![CDATA[The key should unlock the gate to his old quarry, and the poem alludes to opening the passage.]]></en>
+                  <de><![CDATA[Der Schlüssel sollte das Tor zu seinem alten Steinbruch zu entriegeln, und das Gedicht erklärt Öffnen des Durchgangs.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0066">
                   <en><![CDATA[Then hope is not lost ... Nigel. You have to find that secret entrance into the Castle and ask the Baron for help.]]></en>
@@ -1293,8 +1293,8 @@
                   <de><![CDATA[Das alles hier muss endlich ein Ende haben! Vielleicht sind Sie wirklich der einzige, der dem ein Ende machen kann ...]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0073">
-                  <en><![CDATA[Don’t forget: the key I gave you will unlock the gate to Timothy Caro’s work place in the woods. The poem might help you to find the secret entrance to the Castle.]]></en>
-                  <de><![CDATA[Vergessen Sie nicht: Der Schlüssel, den ich Ihnen gegeben habe, öffnet Timothy Caros Steinbruch in den Wäldern. Das Gedicht hilft Ihnen vielleicht bei der Suche nach dem geheimen Eingang in das Schloss.]]></de>
+                  <en><![CDATA[Remember, the key I gave you will unlock the gate to Timothy Caro’s workplace in the woods. The poem might help you find the secret passage into the Castle.]]></en>
+                  <de><![CDATA[Merken, der Schlüssel, den ich Ihnen gegeben habe, öffnet Timothy Caros Steinbruch in den Wäldern. Das Gedicht hilft Ihnen vielleicht bei der Suche nach dem geheimen Eingang in das Schloss.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0074">
                   <en><![CDATA[Understood!]]></en>
