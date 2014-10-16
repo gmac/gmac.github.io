@@ -1925,15 +1925,15 @@
                   <de><![CDATA[Oh, Sie sind es.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30109">
-                  <en><![CDATA[Stig and Cecily sorted out their problems it seems ... ]]></en>
+                  <en><![CDATA[Stig and Cecily have sorted out their problems it seems ...]]></en>
                   <de><![CDATA[Es scheint, dass Stig und Cecily ihre Probleme überwunden haben ...]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30110">
-                  <en><![CDATA[Oh, and have you heard that the Baron and his men finally gave up? Some of our fellow villagers have already gone up to the Castle.]]></en>
-                  <de><![CDATA[Oh, und haben Sie gehört, dass der Baron und seine Leute endlich aufgegeben haben? Einige unserer Mitbürger sind schon hoch zum Schloss gegangen.]]></de>
+                  <en><![CDATA[And have you heard that the Baron and his men finally gave up? Some of our fellow villagers have already gone up to the Castle.]]></en>
+                  <de><![CDATA[Und haben Sie gehört, dass der Baron und seine Leute endlich aufgegeben haben? Einige unserer Mitbürger sind schon hoch zum Schloss gegangen.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30111">
-                  <en><![CDATA[ Do you know what that means?]]></en>
+                  <en><![CDATA[Do you know what that means?]]></en>
                   <de><![CDATA[Wissen Sie, was das bedeutet?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30112">
@@ -1941,15 +1941,15 @@
                   <de><![CDATA[Redefreiheit und kein Terror mehr vom Schloss?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30113">
-                  <en><![CDATA[That, too ... but it also means that the bus will stop in Ravenhollow again!]]></en>
+                  <en><![CDATA[That too ... but it also means the bus will stop in Ravenhollow again!]]></en>
                   <de><![CDATA[Das auch ... Aber es bedeutet auch, dass der Bus wieder in Ravenhollow halten wird!]]></de>
                 </dia>
                 <dia puppet="stephan" frame="hspeak" sound="voice/square3_voice.swf:square30114">
-                  <en><![CDATA[That means I can go to the congress of the Nature Friend Society!]]></en>
+                  <en><![CDATA[I’ll be able to attend the congress of the Nature Friend Society!]]></en>
                   <de><![CDATA[Das heißt, ich kann zum Kongress der Gesellschaft der Freunde der Natur gehen!]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30115">
-                  <en><![CDATA[I have to remember to thank that Nigel for helping me to collect those specimens for the congress.]]></en>
+                  <en><![CDATA[I’ll have to remember to thank that Nigel for helping me to collect those specimens.]]></en>
                   <de><![CDATA[Ich darf nicht vergessen, diesem Nigel für seine Hilfe beim Sammeln der Proben für den Kongress zu danken.]]></de>
                 </dia>
               </dialog>
@@ -1975,8 +1975,8 @@
               </title>
               <dialog>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30116">
-                  <en><![CDATA[Oh my goodness, a genuine Faberge egg! Destroyed!]]></en>
-                  <de><![CDATA[Du meine Güte, ein echtes Fabergé-Ei! Zerstört!]]></de>
+                  <en><![CDATA[A genuine Faberge Egg ... destroyed?!]]></en>
+                  <de><![CDATA[Ein echtes Fabergé-Ei ... zerstört?!]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30117">
                   <en><![CDATA[Please take it away, I can’t bear the sight.]]></en>
@@ -1987,8 +1987,8 @@
                   <de><![CDATA[Können Sie mir wenigstens grob sagen, was es intakt wert gewesen wäre?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30119">
-                  <en><![CDATA[Believe me when I say, lad ... it would be best if you didn’t know.]]></en>
-                  <de><![CDATA[Glauben Sie mir, wenn ich sage, mein Junge ... es wäre besser, wenn Sie es nicht wüssten.]]></de>
+                  <en><![CDATA[Believe me when I say ... it would be best if you didn’t know.]]></en>
+                  <de><![CDATA[Glauben Sie mir, wenn ich sage ... es wäre besser, wenn Sie es nicht wüssten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2001,23 +2001,23 @@
               </title>
               <dialog>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30120">
-                  <en><![CDATA[Oh my, was that a real ming vase?!]]></en>
-                  <de><![CDATA[Oh weh, war das eine echte Ming-Vase?!]]></de>
+                  <en><![CDATA[Oh heavens! Was that a real Ming Vase?!]]></en>
+                  <de><![CDATA[Oh himmel! War das eine echte Ming-Vase?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30121">
                   <en><![CDATA[I think it is ... or, WAS. So how much is it worth?]]></en>
                   <de><![CDATA[Genau das ist sie ... äh, WAR sie. Und wieviel ist sie wert?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30122">
-                  <en><![CDATA[In one piece, it would be priceless!]]></en>
-                  <de><![CDATA[In einem Stück wäre sie unbezahlbar!]]></de>
+                  <en><![CDATA[In one piece, it would be priceless.]]></en>
+                  <de><![CDATA[In einem Stück wäre sie unbezahlbar.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30123">
                   <en><![CDATA[And what about in a few more than one?]]></en>
                   <de><![CDATA[Und wie steht’s, wenn es ein paar mehr Stücke sind?]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30124">
-                  <en><![CDATA[Worthless.]]></en>
+                  <en><![CDATA[Worthless. &nbsp; &nbsp; ((tone: whistful))]]></en>
                   <de><![CDATA[Wertlos.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30125">
@@ -2035,28 +2035,28 @@
               </title>
               <dialog>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30126">
-                  <en><![CDATA[For the love of all things good and holy, is that a Honus Wagner rookie card?!]]></en>
-                  <de><![CDATA[Bei allen Heiligen, ist das eine Honus-Wagner-Sammelkarte?!]]></de>
+                  <en><![CDATA[Dear me! Is that a Honus Wagner rookie card?!]]></en>
+                  <de><![CDATA[Du liebe Zeit! Ist das eine Honus-Wagner-Sammelkarte?!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30127">
                   <en><![CDATA[I think that’s who it is, although his torn ear makes it difficult to be sure.]]></en>
                   <de><![CDATA[Ich glaube, das ist er, auch wenn sein abgerissenes Ohr es schwer macht, ganz sicher zu sein.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30128">
-                  <en><![CDATA[Dear me, I used to have one of those cards in my antique shop before the Castle goons came pillaging.]]></en>
-                  <de><![CDATA[Du liebe Zeit, ich hatte so eine Karte in meinem Antiquitätenladen, bevor die Rowdys vom Schloss ihn geplündert haben.]]></de>
+                  <en><![CDATA[I used to have one of those cards in my antique shop before the Castle guards came pillaging.]]></en>
+                  <de><![CDATA[Ich hatte so eine Karte in meinem Antiquitätenladen, bevor die Rowdys vom Schloss ihn geplündert haben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30129">
-                  <en><![CDATA[Wow, what a bizarre coincidence.]]></en>
-                  <de><![CDATA[Wow, was für ein bizarrer Zufall.]]></de>
+                  <en><![CDATA[Wow, what a bizarre coincidence ...]]></en>
+                  <de><![CDATA[Wow, was für ein bizarrer Zufall ...]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/square3_voice.swf:square30130">
-                  <en><![CDATA[Oh well, I’ve accepted the fact that I’ll never see it again. I just hope it suffers a better fate than yours there.]]></en>
+                  <en><![CDATA[Oh well, I’ve accepted that I’ll never see it again. I just hope it suffers a better fate than yours there.]]></en>
                   <de><![CDATA[Naja, ich habe mich damit abgefunden, dass ich sie nie wiedersehe. Ich hoffe nur, es ergeht ihr besser als Ihrer hier.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30131">
-                  <en><![CDATA[Oh yeah, me too ...]]></en>
-                  <de><![CDATA[Oh ja, ich auch ...]]></de>
+                  <en><![CDATA[Oh yeah, me too.]]></en>
+                  <de><![CDATA[Oh ja, ich auch.]]></de>
                 </dia>
               </dialog>
               <script>

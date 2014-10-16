@@ -505,28 +505,28 @@
                   <de><![CDATA[Da ist er ja!]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/yard_voice.swf:yard0014">
-                  <en><![CDATA[Dr. LeMue LaFayette told me that you found the statue and asked him to bring it to me!]]></en>
-                  <de><![CDATA[Dr. LeMue LaFayette sagte mir, dass Sie die Statue gefunden haben und sieh ihn baten, sie mir zu bringen!]]></de>
+                  <en><![CDATA[Dr. LeMue-LaFayette told me that you found the statue and asked him to bring it to me.]]></en>
+                  <de><![CDATA[Dr. LeMue LaFayette sagte mir, dass Sie die Statue gefunden haben und sieh ihn baten, sie mir zu bringen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/yard_voice.swf:yard0015">
-                  <en><![CDATA[Well ... I could not have done it without his help!]]></en>
-                  <de><![CDATA[Also ... Ohne seine Hilfe hätte ich es nicht geschafft!]]></de>
+                  <en><![CDATA[Well, I could not have done it without his help.]]></en>
+                  <de><![CDATA[Also, Ohne seine Hilfe hätte ich es nicht geschafft.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="lspeak" sound="voice/yard_voice.swf:yard0016">
-                  <en><![CDATA[I can’t thank you enough! The castle men must have just dumped it into the river after replacing it with this horrible statue of Baron Northwest.]]></en>
-                  <de><![CDATA[Ich kann Ihnen nicht genug danken! Die Beamten des Schlosses müssen sie einfach in den Fluss geworfen haben, nachdem sie sie durch diese schreckliche Statue von Baron Nordwest ersetzt haben.]]></de>
+                  <en><![CDATA[I can’t thank you enough ... the Castle men must have dumped it into the river after replacing it with that horrible statue of Baron Northwest.]]></en>
+                  <de><![CDATA[Ich kann Ihnen nicht genug danken ... die Beamten des Schlosses müssen sie einfach in den Fluss geworfen haben, nachdem sie sie durch diese schreckliche Statue von Baron Nordwest ersetzt haben.]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/yard_voice.swf:yard0017">
-                  <en><![CDATA[Please, follow me into the shop! You deserve a reward for saving this wonderful statue for me and the future generations of Ravenhollow.]]></en>
-                  <de><![CDATA[Bitte folgen Sie mir in den Laden! Sie verdienen eine Belohnung dafür, dass sie diese wundervolle Statue für mich und zukünftige Generationen gerettet haben.]]></de>
+                  <en><![CDATA[Please, follow me into my shop. You deserve a reward for saving this wonderful statue for the future generations of Ravenhollow.]]></en>
+                  <de><![CDATA[Bitte folgen Sie mir in den Laden. Sie verdienen eine Belohnung dafür, dass sie diese wundervolle Statue für zukünftige Generationen gerettet haben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/yard_voice.swf:yard0018">
                   <en><![CDATA[That isn’t really necessary ... but if you insist!]]></en>
                   <de><![CDATA[Das ist doch wirklich nicht nötig ... aber wenn Sie darauf bestehen!]]></de>
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/yard_voice.swf:yard0019">
-                  <en><![CDATA[I do!]]></en>
-                  <de><![CDATA[Ich bestehe darauf!]]></de>
+                  <en><![CDATA[I do.]]></en>
+                  <de><![CDATA[Ich bestehe darauf.]]></de>
                 </dia>
               </dialog>
               <script>
