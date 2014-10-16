@@ -632,8 +632,8 @@
                   <de><![CDATA[Schmetterlinge lieben Osterlilien ... Ich denke, er wird ganz freiwillig ein Weilchen bleiben.]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0029">
-                  <en><![CDATA[Oh yes ... and you brought me a Glow Gecko. Thank you!]]></en>
-                  <de><![CDATA[Oh ... und Sie haben mir einen leuchtenden Gecko mitgebracht. Dankeschön!]]></de>
+                  <en><![CDATA[Oh yes ... and you brought me a Glow Gecko. Thank you.]]></en>
+                  <de><![CDATA[Oh ... und Sie haben mir einen leuchtenden Gecko mitgebracht. Dankeschön.]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0030">
                   <en><![CDATA[He’ll have to stay in my vivarium for the time being.]]></en>
@@ -652,11 +652,11 @@
                   <de><![CDATA[Was denn? Was ist los?]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0034">
-                  <en><![CDATA[This isn’t the rare Lonely Locust ... you’ve found its evil twin ... the blossom-devouring Lotus Locust! ]]></en>
-                  <de><![CDATA[Sie haben nicht die seltenen Einsiedlerheuschrecke gefangen ... Sie haben mir seinen bösen Zwillingsbruder gebracht, den blütenfressenden Lotus-Heuschreck!]]></de>
+                  <en><![CDATA[This isn’t the rare Lonely Locust ... you’ve found its evil twin ... the blossom-devouring Lotus Locust.]]></en>
+                  <de><![CDATA[Sie haben nicht die seltenen Einsiedlerheuschrecke gefangen ... Sie haben mir seinen bösen Zwillingsbruder gebracht, den blütenfressenden Lotus-Heuschreck.]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0035">
-                  <en><![CDATA[Please ... set it free as FAR away from here as possible. These locusts devour foliage blossoms, then leave the rest of the plant to wither and die.]]></en>
+                  <en><![CDATA[Please ... set it free as far away from here as possible. These locusts devour foliage blossoms, then leave the rest of the plant to wither and die.]]></en>
                   <de><![CDATA[Bitte ... setzen Sie ihn soweit wie möglich entfernt von hier aus. Diese Heuschrecken fressen nur die Blüten und der Rest der Pflanze verkümmert innerhalb und sterben.]]></de>
                 </dia>
                 <dia puppet="caro" frame="lspeak" sound="voice/antique_voice.swf:antique0036">
@@ -668,12 +668,12 @@
                   <de><![CDATA[Ähm ... okay ... aber lassen Sie mich dann in das Archiv?]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0038">
-                  <en><![CDATA[Of course. You did your best and that has to be rewarded ... you’ve earned my trust!]]></en>
-                  <de><![CDATA[Natürlich. Sie haben Ihr Bestes gegeben und dafür sollen Sie belohnt werden ... Sie haben sich mein Vertrauen verdient!]]></de>
+                  <en><![CDATA[Of course. You did your best and that has to be rewarded ... you’ve earned my trust.]]></en>
+                  <de><![CDATA[Natürlich. Sie haben Ihr Bestes gegeben und dafür sollen Sie belohnt werden ... Sie haben sich mein Vertrauen verdient.]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0039">
                   <en><![CDATA[Feel free to use my archives. You may remove that velvet rope.]]></en>
-                  <de><![CDATA[Natürlich dürfen Sie sich in den Archiven umsehen! Gehen Sie einfach hin und nehmen Sie die Samtkordel beiseite.]]></de>
+                  <de><![CDATA[Natürlich dürfen Sie sich in den Archiven umsehen. Gehen Sie einfach hin und nehmen Sie die Samtkordel beiseite.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -715,7 +715,7 @@
               <dialog>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0040">
                   <en><![CDATA[Well, I’ve given it some thought and ... I want you to have the diamond ring.]]></en>
-                  <de><![CDATA[Nun, ich habe ein wenig darüber nachgedacht und ... ich möchte Ihnen den Diamantring geben!]]></de>
+                  <de><![CDATA[Nun, ich habe ein wenig darüber nachgedacht und ... ich möchte Ihnen den Diamantring geben.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0041">
                   <en><![CDATA[No!]]></en>
@@ -760,8 +760,8 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0045">
-                  <en><![CDATA[I see you haven’t had much luck finding our Ravenhollow Glow Gecko. Keep looking!]]></en>
-                  <de><![CDATA[Wie ich sehe, hatten Sie noch kein großes Glück, unseren leuchtenden Gecko von Ravenhollow zu finden. Halten Sie weiter die Augen offen!]]></de>
+                  <en><![CDATA[I see you haven’t had much luck finding our Ravenhollow Glow Gecko. Keep looking.]]></en>
+                  <de><![CDATA[Wie ich sehe, hatten Sie noch kein großes Glück, unseren leuchtenden Gecko von Ravenhollow zu finden. Halten Sie weiter die Augen offen.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0046">
                   <en><![CDATA[Remember, at night this rare creature prefers to sleep in dark and windy corners.]]></en>
@@ -779,8 +779,8 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0047">
-                  <en><![CDATA[You haven’t found the Red Brigadier yet? Well, don’t give up!]]></en>
-                  <de><![CDATA[Sie haben den Roten Brigadier noch nicht gefunden? Geben Sie nicht auf!]]></de>
+                  <en><![CDATA[You haven’t found the Red Brigadier yet? Well, don’t give up.]]></en>
+                  <de><![CDATA[Sie haben den Roten Brigadier noch nicht gefunden? Geben Sie nicht auf.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0048">
                   <en><![CDATA[Remember, Red Brigadier butterflies are attracted by white blossoms.]]></en>
@@ -798,11 +798,11 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0049">
-                  <en><![CDATA[Still looking for the Lonely Locust? You’ll find one!]]></en>
-                  <de><![CDATA[Gehen Sie los und finden Sie die Einsiedlerheuschrecke. Sie werden eine finden!]]></de>
+                  <en><![CDATA[Still looking for the Lonely Locust? You’ll find one.]]></en>
+                  <de><![CDATA[Gehen Sie los und finden Sie die Einsiedlerheuschrecke. Sie werden eine finden.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0050">
-                  <en><![CDATA[Remember, they are nocturnal and pretty noisy. Hard to miss I’d say.]]></en>
+                  <en><![CDATA[Remember, they are nocturnal and pretty noisy. Hard to miss, I’d say.]]></en>
                   <de><![CDATA[Denken Sie daran, sie sind nachtaktiv und ziemlich laut. Ziemlich schwer zu überhören, schätze ich.]]></de>
                 </dia>
               </dialog>
@@ -888,8 +888,8 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0057">
-                  <en><![CDATA[Hm ... that’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
-                  <de><![CDATA[Hm ... das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
+                  <en><![CDATA[Hm. That’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
+                  <de><![CDATA[Hm. Das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -902,9 +902,9 @@
                 <de><![CDATA[Versuche #item# an #noun# zu verkaufen]]></de>
               </title>
               <dialog>
-                <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0059">
-                  <en><![CDATA[Hm ... that’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
-                  <de><![CDATA[Hm ... das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
+                <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0057">
+                  <en><![CDATA[Hm. That’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
+                  <de><![CDATA[Hm. Das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -981,8 +981,8 @@
                   <de><![CDATA[Keine Sorge. Ich mag es auch gerne aufgeräumt und gut organisiert.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0067">
-                  <en><![CDATA[Very good! I’m happy to hear that!]]></en>
-                  <de><![CDATA[Sehr gut! Ich bin froh, dass Sie das sagen!]]></de>
+                  <en><![CDATA[Very good. I’m happy to hear that.]]></en>
+                  <de><![CDATA[Sehr gut. Ich bin froh, dass Sie das sagen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1233,8 +1233,8 @@
                   <de><![CDATA[Ich habe Interesse an diesem Umhang ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0080">
-                  <en><![CDATA[Oh, sure. I think I can make you a special offer on that item ...]]></en>
-                  <de><![CDATA[Ach, wirklich? Ich denke, ich kann Ihnen für den Artikel einen guten Preis machen ...]]></de>
+                  <en><![CDATA[Sure, I think I can make you a special offer on that item.]]></en>
+                  <de><![CDATA[Ach, wirklich? Ich denke, ich kann Ihnen für den Artikel einen guten Preis machen.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0081">
                   <en><![CDATA[What are you willing to pay?]]></en>
@@ -1314,24 +1314,24 @@
                   <de><![CDATA[Was für eine wundervolle Figurine ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0083">
-                  <en><![CDATA[Mh ... do you really like it?]]></en>
-                  <de><![CDATA[Mh ... gefällt sie Ihnen wirklich?]]></de>
+                  <en><![CDATA[Hm. Do you really like it?]]></en>
+                  <de><![CDATA[Hm. Gefällt sie Ihnen wirklich?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0084">
                   <en><![CDATA[Sure, it’s beautiful.]]></en>
                   <de><![CDATA[Ja, sie ist wunderschön.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0085">
-                  <en><![CDATA[Okay, you know what? Take it! It’s yours.]]></en>
-                  <de><![CDATA[Okay, wissen Sie was? Nehmen Sie sie! Sie gehört Ihnen.]]></de>
+                  <en><![CDATA[Okay then, take it! It’s yours.]]></en>
+                  <de><![CDATA[Okay, nehmen Sie sie! Sie gehört Ihnen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0086">
                   <en><![CDATA[Why, what’s wrong with it?]]></en>
                   <de><![CDATA[Warum, was ist denn damit?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0087">
-                  <en><![CDATA[It’s a worthless piece of junk ... I only realized after I bought it that it’s chromed steel and not real silver. Just take it and get it out of my shop.]]></en>
-                  <de><![CDATA[Das ist ein nutzloses Stück Ramsch ... Ich habe erst nach dem Kauf bemerkt, dass sie aus verchromtem Stahl und nicht aus Silber ist. Nehmen Sie sie einfach mit und ersparen Sie mir weiteres Leid mit dem Ding.]]></de>
+                  <en><![CDATA[It’s a worthless piece of junk. I only realized after I bought it that it’s chromed steel and not real silver. Just take it and get it out of my shop.]]></en>
+                  <de><![CDATA[Das ist ein nutzloses Stück Ramsch. Ich habe erst nach dem Kauf bemerkt, dass sie aus verchromtem Stahl und nicht aus Silber ist. Nehmen Sie sie einfach mit und ersparen Sie mir weiteres Leid mit dem Ding.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0088">
                   <en><![CDATA[If you insist ... sure, thanks!]]></en>
@@ -2286,8 +2286,8 @@
                   <de><![CDATA[Diese Bücher sind also wahrscheinlich ziemlich wertvoll, oder?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0133">
-                  <en><![CDATA[Let’s just say that selling a first edition of Kafka’s “The Castle” was enough to put my niece Cecily through college.]]></en>
-                  <de><![CDATA[Sagen wir mal so, mit dem Verkauf der Erstausgabe von Kafkas “Das Schloss” konnte ich meiner Nichte Cecily das Studium finanzieren.]]></de>
+                  <en><![CDATA[Indeed. Selling a first edition of Kafka’s, “The Castle”, was enough to put my niece Cecily through college.]]></en>
+                  <de><![CDATA[Ja. Mit dem Verkauf der Erstausgabe von Kafkas “Das Schloss” konnte ich meiner Nichte Cecily das Studium finanzieren.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0134">
                   <en><![CDATA[I see ...]]></en>
@@ -2328,8 +2328,8 @@
                   <de><![CDATA[Was ist die Geschichte zu dieser Uhr?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0137">
-                  <en><![CDATA[My grandfather bought this clock as a wedding gift for my parents ... and now I’m just as old as my grandfather was back then.]]></en>
-                  <de><![CDATA[Mein Großvater hat diese Uhr als Hochzeitsgeschenk für meine Eltern gekauft ... und jetzt bin ich genauso alt wie mein Großvater es damals war ...]]></de>
+                  <en><![CDATA[My grandfather bought this clock as a wedding gift for my parents. Now I’m just as old as my grandfather was back then.]]></en>
+                  <de><![CDATA[Mein Großvater hat diese Uhr als Hochzeitsgeschenk für meine Eltern gekauft. Jetzt bin ich genauso alt wie mein Großvater es damals war ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0138">
                   <en><![CDATA[Sorry, I didn’t mean to ...]]></en>
@@ -2399,12 +2399,12 @@
                   <de><![CDATA[Eine Münzsammlung in einem kleinen Schaukasten.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0143">
-                  <en><![CDATA[These coins are quite valuable ... especially if you are interested in local history. They were issued by the Castle in 1767.]]></en>
+                  <en><![CDATA[These coins are quite valuable ... especially if you’re interested in local history. They were issued by the Castle in 1767.]]></en>
                   <de><![CDATA[Diese Münzen sind sehr wertvoll ... besonders wenn man sich für die Geschichte dieser Gegend interessiert. Sie wurden 1767 vom Schloss produziert.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0144">
-                  <en><![CDATA[Back in those days, all smaller baronies did their own coin minting ...]]></en>
-                  <de><![CDATA[Damals haben alle kleineren Herrschaftsgebiete ihre eigene Münzprägung vorgenommen ...]]></de>
+                  <en><![CDATA[Back in those days, all smaller baronies did their own coin minting.]]></en>
+                  <de><![CDATA[Damals haben alle kleineren Herrschaftsgebiete ihre eigene Münzprägung vorgenommen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0145">
                   <en><![CDATA[Interesting!]]></en>
@@ -2436,8 +2436,8 @@
                   <de><![CDATA[Diese Münzen können nicht viel wert sein, oder? Ich meine, sie sehen echt ziemlich alt aus ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0147">
-                  <en><![CDATA[... and therein lies their value. The acquisition of this rare set of Ravenhollow coins would cost you about nine-hundred dollars.]]></en>
-                  <de><![CDATA[... und genau darin liegt auch ihr Wert. Der Kauf dieser seltenen Münzen aus Ravenhollow würde Sie ungefähr neunhundert Dollar kosten.]]></de>
+                  <en><![CDATA[However, therein lies their value. The acquisition of this rare set of Ravenhollow coins would cost you about nine-hundred dollars.]]></en>
+                  <de><![CDATA[Jedoch, genau darin liegt auch ihr Wert. Der Kauf dieser seltenen Münzen aus Ravenhollow würde Sie ungefähr neunhundert Dollar kosten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0148">
                   <en><![CDATA[Oh, that ... sounds like a fair price ... but still, I think I should stock up my fridge and pay the rent for this month, and then we’ll see what’s left to spend on antique coins.]]></en>
@@ -2482,15 +2482,15 @@
                   <de><![CDATA[Die blaue Vase sieht sehr hübsch aus.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0152">
-                  <en><![CDATA[Do you really think so? I think it’s a hideous vase ... yet it’s one of the most sought after items in my humble collection.]]></en>
+                  <en><![CDATA[You really think so? I think it’s a hideous vase ... yet it is one of the most sought after items in my humble collection.]]></en>
                   <de><![CDATA[Finden Sie? Ich finde die Vase grässlich ... aber sie ist dennoch eines der begehrtesten Objekte in meiner bescheidenen Sammlung.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0153">
-                  <en><![CDATA[The Duchess of Sommerstand hand-crafted ten of these blue vases on her one-hundredth birthday in 1887 ... she gave these as gifts to her most loyal servants.]]></en>
+                  <en><![CDATA[The Duchess of Sommerstand handcrafted ten of these blue vases on her one-hundredth birthday in 1887 ... she gave them as gifts to her most loyal servants.]]></en>
                   <de><![CDATA[Die Herzögin von Sommerstand hat an ihrem hundertsten Geburtstag 1887 zehn dieser blauen Vasen angefertigt ... sie waren Geschenke für ihre treuesten Diener. ]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0154">
-                  <en><![CDATA[Because of their hideous appearance, these vases changed hands quickly and many were lost. This is one of the last three Sommerstand vases.]]></en>
+                  <en><![CDATA[Due to their hideous appearance, these vases changed hands quickly and many were lost. This is one of the last three Sommerstand vases.]]></en>
                   <de><![CDATA[... aufgrund ihres grässlichen Aussehens haben diese Vasen ziemlich schnell ihren Besitzer gewechselt und die meisten gingen verloren. Dies ist eine der drei letzten Sommerstand-Vasen.]]></de>
                 </dia>
               </dialog>
@@ -2519,11 +2519,11 @@
                   <de><![CDATA[Lassen Sie mich raten ... Ich kann mir diese Vase nicht leisten, richtig?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0156">
-                  <en><![CDATA[I guess not ... but honestly, if you’re not a collector then there’s not much reason to spend money on antiques.]]></en>
-                  <de><![CDATA[Vermutlich nicht ... aber ehrlich gesagt, solange man kein Sammler ist, gibt es auch wirklich keinen Grund, so viel Geld für Antiquitäten auszugeben.]]></de>
+                  <en><![CDATA[I guess not ... but honestly: if you’re not a collector, then there’s not much reason to spend money on antiques.]]></en>
+                  <de><![CDATA[Vermutlich nicht ... aber ehrlich gesagt: solange man kein Sammler ist, gibt es auch wirklich keinen Grund, so viel Geld für Antiquitäten auszugeben.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0156">
-                  <en><![CDATA[Especially on hideous objects like that blue vase.]]></en>
+                  <en><![CDATA[Especially on hideous objects like this blue vase.]]></en>
                   <de><![CDATA[Besonders nicht für grässliche Objekte wie diese blaue Vase.]]></de>
                 </dia>
               </dialog>
@@ -2557,8 +2557,8 @@
                   <de><![CDATA[Scheint, als wäre Herr Caro mit der Buchhaltung beschäftigt.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0158">
-                  <en><![CDATA[Well observed ... I haven’t had many customers in the past weeks, so I thought I might as well finish up my accounting for the year.]]></en>
-                  <de><![CDATA[Gut beobachtet ... Ich hatte in den letzten Wochen nicht so viele Kunden, also habe ich mir gedacht, dass ich ebenso gut auch meine Abrechnungen für dieses Jahr machen könnte.]]></de>
+                  <en><![CDATA[Well observed. I haven’t had many customers in the past weeks, so I might as well finish up my accounting for the year.]]></en>
+                  <de><![CDATA[Gut beobachtet. Ich hatte in den letzten Wochen nicht so viele Kunden, also habe ich mir gedacht, dass ich ebenso gut auch meine Abrechnungen für dieses Jahr machen könnte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2616,12 +2616,12 @@
                   <de><![CDATA[Diese antike Brille sieht interessant aus ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0161">
-                  <en><![CDATA[Antique glasses?]]></en>
-                  <de><![CDATA[Antike Brille?]]></de>
+                  <en><![CDATA[Antique glasses...?]]></en>
+                  <de><![CDATA[Antike Brille...?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0162">
-                  <en><![CDATA[Oh! Those aren’t antique ... they’re my spare pair of glasses. I was wondering where I’d put them.]]></en>
-                  <de><![CDATA[Oh! Die ist nicht antik ... das ist meine Ersatzbrille ... die habe ich schon überall gesucht.]]></de>
+                  <en><![CDATA[Oh! Those aren’t antique, they’re my spare pair of reading glasses. I was wondering where I’d put them.]]></en>
+                  <de><![CDATA[Oh! Die ist nicht antik, das ist meine Ersatzbrille ... die habe ich schon überall gesucht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2649,8 +2649,8 @@
                   <de><![CDATA[Diese Brille könnte nützlich sein ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0164">
-                  <en><![CDATA[Those are not for sale. Hands off please!]]></en>
-                  <de><![CDATA[Die steht nicht zum Verkauf, Finger weg!]]></de>
+                  <en><![CDATA[Those are not for sale. Hands off please.]]></en>
+                  <de><![CDATA[Die steht nicht zum Verkauf. Finger weg.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2683,15 +2683,15 @@
                   <de><![CDATA[Diese Taschenuhren sehen sehr hübsch aus ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0166">
-                  <en><![CDATA[Wonderful pieces! Mr. Moore, the clockmaker who sold them to me, was in tears when he parted with this pair of pocket watches.]]></en>
+                  <en><![CDATA[Wonderful pieces! The clockmaker who sold them to me, Mr. Moore, was in tears when he parted with this pair of pocket watches.]]></en>
                   <de><![CDATA[Das sind wunderschöne Stücke. Herr Moore, der Uhrmacher, der sie mir verkauft hat, hatte Tränen in den Augen, als er sich von ihnen trennen musste.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0167">
-                  <en><![CDATA[Poor man. He’s almost gone bankrupt due to the Castle deterring customers from Ravenhollow.]]></en>
+                  <en><![CDATA[Poor man. He’s almost gone bankrupt with the Castle driving customers from Ravenhollow.]]></en>
                   <de><![CDATA[Armer Mann. Da das Schloss die Kunden von Ravenhollow fernhält, ist sein Geschäft beinahe bankrott gegangen.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0168">
-                  <en><![CDATA[I offered to lend him money, but Mr. Moore insisted on selling me these antique pocket watches instead. They’re worth far more than I could ever have paid him.]]></en>
+                  <en><![CDATA[I offered to lend him money, but Mr. Moore insisted on selling me these antique watches instead. They’re worth far more than I could ever pay him.]]></en>
                   <de><![CDATA[Ich habe zwar angeboten, ihm Geld zu leihen, aber Herr Moore bestand darauf, mir stattdessen diese antiken Taschenuhren zu verkaufen. Sie sind weitaus mehr Geld wert, als ich ihm hätte zahlen können.]]></de>
                 </dia>
               </dialog>
@@ -2825,15 +2825,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0178">
-                  <en><![CDATA[Nice top hat ... I wonder if that would suit me.]]></en>
+                  <en><![CDATA[Nice top hat ... I wonder if that would suit me?]]></en>
                   <de><![CDATA[Hübscher Zylinder ... Ob der mir wohl stehen würde?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0179">
-                  <en><![CDATA[That might be worth a try ... but I can’t let you wear that one.]]></en>
-                  <de><![CDATA[Das sollten Sie mal ausprobieren ... aber den hier kann ich Ihnen nicht geben.]]></de>
+                  <en><![CDATA[That might be worth a try, but I can’t let you wear that one.]]></en>
+                  <de><![CDATA[Das sollten Sie mal ausprobieren, aber den hier kann ich Ihnen nicht geben.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0180">
-                  <en><![CDATA[There’s a chance that THE Fred Astaire wore this hat while filming one of his best-known performances ... I’m still waiting for confirmation from an expert in Oslo.]]></en>
+                  <en><![CDATA[There’s a chance that THE Fred Astaire wore this hat while filming one of his best-known performances. I’m still waiting on confirmation from an expert in Oslo.]]></en>
                   <de><![CDATA[Ich warte noch auf eine Antwort von einem Experten aus Oslo, aber es könnte sein, dass DER Fred Astaire ihn während des Drehs zu einer seiner bekanntesten Gesangs&#8212; und Tanzdarbietungen getragen hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0181">
@@ -2872,7 +2872,7 @@
                   <de><![CDATA[Lassen Sie mich raten ... dieser Zylinder ist ziemlich teuer, richtig?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0184">
-                  <en><![CDATA[It seems likely ... I’m still waiting for my friend in Oslo to write back about the Fred Astaire connection. If I’m correct, then this top hat will be worth a LOT.]]></en>
+                  <en><![CDATA[It seems likely ... I’m still waiting for my friend in Oslo to confirm the Fred Astaire connection. If I’m correct, then this hat will be worth a LOT.]]></en>
                   <de><![CDATA[Scheint ganz so ... Ich warte noch immer auf Antwort von meinem Bekannten aus Oslo, der mir mehr dazu sagen kann. Wenn ich mich nicht täusche, dann sollte dieser Zylinder eine Stange Geld wert sein.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0185">
@@ -2880,8 +2880,8 @@
                   <de><![CDATA[Eine Stange Geld? Mh ... das ist genau die Stange Geld, die ich nicht habe.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0186">
-                  <en><![CDATA[Don’t worry ... the best things in life are free. Most of them at least ...]]></en>
-                  <de><![CDATA[Keine Sorge ... die schönsten Dinge im Leben gibt es umsonst. Zumindest die meisten ...]]></de>
+                  <en><![CDATA[Don’t worry ... the best things in life are free. Most of them anyway.]]></en>
+                  <de><![CDATA[Keine Sorge ... die schönsten Dinge im Leben gibt es umsonst. Zumindest die meisten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2914,7 +2914,7 @@
                   <de><![CDATA[Na, dass nenn ich mal antik! Dieses Schwert ist garantiert mehr als hundert Jahre alt ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0188">
-                  <en><![CDATA[Well, actually it’s a replica ... but it’s meant to look as though it’s more than a hundred years old.]]></en>
+                  <en><![CDATA[Well, actually it’s a replica ... but it’s made to look over a hundred years old.]]></en>
                   <de><![CDATA[Nun, eigentlich ist es ein Replikat ... aber es soll so aussehen, als ob es über hundert Jahre alt ist.]]></de>
                 </dia>
               </dialog>
@@ -2951,7 +2951,7 @@
                   <de><![CDATA[Nun, dann muss ich mich wohl eher auf die Schärfe meines Verstands verlassen, als auf die Schärfe eines überteuerten Schwertreplikats.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0192">
-                  <en><![CDATA[Hey!]]></en>
+                  <en><![CDATA[Hey! &nbsp &nbsp ((tone: defensive))]]></en>
                   <de><![CDATA[Hey!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0193">
@@ -2989,16 +2989,16 @@
                   <de><![CDATA[Schöne Uniform ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0195">
-                  <en><![CDATA[Yes, it’s a uniform of the honorable Northwest Castle guard who defended the Castle until about a hundred years ago.]]></en>
-                  <de><![CDATA[Ja, das ist die Uniform eines ehrenhaften Wachmanns vom Schloss Nordwest, der das Schloss bis vor ungefähr hundert Jahren bewacht hat.]]></de>
+                  <en><![CDATA[Yes, it’s a 19th century uniform of the honorable Northwest Castle guard.]]></en>
+                  <de><![CDATA[Ja, das ist die 19. Jahrhundert Uniform eines ehrenhaften Wachmanns vom Schloss Nordwest.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0196">
                   <en><![CDATA[So, shouldn’t Lowell Cain’s men wear these kind of ...]]></en>
                   <de><![CDATA[Sollten dann nicht Lowell Cains Männer solche tragen ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0197">
-                  <en><![CDATA[Cain and his men are a joke, and so are their uniforms! What they call restoration is NOT a return to the old ways.]]></en>
-                  <de><![CDATA[Cain und seine Männer sind ein Witz &#8212; genau wie ihre Uniformen! Was sie Restauration nennen ist NICHT die Rückkehr zu alten Traditionen.]]></de>
+                  <en><![CDATA[Cain and his men are a joke, and so are their uniforms. What they call restoration is not a return to the old ways!]]></en>
+                  <de><![CDATA[Cain und seine Männer sind ein Witz &#8212; genau wie ihre Uniformen. Was sie Restauration nennen ist nicht die Rückkehr zu alten Traditionen!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3196,19 +3196,19 @@
                   <de><![CDATA[Ein wunderschöner, alter Schallplattenspieler.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0224">
-                  <en><![CDATA[It’s in near mint condition ... and therefore quite dear to me I’m afraid.]]></en>
-                  <de><![CDATA[Der ist in hervorragendem Zustand ... und daher auch ziemlich teuer, fürchte ich.]]></de>
+                  <en><![CDATA[It’s in near mint condition, and therefore quite dear to me I’m afraid.]]></en>
+                  <de><![CDATA[Der ist in hervorragendem Zustand, und daher auch ziemlich teuer, fürchte ich.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0225">
                   <en><![CDATA[I thought so. Well ... what kind of music are you listening to right now?]]></en>
                   <de><![CDATA[Das habe ich mir gedacht. Nun ... welche Musik hören Sie denn gerade?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0226">
-                  <en><![CDATA[This is a hot ragtime tune from the Mississippi delta.]]></en>
+                  <en><![CDATA[This is a ragtime tune from the Mississippi delta.]]></en>
                   <de><![CDATA[Das ist ein ein heißes Ragtime-Stück aus dem Mississippi-Delta. ]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0227">
-                  <en><![CDATA[Lively rhythms like this counterbalance the dullness of the bookkeeping that I’m working on.]]></en>
+                  <en><![CDATA[Lively rhythms like these counterbalance the dullness of the bookkeeping that I’m working on.]]></en>
                   <de><![CDATA[So ein flotter Rhythmus ist ein optimaler Ausgleich zur langweiligen Buchhaltung, die ich momentan machen muss. ]]></de>
                 </dia>
               </dialog>
@@ -3269,7 +3269,7 @@
                   <de><![CDATA[Das ist der zweitschönste Diamantring, den ich jemals gesehen habe!]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0200">
-                  <en><![CDATA[You won’t believe how often I’ve heard that line.]]></en>
+                  <en><![CDATA[You wouldn’t believe how often I’ve heard that line.]]></en>
                   <de><![CDATA[Sie haben ja keine Ahnung, wie oft ich das schon gehört habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0201">
@@ -3277,8 +3277,8 @@
                   <de><![CDATA[Wirklich? Und ich dachte schön, die Anmerkung wäre ziemlich clever gewesen.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0202">
-                  <en><![CDATA[Be that as it may ... when you find time, I can tell you all about this diamond ring and its remarkable history.]]></en>
-                  <de><![CDATA[Wie dem auch sei ... wenn Sie mal Zeit haben, erzähle ich Ihnen alles über diesen Diamantring und seine unglaubliche Geschichte.]]></de>
+                  <en><![CDATA[When you have time, I can tell you all about this diamond ring and its remarkable history.]]></en>
+                  <de><![CDATA[Wenn Sie mal Zeit haben, erzähle ich Ihnen alles über diesen Diamantring und seine unglaubliche Geschichte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3296,8 +3296,8 @@
                   <de><![CDATA[Hey du, möchtest du mit mir mitkommen?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0204">
-                  <en><![CDATA[Although rules are lax here in Ravenhollow since the Castle took over, shop lifters are still not welcome in my antique shop!]]></en>
-                  <de><![CDATA[Auch wenn sich die Regeln hier in Ravenhollow zum Schlechten hin verändert haben, seitdem das Schloss die Macht übernommen hat, werden in meinem Antiquitätenladen immer noch keine Ladendiebe geduldet!]]></de>
+                  <en><![CDATA[Although rules are lax here in Ravenhollow since the Castle took over, shop lifters are still not welcome in my antique shop.]]></en>
+                  <de><![CDATA[Auch wenn sich die Regeln hier in Ravenhollow zum Schlechten hin verändert haben, seitdem das Schloss die Macht übernommen hat, werden in meinem Antiquitätenladen immer noch keine Ladendiebe geduldet.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0205">
                   <en><![CDATA[Understood ...]]></en>
@@ -3593,15 +3593,15 @@
                   <de><![CDATA[Hallo, bogenschießende Schönheit!]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0248">
-                  <en><![CDATA[Isn’t she beautiful? ... but be careful. If you fall for her, then you’ll have to pay the price.]]></en>
-                  <de><![CDATA[Ist sie nicht wunderschön? ... aber seien Sie vorsichtig. Wenn Sie sich in sie verlieben, müssen Sie dafür bezahlen.]]></de>
+                  <en><![CDATA[Isn’t she beautiful? ... But be careful: if you fall for her, then you’ll have to pay the price.]]></en>
+                  <de><![CDATA[Ist sie nicht wunderschön? ... Aber seien Sie vorsichtig: wenn Sie sich in sie verlieben, müssen Sie dafür bezahlen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0249">
                   <en><![CDATA[Which would amount to ...?]]></en>
                   <de><![CDATA[Und das wäre wie viel ...?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0250">
-                  <en><![CDATA[Eight hundred and ...]]></en>
+                  <en><![CDATA[Eight-hundred and ...]]></en>
                   <de><![CDATA[Achthundert Dollar und ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0251">
@@ -3639,8 +3639,8 @@
                   <de><![CDATA[Seufz. Ich kann mir nicht mal das Imitat einer schönen Frau leisten ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0254">
-                  <en><![CDATA[Now, now... that’s not a nice thing to say.]]></en>
-                  <de><![CDATA[Na, na, na ... das ist aber nicht nett.]]></de>
+                  <en><![CDATA[Now, now... That’s not an optimistic attitude.]]></en>
+                  <de><![CDATA[Na, na, na ... Das ist nicht eine optimistische Haltung.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3732,7 +3732,7 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0259">
-                  <en><![CDATA[Welcome customer! Step in and feel free to browse.]]></en>
+                  <en><![CDATA[Welcome customer! Step in, and feel free to browse.]]></en>
                   <de><![CDATA[Herzlich Willkommen, lieber Kunde! Kommen Sie herein und sehen Sie sich um.]]></de>
                 </dia>
               </dialog>
@@ -3904,12 +3904,12 @@
               <de><![CDATA[Ich habe eine Handvoll fast trockener alter Münzen, die ich aus dem Schildkrötenbrunnen in der Parallelstraße gefischt habe.]]></de>
             </dia>
             <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0271">
-              <en><![CDATA[Well ... at least it’s real money.]]></en>
-              <de><![CDATA[Nun ja ... das ist wenigstens echtes Geld.]]></de>
+              <en><![CDATA[Well, at least it’s real money.]]></en>
+              <de><![CDATA[Nun ja, das ist wenigstens echtes Geld.]]></de>
             </dia>
             <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0272">
-              <en><![CDATA[Okay, I think we have a deal.]]></en>
-              <de><![CDATA[Okay, das Geschäft gilt.]]></de>
+              <en><![CDATA[I think we have a deal.]]></en>
+              <de><![CDATA[Das Geschäft gilt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0273">
               <en><![CDATA[Great!]]></en>
@@ -3963,11 +3963,11 @@
               <de><![CDATA[... auf dem Dorfplatz? Ich habe da nur die Statue von einem Typen mit Zylinder und Schal gesehen.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0329">
-              <en><![CDATA[Well about four months ago, Lowell Cain’s men removed Timothy Caro’s final work and erected a statue of Baron Northwest.]]></en>
+              <en><![CDATA[About four months ago, Lowell Cain’s men removed Timothy Caro’s final work and erected a statue of Baron Northwest.]]></en>
               <de><![CDATA[Nun, vor ungefähr vier Monaten tauschten Lowell Cains Männer die letzte Arbeit von Timothy Caro gegen eine Statue von Baron Nordwest aus.]]></de>
             </dia>
             <dia puppet="caro" frame="lspeak" sound="voice/antique_voice.swf:antique0330">
-              <en><![CDATA[They stole a piece of our history, only to replace it with this modern piece of political propaganda!]]></en>
+              <en><![CDATA[They stole a piece of our history, only to replace it with that modern piece of political propaganda!]]></en>
               <de><![CDATA[Sie haben einen Teil unserer Geschichte gestohlen und durch dieses moderne Stück politischer Propaganda ersetzt ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0331">
@@ -3990,11 +3990,11 @@
               <de><![CDATA[Wenn die Statue vom Dorfplatz der Vorstellung Ihres Vorfahren von einer schönen Frau entspricht ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0333">
-              <en><![CDATA[Well about four months ago, Lowell Cain’s men removed Timothy Caro’s final work and erected a statue of Baron Northwest.]]></en>
+              <en><![CDATA[About four months ago, Lowell Cain’s men removed Timothy Caro’s final work and erected a statue of Baron Northwest.]]></en>
               <de><![CDATA[Nun, vor ungefähr vier Monaten tauschten Lowell Cains Männer die letzte Arbeit von Timothy Caro gegen eine Statue von Baron Nordwest aus.]]></de>
             </dia>
             <dia puppet="caro" frame="lspeak" sound="voice/antique_voice.swf:antique0334">
-              <en><![CDATA[They stole a piece of our history, only to replace it with this modern piece of political propaganda!]]></en>
+              <en><![CDATA[They stole a piece of our history, only to replace it with that modern piece of political propaganda!]]></en>
               <de><![CDATA[Sie haben einen Teil unserer Geschichte gestohlen und durch dieses moderne Stück politischer Propaganda ersetzt ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0335">
@@ -4017,11 +4017,11 @@
               <de><![CDATA[Ich würde mich bestimmt daran erinnern, wenn ich dort eine schöne Statue gesehen hätte ... aber das habe ich nicht!]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0337">
-              <en><![CDATA[Well about four months ago, Lowell Cain’s men removed Timothy Caro’s final work and erected a statue of Baron Northwest.]]></en>
+              <en><![CDATA[About four months ago, Lowell Cain’s men removed Timothy Caro’s final work and erected a statue of Baron Northwest.]]></en>
               <de><![CDATA[Nun, vor ungefähr vier Monaten tauschten Lowell Cains Männer die letzte Arbeit von Timothy Caro gegen eine Statue von Baron Nordwest aus.]]></de>
             </dia>
             <dia puppet="caro" frame="lspeak" sound="voice/antique_voice.swf:antique0338">
-              <en><![CDATA[They stole a piece of our history, only to replace it with this modern piece of political propaganda!]]></en>
+              <en><![CDATA[They stole a piece of our history, only to replace it with that modern piece of political propaganda!]]></en>
               <de><![CDATA[Sie haben einen Teil unserer Geschichte gestohlen und durch dieses moderne Stück politischer Propaganda ersetzt ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0339">
@@ -4045,33 +4045,25 @@
               <en><![CDATA[Oh no ... I feel a sad story coming up.]]></en>
               <de><![CDATA[Oh nein ... Ich habe das Gefühl, dass diese Geschichte traurig endet.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0305">
-              <en><![CDATA[Unfortunately, she returned the ring to him shortly afterwards and was forced by her parents to marry a wealthier man.]]></en>
-              <de><![CDATA[Ja, sie musste ihm den Ring kurz darauf zurückgeben, da sie von ihren Eltern gezwungen wurde, einen wohlhabenderen Mann zu heiraten.]]></de>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0321">
+              <en><![CDATA[Unfortunately, she returned the ring to him shortly thereafter and was forced by her parents to marry a wealthier man.]]></en>
+              <de><![CDATA[Nein, sie musste ihm den Ring kurz darauf zurückgeben, da sie von ihren Eltern gezwungen wurde, einen wohlhabenderen Mann zu heiraten.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0306">
-              <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring.]]></en>
-              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. ]]></de>
+              <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring. Now 150 years later, it has found its way into my shop.]]></en>
+              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. Jetzt 150 Jahre später, es hat seinen Weg zu meinem Geschäft gefunden.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0307">
-              <en><![CDATA[He then spent most of his time at his quarry in the woods, right at the foot of the Castle. There he created many of the statues that you see around Ravenhollow.]]></en>
-              <de><![CDATA[Er verbrachte danach die meiste Zeit in seiner Werkstatt oder in den Wäldern am Fuß des Schlosses und schuf viele der Statuen, die man jetzt überall in Ravenhollow findet.]]></de>
-            </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0308">
-              <en><![CDATA[Almost 150 years later, the ring turned up here in my shop.]]></en>
-              <de><![CDATA[Beinahe 150 Jahre später tauchte dieser Ring dann in meinem Laden auf.]]></de>
-            </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0309">
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0325">
               <en><![CDATA[Timothy Caro never married. Instead, his love for Lilly held dear and true to the day that she died.]]></en>
               <de><![CDATA[Timothy Caro hatte nie geheiratet. Er hielt an seiner Liebe zu Lilly fest, bis zu dem Tag, an dem sie starb.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0310">
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0326">
               <en><![CDATA[Upon Lilly’s death, Caro crafted his final work: a beautiful statue of Lilly in her bridal gown. He never sculpted again, and died soon after.]]></en>
               <de><![CDATA[Nach Lillys Tod schuf Caro seine letzte Arbeit: eine wunderschöne Statue von Lilly in ihrem Brautkleid. Er rührte danach nie wieder einen Meißel an und starb kurz darauf.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0311">
-              <en><![CDATA[Moved by this, the citizens of Ravenhollow decided to place the statue of Lilly in the village square ...  in memory of the great Timothy Caro.]]></en>
-              <de><![CDATA[Durch dieses traurige Schicksal bewegt, stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0327">
+              <en><![CDATA[The citizens of Ravenhollow then erected that statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
+              <de><![CDATA[Stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4088,33 +4080,25 @@
               <en><![CDATA[I bet she was pretty impressed!]]></en>
               <de><![CDATA[Sie war bestimmt ziemlich beeindruckt!]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0313">
-              <en><![CDATA[Unfortunately, she returned the ring to him shortly afterwards and was forced by her parents to marry a wealthier man.]]></en>
-              <de><![CDATA[Ja, sie musste ihm den Ring kurz darauf zurückgeben, da sie von ihren Eltern gezwungen wurde, einen wohlhabenderen Mann zu heiraten.]]></de>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0321">
+              <en><![CDATA[Unfortunately, she returned the ring to him shortly thereafter and was forced by her parents to marry a wealthier man.]]></en>
+              <de><![CDATA[Nein, sie musste ihm den Ring kurz darauf zurückgeben, da sie von ihren Eltern gezwungen wurde, einen wohlhabenderen Mann zu heiraten.]]></de>
             </dia>
-            <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0314">
-              <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring.]]></en>
-              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring.]]></de>
+            <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0306">
+              <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring. Now 150 years later, it has found its way into my shop.]]></en>
+              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. Jetzt 150 Jahre später, es hat seinen Weg zu meinem Geschäft gefunden.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0315">
-              <en><![CDATA[He then spent most of his time at his quarry in the woods, right at the foot of the Castle. There he created many of the statues that you see around Ravenhollow.]]></en>
-              <de><![CDATA[Er verbrachte danach die meiste Zeit in seiner Werkstatt oder in den Wäldern am Fuß des Schlosses und schuf viele der Statuen, die man jetzt überall in Ravenhollow findet.]]></de>
-            </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0316">
-              <en><![CDATA[Almost 150 years later, the ring turned up here in my shop.]]></en>
-              <de><![CDATA[Beinahe 150 Jahre später tauchte dieser Ring dann in meinem Laden auf.]]></de>
-            </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0317">
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0325">
               <en><![CDATA[Timothy Caro never married. Instead, his love for Lilly held dear and true to the day that she died.]]></en>
               <de><![CDATA[Timothy Caro hatte nie geheiratet. Er hielt an seiner Liebe zu Lilly fest, bis zu dem Tag, an dem sie starb.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0318">
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0326">
               <en><![CDATA[Upon Lilly’s death, Caro crafted his final work: a beautiful statue of Lilly in her bridal gown. He never sculpted again, and died soon after.]]></en>
               <de><![CDATA[Nach Lillys Tod schuf Caro seine letzte Arbeit: eine wunderschöne Statue von Lilly in ihrem Brautkleid. Er rührte danach nie wieder einen Meißel an und starb kurz darauf.]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0319">
-              <en><![CDATA[Moved by this, the citizens of Ravenhollow decided to place the statue of Lilly in the village square ...  in memory of the great Timothy Caro.]]></en>
-              <de><![CDATA[Durch dieses traurige Schicksal bewegt, stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0327">
+              <en><![CDATA[The citizens of Ravenhollow then erected that statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
+              <de><![CDATA[Stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4132,20 +4116,12 @@
               <de><![CDATA[Also haben sie geheiratet und waren glücklich bis ans Ende ihrer Tage?]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0321">
-              <en><![CDATA[Unfortunately, she returned the ring to him shortly afterwards and was forced by her parents to marry a wealthier man.]]></en>
+              <en><![CDATA[Unfortunately, she returned the ring to him shortly thereafter and was forced by her parents to marry a wealthier man.]]></en>
               <de><![CDATA[Nein, sie musste ihm den Ring kurz darauf zurückgeben, da sie von ihren Eltern gezwungen wurde, einen wohlhabenderen Mann zu heiraten.]]></de>
             </dia>
-            <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0322">
-              <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring.]]></en>
-              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. ]]></de>
-            </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0323">
-              <en><![CDATA[He then spent most of his time at his quarry in the woods, right at the foot of the Castle. There he created many of the statues that you see around Ravenhollow.]]></en>
-              <de><![CDATA[Er verbrachte danach die meiste Zeit in seiner Werkstatt oder in den Wäldern am Fuß des Schlosses und schuf viele der Statuen, die man jetzt überall in Ravenhollow findet.]]></de>
-            </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0324">
-              <en><![CDATA[Almost 150 years later, the ring turned up here in my shop.]]></en>
-              <de><![CDATA[Beinahe 150 Jahre später tauchte dieser Ring dann in meinem Laden auf.]]></de>
+            <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0306">
+              <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring. Now 150 years later, it has found its way into my shop.]]></en>
+              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. Jetzt 150 Jahre später, es hat seinen Weg zu meinem Geschäft gefunden.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0325">
               <en><![CDATA[Timothy Caro never married. Instead, his love for Lilly held dear and true to the day that she died.]]></en>
@@ -4156,8 +4132,8 @@
               <de><![CDATA[Nach Lillys Tod schuf Caro seine letzte Arbeit: eine wunderschöne Statue von Lilly in ihrem Brautkleid. Er rührte danach nie wieder einen Meißel an und starb kurz darauf.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0327">
-              <en><![CDATA[Moved by this, the citizens of Ravenhollow decided to place the statue of Lilly in the village square ...  in memory of the great Timothy Caro.]]></en>
-              <de><![CDATA[Durch dieses traurige Schicksal bewegt, stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
+              <en><![CDATA[The citizens of Ravenhollow then erected that statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
+              <de><![CDATA[Stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4216,7 +4192,7 @@
               <de><![CDATA[Sie haben sich in diesen Ring verliebt, hm? Nun ja, das kann ich gut verstehen.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0288">
-              <en><![CDATA[My niece, Cecily, had adored this ring since she was a child. I would like to give it to her, but my sister often tells me that I mustn’t spoil the child.]]></en>
+              <en><![CDATA[My niece, Cecily, has adored this ring since she was a child. I would like to give it to her, but my sister tells me that I mustn’t spoil the child.]]></en>
               <de><![CDATA[Meine Nichte Cecily liebt diesen Ring ebenfalls, schon seit ihrer Kindheit. Ich würde ihn ihr gerne schenken, aber meine Schwester sagt mir so oft, dass ich das Kind nicht verwöhnen soll.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0289">
@@ -4228,8 +4204,8 @@
               <de><![CDATA[Das mag sein, aber ich möchte den Ring wirklich gerne kaufen. Ich möchte ihn nicht einfach nur durch eine Glasscheibe hindurch betrachten.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0291">
-              <en><![CDATA[Well, as I said, what makes an item valuable to me is its history.]]></en>
-              <de><![CDATA[Nun, wie ich schon sagte, es ist die Geschichte, die einen Gegenstand so wertvoll für mich macht.]]></de>
+              <en><![CDATA[As I said, what makes an item valuable to me is its history.]]></en>
+              <de><![CDATA[Wie ich schon sagte, es ist die Geschichte, die einen Gegenstand so wertvoll für mich macht.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0292">
               <en><![CDATA[If you can bring me a very rare item that is connected to the history of Ravenhollow, then I may be willing to trade the ring for it. How does that sound?]]></en>
@@ -4286,20 +4262,28 @@
               <de><![CDATA[Oh, dieser Diamantring hat eine wahrlich faszinierende Geschichte!]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0300">
-              <en><![CDATA[The stone itself was brought to Ravenhollow more than two-hundred years ago by an African trader, who was among the wealthiest men to ever sail into our harbor.]]></en>
-              <de><![CDATA[Der Stein selbst wurde vor über zweihundert Jahren von einem afrikanischen Händler nach Ravenhollow gebracht, der zu den wohlhabendsten Männern gehörte, die jemals in unserem Hafen geankert haben.]]></de>
+              <en><![CDATA[The stone itself was brought to Ravenhollow more than two-hundred years ago by an African trader.]]></en>
+              <de><![CDATA[Der Stein selbst wurde vor über zweihundert Jahren von einem afrikanischen Händler nach Ravenhollow gebracht.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0301">
-              <en><![CDATA[Some stories say that the trader used this diamond to pay for a pint of beer at the Ravenhollow Inn.]]></en>
+              <en><![CDATA[Stories say that he used this diamond to pay for a pint of beer at the Ravenhollow Inn.]]></en>
               <de><![CDATA[In einigen Geschichten heißt es, dass der Händler diesen Ring gegen einen Krug Bier im Ravenhollow Inn getauscht hat.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0302">
-              <en><![CDATA[The stone was then given to a young Baron as payment for back taxes on the village inn, who in turn gave it as payment to a stone cutter for his work on the statuary around Northwest Castle.]]></en>
-              <de><![CDATA[Der Stein gelangte dann als Steuerzahlung des Dorfkrugs an einen jungen Baron, der mit ihm wiederum einen Steinmetz für seine Arbeit an einigen der Statuen rund um das Schloss Nordwest bezahlte.]]></de>
+              <en><![CDATA[The stone was then given to the Baron as payment for back taxes on the Ravenhollow Inn...]]></en>
+              <de><![CDATA[Der Stein gelangte dann als Steuerzahlung des Dorfkrugs an einen Baron ...]]></de>
+            </dia>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0302">
+              <en><![CDATA[... Who in turn gave it as payment to a stone cutter for his work on the statuary around Northwest Castle.]]></en>
+              <de><![CDATA[... Der mit ihm wiederum einen Steinmetz für seine Arbeit an einigen der Statuen rund um das Schloss Nordwest bezahlte.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0303">
-              <en><![CDATA[That stone cutter was one of my ancestors, Timothy Caro. He took the diamond, crafted it into this ring, and then gave it to the woman he loved ... Lilly.]]></en>
-              <de><![CDATA[Dieser Steinmetz war tatsächlich einer meiner Vorfahren, Timothy Caro. Er nahm den Diamanten, schmiedete ihn in einen Ring und überreichte ihn der Frau, die er liebte ... Lilly.]]></de>
+              <en><![CDATA[That stone cutter was one of my ancestors, Timothy Caro.]]></en>
+              <de><![CDATA[Dieser Steinmetz war tatsächlich einer meiner Vorfahren, Timothy Caro.]]></de>
+            </dia>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0303">
+              <en><![CDATA[He took the diamond, crafted it into this ring, and then gave it to the woman he loved: Lilly.]]></en>
+              <de><![CDATA[Er nahm den Diamanten, schmiedete ihn in einen Ring und überreichte ihn der Frau, die er liebte: Lilly.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4341,8 +4325,8 @@
               <de><![CDATA[Leider nicht ... Als diese Ganoven sie aus der Stadt geschleppt haben, kamen sie zwar an meinem Laden vorbei, aber ich konnte nicht sehen, wohin sie gingen.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0347">
-              <en><![CDATA[I certainly don’t think they could have gone very far with it ... it was heavy!]]></en>
-              <de><![CDATA[Ich kann mir allerdings nicht vorstellen, dass sie sehr weit damit gekommen sind ... die Statue ist unglaublich schwer!]]></de>
+              <en><![CDATA[I certainly don’t think they could have gone very far with it ... it was heavy.]]></en>
+              <de><![CDATA[Ich kann mir allerdings nicht vorstellen, dass sie sehr weit damit gekommen sind ... die Statue ist unglaublich schwer.]]></de>
             </dia>
           </dialog>
           <script>
@@ -4368,8 +4352,8 @@
               <de><![CDATA[Wenn ich ihn an einen Sammler von weit weg verkaufe, dann würde Ravenhollow ein Stück seiner Geschichte verlieren.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0351">
-              <en><![CDATA[... so, I’d only be willing to trade the ring for another item with a similar interesting history.]]></en>
-              <de><![CDATA[... ich würde den Ring also nur gegen einen anderen Gegenstand tauschen, der eine ähnlich interessante Geschichte hat.]]></de>
+              <en><![CDATA[Therefore, I’d only be willing to trade the ring for another item with a similar interesting history.]]></en>
+              <de><![CDATA[Ich würde den Ring also nur gegen einen anderen Gegenstand tauschen, der eine ähnlich interessante Geschichte hat.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0352">
               <en><![CDATA[Even then, I’d prefer it if the ring stayed in Ravenhollow with its new owner.]]></en>
@@ -4762,13 +4746,13 @@
               <en><![CDATA[What is it?]]></en>
               <de><![CDATA[Was denn?]]></de>
             </dia>
-            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0410">
-              <en><![CDATA[I’m a member of the Nature Friends Society, and we have a congress coming up in a few weeks time.]]></en>
-              <de><![CDATA[Ich bin Mitglied der Gesellschaft der Freunde der Natur und in ein paar Wochen findet ein Kongress statt.]]></de>
+            <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0420">
+              <en><![CDATA[I’d like to have some specimens of the Ravenhollow fauna to present at the next congress of the Nature Friends Society.]]></en>
+              <de><![CDATA[Ich würde gerne ein paar Exemplare von Ravenhollows Fauna auf dem nächsten Kongress der Gesellschaft der Freunde der Natur präsentieren.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0411">
-              <en><![CDATA[I’d like to bring some specimens of the Ravenhollow fauna to present at the congress. Could you help me out by collecting a few specimens?]]></en>
-              <de><![CDATA[Und auf diesem Kongress würde ich gerne ein paar Exemplare der Fauna von Ravenhollow präsentieren. Könnten Sie mir helfen, einige Exemplare zu sammeln?]]></de>
+              <en><![CDATA[Could you help me out by collecting a few specimens?]]></en>
+              <de><![CDATA[Könnten Sie mir helfen, einige Exemplare zu sammeln?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0412">
               <en><![CDATA[Sure what do I have to do?]]></en>
@@ -4791,11 +4775,11 @@
               <de><![CDATA[Einen seltenen roten Schmetterling, den Rote Brigadier. Er wird von weißen Blüten angelockt.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0417">
-              <en><![CDATA[A Lonely Locust ... they’re nocturnal and quite noisy. Hard to miss I’d say.]]></en>
-              <de><![CDATA[Und eine Einsiedlerheuschrecke ... nachtaktiv und ziemlich laut. Ziemlich schwer zu überhören, schätze ich.]]></de>
+              <en><![CDATA[A Lonely Locust ... they’re nocturnal and quite noisy.]]></en>
+              <de><![CDATA[Und eine Einsiedlerheuschrecke ... nachtaktiv und ziemlich laut.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0418">
-              <en><![CDATA[If you can bring me the three specimens then I’ll happily let you use my archives.]]></en>
+              <en><![CDATA[If you can bring me the three specimens, then I’ll happily let you use my archives.]]></en>
               <de><![CDATA[Wenn Sie mir diese drei Exemplare bringen, dann lasse ich Sie gerne in meinem Archiv stöbern.]]></de>
             </dia>
           </dialog>
@@ -4824,15 +4808,15 @@
               <de><![CDATA[Wegen der Tiere, die ich suchen soll ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0420">
-              <en><![CDATA[I’d like to bring some specimens of the Ravenhollow fauna to present at the next congress of the Nature Friends Society.]]></en>
+              <en><![CDATA[I’d like to have some specimens of the Ravenhollow fauna to present at the next congress of the Nature Friends Society.]]></en>
               <de><![CDATA[Ich würde gerne ein paar Exemplare von Ravenhollows Fauna auf dem nächsten Kongress der Gesellschaft der Freunde der Natur präsentieren.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0421">
-              <en><![CDATA[You may need some kind of net to catch the specimens ... it would be difficult to coax them directly into a specimen jar.]]></en>
+              <en><![CDATA[You may need some kind of net to catch the specimens ... it would be difficult to coax them directly into the specimen jars.]]></en>
               <de><![CDATA[Sie benötigen eine Art Netz, um diese Exemplare zu fangen ... es wäre zu kompliziert, sie direkt in den Behälter zu locken.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0422">
-              <en><![CDATA[If you can bring me the three specimens then I’ll happily let you use my archives.]]></en>
+              <en><![CDATA[If you can bring me the three specimens, then I’ll happily let you use my archives.]]></en>
               <de><![CDATA[Wenn Sie mir diese drei Exemplare bringen, dann lasse ich Sie gerne in meinem Archiv stöbern.]]></de>
             </dia>
           </dialog>
