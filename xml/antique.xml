@@ -4062,7 +4062,7 @@
               <de><![CDATA[Nach Lillys Tod schuf Caro seine letzte Arbeit: eine wunderschöne Statue von Lilly in ihrem Brautkleid. Er rührte danach nie wieder einen Meißel an und starb kurz darauf.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0327">
-              <en><![CDATA[The citizens of Ravenhollow then erected that statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
+              <en><![CDATA[The citizens of Ravenhollow were moved by his story, so placed the statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
               <de><![CDATA[Stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
             </dia>
           </dialog>
@@ -4097,7 +4097,7 @@
               <de><![CDATA[Nach Lillys Tod schuf Caro seine letzte Arbeit: eine wunderschöne Statue von Lilly in ihrem Brautkleid. Er rührte danach nie wieder einen Meißel an und starb kurz darauf.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0327">
-              <en><![CDATA[The citizens of Ravenhollow then erected that statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
+              <en><![CDATA[The citizens of Ravenhollow were moved by his story, so placed the statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
               <de><![CDATA[Stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
             </dia>
           </dialog>
@@ -4132,7 +4132,7 @@
               <de><![CDATA[Nach Lillys Tod schuf Caro seine letzte Arbeit: eine wunderschöne Statue von Lilly in ihrem Brautkleid. Er rührte danach nie wieder einen Meißel an und starb kurz darauf.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0327">
-              <en><![CDATA[The citizens of Ravenhollow then erected that statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
+              <en><![CDATA[The citizens of Ravenhollow were moved by his story, so placed the statue of Lilly in the village square ...  in honor of the great Timothy Caro.]]></en>
               <de><![CDATA[Stellten die Bürger von Ravenhollow die Statue auf dem Dorfplatz auf ... in Erinnerung an den großartigen Timothy Caro.]]></de>
             </dia>
           </dialog>
@@ -4231,8 +4231,8 @@
               <de><![CDATA[Also würden Sie den Ring gegen etwas eintauschen?]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0295">
-              <en><![CDATA[Well, as I said, what makes an item valuable to me is its history.]]></en>
-              <de><![CDATA[Nun, wie ich schon sagte, es ist die Geschichte, die einen Gegenstand so wertvoll für mich macht.]]></de>
+              <en><![CDATA[As I said, what makes an item valuable to me is its history.]]></en>
+              <de><![CDATA[Wie ich schon sagte, es ist die Geschichte, die einen Gegenstand so wertvoll für mich macht.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0296">
               <en><![CDATA[If you can bring me a very rare item that is connected to the history of Ravenhollow, then I may be willing to trade the ring for it. How does that sound?]]></en>
@@ -4266,24 +4266,24 @@
               <de><![CDATA[Der Stein selbst wurde vor über zweihundert Jahren von einem afrikanischen Händler nach Ravenhollow gebracht.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0301">
-              <en><![CDATA[Stories say that he used this diamond to pay for a pint of beer at the Ravenhollow Inn.]]></en>
+              <en><![CDATA[Stories say that the trader used the diamond to pay for a pint of beer at the Ravenhollow Inn.]]></en>
               <de><![CDATA[In einigen Geschichten heißt es, dass der Händler diesen Ring gegen einen Krug Bier im Ravenhollow Inn getauscht hat.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0302">
-              <en><![CDATA[The stone was then given to the Baron as payment for back taxes on the Ravenhollow Inn...]]></en>
+              <en><![CDATA[The stone was then given to the Baron as payment for back-taxes on the Ravenhollow Inn...]]></en>
               <de><![CDATA[Der Stein gelangte dann als Steuerzahlung des Dorfkrugs an einen Baron ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0302">
-              <en><![CDATA[... Who in turn gave it as payment to a stone cutter for his work on the statuary around Northwest Castle.]]></en>
+              <en><![CDATA[... Who in turn gave it as payment to a stonecutter for his work on the statuary around Northwest Castle.]]></en>
               <de><![CDATA[... Der mit ihm wiederum einen Steinmetz für seine Arbeit an einigen der Statuen rund um das Schloss Nordwest bezahlte.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0303">
-              <en><![CDATA[That stone cutter was one of my ancestors, Timothy Caro.]]></en>
+              <en><![CDATA[That stonecutter was one of my ancestors, Timothy Caro.]]></en>
               <de><![CDATA[Dieser Steinmetz war tatsächlich einer meiner Vorfahren, Timothy Caro.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0303">
-              <en><![CDATA[He took the diamond, crafted it into this ring, and then gave it to the woman he loved: Lilly.]]></en>
-              <de><![CDATA[Er nahm den Diamanten, schmiedete ihn in einen Ring und überreichte ihn der Frau, die er liebte: Lilly.]]></de>
+              <en><![CDATA[He took the diamond, crafted it into this ring, and then gave it to the woman he loved ... Lilly.]]></en>
+              <de><![CDATA[Er nahm den Diamanten, schmiedete ihn in einen Ring und überreichte ihn der Frau, die er liebte ... Lilly.]]></de>
             </dia>
           </dialog>
           <script>
