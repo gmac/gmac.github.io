@@ -3094,11 +3094,11 @@
                   <de><![CDATA[Entschuldigen Sie. Darf ich das Wort an Sie richten?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0194">
-                  <en><![CDATA[Sure, Nigel Trelawney.]]></en>
+                  <en><![CDATA[Of course, Nigel Trelawney.]]></en>
                   <de><![CDATA[Sicher, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0195">
-                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen I’ll ...]]></en>
+                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen, then I’ll ...]]></en>
                   <de><![CDATA[Sollten Sie ein weiterer Handlanger von Lowell Cain sein, so werde ich ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0196">
@@ -3110,11 +3110,11 @@
                   <de><![CDATA[Ich bin gerade in Ravenhollow angekommen und wurde bereits von Lowell Cains Männern k.o.-geschlagen und weggesperrt.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0198">
-                  <en><![CDATA[Well, it seems we have a common enemy then.]]></en>
+                  <en><![CDATA[Well, it seems we have a common adversary then.]]></en>
                   <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Prolem.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0199">
-                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free kingdom of Malabo.]]></en>
+                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free Kingdom of Malabo.]]></en>
                   <de><![CDATA[Ich bin Captain Moni Amayi, offizielle Handelsvertreterin des freien Königreichs Malabo.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0200">
@@ -3164,16 +3164,16 @@
                   <de><![CDATA[Hier. Ich dachte, Sie und Ihre Männer könnten etwas Fisch als Lebensmittelvorrat gebrauchen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="hspeak" sound="voice/harbor_voice.swf:harbor0202">
-                  <en><![CDATA[Oh! That is very generous of you, Nigel Trelawney.]]></en>
-                  <de><![CDATA[Oh! Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
+                  <en><![CDATA[That is very generous of you, Nigel Trelawney.]]></en>
+                  <de><![CDATA[Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0203">
                   <en><![CDATA[This will indeed help us to stay here until Lowell Cain and his men give in to our demands.]]></en>
                   <de><![CDATA[Dies wird uns tatsächlich helfen, hier auszuharren, bis Lowell Cain und seine Männer unsere Forderungen erfüllen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0204">
-                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters!]]></en>
-                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger!]]></de>
+                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters.]]></en>
+                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0205">
                   <en><![CDATA[A bag of golden coins! Why, thank you!]]></en>
@@ -3221,16 +3221,16 @@
                   <de><![CDATA[Mir ist es gelungen, Ihr Logbuch zu beschaffen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0207">
-                  <en><![CDATA[Really! That is the first ray of hope in these dark days for me and my men!]]></en>
-                  <de><![CDATA[Wirklich! Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer!]]></de>
+                  <en><![CDATA[Really? That is the first ray of hope in these dark days for my crew.]]></en>
+                  <de><![CDATA[Wirklich? Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0208">
                   <en><![CDATA[I am indebted to you, Nigel Trelawney.]]></en>
                   <de><![CDATA[Ich stehe in Ihrer Schuld, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0209">
-                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you! Good luck!]]></en>
-                  <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein! Viel Glück!]]></de>
+                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you. Good luck!]]></en>
+                  <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein. Viel Glück!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0210">
                   <en><![CDATA[Thank you, Captain Amayi. Good luck to you, too!]]></en>
@@ -3276,11 +3276,11 @@
               </title>
               <dialog>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0211">
-                  <en><![CDATA[Oh, a good map! Maybe you might be interested in trading it for my telescope?]]></en>
-                  <de><![CDATA[Oh, eine gute Karte! Vielleicht sind Sie daran interessiert, sie gegen mein Teleskop einzutauschen?]]></de>
+                  <en><![CDATA[That is a fine map. Perhaps you would consider trading it for my telescope?]]></en>
+                  <de><![CDATA[Eine gute Karte. Vielleicht sind Sie daran interessiert, sie gegen mein Teleskop einzutauschen?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0212">
-                  <en><![CDATA[If you are, come back tomorrow during the day. The telescope is in my quarters right now and I am on guard duty for the rest of the night.]]></en>
+                  <en><![CDATA[If so, come back tomorrow during the day. The telescope is in my quarters right now, and I am on guard for the rest of the night.]]></en>
                   <de><![CDATA[Wenn ja, kommen Sie morgen im Laufe des Tages zurück. Das Teleskop befindet sich derzeit in meinem Quartier und ich bin für den Rest des Tages für die Wache eingeteilt.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0213">
@@ -3332,11 +3332,11 @@
                   <de><![CDATA[Entschuldigen Sie mich. Darf ich das Wort an Sie richten?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0217">
-                  <en><![CDATA[Sure, Nigel Trelawney.]]></en>
+                  <en><![CDATA[Of course, Nigel Trelawney.]]></en>
                   <de><![CDATA[Sicher, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0218">
-                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen I’ll ...]]></en>
+                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen, then I’ll ...]]></en>
                   <de><![CDATA[Sollten Sie ein weiterer Handlanger von Lowell Cain sein, so werde ich ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0219">
@@ -3348,11 +3348,11 @@
                   <de><![CDATA[Ich bin gerade in Ravenhollow angekommen und wurde bereits von Lowell Cains Männern k.o.-geschlagen und weggesperrt.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0221">
-                  <en><![CDATA[Well, it seems we have a common enemy then.]]></en>
+                  <en><![CDATA[Well, it seems we have a common adversary then.]]></en>
                   <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Prolem.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0222">
-                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free kingdom of Malabo.]]></en>
+                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free Kingdom of Malabo.]]></en>
                   <de><![CDATA[Ich bin Captain Moni Amayi, offizielle Handelsvertreterin des freien Königreichs Malabo.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0223">
@@ -3410,16 +3410,16 @@
                   <de><![CDATA[Hier. Ich dachte, Sie und Ihre Männer könnten etwas Fisch als Lebensmittelvorrat gebrauchen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="hspeak" sound="voice/harbor_voice.swf:harbor0227">
-                  <en><![CDATA[Oh! That is very generous of you, Nigel Trelawney.]]></en>
-                  <de><![CDATA[Oh! Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
+                  <en><![CDATA[That is very generous of you, Nigel Trelawney.]]></en>
+                  <de><![CDATA[Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0228">
                   <en><![CDATA[This will indeed help us to stay here until Lowell Cain and his men give in to our demands.]]></en>
                   <de><![CDATA[Dies wird uns tatsächlich helfen, hier auszuharren, bis Lowell Cain und seine Männer unsere Forderungen erfüllen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0229">
-                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters!]]></en>
-                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger!]]></de>
+                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters.]]></en>
+                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0230">
                   <en><![CDATA[A bag of golden coins! Why, thank you!]]></en>
@@ -3467,16 +3467,16 @@
                   <de><![CDATA[Mir ist es gelungen, Ihr Logbuch zu beschaffen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0232">
-                  <en><![CDATA[Really! That is the first ray of hope in these dark days for me and my men!]]></en>
-                  <de><![CDATA[Wirklich! Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer!]]></de>
+                  <en><![CDATA[Really? That is the first ray of hope in these dark days for my crew.]]></en>
+                  <de><![CDATA[Wirklich? Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0233">
                   <en><![CDATA[I am indebted to you, Nigel Trelawney.]]></en>
                   <de><![CDATA[Ich stehe in Ihrer Schuld, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0234">
-                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you! Good luck!]]></en>
-                  <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein! Viel Glück!]]></de>
+                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you. Good luck!]]></en>
+                  <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein. Viel Glück!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0235">
                   <en><![CDATA[Thank you, Captain Amayi. Good luck to you, too!]]></en>
@@ -3589,31 +3589,31 @@
                   <de><![CDATA[Entschuldigen Sie ...]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0240">
-                  <en><![CDATA[I’m sorry young man, but I’m preoccupied with this pig&#8212;headed oaf ...]]></en>
+                  <en><![CDATA[I’m sorry, but I’m preoccupied with this pig-headed oaf here ...]]></en>
                   <de><![CDATA[Es tut mir Leid, aber ich bin gerade mit diesem sturen Ochsen hier beschäftigt ...]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0241">
-                  <en><![CDATA[As I was saying: I will come here everyday until you return to me what was stolen from my ship by you and your men!]]></en>
-                  <de><![CDATA[Wie ich bereits sagte: Ich werde jeden Tag hier auftauchen, bis Sie mir zurückgeben, was Sie und Ihre Männer von meinem Schiff gestohlen haben!]]></de>
+                  <en><![CDATA[As I was saying: I will come here every day until you return what was stolen from my ship!]]></en>
+                  <de><![CDATA[Wie ich bereits sagte: Ich werde jeden Tag hier auftauchen, bis Sie mir zurückgeben, was Sie von meinem Schiff gestohlen haben!]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="speak6" sound="voice/harbor_voice.swf:harbor0242">
                   <en><![CDATA[And I will tell you every day, Captain Amayi, that in the name of the Castle and the Baron we simply confiscated suspicious goods.]]></en>
                   <de><![CDATA[Und ich werde Ihnen, Captain Amayi, jeden Tag erklären, dass wir im Namen des Schlosses und des Barons lediglich verdächtige Waren beschlagnahmt haben.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0243">
-                  <en><![CDATA[Suspicious? You stole money and half of the cargo from our ship! I want to talk to your superiors!]]></en>
+                  <en><![CDATA[Suspicious? You stole the money and most of the cargo from our ship! I want to talk to your superiors!]]></en>
                   <de><![CDATA[Verdächtig? Sie haben Geld und die Hälfte der Fracht von unserem Schiff gestohlen! Ich verlange mit Ihren Vorgesetzten zu sprechen!]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="speak6" sound="voice/harbor_voice.swf:harbor0244">
-                  <en><![CDATA[Lowell Cain graciously offered you permission to leave &#8212; and you declined!]]></en>
-                  <de><![CDATA[Lowell Cain gewährte Ihnen gnädigerweise die Erlaubnis abzureisen &#8212; und Sie lehnten ab!]]></de>
+                  <en><![CDATA[Lowell Cain graciously offered you permission to leave ... and you declined!]]></en>
+                  <de><![CDATA[Lowell Cain gewährte Ihnen gnädigerweise die Erlaubnis abzureisen ... und Sie lehnten ab!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0245">
                   <en><![CDATA[My crew and I will leave this cursed port anytime we want!]]></en>
                   <de><![CDATA[Meine Crew und ich werden diesen verfluchten Hafen verlassen, wenn wir es für richtig halten!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="speak2" sound="voice/harbor_voice.swf:harbor0246">
-                  <en><![CDATA[But we will NOT leave without the goods and money that you stole from my ship! I want to talk to the Baron!]]></en>
+                  <en><![CDATA[But we will NOT leave without the money and goods that you stole from my ship! I want to talk to the Baron!]]></en>
                   <de><![CDATA[Wir werden jedoch NICHT ohne die Waren und das Geld abziehen, die Sie von meinem Schiff gestohlen haben! Ich möchte mit dem Baron sprechen!]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="speak6" sound="voice/harbor_voice.swf:harbor0247">
@@ -3625,12 +3625,12 @@
                   <de><![CDATA[Lowell Cain spricht für den Baron, doch er wird Sie nicht länger empfangen, nachdem Sie sein großzügiges Angebot, Sie abreisen zu lassen, abgelehnt haben.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="speak2" sound="voice/harbor_voice.swf:harbor0249">
-                  <en><![CDATA[Why you little ... if I weren’t on official business, sailing under the honorable flag of the free kingdom of Malabo, then I’d blow your puny port to pieces!]]></en>
+                  <en><![CDATA[Why you little ... if I weren’t on official business, sailing under the honorable flag of the free Kingdom of Malabo, then I’d blow your puny port to pieces!]]></en>
                   <de><![CDATA[Sie mieser, kleiner ... Wäre ich nicht in offiziellem Auftrag unterwegs und würde ich nicht unter der ehrenwerten Flagge des freien Königreichs von Malabo segeln, dann würde ich Ihren kümmerlichen Hafen in Schutt und Asche legen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0250">
-                  <en><![CDATA[But since I’m a well trained &#8212;and paid&#8212; diplomat ... I will come here everyday until you give me back what is mine.]]></en>
-                  <de><![CDATA[Doch als gut ausgbildete und bezahlte Diplomatin werde ich jeden verdammten Tag hierher kommen, bis Sie zurückgeben, was mir gehört.]]></de>
+                  <en><![CDATA[But because I am a well trained diplomat, I will simply come here every day until you give me back what is mine.]]></en>
+                  <de><![CDATA[Doch als gut ausgbildete Diplomatin werde ich jeden verdammten Tag hierher kommen, bis Sie zurückgeben, was mir gehört.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3653,16 +3653,16 @@
                   <de><![CDATA[Hier. Ich dachte, Sie und Ihre Männer könntet etwas Fisch als Lebensmittelvorrat gebrauchen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="hspeak" sound="voice/harbor_voice.swf:harbor0252">
-                  <en><![CDATA[Oh! That is very generous of you, Nigel Trelawney.]]></en>
-                  <de><![CDATA[Oh! Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
+                  <en><![CDATA[That is very generous of you, Nigel Trelawney.]]></en>
+                  <de><![CDATA[Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0253">
                   <en><![CDATA[This will indeed help us to stay here until Lowell Cain and his men give in to our demands.]]></en>
                   <de><![CDATA[Dies wird uns tatsächlich helfen, hier auszuharren, bis Lowell Cain und seine Männer unsere Forderungen erfüllen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0254">
-                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters!]]></en>
-                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger!]]></de>
+                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters.]]></en>
+                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0255">
                   <en><![CDATA[A bag of golden coins! Why, thank you!]]></en>
@@ -3710,16 +3710,16 @@
                   <de><![CDATA[Mir ist es gelungen, Ihr Logbuch zu beschaffen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0257">
-                  <en><![CDATA[Really! That is the first ray of hope in these dark days for me and my men!]]></en>
-                  <de><![CDATA[Wirklich! Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer!]]></de>
+                  <en><![CDATA[Really? That is the first ray of hope in these dark days for my crew.]]></en>
+                  <de><![CDATA[Wirklich? Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0258">
                   <en><![CDATA[I am indebted to you, Nigel Trelawney.]]></en>
                   <de><![CDATA[Ich stehe in Ihrer Schuld, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0259">
-                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you! Good luck!]]></en>
-                  <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein! Viel Glück!]]></de>
+                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you. Good luck!]]></en>
+                  <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein. Viel Glück!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0260">
                   <en><![CDATA[Thank you, Captain Amayi. Good luck to you, too!]]></en>
@@ -3795,11 +3795,11 @@
                   <de><![CDATA[Entschuldigen Sie mich. Darf ich das Wort an Sie richten?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0263">
-                  <en><![CDATA[Sure, Nigel Trelawney.]]></en>
+                  <en><![CDATA[Of course, Nigel Trelawney.]]></en>
                   <de><![CDATA[Sicher, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0264">
-                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen I’ll ...]]></en>
+                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen, then I’ll ...]]></en>
                   <de><![CDATA[Sollten Sie ein weiterer Handlanger von Lowell Cain sein, so werde ich ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0265">
@@ -3811,11 +3811,11 @@
                   <de><![CDATA[Ich bin gerade in Ravenhollow angekommen und wurde bereits von Lowell Cains Männern k.o. geschlagen und weggesperrt.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0267">
-                  <en><![CDATA[Well, it seems we have a common enemy then.]]></en>
+                  <en><![CDATA[Well, it seems we have a common adversary then.]]></en>
                   <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Prolem.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0268">
-                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free kingdom of Malabo.]]></en>
+                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free Kingdom of Malabo.]]></en>
                   <de><![CDATA[Ich bin Captain Moni Amayi, offizielle Handelsvertreterin des freien Königreichs von Malabo.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0269">
@@ -3862,16 +3862,16 @@
                   <de><![CDATA[Hier. Ich dachte, Sie und Ihre Männer könnten etwas Fisch als Lebensmittelvorrat gebrauchen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="hspeak" sound="voice/harbor_voice.swf:harbor0273">
-                  <en><![CDATA[Oh! That is very generous of you, Nigel Trelawney.]]></en>
-                  <de><![CDATA[Oh! Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
+                  <en><![CDATA[That is very generous of you, Nigel Trelawney.]]></en>
+                  <de><![CDATA[Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0274">
                   <en><![CDATA[This will indeed help us to stay here until Lowell Cain and his men give in to our demands.]]></en>
                   <de><![CDATA[Dies wird uns tatsächlich helfen, hier auszuharren, bis Lowell Cain und seine Männer unsere Forderungen erfüllen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0275">
-                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters!]]></en>
-                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger!]]></de>
+                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters.]]></en>
+                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0276">
                   <en><![CDATA[A bag of golden coins! Why, thank you!]]></en>
@@ -3915,7 +3915,7 @@
                   <de><![CDATA[Was haben Sie da, Nigel Trelawney?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0279">
-                  <en><![CDATA[Oh, this? It’s a map of the coastal area around the kingdom of Malabo. I thought you might be interested in it.]]></en>
+                  <en><![CDATA[Oh, this? It’s a map of the coastal area around the Kingdom of Malabo. I thought you might be interested in it.]]></en>
                   <de><![CDATA[Oh, das? Das ist eine Karte des Küstengebiets rund um das Königreich von Malabo. Ich dachte, Sie könnten daran interessiert sein.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0280">
@@ -4011,11 +4011,11 @@
                   <de><![CDATA[Entschuldigen Sie mich. Darf ich das Wort an Sie richten?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0288">
-                  <en><![CDATA[Sure, Nigel Trelawney.]]></en>
+                  <en><![CDATA[Of course, Nigel Trelawney.]]></en>
                   <de><![CDATA[Sicher, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0289">
-                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen I’ll ...]]></en>
+                  <en><![CDATA[If you are another one of Lowell Cain’s henchmen, then I’ll ...]]></en>
                   <de><![CDATA[Sollten Sie ein weiterer Handlanger von Lowell Cain sein, so werde ich ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0290">
@@ -4027,11 +4027,11 @@
                   <de><![CDATA[Ich bin gerade in Ravenhollow angekommen und wurde bereits von Lowell Cains Männern k.o. geschlagen und weggesperrt.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0292">
-                  <en><![CDATA[Well, it seems we have a common enemy then.]]></en>
+                  <en><![CDATA[Well, it seems we have a common adversary then.]]></en>
                   <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Prolem.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0293">
-                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free kingdom of Malabo.]]></en>
+                  <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free Kingdom of Malabo.]]></en>
                   <de><![CDATA[Ich bin Captain Moni Amayi, offizielle Handelsvertreterin des freien Königreichs Malabo.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0294">
@@ -4077,16 +4077,16 @@
                   <de><![CDATA[Hier. Ich dachte, Sie und Ihre Männer könnten etwas Fisch als Lebensmittelvorrat gebrauchen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="hspeak" sound="voice/harbor_voice.swf:harbor0298">
-                  <en><![CDATA[Oh! That is very generous of you, Nigel Trelawney.]]></en>
-                  <de><![CDATA[Oh! Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
+                  <en><![CDATA[That is very generous of you, Nigel Trelawney.]]></en>
+                  <de><![CDATA[Das ist sehr großzügig von Ihnen, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0299">
                   <en><![CDATA[This will indeed help us to stay here until Lowell Cain and his men give in to our demands.]]></en>
                   <de><![CDATA[Dies wird uns tatsächlich helfen, hier auszuharren, bis Lowell Cain und seine Männer unsere Forderungen erfüllen.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0300">
-                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters!]]></en>
-                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger!]]></de>
+                  <en><![CDATA[Take this as payment, Nigel Trelawney. The Crown of Malabo rewards its supporters.]]></en>
+                  <de><![CDATA[Nehmen Sie dies als Zahlung, Nigel Trelawney. Die Krone von Malabo belohnt ihre Anhänger.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0301">
                   <en><![CDATA[A bag of golden coins! Why, thank you!]]></en>
@@ -7589,7 +7589,7 @@
               <de><![CDATA[Als Diplomat und Händler fordere ich, dass die gestohlenen Waren und das Logbuch ausgehändigt werden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0643">
-              <en><![CDATA[And in the name of the free kingdom of Malabo and my crew, I expect an apology.]]></en>
+              <en><![CDATA[And in the name of the free Kingdom of Malabo and my crew, I expect an apology.]]></en>
               <de><![CDATA[Und im Namen des freien Königreichs Malabo und meiner Crew erwarte ich eine Entschuldigung.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0644">
@@ -7620,7 +7620,7 @@
               <de><![CDATA[Als Diplomat und Händler fordere ich, dass die gestohlenen Waren und das Logbuch ausgehändigt werden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0648">
-              <en><![CDATA[And in the name of the free kingdom of Malabo and my crew, I expect an apology.]]></en>
+              <en><![CDATA[And in the name of the free Kingdom of Malabo and my crew, I expect an apology.]]></en>
               <de><![CDATA[Und im Namen des freien Königreichs Malabo und meiner Crew erwarte ich eine Entschuldigung.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0649">
