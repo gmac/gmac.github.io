@@ -3221,7 +3221,7 @@
                   <de><![CDATA[Mir ist es gelungen, Ihr Logbuch zu beschaffen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0207">
-                  <en><![CDATA[Really? That is the first ray of hope in these dark days for my crew.]]></en>
+                  <en><![CDATA[Really? That is the first ray of hope in these dark days for The Sparrow.]]></en>
                   <de><![CDATA[Wirklich? Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0208">
@@ -3229,7 +3229,7 @@
                   <de><![CDATA[Ich stehe in Ihrer Schuld, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0209">
-                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you. Good luck!]]></en>
+                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here. May it serve you well. Good luck!]]></en>
                   <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein. Viel Glück!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0210">
@@ -3280,7 +3280,7 @@
                   <de><![CDATA[Eine gute Karte. Vielleicht sind Sie daran interessiert, sie gegen mein Teleskop einzutauschen?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0212">
-                  <en><![CDATA[If so, come back tomorrow during the day. The telescope is in my quarters right now, and I am on guard for the rest of the night.]]></en>
+                  <en><![CDATA[If so, come back tomorrow during the day. The telescope is in my quarters right now, and I am standing guard for the rest of the night.]]></en>
                   <de><![CDATA[Wenn ja, kommen Sie morgen im Laufe des Tages zurück. Das Teleskop befindet sich derzeit in meinem Quartier und ich bin für den Rest des Tages für die Wache eingeteilt.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0213">
@@ -3467,7 +3467,7 @@
                   <de><![CDATA[Mir ist es gelungen, Ihr Logbuch zu beschaffen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0232">
-                  <en><![CDATA[Really? That is the first ray of hope in these dark days for my crew.]]></en>
+                  <en><![CDATA[Really? That is the first ray of hope in these dark days for The Sparrow.]]></en>
                   <de><![CDATA[Wirklich? Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0233">
@@ -3475,7 +3475,7 @@
                   <de><![CDATA[Ich stehe in Ihrer Schuld, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0234">
-                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you. Good luck!]]></en>
+                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here. May it serve you well. Good luck!]]></en>
                   <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein. Viel Glück!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0235">
@@ -3552,7 +3552,7 @@
                   <de><![CDATA[Entschuldigung, aber ...]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0238">
-                  <en><![CDATA[Whatever you have to say it will have to wait. Right now I have to deal with this ... character.]]></en>
+                  <en><![CDATA[Whatever you have to say, it will have to wait. Right now I have to deal with this ... character.]]></en>
                   <de><![CDATA[Was immer Sie zu sagen haben, es muss warten. Derzeit muss ich mit dieser ... Person ... befassen.]]></de>
                 </dia>
               </dialog>
@@ -3589,7 +3589,7 @@
                   <de><![CDATA[Entschuldigen Sie ...]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0240">
-                  <en><![CDATA[I’m sorry, but I’m preoccupied with this pig-headed oaf here ...]]></en>
+                  <en><![CDATA[I’m sorry, but I’m preoccupied with this pig-headed oaf ...]]></en>
                   <de><![CDATA[Es tut mir Leid, aber ich bin gerade mit diesem sturen Ochsen hier beschäftigt ...]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0241">
@@ -3601,7 +3601,7 @@
                   <de><![CDATA[Und ich werde Ihnen, Captain Amayi, jeden Tag erklären, dass wir im Namen des Schlosses und des Barons lediglich verdächtige Waren beschlagnahmt haben.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0243">
-                  <en><![CDATA[Suspicious? You stole the money and most of the cargo from our ship! I want to talk to your superiors!]]></en>
+                  <en><![CDATA[Suspicious? You stole the money and most of the cargo from my ship! I want to talk to your superiors!]]></en>
                   <de><![CDATA[Verdächtig? Sie haben Geld und die Hälfte der Fracht von unserem Schiff gestohlen! Ich verlange mit Ihren Vorgesetzten zu sprechen!]]></de>
                 </dia>
                 <dia puppet="manbreaker" frame="speak6" sound="voice/harbor_voice.swf:harbor0244">
@@ -3625,7 +3625,7 @@
                   <de><![CDATA[Lowell Cain spricht für den Baron, doch er wird Sie nicht länger empfangen, nachdem Sie sein großzügiges Angebot, Sie abreisen zu lassen, abgelehnt haben.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="speak2" sound="voice/harbor_voice.swf:harbor0249">
-                  <en><![CDATA[Why you little ... if I weren’t on official business, sailing under the honorable flag of the free Kingdom of Malabo, then I’d blow your puny port to pieces!]]></en>
+                  <en><![CDATA[Why you little ... if I weren’t on official business and sailing under the honorable flag of the Kingdom of Malabo, then I’d blow your puny port to pieces!]]></en>
                   <de><![CDATA[Sie mieser, kleiner ... Wäre ich nicht in offiziellem Auftrag unterwegs und würde ich nicht unter der ehrenwerten Flagge des freien Königreichs von Malabo segeln, dann würde ich Ihren kümmerlichen Hafen in Schutt und Asche legen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0250">
@@ -3710,7 +3710,7 @@
                   <de><![CDATA[Mir ist es gelungen, Ihr Logbuch zu beschaffen!]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0257">
-                  <en><![CDATA[Really? That is the first ray of hope in these dark days for my crew.]]></en>
+                  <en><![CDATA[Really? That is the first ray of hope in these dark days for The Sparrow.]]></en>
                   <de><![CDATA[Wirklich? Das ist der erste Hoffnungsschimmer in diesen dunklen Tagen für mich und meine Männer.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0258">
@@ -3718,7 +3718,7 @@
                   <de><![CDATA[Ich stehe in Ihrer Schuld, Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0259">
-                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here, but it might help you. Good luck!]]></en>
+                  <en><![CDATA[Take this village pass ... I have no reason to comply with the authorities here. May it serve you well. Good luck!]]></en>
                   <de><![CDATA[Nehmen Sie diesen Dorfpass ... Ich habe keinen Grund, mich den Behörden hier zu fügen, doch Ihnen könnte er dienlich sein. Viel Glück!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0260">
@@ -3927,8 +3927,8 @@
                   <de><![CDATA[... so wie das Küstengebiet um Malabo, oder?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0282">
-                  <en><![CDATA[Indeed... Thank you, Nigel. This will surely prove more useful than my broken telescope. Would you accept it as payment for the map?]]></en>
-                  <de><![CDATA[In der Tat ... Vielen Dank, Nigel. Dies wird sicherlich nützlicher sein, als mein kaputtes Teleskop. Würden Sie es als Zahlung für die Karte annehmen?]]></de>
+                  <en><![CDATA[Indeed... Thank you, Nigel Trelawney. This will surely prove more useful than my broken telescope. Would you accept the telescope as payment for this map?]]></en>
+                  <de><![CDATA[In der Tat ... Vielen Dank, Nigel Trelawney. Dies wird sicherlich nützlicher sein, als mein kaputtes Teleskop. Würden Sie es als Zahlung für die Karte annehmen?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0283">
                   <en><![CDATA[I accept.]]></en>
@@ -5897,16 +5897,16 @@
                   <de><![CDATA[Wonach halten Sie denn Ausschau, Captain?]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0444">
-                  <en><![CDATA[Oh, I am simply trying to focus this telescope. The lenses are so loose that I can barely make out what I’m looking at.]]></en>
-                  <de><![CDATA[Oh, ich versuche nur, dieses Teleskop zu fokussieren. Die Linsen sind so lose, dass ich kaum erkennen kann, was ich überhaupt betrachte.]]></de>
+                  <en><![CDATA[I’m actually trying to focus this telescope. The lenses are loose so I can barely make out what I’m looking at.]]></en>
+                  <de><![CDATA[Ich versuche nur, dieses Teleskop zu fokussieren. Die Linsen sind so lose, dass ich kaum erkennen kann, was ich überhaupt betrachte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0445">
                   <en><![CDATA[If that telescope is broken then you should probably refrain from using it ... it might be bad for your eyes.]]></en>
                   <de><![CDATA[Wenn dieses Teleskop kaputt ist, dann sollten Sie es vermutlich nicht mehr benutzen ... es könnte Ihren Augen schaden.]]></de>
                 </dia>
-                <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0446">
-                  <en><![CDATA[I agree, but unfortunately I have no other way to navigate the Sparrow through the treacherous reefs off the coast of Malabo.]]></en>
-                  <de><![CDATA[Da stimme ich Ihnen zu, doch leider habe ich keine andere Möglichkeit, die Sparrow durch die tückischen Riffe vor der Küste von Malabo zu navigieren.]]></de>
+                <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0682">
+                  <en><![CDATA[Unfortunately, I have no other way to navigate The Sparrow through the treacherous reefs off the coast of Malabo.]]></en>
+                  <de><![CDATA[Doch leider habe ich keine andere Möglichkeit, die Sparrow durch die tückischen Riffe vor der Küste von Malabo zu navigieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -7205,16 +7205,16 @@
               <de><![CDATA[Daher hab ich ihnen mitgeteilt, dass jeder Hafen die maritime Verpflichtung hat, Schiffe bei der Bevorratung zu unterstützen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0599">
-              <en><![CDATA[We even offered generous payment in Malabo Crowns, which is one of the most stable currencies south of the equator.]]></en>
+              <en><![CDATA[We even offered generous payment in Malabo Crowns, which is among the most stable currencies south of the equator.]]></en>
               <de><![CDATA[Wir boten sogar eine großzügige Zahlung in Malabo-Kronen an ... eine der stabilsten Währungen südlich des Äquators.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0600">
-              <en><![CDATA[However, they declined. When I demanded to talk to their superiors they said that this man named Lowell Cain would come to see us the next day. So we stayed at anchor in Ravenhollow harbor. ]]></en>
-              <de><![CDATA[Aber sie lehnten ab. Als ich sie bat, zu ihrem Vorgesetzten vorgelassen zu werden, meinten sie, dass dieser Lowell Cain uns am nächsten Tag empfangen würde. Also blieben wir im Hafen von Ravenhollow vor Anker.]]></de>
+              <en><![CDATA[However, they declined. When I demanded to talk to their superiors, they said that this man named Cain would come to see us the next day.]]></en>
+              <de><![CDATA[Aber sie lehnten ab. Als ich sie bat, zu ihrem Vorgesetzten vorgelassen zu werden, meinten sie, dass dieser Cain uns am nächsten Tag empfangen würde.]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0601">
-              <en><![CDATA[During the night his men came aboard the &#8222;Sparrow&#8220; and stole the bulk of our cargo from the hold and the ship log from my quarters.]]></en>
-              <de><![CDATA[Während dieser Nacht kamen seine Männer an Bord der &#8222;Sparrow&#8220; und stahlen den Großteil unserer Fracht aus dem Laderaum und das Logbuch aus meinem Quartier.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0613">
+              <en><![CDATA[During the night, Cain’s men came aboard The Sparrow and stole the bulk of our cargo and the ship log from my quarters.]]></en>
+              <de><![CDATA[Während dieser Nacht kamen seine Männer an Bord Der Sparrow und stahlen den Großteil unserer Fracht aus dem Laderaum und das Logbuch aus meinem Quartier.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7240,16 +7240,16 @@
               <de><![CDATA[Daher hab ich ihnen mitgeteilt, dass jeder Hafen die maritime Verpflichtung hat, Schiffe bei der Bevorratung zu unterstützen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0605">
-              <en><![CDATA[We even offered generous payment in Malabo Crowns, which is one of the most stable currencies south of the equator.]]></en>
+              <en><![CDATA[We even offered generous payment in Malabo Crowns, which is among the most stable currencies south of the equator.]]></en>
               <de><![CDATA[Wir boten sogar eine großzügige Zahlung in Malabo-Kronen an ... eine der stabilsten Währungen südlich des Äquators.]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0606">
-              <en><![CDATA[However, they declined. When I demanded to talk to their superiors they said that this man named Lowell Cain would come to see us the next day. So we stayed at anchor in Ravenhollow harbor. ]]></en>
-              <de><![CDATA[Aber sie lehnten ab. Als ich sie bat, zu ihrem Vorgesetzten vorgelassen zu werden, meinten sie, dass dieser Lowell Cain uns am nächsten Tag empfangen würde. Also blieben wir im Hafen von Ravenhollow vor Anker.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0600">
+              <en><![CDATA[However, they declined. When I demanded to talk to their superiors, they said that this man named Cain would come to see us the next day.]]></en>
+              <de><![CDATA[Aber sie lehnten ab. Als ich sie bat, zu ihrem Vorgesetzten vorgelassen zu werden, meinten sie, dass dieser Cain uns am nächsten Tag empfangen würde.]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0607">
-              <en><![CDATA[During the night his men came aboard the &#8222;Sparrow&#8220; and stole the bulk of our cargo from the hold and the ship log from my quarters.]]></en>
-              <de><![CDATA[Während dieser Nacht kamen seine Männer an Bord der &#8222;Sparrow&#8220; und stahlen den Großteil unserer Fracht aus dem Laderaum und das Logbuch aus meinem Quartier.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0613">
+              <en><![CDATA[During the night, Cain’s men came aboard The Sparrow and stole the bulk of our cargo and the ship log from my quarters.]]></en>
+              <de><![CDATA[Während dieser Nacht kamen seine Männer an Bord Der Sparrow und stahlen den Großteil unserer Fracht aus dem Laderaum und das Logbuch aus meinem Quartier.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7275,16 +7275,16 @@
               <de><![CDATA[Daher hab ich ihnen mitgeteilt, dass jeder Hafen die maritime Verpflichtung hat, Schiffe bei der Bevorratung zu unterstützen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0611">
-              <en><![CDATA[We even offered generous payment in Malabo Crowns, which is one of the most stable currencies south of the equator.]]></en>
+              <en><![CDATA[We even offered generous payment in Malabo Crowns, which is among the most stable currencies south of the equator.]]></en>
               <de><![CDATA[Wir boten sogar eine großzügige Zahlung in Malabo-Kronen an ... eine der stabilsten Währungen südlich des Äquators.]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0612">
-              <en><![CDATA[However, they declined. When I demanded to talk to their superiors they said that this man named Lowell Cain would come to see us the next day. So we stayed at anchor in Ravenhollow harbor. ]]></en>
-              <de><![CDATA[Aber sie lehnten ab. Als ich sie bat, zu ihrem Vorgesetzten vorgelassen zu werden, meinten sie, dass dieser Lowell Cain uns am nächsten Tag empfangen würde. Also blieben wir im Hafen von Ravenhollow vor Anker.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0600">
+              <en><![CDATA[However, they declined. When I demanded to talk to their superiors, they said that this man named Cain would come to see us the next day.]]></en>
+              <de><![CDATA[Aber sie lehnten ab. Als ich sie bat, zu ihrem Vorgesetzten vorgelassen zu werden, meinten sie, dass dieser Cain uns am nächsten Tag empfangen würde.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0613">
-              <en><![CDATA[During the night his men came aboard the &#8222;Sparrow&#8220; and stole the bulk of our cargo from the hold and the ship log from my quarters.]]></en>
-              <de><![CDATA[Während dieser Nacht kamen seine Männer an Bord der &#8222;Sparrow&#8220; und stahlen den Großteil unserer Fracht aus dem Laderaum und das Logbuch aus meinem Quartier.]]></de>
+              <en><![CDATA[During the night, Cain’s men came aboard The Sparrow and stole the bulk of our cargo and the ship log from my quarters.]]></en>
+              <de><![CDATA[Während dieser Nacht kamen seine Männer an Bord Der Sparrow und stahlen den Großteil unserer Fracht aus dem Laderaum und das Logbuch aus meinem Quartier.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7302,7 +7302,7 @@
               <de><![CDATA[Bitte hören Sie auf. Die Geschichte ist zu schrecklich ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0615">
-              <en><![CDATA[If you insist, but you haven’t heard half of it yet ...]]></en>
+              <en><![CDATA[If you insist, but you haven’t heard the worst of it yet ...]]></en>
               <de><![CDATA[Wenn Sie darauf bestehen. Doch Sie haben noch nicht einmal die Hälfte gehört ...]]></de>
             </dia>
           </dialog>
@@ -7322,13 +7322,13 @@
               <en><![CDATA[What happened then?]]></en>
               <de><![CDATA[Was ist dann passiert?]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0593">
-              <en><![CDATA[Of course I had to stay to resolve the matter. But talking to Lowell Cain’s clowns at the bridge and the Port Authority is impossible and useless... ]]></en>
-              <de><![CDATA[Natürlich musste ich bleiben, um das Problem zu lösen. Doch ein Gespräch mit Lowell Cains Clowns an der Brücke und in der Hafenverwaltung ist unmöglich und zwecklos ...]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0621">
+              <en><![CDATA[Of course I had to stay to resolve the matter. But talking to Lowell Cain’s henchmen at the bridge and the Port Authority is impossible ...]]></en>
+              <de><![CDATA[Natürlich musste ich bleiben, um das Problem zu lösen. Doch ein Gespräch mit Lowell Cains Handlanger an der Brücke und in der Hafenverwaltung ist unmöglich ...]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0594">
-              <en><![CDATA[... it’s like handcuffing an octopus, even for a trained diplomat like myself.]]></en>
-              <de><![CDATA[... es ist wie einem Kraken Handschellen anzulegen, selbst für einen geschulten Diplomaten wie mich.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0622">
+              <en><![CDATA[Even for a trained diplomat like myself.]]></en>
+              <de><![CDATA[Selbst für einen geschulten Diplomaten wie mich.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0595">
               <en><![CDATA[Those crooks should be tarred and feathered!]]></en>
@@ -7349,13 +7349,13 @@
               <en><![CDATA[This is intolerable!]]></en>
               <de><![CDATA[Ich fass es nicht!]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0617">
-              <en><![CDATA[Of course I had to stay to resolve the matter. But talking to Lowell Cain’s clowns at the bridge and the Port Authority is impossible and useless... ]]></en>
-              <de><![CDATA[Natürlich musste ich bleiben, um das Problem zu lösen. Doch ein Gespräch mit Lowell Cains Clowns an der Brücke und in der Hafenverwaltung ist unmöglich und zwecklos ...]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0621">
+              <en><![CDATA[Of course I had to stay to resolve the matter. But talking to Lowell Cain’s henchmen at the bridge and the Port Authority is impossible ...]]></en>
+              <de><![CDATA[Natürlich musste ich bleiben, um das Problem zu lösen. Doch ein Gespräch mit Lowell Cains Handlanger an der Brücke und in der Hafenverwaltung ist unmöglich ...]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0618">
-              <en><![CDATA[... it’s like handcuffing an octopus, even for a trained diplomat like myself.]]></en>
-              <de><![CDATA[... es ist wie einem Kraken Handschellen anzulegen, selbst für einen geschulten Diplomaten wie mich.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0622">
+              <en><![CDATA[Even for a trained diplomat like myself.]]></en>
+              <de><![CDATA[Selbst für einen geschulten Diplomaten wie mich.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0619">
               <en><![CDATA[Those crooks should be tarred and feathered!]]></en>
@@ -7377,12 +7377,12 @@
               <de><![CDATA[Erzählen Sie weiter!]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0621">
-              <en><![CDATA[Of course I had to stay to resolve the matter. But talking to Lowell Cain’s clowns at the bridge and the Port Authority is impossible and useless... ]]></en>
-              <de><![CDATA[Natürlich musste ich bleiben, um das Problem zu lösen. Doch ein Gespräch mit Lowell Cains Clowns an der Brücke und in der Hafenverwaltung ist unmöglich und zwecklos ...]]></de>
+              <en><![CDATA[Of course I had to stay to resolve the matter. But talking to Lowell Cain’s henchmen at the bridge and the Port Authority is impossible ...]]></en>
+              <de><![CDATA[Natürlich musste ich bleiben, um das Problem zu lösen. Doch ein Gespräch mit Lowell Cains Handlanger an der Brücke und in der Hafenverwaltung ist unmöglich ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0622">
-              <en><![CDATA[... it’s like handcuffing an octopus, even for a trained diplomat like myself.]]></en>
-              <de><![CDATA[... es ist wie einem Kraken Handschellen anzulegen, selbst für einen geschulten Diplomaten wie mich.]]></de>
+              <en><![CDATA[Even for a trained diplomat like myself.]]></en>
+              <de><![CDATA[Selbst für einen geschulten Diplomaten wie mich.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0623">
               <en><![CDATA[Those crooks should be tarred and feathered!]]></en>
@@ -7429,11 +7429,11 @@
               <de><![CDATA[Am nächsten Tag kam Lowell Cain auf unser Schiff und informierte uns darüber, dass das Schloss uns großzügigerweise den Aufenthalt im Hafen gewähren würde, wenn wir Liegegebühren zahlen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0589">
-              <en><![CDATA[His men even issued me a useless village pass. Can you believe that!?]]></en>
+              <en><![CDATA[His men even issued me a worthless village pass. Can you believe that!?]]></en>
               <de><![CDATA[Seine Männer stellten mir sogar einen nutzlosen Dorfpass aus. Können Sie das glauben!?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0590">
-              <en><![CDATA[When I told him that his men ransacked us during the night, he replied that his men had just confiscated &#8222;suspicious goods&#8220; and ...]]></en>
+              <en><![CDATA[When I confronted him about being ransacked during the night, he replied that his men had simply confiscated &#8222;suspicious goods&#8220; and ...]]></en>
               <de><![CDATA[Als ich ihm sagte, dass seine Männer uns in der Nacht ausgeplündert haben, antwortete er, seine Männer hätten lediglich &#8222;verdächtigte Ware&#8220; konfisziert und ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0591">
@@ -7460,11 +7460,11 @@
               <de><![CDATA[Am nächsten Tag kam Lowell Cain auf unser Schiff und informierte uns darüber, dass das Schloss uns großzügigerweise den Aufenthalt im Hafen gewähren würde, wenn wir Liegegebühren zahlen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0628">
-              <en><![CDATA[His men even issued me a useless village pass. Can you believe that!?]]></en>
+              <en><![CDATA[His men even issued me a worthless village pass. Can you believe that!?]]></en>
               <de><![CDATA[Seine Männer stellten mir sogar einen nutzlosen Dorfpass aus. Können Sie das glauben!?]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0629">
-              <en><![CDATA[When I told him that his men ransacked us during the night, he replied that his men had just confiscated &#8222;suspicious goods&#8220; and ...]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0590">
+              <en><![CDATA[When I confronted him about being ransacked during the night, he replied that his men had simply confiscated &#8222;suspicious goods&#8220; and ...]]></en>
               <de><![CDATA[Als ich ihm sagte, dass seine Männer uns in der Nacht ausgeplündert haben, antwortete er, seine Männer hätten lediglich &#8222;verdächtigte Ware&#8220; konfisziert und ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0630">
@@ -7491,11 +7491,11 @@
               <de><![CDATA[Am nächsten Tag kam Lowell Cain auf unser Schiff und informierte uns darüber, dass das Schloss uns großzügigerweise den Aufenthalt im Hafen gewähren würde, wenn wir Liegegebühren zahlen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0633">
-              <en><![CDATA[His men even issued me a useless village pass. Can you believe that!?]]></en>
+              <en><![CDATA[His men even issued me a worthless village pass. Can you believe that!?]]></en>
               <de><![CDATA[Seine Männer stellten mir sogar einen nutzlosen Dorfpass aus. Können Sie das glauben!?]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0634">
-              <en><![CDATA[When I told him that his men ransacked us during the night, he replied that his men had just confiscated &#8222;suspicious goods&#8220; and ...]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0590">
+              <en><![CDATA[When I confronted him about being ransacked during the night, he replied that his men had simply confiscated &#8222;suspicious goods&#8220; and ...]]></en>
               <de><![CDATA[Als ich ihm sagte, dass seine Männer uns in der Nacht ausgeplündert haben, antwortete er, seine Männer hätten lediglich &#8222;verdächtigte Ware&#8220; konfisziert und ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0635">
@@ -7543,7 +7543,7 @@
               <de><![CDATA[Wir kamen vor über einer Woche hier im Hafen von Ravenhollow an, um unsere Vorräte aufzustocken und um zu handeln.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0586">
-              <en><![CDATA[However, Lowell Cain’s men informed us that the Castle now forbids foreign ships to anchor and trade.]]></en>
+              <en><![CDATA[However, Lowell Cain’s men informed us that the Castle now forbids foreign ships to anchor.]]></en>
               <de><![CDATA[Lowell Cains Männer informierten uns jedoch, dass das Schloss nun jeglichen Handel mit&#8212;oder das Ankern von&#8212;fremden Schiffen untersagt hat.]]></de>
             </dia>
           </dialog>
@@ -7566,7 +7566,7 @@
               <de><![CDATA[Wir kamen vor über einer Woche hier im Hafen von Ravenhollow an, um unsere Vorräte aufzustocken und um zu handeln.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0640">
-              <en><![CDATA[However, Lowell Cain’s men informed us that the Castle now forbids foreign ships to anchor and trade.]]></en>
+              <en><![CDATA[However, Lowell Cain’s men informed us that the Castle now forbids foreign ships to anchor.]]></en>
               <de><![CDATA[Lowell Cains Männer informierten uns jedoch, dass das Schloss nun jeglichen Handel mit&#8212;oder das Ankern von&#8212;fremden Schiffen untersagt hat.]]></de>
             </dia>
           </dialog>
@@ -7585,20 +7585,20 @@
               <de><![CDATA[Was werden Sie nun unternehmen?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0642">
-              <en><![CDATA[As a diplomat and a trader, I demand that the stolen goods and the ship log are returned. ]]></en>
+              <en><![CDATA[As a diplomat and a trader, I demand that my stolen goods and ship log are returned.]]></en>
               <de><![CDATA[Als Diplomat und Händler fordere ich, dass die gestohlenen Waren und das Logbuch ausgehändigt werden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0643">
-              <en><![CDATA[And in the name of the free Kingdom of Malabo and my crew, I expect an apology.]]></en>
+              <en><![CDATA[And, in the name of my crew and the free Kingdom of Malabo, I expect an apology.]]></en>
               <de><![CDATA[Und im Namen des freien Königreichs Malabo und meiner Crew erwarte ich eine Entschuldigung.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0644">
-              <en><![CDATA[The crew of the &#8222;Sparrow&#8220; will stay here until these requests are met.]]></en>
-              <de><![CDATA[Die Crew der &#8222;Sparrow&#8220; wird hier ausharren, bis unsere Forderungen erfüllt wurden.]]></de>
+              <en><![CDATA[The crew of The Sparrow will stay here until these requests are met.]]></en>
+              <de><![CDATA[Die Crew Der Sparrow wird hier ausharren, bis unsere Forderungen erfüllt wurden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0645">
-              <en><![CDATA[Or until I lose my patience and let my blade do the talking! Argh.]]></en>
-              <de><![CDATA[Oder bis ich meine Geduld verliere und meine Klinge sprechen lasse! Argh.]]></de>
+              <en><![CDATA[Or ... until I lose my patience and let my blade do the talking! Argh.]]></en>
+              <de><![CDATA[Oder ... bis ich meine Geduld verliere und meine Klinge sprechen lasse! Argh.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7616,20 +7616,20 @@
               <de><![CDATA[Können Sie mir noch einmal sagen, was Sie nun zu tun gedenken?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0647">
-              <en><![CDATA[As a diplomat and a trader, I demand that the stolen goods and the ship log are returned. ]]></en>
+              <en><![CDATA[As a diplomat and a trader, I demand that my stolen goods and ship log are returned.]]></en>
               <de><![CDATA[Als Diplomat und Händler fordere ich, dass die gestohlenen Waren und das Logbuch ausgehändigt werden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0648">
-              <en><![CDATA[And in the name of the free Kingdom of Malabo and my crew, I expect an apology.]]></en>
+              <en><![CDATA[And, in the name of my crew and the free Kingdom of Malabo, I expect an apology.]]></en>
               <de><![CDATA[Und im Namen des freien Königreichs Malabo und meiner Crew erwarte ich eine Entschuldigung.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0649">
-              <en><![CDATA[The crew of the &#8222;Sparrow&#8220; will stay here until these requests are met.]]></en>
-              <de><![CDATA[Die Crew der &#8222;Sparrow&#8220; wird hier ausharren, bis unsere Forderungen erfüllt wurden.]]></de>
+              <en><![CDATA[The crew of The Sparrow will stay here until these requests are met.]]></en>
+              <de><![CDATA[Die Crew Der Sparrow wird hier ausharren, bis unsere Forderungen erfüllt wurden.]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0650">
-              <en><![CDATA[Or until I lose my patience and let my blade do the talking! Argh.]]></en>
-              <de><![CDATA[Oder bis ich meine Geduld verliere und meine Klinge sprechen lasse! Argh.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0645">
+              <en><![CDATA[Or ... until I lose my patience and let my blade do the talking! Argh.]]></en>
+              <de><![CDATA[Oder ... bis ich meine Geduld verliere und meine Klinge sprechen lasse! Argh.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7647,19 +7647,19 @@
               <de><![CDATA[Haben Sie irgendeine Ahnung, wer dieser Lowell Cain ist?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0652">
-              <en><![CDATA[He’s the Baron’s right&#8212;hand man ... although if memory serves me, the Baron was always an honest man.]]></en>
+              <en><![CDATA[He’s the Baron’s right-hand man ... although if memory serves me, the Baron was always an honest man.]]></en>
               <de><![CDATA[Er ist die rechte Hand des Barons ... obwohl der Baron stets ein ehrlicher Mann gewesen sein soll, wenn mich meine Erinnerung nicht täuscht.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0653">
-              <en><![CDATA[Lowell Cain is most definitely not. ]]></en>
-              <de><![CDATA[Lowell Cain ist es definitiv nicht.]]></de>
+              <en><![CDATA[Lowell Cain is most definitely not!]]></en>
+              <de><![CDATA[Lowell Cain ist es definitiv nicht!]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0654">
-              <en><![CDATA[Why, Cain didn’t even blink when he lied to me about the goods his men stole from me. Cain even steals from the locals.]]></en>
+              <en><![CDATA[Why, Cain didn’t even blink an eye when he lied to me about the goods his men stole from me. Cain even steals from the locals.]]></en>
               <de><![CDATA[Cain hat nicht einmal mit der Wimper gezuckt, als er mich wegen der Waren anlog, die seine Männern gestohlen haben. Cain bestiehlt selbst die Einheimischen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0655">
-              <en><![CDATA[He sends his men down to the harbor in the evening to take most of what the fisherman caught during the day up to the Castle.]]></en>
+              <en><![CDATA[He sends his men down to the harbor in the evening to take most of what the fisherman caught during the day.]]></en>
               <de><![CDATA[Er schickt seine Männer am Abend in den Hafen hinunter, um den Großteil des Fanges zum Schloss zu bringen, den die Fischer im Laufe des Tages einholen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0656">
@@ -7682,19 +7682,19 @@
               <de><![CDATA[Noch einmal wegen Lowell Cain ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0658">
-              <en><![CDATA[He’s the Baron’s right&#8212;hand man ... although if memory serves me, the Baron was always an honest man.]]></en>
+              <en><![CDATA[He’s the Baron’s right-hand man ... although if memory serves me, the Baron was always an honest man.]]></en>
               <de><![CDATA[Er ist die rechte Hand des Barons ... obwohl der Baron stets ein ehrlicher Mann gewesen sein soll, wenn mich meine Erinnerung nicht täuscht.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0659">
-              <en><![CDATA[Lowell Cain is most definitely not. ]]></en>
-              <de><![CDATA[Lowell Cain ist es definitiv nicht.]]></de>
+              <en><![CDATA[Lowell Cain is most definitely not!]]></en>
+              <de><![CDATA[Lowell Cain ist es definitiv nicht!]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0660">
-              <en><![CDATA[Why, Cain didn’t even blink when he lied to me about the goods his men stole from me. Cain even steals from the locals.]]></en>
+              <en><![CDATA[Why, Cain didn’t even blink an eye when he lied to me about the goods his men stole from me. Cain even steals from the locals.]]></en>
               <de><![CDATA[Cain hat nicht einmal mit der Wimper gezuckt, als er mich wegen der Waren anlog, die seine Männern gestohlen haben. Cain bestiehlt selbst die Einheimischen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0661">
-              <en><![CDATA[He sends his men down to the harbor in the evening to take most of what the fisherman caught during the day up to the Castle.]]></en>
+              <en><![CDATA[He sends his men down to the harbor in the evening to take most of what the fisherman caught during the day.]]></en>
               <de><![CDATA[Er schickt seine Männer am Abend in den Hafen hinunter, um den Großteil des Fanges zum Schloss zu bringen, den die Fischer im Laufe des Tages einholen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0662">
@@ -7738,8 +7738,8 @@
               <de><![CDATA[Ich erhielt dieses Testament. Ich glaube, dass es von einem Mann namens Lionstone unterzeichnet wurde.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0711">
-              <en><![CDATA[You should find that man and consult him about it. I’m sure the locals will be able to tell you where you can find the lawyer ...]]></en>
-              <de><![CDATA[Sie sollten diesen Mann finden und ihn darauf ansprechen. Ich bin mir sicher, dass die Einheimischen Ihnen sagen können, wo Sie den Anwalt finden ...]]></de>
+              <en><![CDATA[You should find that man and consult him about it. I’m sure the locals will be able to tell you where you can find the lawyer.]]></en>
+              <de><![CDATA[Sie sollten diesen Mann finden und ihn darauf ansprechen. Ich bin mir sicher, dass die Einheimischen Ihnen sagen können, wo Sie den Anwalt finden.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7756,9 +7756,9 @@
               <en><![CDATA[About the will I got from lawyer Lionstone...]]></en>
               <de><![CDATA[Wegen dem Testament, das ich von dem Anwalt Lionstone erhielt ...]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0713">
-              <en><![CDATA[You should find that man and consult him about it. I’m sure the locals will be able to tell you where you can find the lawyer ...]]></en>
-              <de><![CDATA[Sie sollten diesen Mann finden und ihn darauf ansprechen. Ich bin mir sicher, dass die Einheimischen Ihnen sagen können, wo Sie den Anwalt finden ...]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0711">
+              <en><![CDATA[You should find that man and consult him about it. I’m sure the locals will be able to tell you where you can find the lawyer.]]></en>
+              <de><![CDATA[Sie sollten diesen Mann finden und ihn darauf ansprechen. Ich bin mir sicher, dass die Einheimischen Ihnen sagen können, wo Sie den Anwalt finden.]]></de>
             </dia>
           </dialog>
           <script>
@@ -7775,8 +7775,8 @@
               <en><![CDATA[Have you heard of the Smith Institute?]]></en>
               <de><![CDATA[Wissen Sie etwas über das Smith-Institut?]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0715">
-              <en><![CDATA[Sorry friend, I’m not from around here. You’ll have to ask some of the locals about that.]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0718">
+              <en><![CDATA[Sorry, friend. I am not from around here. You’ll have to ask some of the locals about that.]]></en>
               <de><![CDATA[Tut mir Leid, mein Freund. Ich bin nicht von hier. Sie müssten da besser einige der Einheimischen dazu befragen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0716">
@@ -7799,7 +7799,7 @@
               <de><![CDATA[Können Sie mir wirklich nichts über das Smith-Institut sagen?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0718">
-              <en><![CDATA[Sorry friend, I’m not from around here. You’ll have to ask some of the locals about that.]]></en>
+              <en><![CDATA[Sorry, friend. I am not from around here. You’ll have to ask some of the locals about that.]]></en>
               <de><![CDATA[Tut mir Leid, mein Freund. Ich bin nicht von hier. Sie müssten da besser einige der Einheimischen dazu befragen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0719">
@@ -7839,20 +7839,20 @@
               <de><![CDATA[Ich hab Sie vorhin in einer hitzigen Diskussion mit dieser Schlosswache auf der Brücke gesehen ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0580">
-              <en><![CDATA[Yes... I fear that it’s a grim situation.]]></en>
+              <en><![CDATA[Yes... I fear that is a grim situation.]]></en>
               <de><![CDATA[Ja ... das ist eine unglaubliche Angelegenheit.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0581">
-              <en><![CDATA[Lowell Cain’s men stole cargo and the ship log from my ship, the &#8222;Sparrow&#8220;, but to confront those two goons in the Port Authority about it is useless.]]></en>
-              <de><![CDATA[Lowell Cains Männer haben Fracht und das Logbuch von meinem Schiff gestohlen, der &#8222;Sparrow&#8220;, aber es ist zwecklos, die beiden Beamten in der Hafenverwaltung darauf anzusprechen.]]></de>
+              <en><![CDATA[Lowell Cain’s men stole my cargo and ship log, but to confront those two henchmen in the Port Authority about it is useless.]]></en>
+              <de><![CDATA[Lowell Cains Männer haben Fracht und das Logbuch von meinem Schiff gestohlen, Der Sparrow, aber es ist zwecklos, die beiden Beamten in der Hafenverwaltung darauf anzusprechen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0582">
-              <en><![CDATA[They’ve clearly had no formal training as harbor administrators, so talking to them is akin to talking to a brick wall. ]]></en>
+              <en><![CDATA[They’ve clearly had no formal training as harbor administrators, so talking to them is useless.]]></en>
               <de><![CDATA[Sie haben eindeutig keine offizielle Ausbildung zum Hafenverwalter durchlaufen. Ein Gespräch mit denen ist so sinnvoll wie ein Gespräch mit einem Sack Zement.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0583">
-              <en><![CDATA[I’d love to storm that office and arrest those men in the name of justice ... ]]></en>
-              <de><![CDATA[Ich würde dieses Büro am liebsten stürmen und diese Männer im Namen des Gesetzes hochnehmen ...]]></de>
+              <en><![CDATA[I’d love to storm that office and arrest those men in the name of justice!]]></en>
+              <de><![CDATA[Ich würde dieses Büro am liebsten stürmen und diese Männer im Namen des Gesetzes hochnehmen!]]></de>
             </dia>
           </dialog>
           <script>
@@ -7889,11 +7889,11 @@
               <de><![CDATA[Gibt es irgendetwas, das ich tun kann, um Ihnen und Ihren Männern zu helfen?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0668">
-              <en><![CDATA[I hate to admit it, but we are running low on food ...]]></en>
+              <en><![CDATA[In fact, there is. We are running low on food ...]]></en>
               <de><![CDATA[Ich gebe es nicht gerne zu, doch uns gehen die Lebensmittel aus ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0669">
-              <en><![CDATA[After all Lowell Cain’s men stole most of our supplies and the local fishermen have to give their catch to the Castle, too.]]></en>
+              <en><![CDATA[Lowell Cain’s men stole most of our supplies, and the local fishermen are forced to give their catch to the Castle.]]></en>
               <de><![CDATA[Lowell Cains Männer haben den Großteil unserer Vorräte gestohlen und die einheimischen Fischer müssen ihren Fang auch an das Schloss abgeben.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0670">
@@ -7919,12 +7919,12 @@
               <en><![CDATA[What was that about me helping out with food supplies?]]></en>
               <de><![CDATA[Wie sagten Sie kann ich Ihnen mit Lebensmitteln aushelfen?]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0673">
-              <en><![CDATA[I hate to admit it, but we are running low on food ...]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0668">
+              <en><![CDATA[In fact, there is. We are running low on food ...]]></en>
               <de><![CDATA[Ich gebe es nicht gerne zu, doch uns gehen die Lebensmittel aus ...]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0674">
-              <en><![CDATA[After all Lowell Cain’s men stole most of our supplies and the local fishermen have to give their catch to the Castle, too.]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0669">
+              <en><![CDATA[Lowell Cain’s men stole most of our supplies, and the local fishermen are forced to give their catch to the Castle.]]></en>
               <de><![CDATA[Lowell Cains Männer haben den Großteil unserer Vorräte gestohlen und die einheimischen Fischer müssen ihren Fang auch an das Schloss abgeben.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0675">
@@ -7951,8 +7951,8 @@
               <de><![CDATA[Mannomann, das ist ein schönes Teleskop, das Sie da haben ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0678">
-              <en><![CDATA[Ha! This old thing? Don’t be fooled by its outward appearance.]]></en>
-              <de><![CDATA[Ha! Dieses alte Ding? Lassen Sie sich nicht von seiner äußeren Erscheinung blenden.]]></de>
+              <en><![CDATA[This old thing? Do not be fooled by its outward appearance.]]></en>
+              <de><![CDATA[Dieses alte Ding? Lassen Sie sich nicht von seiner äußeren Erscheinung blenden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0679">
               <en><![CDATA[The lenses are so loose that I can barely make it focus anymore.]]></en>
@@ -7963,11 +7963,11 @@
               <de><![CDATA[Nun, wenn es soooo nutzlos ist, wieso entsorgen Sie es nicht? Oder noch besser, geben Sie es mir! Ich bin sicher, dass ich es später noch gebrauchen kann.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0681">
-              <en><![CDATA[Believe me, there’s nothing that I would like more than to cast it into the ocean!]]></en>
+              <en><![CDATA[Believe me, there is nothing I would enjoy more than casting it into the ocean!]]></en>
               <de><![CDATA[Glauben Sie mir, ich würde es liebend gerne in den Ozean werfen!]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0682">
-              <en><![CDATA[However, I have no other way to navigate the Sparrow through the treacherous reefs off the coast of Malabo.]]></en>
+              <en><![CDATA[Unfortunately, I have no other way to navigate The Sparrow through the treacherous reefs off the coast of Malabo.]]></en>
               <de><![CDATA[Doch leider habe ich keine andere Möglichkeit, die Sparrow durch die tückischen Riffe vor der Küste von Malabo zu navigieren.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0683">
@@ -7979,7 +7979,7 @@
               <de><![CDATA[Sie sind hartnäckig, Nigel Trelawney, doch Ihr Angebot ist für uns beide von Vorteil.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0685">
-              <en><![CDATA[Therefore, I would gladly trade this telescope for a map that would guide the Sparrow safely into Malabo.]]></en>
+              <en><![CDATA[I would gladly trade this telescope for a map that would guide The Sparrow safely into Malabo.]]></en>
               <de><![CDATA[Daher würde ich es gerne gegen eine Karte eintauschen, die die Sparrow sicher nach Malabo führt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0686">
@@ -8006,8 +8006,8 @@
               <en><![CDATA[The lenses are so loose that I can barely make it focus anymore.]]></en>
               <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokussieren kann.]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0689">
-              <en><![CDATA[Therefore, I would gladly trade this telescope for a map that would guide the Sparrow safely into Malabo.]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0685">
+              <en><![CDATA[I would gladly trade this telescope for a map that would guide The Sparrow safely into Malabo.]]></en>
               <de><![CDATA[Daher würde ich es gerne gegen eine Karte eintauschen, die die Sparrow sicher nach Malabo führt.]]></de>
             </dia>
           </dialog>
@@ -8026,15 +8026,15 @@
               <de><![CDATA[Haben Sie als Außenstehende einen Weg gefunden, um in das Dorf Ravenhollow zu gelangen?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0691">
-              <en><![CDATA[Why yes, the castle requires a &#8222;village pass&#8220; to cross the bridge into town. Lowell Cain’s men issued me one so that I could trade with the townsfolk.]]></en>
+              <en><![CDATA[Yes. The Castle requires a &#8222;village pass&#8220; to cross the bridge into town. Lowell Cain’s men issued me one so that I can trade with the townsfolk.]]></en>
               <de><![CDATA[Das Schloss fordert einen &#8222;Dorfpass&#8220;, um die Brücke in die Stadt überqueren zu können. Lowell Cains Männer haben mir einen ausgestellt, damit ich mit den Stadtbewohnern handeln kann.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0692">
-              <en><![CDATA[While that may sound hospitable of them, I suspect that they only facilitate my business so they may impose heavy taxes. It’s such a ruse!]]></en>
+              <en><![CDATA[While that may sound hospitable of them, I suspect they only facilitate my business to impose heavy taxes. It is such a ruse!]]></en>
               <de><![CDATA[Obwohl das gastfreundlich von ihnen erscheinen mag, vermute ich, dass mir das Handeln erleichtern wollen, um hohe Steuern erheben zu können. Eine gemeine List!]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0693">
-              <en><![CDATA[I am pretty sure that these men have no legal authority in this town whatsoever. Even if that pass had any legal value at all I wouldn’t want it!]]></en>
+              <en><![CDATA[I am certain that these men have no legal authority in this town. Even if that pass had any meaningful value, I wouldn’t want it!]]></en>
               <de><![CDATA[Ich bin mir ziemlich sicher, dass diese Männer keine rechtmäßige Befugnis irgendwelcher Art in dieser Stadt haben. Selbst wenn dieser Pass irgendeinen rechtlichen Wert hätte, würde ich ihn nicht wollen!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0694">
@@ -8042,24 +8042,24 @@
               <de><![CDATA[Wenn Sie Ihren Pass nicht benötigen, könnten Sie ihn vielleicht mir überlassen? Ich muss wirklich dringend in das Dorf, um den Anwalt meines Vaters zu finden.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0695">
-              <en><![CDATA[I would like to help you Nigel Trelawney ... perhaps we can make a deal.]]></en>
-              <de><![CDATA[Ich möchte Ihnen gerne helfen, Nigel Trelawney ... vielleicht können wir einen Handel vereinbaren.]]></de>
+              <en><![CDATA[I would like to help you, Nigel Trelawney. Perhaps we can make a deal.]]></en>
+              <de><![CDATA[Ich möchte Ihnen gerne helfen, Nigel Trelawney. Vielleicht können wir einen Handel vereinbaren.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0696">
               <en><![CDATA[If you can retrieve the ship log that Cain’s men stole from my ship, then I will give you my village pass.]]></en>
               <de><![CDATA[Wenn Sie mein Logbuch wiederbeschaffen können, das Cains Männer von meinem Schiff gestohlen haben, dann werde ich Ihnen den Dorfpass überlassen.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0697">
-              <en><![CDATA[With the log I can at least submit an official report to the Malabo authorities concerning the villainy at work here.]]></en>
+              <en><![CDATA[With my ship log, I can at least submit an official report to the Malabo authorities concerning the villainy at work here.]]></en>
               <de><![CDATA[Dieses Logbuch würde es mir zumindest ermöglichen, einen offiziellen Bericht über die hier herrschende Schurkerei an meine Regierung zu übermitteln.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0698">
               <en><![CDATA[That sounds fair ... any idea where I would find this ship log?]]></en>
               <de><![CDATA[Das klingt fair ... irgendeine Idee, wo ich dieses Logbuch finden kann?]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0699">
-              <en><![CDATA[I honestly can’t say where Lowell Cain’s men would have taken it. I can only assume that it’s locked up in a cache with all their other confiscated goods.]]></en>
-              <de><![CDATA[Ich kann ehrlich gesagt nicht sagen, wo Lowell Cains Männer es aufbewahren. Ich kann lediglich vermuten, dass es in einem geheimen Lager mit den anderen beschlagnahmten Waren verschlossen ist.]]></de>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0703">
+              <en><![CDATA[I honestly cannot say where Cain’s men would have taken it. I can only assume that it’s locked up with the rest of their confiscated goods.]]></en>
+              <de><![CDATA[Ich kann ehrlich gesagt nicht sagen, wo Cains Männer es aufbewahren. Ich kann lediglich vermuten, dass es in einem geheimen Lager mit den anderen beschlagnahmten Waren verschlossen ist.]]></de>
             </dia>
           </dialog>
           <script>
@@ -8077,8 +8077,8 @@
               <de><![CDATA[Wegen diesem Dorfpass, den Sie mir im Tausch gegen Ihr Logbuch überlassen wollen ...]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0695">
-              <en><![CDATA[I would like to help you Nigel Trelawney ... perhaps we can make a deal.]]></en>
-              <de><![CDATA[Ich möchte Ihnen gerne helfen, Nigel Trelawney ... vielleicht können wir einen Handel vereinbaren.]]></de>
+              <en><![CDATA[I would like to help you, Nigel Trelawney. Perhaps we can make a deal.]]></en>
+              <de><![CDATA[Ich möchte Ihnen gerne helfen, Nigel Trelawney. Vielleicht können wir einen Handel vereinbaren.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0696">
               <en><![CDATA[If you can retrieve the ship log that Cain’s men stole from my ship, then I will give you my village pass.]]></en>
@@ -8089,8 +8089,8 @@
               <de><![CDATA[Das klingt fair ... irgendeine Idee, wo ich dieses Logbuch finden kann?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0703">
-              <en><![CDATA[I honestly can’t say where Lowell Cain’s men would have taken it. I can only assume that it’s locked up in a cache with all their other confiscated goods.]]></en>
-              <de><![CDATA[Ich kann ehrlich gesagt nicht sagen, wo Lowell Cains Männer es aufbewahren. Ich kann lediglich vermuten, dass es in einem geheimen Lager mit den anderen beschlagnahmten Waren verschlossen ist.]]></de>
+              <en><![CDATA[I honestly cannot say where Cain’s men would have taken it. I can only assume that it’s locked up with the rest of their confiscated goods.]]></en>
+              <de><![CDATA[Ich kann ehrlich gesagt nicht sagen, wo Cains Männer es aufbewahren. Ich kann lediglich vermuten, dass es in einem geheimen Lager mit den anderen beschlagnahmten Waren verschlossen ist.]]></de>
             </dia>
           </dialog>
           <script>
@@ -8112,12 +8112,12 @@
               <de><![CDATA[Ich bin eine Händlerin aus dem freien Königreich Malabo.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0706">
-              <en><![CDATA[My crew and I have sailed together on the &#8222;Sparrow&#8220; under the Malabo flag for five years now.]]></en>
-              <de><![CDATA[Meine Crew und ich segeln seit nunmehr fünf Jahren zusammen auf der &#8222;Sparrow&#8220; unter der malabooleanischen Flagge.]]></de>
+              <en><![CDATA[My crew and I have sailed together on The Sparrow under the Malabo flag for over five years now.]]></en>
+              <de><![CDATA[Meine Crew und ich segeln seit nunmehr fünf Jahren zusammen auf Der Sparrow unter der malabooleanischen Flagge.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0707">
-              <en><![CDATA[... but mark my words, never before have we run into a situation like this. It’s outrageous!]]></en>
-              <de><![CDATA[... doch ich muss sagen: NIE zuvor sind wir in eine vergleichbare Situation geraten. Es ist empörend!]]></de>
+              <en><![CDATA[Mark my words: never before have we run into a situation like this. It is outrageous!]]></en>
+              <de><![CDATA[Doch ich muss sagen: NIE zuvor sind wir in eine vergleichbare Situation geraten. Es ist empörend!]]></de>
             </dia>
           </dialog>
           <script>
@@ -8135,7 +8135,7 @@
               <de><![CDATA[Ich kam nach Ravenhollow, um mich um den Nachlass meines Vaters zu kümmern. Können Sie mir helfen?]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0709">
-              <en><![CDATA[I doubt that there’s much I can do for you, friend. However, I used to work for the Malabo Foreign Secretary, so perhaps I can offer some advice?]]></en>
+              <en><![CDATA[I doubt there is anything I can do for you, friend. However, I used to work for the Malabo Foreign Secretary, so perhaps I can offer some advice?]]></en>
               <de><![CDATA[Ich bezweifle, dass ich Ihnen dabei behilflich sein kann, mein Freund. Ich habe jedoch für das malabooleanische Außenministerium gearbeitet. Vielleicht kann ich also einige Ratschläge geben.]]></de>
             </dia>
           </dialog>
@@ -8153,8 +8153,8 @@
               <en><![CDATA[Again, about my father ...]]></en>
               <de><![CDATA[Noch einmal wegen meinem Vater ...]]></de>
             </dia>
-            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0722">
-              <en><![CDATA[I doubt that there’s much I can do for you, friend. However, I used to work for the Malabo Foreign Secretary, so perhaps I can offer some advice?]]></en>
+            <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0709">
+              <en><![CDATA[I doubt there is anything I can do for you, friend. However, I used to work for the Malabo Foreign Secretary, so perhaps I can offer some advice?]]></en>
               <de><![CDATA[Ich bezweifle, dass ich Ihnen dabei behilflich sein kann, mein Freund. Ich habe jedoch für das malabooleanische Außenministerium gearbeitet. Vielleicht kann ich also einige Ratschläge geben.]]></de>
             </dia>
           </dialog>
@@ -8656,11 +8656,11 @@
               <de><![CDATA[Ah, wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0792">
-              <en><![CDATA[After we arrived here with the &#8222;Sparrow&#8220; the men told our Captain Amayi to wait &#8212; and so we waited.]]></en>
-              <de><![CDATA[Nachdem wir den Ort hier auf der &#8222;Sparrow&#8220; erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
+              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait &#8212; and so we waited.]]></en>
+              <de><![CDATA[Nachdem wir den Ort hier auf Der Sparrow erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0793">
-              <en><![CDATA[Then during the night they came onto the &#8222;Sparrow&#8220; and took expensive cloths, spices, and two barrels of whiskey.]]></en>
+              <en><![CDATA[Then during the night they came onto The Sparrow and took expensive cloths, spices, and two barrels of whiskey.]]></en>
               <de><![CDATA[Dann kamen sie in der Nacht auf die &#8222;Sparrow&#8220; und nahmen sich teure Kleidung, Gewürze und zwei Fässer Whiskey.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0794">
@@ -8703,11 +8703,11 @@
               <de><![CDATA[Ah, wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0801">
-              <en><![CDATA[After we arrived here with the &#8222;Sparrow&#8220; the men told our Captain Amayi to wait &#8212; and so we waited.]]></en>
-              <de><![CDATA[Nachdem wir den Ort hier auf der &#8222;Sparrow&#8220; erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
+              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait &#8212; and so we waited.]]></en>
+              <de><![CDATA[Nachdem wir den Ort hier auf Der Sparrow erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0802">
-              <en><![CDATA[Then during the night they came onto the &#8222;Sparrow&#8220; and took expensive cloths, spices, and two barrels of whiskey.]]></en>
+              <en><![CDATA[Then during the night they came onto The Sparrow and took expensive cloths, spices, and two barrels of whiskey.]]></en>
               <de><![CDATA[Dann kamen sie in der Nacht auf die &#8222;Sparrow&#8220; und nahmen sich teure Kleidung, Gewürze und zwei Fässer Whiskey.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0803">
@@ -8903,7 +8903,7 @@
               <de><![CDATA[Warten? Worauf?]]></de>
             </dia>
             <dia puppet="forkbeard" frame="lspeak" sound="voice/harbor_voice.swf:harbor0833">
-              <en><![CDATA[Ask the Captain. Locals stole from the Sparrow.]]></en>
+              <en><![CDATA[Ask the Captain. Locals stole from The Sparrow.]]></en>
               <de><![CDATA[Fragen Sie den Captain. Einheimische haben die Sparrow bestohlen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0834">
@@ -8946,7 +8946,7 @@
               <de><![CDATA[Warten? Worauf?]]></de>
             </dia>
             <dia puppet="forkbeard" frame="lspeak" sound="voice/harbor_voice.swf:harbor0841">
-              <en><![CDATA[Ask the Captain. Locals stole from the Sparrow.]]></en>
+              <en><![CDATA[Ask the Captain. Locals stole from The Sparrow.]]></en>
               <de><![CDATA[Fragen Sie den Captain. Einheimische haben die Sparrow bestohlen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0842">
@@ -8981,7 +8981,7 @@
               <de><![CDATA[Seit wann sind Sie denn nun auf See?]]></de>
             </dia>
             <dia puppet="forkbeard" frame="" sound="voice/harbor_voice.swf:harbor0847">
-              <en><![CDATA[Long. And five years now I’ve served on the Sparrow.]]></en>
+              <en><![CDATA[Long. And five years now I’ve served on The Sparrow.]]></en>
               <de><![CDATA[Seit Langem. Und seit fünf Jahren auf der Sparrow.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0848">
@@ -9008,7 +9008,7 @@
               <de><![CDATA[Seit wann sind Sie nochmal auf See?]]></de>
             </dia>
             <dia puppet="forkbeard" frame="" sound="voice/harbor_voice.swf:harbor0851">
-              <en><![CDATA[Long. And five years now I’ve served on the Sparrow.]]></en>
+              <en><![CDATA[Long. And five years now I’ve served on The Sparrow.]]></en>
               <de><![CDATA[Seit Langem. Und seit fünf Jahren auf der Sparrow.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0852">

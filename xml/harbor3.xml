@@ -1625,8 +1625,8 @@
                   <de><![CDATA[Captain Amayi ...]]></de>
                 </dia>
                 <dia puppet="amayi" frame="hspeak" sound="voice/harbor3_voice.swf:harbor30070">
-                  <en><![CDATA[Nathan Mallory. How are you? I haven’t seen you since you hid in these boxes of fish to smuggle yourself into the Castle ... did that work out?]]></en>
-                  <de><![CDATA[Nathan Mallory. Wie geht es Ihnen? Ich habe Sie nicht gesehen, seit Sie sich in den Fischkisten versteckt haben, um sich ins Schloss einzuschleichen ... hat das funktioniert?]]></de>
+                  <en><![CDATA[Nathan Mallory, how are you? I haven’t seen you since you hid in that box of fish to smuggle yourself into the Castle. Did that work?]]></en>
+                  <de><![CDATA[Nathan Mallory, wie geht es Ihnen? Ich habe Sie nicht gesehen, seit Sie sich in den Fischkisten versteckt haben, um sich ins Schloss einzuschleichen. Hat das funktioniert?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30071">
                   <en><![CDATA[Yes, actually it did. I really need to take a bath, but at least we defeated Lowell Cain ... it’s complicated.]]></en>
@@ -1637,28 +1637,28 @@
                   <de><![CDATA[Aber wenigstens können Sie jetzt wohl die Waren zurückbekommen, die Ihnen gestohlen wurden.]]></de>
                 </dia>
                 <dia puppet="amayi" frame="hspeak" sound="voice/harbor3_voice.swf:harbor30073">
-                  <en><![CDATA[Sir Wavetamer already returned to us what Cain’s men stole from the Sparrow ... we are almost ready to leave for Malabo.]]></en>
-                  <de><![CDATA[Sir Wavetamer hat uns schon zurückgebracht, was Cains Männer von der Sparrow gestohlen hatten ... Wir sind fast bereit für die Rückfahrt nach Malabo.]]></de>
+                  <en><![CDATA[Sir Wavetamer has already returned what Cain’s men stole from the Sparrow. We are almost ready to set sail for Malabo.]]></en>
+                  <de><![CDATA[Sir Wavetamer hat uns schon zurückgebracht, was Cains Männer von der Sparrow gestohlen hatten. Wir sind fast bereit für die Rückfahrt nach Malabo.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30074">
                   <en><![CDATA[That is good news, isn’t it?]]></en>
                   <de><![CDATA[Das sind gute Neuigkeiten, oder?]]></de>
                 </dia>
                 <dia puppet="amayi" frame="" sound="voice/harbor3_voice.swf:harbor30075">
-                  <en><![CDATA[Yes, but one of the castle guards stole Jacobo’s dice ... I am not sure if there’s hope that he gets them back. We need to set sail soon.]]></en>
-                  <de><![CDATA[Ja, aber eine der Schlosswachen hat Jacobos Würfel gestohlen ... Ich weiß nicht, ob es Hoffnung gibt, dass er sie zurückbekommt. Wir müssen bald in See stechen.]]></de>
+                  <en><![CDATA[Indeed. Yet, one of the Castle guards stole Jacobo’s dice. I fear he won’t be able to get them back before we set sail.]]></en>
+                  <de><![CDATA[Ja, aber eine der Schlosswachen hat Jacobos Würfel gestohlen. Ich weiß nicht, ob es Hoffnung gibt, dass er sie zurückbekommt. Wir müssen bald in See stechen.]]></de>
                 </dia>
                 <dia puppet="amayi" frame="hspeak" sound="voice/harbor3_voice.swf:harbor30076">
-                  <en><![CDATA[Forkbeard is already playing the traditional song of departure.]]></en>
-                  <de><![CDATA[Forkbeard spielt schon das traditionelle Aufbruchslied.]]></de>
+                  <en><![CDATA[Mister Forkbeard is already playing our traditional song of departure.]]></en>
+                  <de><![CDATA[Herr Forkbeard spielt schon das traditionelle Aufbruchslied.]]></de>
                 </dia>
                 <dia puppet="amayi" frame="" sound="voice/harbor3_voice.swf:harbor30077">
-                  <en><![CDATA[Thanks for retrieving Jacobo’s dice. Now we can finally return to Malabo. Farewell, Nathan Mallory.]]></en>
-                  <de><![CDATA[Danke, dass Sie Jacobos Würfel wiedergebracht haben. Jetzt können wir endlich zurück nach Malabo. Leben Sie wohl, Nathan Mallory.]]></de>
+                  <en><![CDATA[Thank you for retrieving Jacobo’s dice. Now we can finally return to Malabo! Farewell, Nathan Mallory.]]></en>
+                  <de><![CDATA[Danke, dass Sie Jacobos Würfel wiedergebracht haben. Jetzt können wir endlich zurück nach Malabo! Leben Sie wohl, Nathan Mallory.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30078">
-                  <en><![CDATA[I hope we meet again Captain. Farewell!]]></en>
-                  <de><![CDATA[Ich hoffe, wir sehen uns wieder, Captain. Leben Sie wohl!]]></de>
+                  <en><![CDATA[I hope we meet again Captain. Farewell.]]></en>
+                  <de><![CDATA[Ich hoffe, wir sehen uns wieder, Captain. Leben Sie wohl.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1799,7 +1799,7 @@
                   <de><![CDATA[Die Kristalltikis, die ich Ihnen versprochen habe? Ich verstehe nicht, was das heißt, mein Freund?]]></de>
                 </dia>
                 <dia puppet="amayi" frame="" sound="voice/harbor3_voice.swf:harbor30092">
-                  <en><![CDATA[Jacobo, we need to set sails now. Give the young man the reward you promised.]]></en>
+                  <en><![CDATA[Jacobo, we need to set sail now. Give the young man the reward you promised.]]></en>
                   <de><![CDATA[Jacobo, wir müssen jetzt in See stechen. Gib dem jungen Mann schon seine Belohnung.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30093">
