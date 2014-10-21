@@ -889,8 +889,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30025">
-                  <en><![CDATA[Those are some good looking carving knives ...]]></en>
-                  <de><![CDATA[Das sind ein paar hübsche Schnitzmesser ...]]></de>
+                  <en><![CDATA[Those are three good looking carving knives ...]]></en>
+                  <de><![CDATA[Das sind drei gut aussehende Schnitzmesser ...]]></de>
                 </dia>
               </dialog>
               <script>
