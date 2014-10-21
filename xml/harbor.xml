@@ -1636,8 +1636,8 @@
                   <de><![CDATA[Hallo? Ist hier jemand?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0059">
-                  <en><![CDATA[...]]></en>
-                  <de><![CDATA[...]]></de>
+                  <en><![CDATA[Mmh.]]></en>
+                  <de><![CDATA[Mmh.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0060">
                   <en><![CDATA[Mh, no reply.]]></en>
@@ -3364,8 +3364,8 @@
                   <de><![CDATA[Schön, Sie kennen zu lernen! Si!]]></de>
                 </dia>
                 <dia puppet="forkbeard" frame="" sound="voice/harbor_voice.swf:harbor0225">
-                  <en><![CDATA[...]]></en>
-                  <de><![CDATA[...]]></de>
+                  <en><![CDATA[Mmh.]]></en>
+                  <de><![CDATA[Mmh.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3827,8 +3827,8 @@
                   <de><![CDATA[Schön, Sie kennen zu lernen! Si!]]></de>
                 </dia>
                 <dia puppet="forkbeard" frame="" sound="voice/harbor_voice.swf:harbor0271">
-                  <en><![CDATA[...]]></en>
-                  <de><![CDATA[...]]></de>
+                  <en><![CDATA[Mmh.]]></en>
+                  <de><![CDATA[Mmh.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -4043,8 +4043,8 @@
                   <de><![CDATA[Schön, Sie kennen zu lernen! Si!]]></de>
                 </dia>
                 <dia puppet="forkbeard" frame="" sound="voice/harbor_voice.swf:harbor0296">
-                  <en><![CDATA[...]]></en>
-                  <de><![CDATA[...]]></de>
+                  <en><![CDATA[Mmh.]]></en>
+                  <de><![CDATA[Mmh.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -9042,9 +9042,9 @@
               <en><![CDATA[Really? That’s pretty impressive!]]></en>
               <de><![CDATA[Wirklich? Das ist ziemlich beeindruckend!]]></de>
             </dia>
-            <dia puppet="forkbeard" frame="hspeak" sound="voice/harbor_voice.swf:harbor0857">
-              <en><![CDATA[Well ... not that impressive when you are as strong as I.]]></en>
-              <de><![CDATA[Nun ... nicht, wenn Sie so stark wären wie ich es bin.]]></de>
+            <dia puppet="forkbeard" frame="hspeak" sound="voice/harbor_voice.swf:harbor0861">
+              <en><![CDATA[Not that impressive when you are as strong as I.]]></en>
+              <de><![CDATA[Nicht, wenn Sie so stark wären wie ich es bin.]]></de>
             </dia>
           </dialog>
           <script>
@@ -9070,8 +9070,8 @@
               <de><![CDATA[Wirklich? Das ist ziemlich beeindruckend!]]></de>
             </dia>
             <dia puppet="forkbeard" frame="hspeak" sound="voice/harbor_voice.swf:harbor0861">
-              <en><![CDATA[Well ... not that impressive when you are as strong as I.]]></en>
-              <de><![CDATA[Nun ... nicht, wenn Sie so stark wären wie ich es bin.]]></de>
+              <en><![CDATA[Not that impressive when you are as strong as I.]]></en>
+              <de><![CDATA[Nicht, wenn Sie so stark wären wie ich es bin.]]></de>
             </dia>
           </dialog>
           <script>
