@@ -6652,7 +6652,7 @@
               <de><![CDATA[Er war im Smith-Institut tätig.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0507">
-              <en><![CDATA[You’re Trelawney’s son? I didn’t know him well, and I certainly didn’t know that he had any children. I’m sorry for your loss.]]></en>
+              <en><![CDATA[You’re Trelawney’s son? I didn’t know him well, and I certainly didn’t know that he had children. I’m sorry for your loss.]]></en>
               <de><![CDATA[Sie sind Trelawneys Sohn? Ich kannte ihn nicht besonders gut ... ich wusste nicht einmal, dass er Kinder hatte. Mein Beileid zu ihrem Verlust.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0508">
@@ -6753,8 +6753,8 @@
               <de><![CDATA[Sie sind wohl auf den Geschmack gekommen, was?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0514">
-              <en><![CDATA[... but it’s already dark now. Why don’t you come back tomorrow?]]></en>
-              <de><![CDATA[... aber jetzt ist es bereits zu dunkel. Warum kommen Sie nicht einfach morgen wieder?]]></de>
+              <en><![CDATA[However, it’s already dark now ... why don’t you come back tomorrow?]]></en>
+              <de><![CDATA[Aber jetzt ist es bereits zu dunkel ... warum kommen Sie nicht einfach morgen wieder?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0515">
               <en><![CDATA[... okay.]]></en>
@@ -6836,7 +6836,7 @@
               <de><![CDATA[Im Hafenbüro ist ein Ersatzschlüssel für diese Truhe versteckt?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0526">
-              <en><![CDATA[Yes, I hid it in the ship-in-a-bottle on the desk. I could help you to get the key ...]]></en>
+              <en><![CDATA[Yes, I hid it in the ship-in-a-bottle on my desk. I could help you to get the key ...]]></en>
               <de><![CDATA[Ja, ich habe ihn in meinem Buddelschiff neben dem Schreibtisch versteckt. Ich könnte Ihnen helfen, den Schlüssel zu finden ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0527">
@@ -6852,7 +6852,7 @@
               <de><![CDATA[Sehen Sie, Angeln war das Einzige, was mich bei Verstand hielt, nachdem mich Cain aus dem Büro warf.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0530">
-              <en><![CDATA[Now some weeks ago my boat broke during a terrible storm ... and to make things worse, the castle goons have locked the boathouse that I store it in.]]></en>
+              <en><![CDATA[Now some weeks ago my boat broke during a terrible storm ... and to make matters worse, the Castle goons have locked the boathouse that I store it in.]]></en>
               <de><![CDATA[Vor einigen Wochen ging mein Boot während eines heftigen Sturms kaputt ... und als wär das nicht schon schlimm genug, haben die Schlossbeamten noch das Bootshaus verrieglt, in dem mein Ruderboot liegt.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0531">
