@@ -5229,7 +5229,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0391">
-                  <en><![CDATA[Look what I found in that storage chest in boathouse eight ...]]></en>
+                  <en><![CDATA[Look what I found in that storage chest in Boathouse Eight ...]]></en>
                   <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0392">
@@ -5260,7 +5260,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0395">
-                  <en><![CDATA[Look what I found in that storage chest in boathouse eight ...]]></en>
+                  <en><![CDATA[Look what I found in that storage chest in Boathouse Eight ...]]></en>
                   <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0396">
@@ -5291,7 +5291,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0399">
-                  <en><![CDATA[Look what I found in that storage chest in boathouse eight ...]]></en>
+                  <en><![CDATA[Look what I found in that storage chest in Boathouse Eight ...]]></en>
                   <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0400">
@@ -6815,12 +6815,12 @@
         </topic>
         <topic key="t5" id="chest1" enabled="1" hold="0" expose="help2" go="0">
           <title>
-            <en><![CDATA[Do you know anything about the wooden chest over in boathouse eight?]]></en>
+            <en><![CDATA[Do you know anything about the wooden chest over in Boathouse Eight?]]></en>
             <de><![CDATA[Wissen Sie irgendetwas über die Holztruhe drüben in Bootshaus Acht?]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0522">
-              <en><![CDATA[Do you know anything about the wooden chest over in boathouse eight?]]></en>
+              <en><![CDATA[Do you know anything about the wooden chest over in Boathouse Eight?]]></en>
               <de><![CDATA[Wissen Sie irgendetwas über die Holztruhe drüben in Bootshaus Acht?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0523">
@@ -6876,7 +6876,7 @@
               <de><![CDATA[Wissen Sie, ich denke, wir sind im Geschäft!]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0536">
-              <en><![CDATA[Very well! You can find my boat over in boathouse eight. You will have to use this winch handle to get it down.]]></en>
+              <en><![CDATA[Very well! You can find my boat over in Boathouse Eight. You will have to use this winch handle to get it down.]]></en>
               <de><![CDATA[Sehr schön! Sie finden mein Boot drüben in Bootshaus Acht. Sie müssen diese Winschkurbel benutzen, um es herunterzulassen.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0537">
@@ -6909,7 +6909,7 @@
               <de><![CDATA[Was sollte ich nochmal mit dieser Winschkurbel tun?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0539">
-              <en><![CDATA[You can find my boat over in boathouse eight. You will have to use the winch handle to get it down.]]></en>
+              <en><![CDATA[You can find my boat over in Boathouse Eight. You will have to use the winch handle to get it down.]]></en>
               <de><![CDATA[Sie finden mein Boot drüben in Bootshaus Acht. Sie müssen die Winschkurbel benutzen, um es herunterzulassen.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0540">
