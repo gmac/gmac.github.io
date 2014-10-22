@@ -1636,8 +1636,8 @@
                   <de><![CDATA[Hallo? Ist hier jemand?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0059">
-                  <en><![CDATA[Mmh.]]></en>
-                  <de><![CDATA[Mmh.]]></de>
+                  <en><![CDATA[...]]></en>
+                  <de><![CDATA[...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0060">
                   <en><![CDATA[Mh, no reply.]]></en>
