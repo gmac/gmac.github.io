@@ -6521,11 +6521,11 @@
               <de><![CDATA[Wann hat das Schloss die Kontrolle über den Hafen übernommen?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0488">
-              <en><![CDATA[Ah, that’s a painful subject for me. The Castle expelled me from the Port Authority when they locked down the  village.]]></en>
+              <en><![CDATA[Ah, that’s a painful subject for me. The Castle expelled me from the Port Authority when they overtook the village.]]></en>
               <de><![CDATA[Ah, das ist ein schmerzhaftes Thema für mich. Das Schloss hat mich aus dem Hafenverwaltungsbüro geworfen, als sie das Dorf abgeriegelt haben.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0489">
-              <en><![CDATA[Until five months ago, Ravenhollow harbor was a lively trading port. Now the Castle forbids outsiders from even entering.]]></en>
+              <en><![CDATA[Until five months ago, Ravenhollow harbor was a lively trading port. Now the Castle forbids outsiders from docking.]]></en>
               <de><![CDATA[Bis vor fünf Monaten war der Hafen von Ravenhollow ein lebendiger Handelshafen. Nun untersagt das Schloss Außenstehenden sogar den Zutritt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0490">
@@ -6556,11 +6556,11 @@
               <de><![CDATA[Erzählen Sie mir nochmal, was mit Dr. Coppelius und dem Seemann passiert ist.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0497">
-              <en><![CDATA[Right after they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him up to the castle.]]></en>
+              <en><![CDATA[After they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him to the Castle.]]></en>
               <de><![CDATA[Nachdem sie Sie in das Bootshaus gesperrt hatten, verhafteten Cain und seine Männer den alten Mann. Sie brachten ihn vermutlich in das Schloss.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0495">
-              <en><![CDATA[I also fear that they did something harmful to the sailor.]]></en>
+              <en><![CDATA[I also fear they did something harmful to the sailor.]]></en>
               <de><![CDATA[Ich befürchte außerdem, dass sie dem Seemann etwas angetan haben.]]></de>
             </dia>
           </dialog>
@@ -6579,11 +6579,11 @@
               <de><![CDATA[Was sagten Sie, ist mit Dr. Coppelius und dem Seemann geschehen?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0497">
-              <en><![CDATA[Right after they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him up to the castle.]]></en>
+              <en><![CDATA[After they locked you up in the boathouse, Cain and his men arrested the old man. They probably took him to the Castle.]]></en>
               <de><![CDATA[Nachdem sie Sie in das Bootshaus gesperrt hatten, verhafteten Cain und seine Männer den alten Mann. Sie brachten ihn vermutlich in das Schloss.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0498">
-              <en><![CDATA[I also fear that they did something harmful to the sailor.]]></en>
+              <en><![CDATA[I also fear they did something harmful to the sailor.]]></en>
               <de><![CDATA[Ich befürchte außerdem, dass sie dem Seemann etwas angetan haben.]]></de>
             </dia>
           </dialog>
@@ -6602,11 +6602,11 @@
               <de><![CDATA[Wissen Sie irgendetwas über das Smith-Institut?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0500">
-              <en><![CDATA[I heard the Institute ran out of money a couple of years ago, although I don’t know if that’s the real reason why it closed. None of us harbor folks knew much about what went on over there ... ]]></en>
+              <en><![CDATA[I heard the Institute ran out of money, although I don’t know if that’s the real reason it closed. We harbor folk knew little about what went on there ...]]></en>
               <de><![CDATA[Ich hörte, dass dem Institut vor einigen Jahren das Geld ausging, aber ich bin nicht sicher, ob das der wahre Grund für die Schließung war. Keiner von uns Hafenleuten wusste genau, was dort drüben vor sich ging ...]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0501">
-              <en><![CDATA[Either way, you can find the abandoned institute building on the far end of town near the woods.]]></en>
+              <en><![CDATA[You can find the abandoned Institute building on the far end of town, near the woods.]]></en>
               <de><![CDATA[Auf jeden Fall finden Sie das verlassene Institutsgebäude am anderen Ende der Stadt in der Nähe des Waldes.]]></de>
             </dia>
           </dialog>
@@ -6625,11 +6625,11 @@
               <de><![CDATA[Was sagten Sie über das Smith-Institut?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0503">
-              <en><![CDATA[I heard the Institute ran out of money a couple of years ago, although I don’t know if that’s the real reason why it closed. None of us harbor folks knew much about what went on over there ... ]]></en>
+              <en><![CDATA[I heard the Institute ran out of money, although I don’t know if that’s the real reason it closed. We harbor folk knew little about what went on there ...]]></en>
               <de><![CDATA[Ich hörte, dass dem Institut vor einigen Jahren das Geld ausging, aber ich bin nicht sicher, ob das der wahre Grund für die Schließung war. Keiner von uns Hafenleuten wusste genau, was dort drüben vor sich ging ...]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0504">
-              <en><![CDATA[Either way, you can find the abandoned institute building on the far end of town near the woods.]]></en>
+              <en><![CDATA[You can find the abandoned Institute building on the far end of town, near the woods.]]></en>
               <de><![CDATA[Auf jeden Fall finden Sie das verlassene Institutsgebäude am anderen Ende der Stadt in der Nähe des Waldes.]]></de>
             </dia>
           </dialog>
@@ -6656,7 +6656,7 @@
               <de><![CDATA[Sie sind Trelawneys Sohn? Ich kannte ihn nicht besonders gut ... ich wusste nicht einmal, dass er Kinder hatte. Mein Beileid zu ihrem Verlust.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0508">
-              <en><![CDATA[He was a quiet fellow ... He seemed to prefer a solitary lifestyle, especially after the Smith Institute was closed five years ago.]]></en>
+              <en><![CDATA[He was a quiet fellow ... He seemed to prefer a solitary lifestyle, especially after the Smith Institute closed five years ago.]]></en>
               <de><![CDATA[Er war ein ruhige Geselle ... Er schien ein zurückgezogenes Leben zu bevorzugen, insbesondere nachdem das Smith-Institut vor fünf Jahren geschlossen wurde.]]></de>
             </dia>
           </dialog>
@@ -6675,7 +6675,7 @@
               <de><![CDATA[Könnten Sie wiederholen, was Sie über meinen Vater, Dr. Anthony Trelawney, wissen?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0510">
-              <en><![CDATA[He was a quiet fellow ... He seemed to prefer a solitary lifestyle, especially after the Smith Institute was closed five years ago.]]></en>
+              <en><![CDATA[He was a quiet fellow ... He seemed to prefer a solitary lifestyle, especially after the Smith Institute closed five years ago.]]></en>
               <de><![CDATA[Er war ein ruhige Geselle ... Er schien ein zurückgezogenes Leben zu bevorzugen, insbesondere nachdem das Smith-Institut vor fünf Jahren geschlossen wurde.]]></de>
             </dia>
           </dialog>
@@ -6753,7 +6753,7 @@
               <de><![CDATA[Sie sind wohl auf den Geschmack gekommen, was?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0514">
-              <en><![CDATA[... but it’s already too dark now. Why don’t you come back tomorrow?]]></en>
+              <en><![CDATA[... but it’s already dark now. Why don’t you come back tomorrow?]]></en>
               <de><![CDATA[... aber jetzt ist es bereits zu dunkel. Warum kommen Sie nicht einfach morgen wieder?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0515">
@@ -6796,12 +6796,12 @@
               <en><![CDATA[That key will get you into the Port Authority office. I kept it even after the Lowell Cain’s men kicked me out.]]></en>
               <de><![CDATA[Mit diesem Schlüssel kommen Sie in die Hafenverwaltung. Ich hab ihn damals einfach behalten, nachdem sich die Männer von Lowell Cain an meinem Schreibtisch breit gemacht hatten.]]></de>
             </dia>
-            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0519">
-              <en><![CDATA[Now that it is night the Castle goons shouldn’t give you too much trouble when you sneak into my old office.]]></en>
-              <de><![CDATA[Jetzt in der Nacht sollten Ihnen die Handlanger des Schlosses nicht zu viele Schwierigkeiten machen, wenn Sie sich in mein Büro schleichen.]]></de>
+            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0383">
+              <en><![CDATA[During the night, those Castle goons shouldn’t give you much trouble.]]></en>
+              <de><![CDATA[In der Nacht sollten Ihnen die Schlossbeamten nicht zu viele Schwierigkeiten machen.]]></de>
             </dia>
-            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0520">
-              <en><![CDATA[I hid the spare key for the boathouse chest in the bottle ship next to my desk.]]></en>
+            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0384">
+              <en><![CDATA[I hid a spare key to the boathouse chest in that Ship-in-a-Bottle next to my desk.]]></en>
               <de><![CDATA[Ich habe den Ersatzschlüssel für die Bootshaustruhe im Buddelschiff neben meinem Schreibtisch versteckt.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0521">
@@ -6824,11 +6824,11 @@
               <de><![CDATA[Wissen Sie irgendetwas über die Holztruhe drüben in Bootshaus Acht?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0523">
-              <en><![CDATA[Lowell Cain’s men are storing confiscated goods in there, it seems. They took my key when they took over the Port Authority office.]]></en>
+              <en><![CDATA[Lowell Cain’s men are storing confiscated goods in there, it seems. They took my key when they took over the Port Authority.]]></en>
               <de><![CDATA[Ich glaube, Lowell Cains Männer lagern dort beschlagnahmte Waren. Sie haben meinen Schlüssel an sich genommen, als sie das Hafenverwaltungsbüro übernommen haben.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0524">
-              <en><![CDATA[But I don’t think they’ve found the spare key that I hid in my office ...]]></en>
+              <en><![CDATA[However, I don’t think they’ve found the spare chest key that I hid in my office ...]]></en>
               <de><![CDATA[Aber ich glaube nicht, dass sie den Ersatzschlüssel gefunden haben, den ich in meinem Büro versteckt habe ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0525">
@@ -6836,7 +6836,7 @@
               <de><![CDATA[Im Hafenbüro ist ein Ersatzschlüssel für diese Truhe versteckt?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0526">
-              <en><![CDATA[Yes, I’ve hidden it in my bottled ship next to the desk. I could help you to get the key ...]]></en>
+              <en><![CDATA[Yes, I hid it in the ship-in-a-bottle on the desk. I could help you to get the key ...]]></en>
               <de><![CDATA[Ja, ich habe ihn in meinem Buddelschiff neben dem Schreibtisch versteckt. Ich könnte Ihnen helfen, den Schlüssel zu finden ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0527">
@@ -6852,8 +6852,8 @@
               <de><![CDATA[Sehen Sie, Angeln war das Einzige, was mich bei Verstand hielt, nachdem mich Cain aus dem Büro warf.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0530">
-              <en><![CDATA[Now some weeks ago my boat broke during a terrible storm, and to make things worse, the castle goons have locked the boathouse that I store it in.]]></en>
-              <de><![CDATA[Vor einigen Wochen ging mein Boot während eines heftigen Sturms kaputt. Und als wär das nicht schon schlimm genug, haben die Schlossbeamten noch das Bootshaus verrieglt, in dem mein Ruderboot liegt.]]></de>
+              <en><![CDATA[Now some weeks ago my boat broke during a terrible storm ... and to make things worse, the castle goons have locked the boathouse that I store it in.]]></en>
+              <de><![CDATA[Vor einigen Wochen ging mein Boot während eines heftigen Sturms kaputt ... und als wär das nicht schon schlimm genug, haben die Schlossbeamten noch das Bootshaus verrieglt, in dem mein Ruderboot liegt.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0531">
               <en><![CDATA[Do you think you could help me to repair my boat and get it from the boathouse, lad?]]></en>
@@ -6880,7 +6880,7 @@
               <de><![CDATA[Sehr schön! Sie finden mein Boot drüben in Bootshaus Acht. Sie müssen diese Winschkurbel benutzen, um es herunterzulassen.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0537">
-              <en><![CDATA[I’d do it myself except those castle goons are watching me like hawks these days. You’d probably stand a better chance than I of getting the boat without drawing attention.]]></en>
+              <en><![CDATA[I’d do it myself, but those castle goons are watching me like hawks these days. You’ll stand a better chance than I of getting the boat without drawing attention.]]></en>
               <de><![CDATA[Ich würde es selbst tun, aber diese Schlossbeamten beobachten mich dieser Tage wie die Adler. Für Sie wird es leichter sein, an das Boot zu kommen, ohne zuviel Aufmerksamkeit zu erregen.]]></de>
             </dia>
           </dialog>
@@ -6936,16 +6936,16 @@
               <de><![CDATA[Er ist der Anwalt, der das Anwesen meines Vaters verwaltet. Das Dokument hier wurde von ihm unterzeichnet.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0543">
-              <en><![CDATA[Lawyer Lionstone? A good man ... but I fear that he has developed a bit of a drinking habit lately. ]]></en>
+              <en><![CDATA[Lawyer Lionstone? A good man ... but I fear that he’s taken to the bottle lately.]]></en>
               <de><![CDATA[Anwalt Lionstone? Ein guter Mann ... doch ich befürchte, dass er zuletzt zu häufig zu tief ins Glas geschaut hat.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0544">
-              <en><![CDATA[You’ll surely find him sittin’ in the Ravenhollow Inn.]]></en>
+              <en><![CDATA[You’ll surely find him at the Ravenhollow Inn.]]></en>
               <de><![CDATA[Sie werden ihn sicher im Dorfkrug finden.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0545">
-              <en><![CDATA[Just cross the bridge into town and walk up the street that leads to the village square &#8212; it’ll take you right to the inn.]]></en>
-              <de><![CDATA[Überqueren Sie einfach die Brücke in die Stadt und folgen Sie der Straße, die zum Dorfplatz führt &#8212; da kommen Sie direkt zum Gasthaus.]]></de>
+              <en><![CDATA[Just cross the bridge into town, and walk up the street that leads to the village square. That’ll take you right to the inn.]]></en>
+              <de><![CDATA[Überqueren Sie einfach die Brücke in die Stadt und folgen Sie der Straße, die zum Dorfplatz führt. Da kommen Sie direkt zum Gasthaus.]]></de>
             </dia>
           </dialog>
           <script>
@@ -6962,13 +6962,13 @@
               <en><![CDATA[Where did you say that I may find the lawyer who’s handling my father’s estate?]]></en>
               <de><![CDATA[Wo sagten Sie, kann ich den Anwalt finden, der den Nachlass meines Vaters verwaltet?]]></de>
             </dia>
-            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0547">
-              <en><![CDATA[You’ll surely find him sittin’ in the Ravenhollow Inn.]]></en>
+            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0544">
+              <en><![CDATA[You’ll surely find him at the Ravenhollow Inn.]]></en>
               <de><![CDATA[Sie werden ihn sicher im Dorfkrug finden.]]></de>
             </dia>
-            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0548">
-              <en><![CDATA[Just cross the bridge into town and walk up the street that leads to the village square &#8212; it’ll take you right to the inn.]]></en>
-              <de><![CDATA[Überqueren Sie einfach die Brücke in die Stadt und folgen Sie der Straße, die zum Dorfplatz führt &#8212; da kommen Sie direkt zum Gasthaus.]]></de>
+            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0545">
+              <en><![CDATA[Just cross the bridge into town, and walk up the street that leads to the village square. That’ll take you right to the inn.]]></en>
+              <de><![CDATA[Überqueren Sie einfach die Brücke in die Stadt und folgen Sie der Straße, die zum Dorfplatz führt. Da kommen Sie direkt zum Gasthaus.]]></de>
             </dia>
           </dialog>
           <script>
