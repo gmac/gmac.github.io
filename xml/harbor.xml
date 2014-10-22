@@ -4931,8 +4931,8 @@
                   <de><![CDATA[Vielen Dank, Nigel!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0355">
-                  <en><![CDATA[Finally I can enjoy my favorite sport again!]]></en>
-                  <de><![CDATA[Endlich kann ich wieder meinem Lieblingssport nachgehen!]]></de>
+                  <en><![CDATA[Finally, I can enjoy my favorite sport again.]]></en>
+                  <de><![CDATA[Endlich kann ich wieder meinem Lieblingssport nachgehen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0356">
                   <en><![CDATA[Curling?]]></en>
@@ -4943,7 +4943,7 @@
                   <de><![CDATA[Ein guter Witz, Nigel!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0358">
-                  <en><![CDATA[Are you ready for a couple hours of fishing out at sea?]]></en>
+                  <en><![CDATA[Are you ready for a couple of hours fishing at sea?]]></en>
                   <de><![CDATA[Sind Sie bereit für ein paar Stunden Angeln auf hoher See?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0359">
@@ -5092,23 +5092,23 @@
               </title>
               <dialog>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0375">
-                  <en><![CDATA[Ah, the salty sea and the rough wind were just wonderful, weren’t they? How time flies! It’s already night.]]></en>
-                  <de><![CDATA[Ah, die salzige See und der raue Wind waren einfach wundervoll, nicht wahr? Wie die Zeit vergeht! Es ist bereits Nacht.]]></de>
+                  <en><![CDATA[Ah, the salty sea and rough winds were just wonderful, weren’t they? How time flies ... it’s nighttime already!]]></en>
+                  <de><![CDATA[Ah, die salzige See und der raue Wind waren einfach wundervoll, nicht wahr? Wie die Zeit vergeht ... es ist bereits Nacht!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0376">
-                  <en><![CDATA[Each time of the day is different and has its charms. Sometimes I can’t wait to enjoy bright sunlight or the night air, so I try to pass the time to get to that time of day.]]></en>
-                  <de><![CDATA[Jede Tageszeit ist anders und hat ihren eigenen Charme. Manchmal kann ich es nicht abwarten, das grelle Sonnenlicht oder die Nachtluft zu genießen. Daher versuche ich, mir die Zeit bis dahin zu vertreiben.]]></de>
+                  <en><![CDATA[Each time of day is different, and has its own charms.<br> Why, I’ll often pass the time just to feel bright sunlight or cool night air ...]]></en>
+                  <de><![CDATA[Jede Tageszeit ist anders und hat ihren eigenen Charme. Manchmal kann ich es nicht abwarten, das grelle Sonnenlicht oder die Nachtluft zu genießen. Daher versuche ich, mir die Zeit bis dahin zu vertreiben ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0377">
-                  <en><![CDATA[When you find a place to sleep, &#8222;use&#8220; it with your verb coin anytime you want to take a nap.]]></en>
+                  <en><![CDATA[When you find a place to sleep, just &#8222;use&#8220; it with your Verb Coin to take a nap.]]></en>
                   <de><![CDATA[Wenn Sie einen Platz zum Schlafen finden, &#8222;verwenden&#8220; Sie ihn einfach mit Ihrem Interaktionsfeld, sobald Sie ein Nickerchen machen möchten.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0378">
-                  <en><![CDATA[When you do, you will advance from night to day or from day to night.]]></en>
+                  <en><![CDATA[When you do, you’ll advance from nighttime to day, or from daytime to night.]]></en>
                   <de><![CDATA[Dabei wechseln Sie von Nacht zu Tag oder von Tag zu Nacht.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0379">
-                  <en><![CDATA[What’s a verb coin?]]></en>
+                  <en><![CDATA[What’s a Verb Coin?]]></en>
                   <de><![CDATA[Was ist ein Interaktionsfeld?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="speak5" sound="voice/harbor_voice.swf:harbor0380">
@@ -5116,32 +5116,32 @@
                   <de><![CDATA[Wisst ihr da draussen, wovon er spricht?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0381">
-                  <en><![CDATA[Ahem... as I was saying. Just like reading a good book or having a nap, fishing is also a great way to pass time.]]></en>
-                  <de><![CDATA[Räusper ... wie ich bereits sagte. Wie ein gutes Buch oder ein Nickerchen, so ist auch Angeln ein großartiger Zeitvertreib.]]></de>
+                  <en><![CDATA[Ahem... as I was saying. Just like having a nap, fishing is also a good way to pass time.]]></en>
+                  <de><![CDATA[Räusper ... wie ich bereits sagte. Wie ein Nickerchen, so ist auch Angeln ein großartiger Zeitvertreib.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0382">
-                  <en><![CDATA[Thanks for your help! Here, take my key to the Port Authority. I kept it even after Lowell Cain’s men kicked me out. ]]></en>
+                  <en><![CDATA[Thanks for your help! Here, take my key to the Port Authority. I kept it even after Lowell Cain’s men kicked me out.]]></en>
                   <de><![CDATA[Vielen Dank für Ihre Hilfe! Nehmen Sie meinen Schlüssel für die Hafenverwaltung. Ich habe ihn behalten, nachdem mich die Männer von Lowell Cain hinausgeworfen hatten.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0383">
-                  <en><![CDATA[During the night, those Castle goons shouldn’t give you too much trouble when you sneak into my old office.]]></en>
-                  <de><![CDATA[In der Nacht sollten Ihnen die Schlossbeamten nicht zu viele Schwierigkeiten machen, wenn Sie sich in mein altes Büro schleichen.]]></de>
+                  <en><![CDATA[During the night, those Castle goons shouldn’t give you much trouble.]]></en>
+                  <de><![CDATA[In der Nacht sollten Ihnen die Schlossbeamten nicht zu viele Schwierigkeiten machen.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0384">
-                  <en><![CDATA[I hid the spare key for the boathouse chest in the bottled ship next to my desk.]]></en>
+                  <en><![CDATA[I hid a spare key to the boathouse chest in that Ship-in-a-Bottle next to my desk.]]></en>
                   <de><![CDATA[Ich habe den Ersatzschlüssel für die Bootshaustruhe im Buddelschiff neben meinem Schreibtisch versteckt.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0385">
-                  <en><![CDATA[Oh, Nigel! We caught a lot of fish today! You should take some home!]]></en>
-                  <de><![CDATA[Oh, Nigel! Wir haben heute viele Fische gefangen! Sie sollten einige davon mitnehmen!]]></de>
+                  <en><![CDATA[Oh, Nigel! We caught a lot of fish today! You should take some home.]]></en>
+                  <de><![CDATA[Oh, Nigel! Wir haben heute viele Fische gefangen! Sie sollten einige davon mitnehmen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0386">
                   <en><![CDATA[Fish? Well, that isn’t really necessary ...]]></en>
                   <de><![CDATA[Fisch? Nun, das ist wirklich nicht nötig ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0387">
-                  <en><![CDATA[I insist! Here, take your share!]]></en>
-                  <de><![CDATA[Ich bestehe darauf! Hier ist Ihr Anteil!]]></de>
+                  <en><![CDATA[I insist! Here, take your share.]]></en>
+                  <de><![CDATA[Ich bestehe darauf! Hier ist Ihr Anteil.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0388">
                   <en><![CDATA[Wow! A bucket of fish. ... Thank you.]]></en>
@@ -5210,8 +5210,8 @@
                   <de><![CDATA[Ah, ich sehe, es ist Ihnen gelungen, den Truhenschlüssel aus dem Hafenverwaltungsbüro zu holen. Gute Arbeit!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0390">
-                  <en><![CDATA[See? Things DO look brighter after a nice fishing trip!]]></en>
-                  <de><![CDATA[Sehen Sie? Probleme sehen nach einem schönen Angelausflug TATSÄCHLICH weniger schrecklich aus!]]></de>
+                  <en><![CDATA[See? Things DO look brighter after a good fishing trip.]]></en>
+                  <de><![CDATA[Sehen Sie? Probleme sehen nach einem schönen Angelausflug TATSÄCHLICH weniger schrecklich aus.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -5237,8 +5237,8 @@
                   <de><![CDATA[Knusperbretzeln? Was für ein Fund!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0393">
-                  <en><![CDATA[I hope you found some cheese dip in that chest, too!]]></en>
-                  <de><![CDATA[Ich hoffe, Sie haben auch etwas Käsedip in dieser Truhe gefunden!]]></de>
+                  <en><![CDATA[I hope you also found some cheese dip in that chest to go with them.]]></en>
+                  <de><![CDATA[Ich hoffe, Sie haben auch etwas Käsedip in dieser Truhe gefunden.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0394">
                   <en><![CDATA[Very funny.]]></en>
@@ -5268,8 +5268,8 @@
                   <de><![CDATA[Knusperbretzeln? Was für ein Fund!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0397">
-                  <en><![CDATA[I hope you found some cheese dip in that chest, too!]]></en>
-                  <de><![CDATA[Ich hoffe, Sie haben auch etwas Käsedip in dieser Truhe gefunden!]]></de>
+                  <en><![CDATA[I hope you also found some cheese dip in that chest to go with them.]]></en>
+                  <de><![CDATA[Ich hoffe, Sie haben auch etwas Käsedip in dieser Truhe gefunden.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0398">
                   <en><![CDATA[Very funny.]]></en>
@@ -5295,8 +5295,8 @@
                   <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0400">
-                  <en><![CDATA[Oh, that must be Captain Amayi’s ship log!]]></en>
-                  <de><![CDATA[Oh, das scheint Captain Amayis Logbuch zu sein!]]></de>
+                  <en><![CDATA[That must be Captain Amayi’s ship log ...]]></en>
+                  <de><![CDATA[Das scheint Captain Amayis Logbuch zu sein ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0401">
                   <en><![CDATA[You should return it to her, Nigel! I’m sure she would be grateful.]]></en>
@@ -6521,24 +6521,24 @@
               <de><![CDATA[Wann hat das Schloss die Kontrolle über den Hafen übernommen?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0488">
-              <en><![CDATA[Ah, that’s a painful subject for me. The Castle expelled me from the port authority office when they locked down the whole village!]]></en>
-              <de><![CDATA[Ah, das ist ein schmerzhaftes Thema für mich. Das Schloss hat mich aus dem Hafenverwaltungsbüro geworfen, als sie das Dorf abgeriegelt haben!]]></de>
+              <en><![CDATA[Ah, that’s a painful subject for me. The Castle expelled me from the Port Authority when they locked down the  village.]]></en>
+              <de><![CDATA[Ah, das ist ein schmerzhaftes Thema für mich. Das Schloss hat mich aus dem Hafenverwaltungsbüro geworfen, als sie das Dorf abgeriegelt haben.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0489">
-              <en><![CDATA[Until five months ago, Ravenhollow harbor was a lively trading port. Now the Castle forbids outsiders from even entering the harbor.]]></en>
-              <de><![CDATA[Bis vor fünf Monaten war der Hafen von Ravenhollow ein lebendiger Handelshafen. Nun untersagt das Schloss Außenstehenden sogar den Zutritt zum Hafen.]]></de>
+              <en><![CDATA[Until five months ago, Ravenhollow harbor was a lively trading port. Now the Castle forbids outsiders from even entering.]]></en>
+              <de><![CDATA[Bis vor fünf Monaten war der Hafen von Ravenhollow ein lebendiger Handelshafen. Nun untersagt das Schloss Außenstehenden sogar den Zutritt.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0490">
               <en><![CDATA[Why would the Castle want to lock down the village?]]></en>
               <de><![CDATA[Warum sollte das Schloss das Dorf abriegeln wollen?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0491">
-              <en><![CDATA[I’ve been asking myself that very same question for nearly half a year, and still I haven’t got a clue.]]></en>
+              <en><![CDATA[I’ve been asking myself that very question for nearly six months ... and still I have no answer.]]></en>
               <de><![CDATA[Die gleiche Frage stelle ich mir seit gut einem halben Jahr und habe bis heute noch keine Antwort.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0492">
-              <en><![CDATA[It just doesn’t make sense. None of this. Lowell Cain and his men are nothing but thieves if you ask me.]]></en>
-              <de><![CDATA[Es macht einfach keinen Sinn. Nichts davon. Lowell Cain und seine Männer sind nichts weiter als Diebe, wenn Sie mich fragen.]]></de>
+              <en><![CDATA[It just doesn’t make sense. None of this. Lowell Cain and his men are nothing but thieves if you ask me!]]></en>
+              <de><![CDATA[Es macht einfach keinen Sinn. Nichts davon. Lowell Cain und seine Männer sind nichts weiter als Diebe, wenn Sie mich fragen!]]></de>
             </dia>
           </dialog>
           <script>
