@@ -4939,8 +4939,8 @@
                   <de><![CDATA[Curling?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0357">
-                  <en><![CDATA[A good joke, Nigel!]]></en>
-                  <de><![CDATA[Ein guter Witz, Nigel!]]></de>
+                  <en><![CDATA[Ha! A good joke, Nigel!]]></en>
+                  <de><![CDATA[Ha! Ein guter Witz, Nigel!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0358">
                   <en><![CDATA[Are you ready for a couple of hours fishing at sea?]]></en>
@@ -5210,7 +5210,7 @@
                   <de><![CDATA[Ah, ich sehe, es ist Ihnen gelungen, den Truhenschlüssel aus dem Hafenverwaltungsbüro zu holen. Gute Arbeit!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0390">
-                  <en><![CDATA[See? Things DO look brighter after a good fishing trip.]]></en>
+                  <en><![CDATA[See? Things DO look better after a good fishing trip.]]></en>
                   <de><![CDATA[Sehen Sie? Probleme sehen nach einem schönen Angelausflug TATSÄCHLICH weniger schrecklich aus.]]></de>
                 </dia>
               </dialog>
@@ -6730,8 +6730,8 @@
               <de><![CDATA[Was können Sie mir über Ravenhollow erzählen, Herr Wavetamer?]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0486">
-              <en><![CDATA[Well, what would you like to know?]]></en>
-              <de><![CDATA[Nun, was möchten Sie denn wissen?]]></de>
+              <en><![CDATA[What would you like to know?]]></en>
+              <de><![CDATA[Was möchten Sie denn wissen?]]></de>
             </dia>
           </dialog>
           <script>
@@ -6863,10 +6863,6 @@
               <en><![CDATA[How was this plan also in my best interest?]]></en>
               <de><![CDATA[Und was habe ich davon?]]></de>
             </dia>
-            <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0533">
-              <en><![CDATA[Well you see, it would be much easier to sneak you into the Port Authority office for that key after dark.]]></en>
-              <de><![CDATA[Nun, sehen Sie: Es wäre viel einfacher, nach Einbruch der Dunkelheit in das Hafenverwaltungsbüro zu schleichen, um den Truhenschlüssel zu holen.]]></de>
-            </dia>
             <dia puppet="wavetamer" frame="hspeak" sound="voice/harbor_voice.swf:harbor0534">
               <en><![CDATA[With my boat, we could go out fishing to pass the afternoon away, and I could sneak you into the office after dark.]]></en>
               <de><![CDATA[Mit meinem Boot könnten wir zum Angeln hinaus fahren, um den Nachmittag auf See zu verbringen. Dann können Sie nach Einbruch der Dunkelheit in das Büro schleichen.]]></de>
@@ -6913,7 +6909,7 @@
               <de><![CDATA[Sie finden mein Boot drüben in Bootshaus Acht. Sie müssen die Winschkurbel benutzen, um es herunterzulassen.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0540">
-              <en><![CDATA[If you get me my boat back and repair it, I’ll be glad to help you to get my spare chest key from the Port Authority office by sneaking you in after dark.]]></en>
+              <en><![CDATA[If you get me my boat back and repair it, I’ll be glad to help you get my spare chest key from the Port Authority office by sneaking you in after dark.]]></en>
               <de><![CDATA[Wenn Sie mein Boot reparieren und zurückbringen, werde ich Ihnen dabei helfen, meinen Truhenschlüssel zu holen, indem ich Sie nach Einbruch der Dunkelheit in die Hafenverwaltung hineinschleuse.]]></de>
             </dia>
           </dialog>
