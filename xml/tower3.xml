@@ -204,8 +204,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30004">
-                  <en><![CDATA[The door is locked up tight.]]></en>
-                  <de><![CDATA[Die Tür ist fest verschlossen.]]></de>
+                  <en><![CDATA[The door is locked up tight from the inside.]]></en>
+                  <de><![CDATA[Die Tür ist fest verschlossen von innen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -377,8 +377,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30015">
-                  <en><![CDATA[Hey ...]]></en>
-                  <de><![CDATA[Hey ...]]></de>
+                  <en><![CDATA[Um, excuse me ...]]></en>
+                  <de><![CDATA[Um, entschuldigung ...]]></de>
                 </dia>
                 <dia puppet="faker" frame="" sound="voice/tower3_voice.swf:tower30016">
                   <en><![CDATA[I’m not talking! You can say whatever you want, but I’m not talking!]]></en>
