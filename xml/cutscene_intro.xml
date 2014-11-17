@@ -73,7 +73,7 @@
                   <de><![CDATA[Was dich im Innersten bewegt?]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_004">
-                  <en><![CDATA[The next day, a young man's adventure will begin.]]></en>
+                  <en><![CDATA[The next day, another young man's adventure will begin.]]></en>
                   <de><![CDATA[Am nächsten Tag beginnt das Abenteuer eines jungen Mannes.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_005">
@@ -81,30 +81,28 @@
                   <de><![CDATA[Hier kommt er schon.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_006">
-                  <en><![CDATA[This young man’s name is Nigel Trelawney.]]></en>
+                  <en><![CDATA[His name is Nigel Trelawney.]]></en>
                   <de><![CDATA[Sein Name ist Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_007">
                   <en><![CDATA[Upon receiving notice of his father’s death, Nigel has traveled to the town of Ravenhollow.]]></en>
-                  <de><![CDATA[Nachdem er von dem Ableben seines Vaters erfahren hat,
-reist Nigel in die kleine Stadt Ravenhollow.]]></de>
+                  <de><![CDATA[Nachdem er von dem Ableben seines Vaters erfahren hat, reist Nigel in die kleine Stadt Ravenhollow.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_008">
                   <en><![CDATA[He has come to settle his father’s estate.]]></en>
                   <de><![CDATA[Er ist gekommen, um das Erbe seines Vaters anzutreten.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_009">
-                  <en><![CDATA[However, Nigel will soon discover that the shadow of a nearby castle has fallen over this small town and its inhabitants.]]></en>
-                  <de><![CDATA[Doch schon bald wird Nigel merken, dass der Schatten eines nahe
-gelegenen Schlosses über der Stadt und ihren Einwohnern liegt.]]></de>
+                  <en><![CDATA[However, the shadow of a nearby Castle has fallen over this small town and its inhabitants.]]></en>
+                  <de><![CDATA[Doch, dass der Schatten eines nahe gelegenen Schlosses über der Stadt und ihren Einwohnern liegt.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_010">
-                  <en><![CDATA[Little does Nigel expect that his quest may shape the fate of Ravenhollow, and that of a kidnapped girl.]]></en>
-                  <de><![CDATA[Noch ahnt Nigel nicht, dass das Schicksal eines entführten Mädchens und der ganzen Stadt in seinen Händen liegt.]]></de>
+                  <en><![CDATA[Little does Nigel expect that his quest may bring hope to Ravenhollow, and shape the fate of a kidnapped girl ...]]></en>
+                  <de><![CDATA[Noch ahnt Nigel nicht, dass das Schicksal eines entführten Mädchens und der ganzen Stadt in seinen Händen liegt ...]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_011">
-                  <en><![CDATA[... or that along his path, adventure awaits him.]]></en>
-                  <de><![CDATA[... und dass seine Reise ihn geradewegs ins Abenteuer führt.]]></de>
+                  <en><![CDATA[Or, that along his path adventure awaits him.]]></en>
+                  <de><![CDATA[Und, dass seine Reise ihn geradewegs ins Abenteuer führt.]]></de>
                 </dia>
               </dialog>
               <script>
