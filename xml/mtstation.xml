@@ -1054,7 +1054,7 @@
                   <de><![CDATA[Dieses Stromkabel versorgt den ganzen Bahnstationsbereich mit Energie.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0029">
-                  <en><![CDATA[This sabotage must be the work of Vincent! He must have overcharged the junction to keep anyone from interfering with his rift experiment.]]></en>
+                  <en><![CDATA[This sabotage must be the work of Vincent! He must have disabled the junction to keep anyone from interfering with his experiment.]]></en>
                   <de><![CDATA[Vincent muss das Stromnetz sabotiert haben! Er muss den Knotenpunkt überladen haben, damit niemand sein Riss-Experiment stört.]]></de>
                 </dia>
               </dialog>
@@ -1153,7 +1153,7 @@
                   <de><![CDATA[Na schön ... Ihr werdet euch sicher daran erinnern, dass wir das Smith-Institut geschlossen und vereinbart haben, unsere Forschung zu vernichten, bevor wir getrennte Wege gehen.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0045">
-                  <en><![CDATA[Yes, I remember. We had to keep our plans and prototypes away from that power&#8212;hungry maniac, Vincent.]]></en>
+                  <en><![CDATA[Yes, I remember. We had to keep our plans and prototypes away from that power-hungry maniac, Vincent.]]></en>
                   <de><![CDATA[Ja, natürlich. Wir mussten unsere Pläne und Prototypen von diesem machthungrigen Verrückten, Vincent, fernhalten.]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="" sound="voice/mtstation_voice.swf:mtstation0046">
@@ -1177,7 +1177,7 @@
                   <de><![CDATA[Ich konnte es nicht.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0051">
-                  <en><![CDATA[What lunacy! Why would you leave such a dangerous apparatus intact?!]]></en>
+                  <en><![CDATA[What lunacy! Why would you leave such a dangerous machine intact?!]]></en>
                   <de><![CDATA[Das ist doch Wahnsinn! Warum lässt du eine so gefährlichen Maschine intakt?!]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="" sound="voice/mtstation_voice.swf:mtstation0052">
@@ -1229,7 +1229,7 @@
                   <de><![CDATA[Und ich könnte Nigel endlich sagen, dass ... dass es mir leid tut.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0064">
-                  <en><![CDATA[Well I’m sorry to tell you this, Anthony, but Vincent is probably up there on top of Mount Misery right now ...]]></en>
+                  <en><![CDATA[Well I’m sorry to tell you this, Anthony, but Vincent is undoubtedly up there on top of Mount Misery right now ...]]></en>
                   <de><![CDATA[Anthony, es tut mir Leid, aber Vincent befindet sich wahrscheinlich gerade jetzt oben auf dem Gipfel des Mount Misery ...]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="" sound="voice/mtstation_voice.swf:mtstation0065">
@@ -1694,12 +1694,12 @@
                   <de><![CDATA[Dr. Coppelius, was soll ich jetzt tun?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0086">
-                  <en><![CDATA[Nathan, find a way to draw as much power as possible away from the mountaintop lab!]]></en>
-                  <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten!]]></de>
+                  <en><![CDATA[Nathan, you must find a way to draw as much power as possible away from the laboratory.]]></en>
+                  <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten.]]></de>
                 </dia>
-                <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0087">
-                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s time rift!]]></en>
-                  <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren!]]></de>
+                <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0090">
+                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s Time Rift.]]></en>
+                  <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1753,12 +1753,12 @@
                   <de><![CDATA[Dr. Coppelius, was soll ich jetzt tun?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0086">
-                  <en><![CDATA[Nathan, find a way to draw as much power as possible away from the mountaintop lab!]]></en>
-                  <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten!]]></de>
+                  <en><![CDATA[Nathan, you must find a way to draw as much power as possible away from the laboratory.]]></en>
+                  <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten.]]></de>
                 </dia>
-                <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0087">
-                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s time rift!]]></en>
-                  <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren!]]></de>
+                <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0090">
+                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s Time Rift.]]></en>
+                  <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1811,13 +1811,13 @@
                   <en><![CDATA[Dr. Coppelius, what should I do now?]]></en>
                   <de><![CDATA[Dr. Coppelius, was soll ich jetzt tun?]]></de>
                 </dia>
-                <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0089">
-                  <en><![CDATA[Nathan, find a way to draw as much power as possible away from the mountaintop lab!]]></en>
-                  <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten!]]></de>
+                <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0086">
+                  <en><![CDATA[Nathan, you must find a way to draw as much power as possible away from the laboratory.]]></en>
+                  <de><![CDATA[Nathan, finden Sie einen Weg, so viel Energie wie möglich vom Labor da oben wegzuleiten.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0090">
-                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s Time Rift!]]></en>
-                  <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren!]]></de>
+                  <en><![CDATA[If we can consume enough power down here in the station, then we’ll destabilize Vincent’s Time Rift.]]></en>
+                  <de><![CDATA[Wenn wir hier unten an der Bahn genügend Energie verbrauchen, werden wir Vincents Zeitriss destabilisieren.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1845,12 +1845,12 @@
                   <de><![CDATA[Ich hab es geschafft! Ich habe alle Anlagen hier unten aktiviert, jetzt sollte der Bahnstationsbereich genug Energie vom Apparatus abziehen.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0092">
-                  <en><![CDATA[Very good! That should destabilize Vincent’s Time Rift.]]></en>
-                  <de><![CDATA[Sehr gut! Das sollte den Zeitriss destabilisieren.]]></de>
+                  <en><![CDATA[Very good. That should destabilize Vincent’s Time Rift.]]></en>
+                  <de><![CDATA[Sehr gut. Das sollte den Zeitriss destabilisieren.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0093">
-                  <en><![CDATA[I just hope we’re not too late.]]></en>
-                  <de><![CDATA[Ich hoffe, es ist noch nicht zu spät.]]></de>
+                  <en><![CDATA[I just hope we’re not too late ...]]></en>
+                  <de><![CDATA[Ich hoffe, es ist noch nicht zu spät ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0094">
                   <en><![CDATA[There’s only one way to find out. It’s time to confront Vincent.]]></en>
@@ -2290,7 +2290,7 @@
                   <de><![CDATA[In der Kabine gibt es eine Stromschalttafel für die Bahnanlage. Damit kannst du den Aufzug wieder in Gang setzen.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0117">
-                  <en><![CDATA[Wait ... if the elevator is powered down, would that mean Vincent has channeled all of the station’s power into his rift?]]></en>
+                  <en><![CDATA[Wait ... with the elevator is powered down, does that mean Vincent has channeled all of the station’s power into his Rift?]]></en>
                   <de><![CDATA[Warte ... wenn der Aufzug keinen Strom hat, bedeutet das, dass Vincent die gesamte Energie von hier unten in seinen Riss geleitet hat?]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="cspeak4" sound="voice/mtstation_voice.swf:mtstation0118">
@@ -2298,28 +2298,28 @@
                   <de><![CDATA[Ich fürchte ja. Er lenkt wahrscheinlich die Energie direkt vom Blitzkollektor um ... Nichts kann ihn aufhalten!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0119">
-                  <en><![CDATA[Ah ha ... but maybe there is!]]></en>
-                  <de><![CDATA[... vielleicht gibt es da doch etwas!]]></de>
+                  <en><![CDATA[Ah ha ... but maybe there is.]]></en>
+                  <de><![CDATA[... vielleicht gibt es da doch etwas.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0120">
-                  <en><![CDATA[If we could activate enough devices down here in the station, then we may draw off enough power to destabilize his rift!]]></en>
-                  <de><![CDATA[Wenn wir hier unten an der Bahnstation genügend Anlagen aktivieren, werden wir genug Energie abziehen, um seinen Zeitriss zu destabilisieren!]]></de>
+                  <en><![CDATA[If we could activate enough devices down here in the station, then we may draw off enough power to destabilize his Rift.]]></en>
+                  <de><![CDATA[Wenn wir hier unten an der Bahnstation genügend Anlagen aktivieren, werden wir genug Energie abziehen, um seinen Zeitriss zu destabilisieren.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0121">
                   <en><![CDATA[Bravo, Coppelius! That’s a brilliant idea ... an unstable Rift would warp Vincent into oblivion!]]></en>
                   <de><![CDATA[Bravo, Coppelius! Das ist eine sehr gute Idee ... ein instabiler Riss würde Vincent in seinen eigenen Untergang am Rand der Zeit schleudern!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0122">
-                  <en><![CDATA[Indeed. NATHAN! It’s time to live up to your potential ... We need to draw power away from that rift!]]></en>
-                  <de><![CDATA[Genau. NATHAN! Sie müssen Ihre Fähigkeiten ein letztes Mal unter Beweis stellen ... Wir müssen die Energie vom Riss wegleiten!]]></de>
+                  <en><![CDATA[Indeed. Nathan? It’s time to fulfill your potential ... we need to draw power away from that Rift!]]></en>
+                  <de><![CDATA[Genau. Nathan? Sie müssen Ihre Fähigkeiten ein letztes Mal unter Beweis stellen ... Wir müssen die Energie vom Riss wegleiten!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0123">
                   <en><![CDATA[You’ll need to go outside and manually flip the lightning collectors’ routing switches to divert their power into the station.]]></en>
                   <de><![CDATA[Sie müssen nach draußen gehen und den Umleitungsmechanismus des Blitzkollektors manuell umlegen, um den Strom hierhin zur Bahnstation umzuleiten.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0124">
-                  <en><![CDATA[After that, use the power control panel to drain as much power as possible away from the rift!]]></en>
-                  <de><![CDATA[Danach nutzen Sie die Schalttafel in der Kabine, um so viel Energie wie möglich vom Riss wegzuleiten!]]></de>
+                  <en><![CDATA[After that, use the power control panel to draw as much energy as possible away from the laboratory upstairs.]]></en>
+                  <de><![CDATA[Danach nutzen Sie die Schalttafel in der Kabine, um so viel Energie wie möglich vom Riss wegzuleiten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0125">
                   <en><![CDATA[Okay, I guess I have work to do ...]]></en>
@@ -2653,7 +2653,7 @@
                   <de><![CDATA[Ich weiß, was du meinst. Ich habe das Gefühl, dass uns jemand beobachtet ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0143">
-                  <en><![CDATA[It’s just your imagination ... there hasn’t been a soul up here for over six years.]]></en>
+                  <en><![CDATA[It’s just your imagination ... there hasn’t been a soul up here in over six years.]]></en>
                   <de><![CDATA[Das bilden Sie sich nur ein ... hier oben ist seit sechs Jahren keine Seele mehr gewesen.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0144">
@@ -2661,15 +2661,15 @@
                   <de><![CDATA[Alle Lichter hier sind aus ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0145">
-                  <en><![CDATA[The power grid is down ...]]></en>
-                  <de><![CDATA[Das Stromnetz ist ausgefallen ...]]></de>
+                  <en><![CDATA[Yes, the power grid is down.]]></en>
+                  <de><![CDATA[Ja, das Stromnetz ist ausgefallen.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0146">
                   <en><![CDATA[That means the elevator leading to the test site above us isn’t working either.]]></en>
                   <de><![CDATA[Das bedeutet, dass der Aufzug, der zum Testgelände auf dem Gipfel des Berges führt, auch nicht funktioniert.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/mtstation_voice.swf:mtstation0147">
-                  <en><![CDATA[Nathan, we have to find a way to restore the power down here! We need to use the elevator to get to the Time Rift Apparatus and stop Vincent!]]></en>
+                  <en><![CDATA[Nathan, we have to find a way to restore the power. We’ll need to use the elevator to access the laboratory upstairs. I’m sure Vincent is there ...]]></en>
                   <de><![CDATA[Nathan, wir müssen einen Weg finden, hier unten wieder Strom zu bekommen! Wir müssen den Aufzug benutzen, um zum Zeitriss-Apparatus zu gelangen und Vincent zu stoppen!]]></de>
                 </dia>
               </dialog>

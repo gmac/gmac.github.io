@@ -888,8 +888,8 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0057">
-                  <en><![CDATA[Hm. That’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
-                  <de><![CDATA[Hm. Das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
+                  <en><![CDATA[That’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
+                  <de><![CDATA[Das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -903,8 +903,8 @@
               </title>
               <dialog>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0057">
-                  <en><![CDATA[Hm. That’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
-                  <de><![CDATA[Hm. Das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
+                  <en><![CDATA[That’s an interesting old toy, but I’m afraid I don’t collect battery-powered antiques.]]></en>
+                  <de><![CDATA[Das ist ein interessantes altes Spielzeug, aber leider sammle ich keine batteriebetriebenen Antiquitäten.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2365,8 +2365,8 @@
                   <de><![CDATA[Steht diese Uhr denn zum Verkauf?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0141">
-                  <en><![CDATA[I’m afraid not. This clock belonged to my parents, and has been here since I opened this shop.]]></en>
-                  <de><![CDATA[Ich fürchte nicht, nein. Diese Uhr hat meinen Eltern gehört und seit Eröffnung des Ladens immer tadellos funktioniert.]]></de>
+                  <en><![CDATA[Sorry, no. This clock belonged to my parents, and has been here since I opened this shop.]]></en>
+                  <de><![CDATA[Das tut mir leid, nein. Diese Uhr hat meinen Eltern gehört und seit Eröffnung des Ladens immer tadellos funktioniert.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2951,7 +2951,7 @@
                   <de><![CDATA[Nun, dann muss ich mich wohl eher auf die Schärfe meines Verstands verlassen, als auf die Schärfe eines überteuerten Schwertreplikats.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0192">
-                  <en><![CDATA[Hey! &nbsp &nbsp ((tone: defensive))]]></en>
+                  <en><![CDATA[Hey!]]></en>
                   <de><![CDATA[Hey!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0193">
@@ -2997,8 +2997,8 @@
                   <de><![CDATA[Sollten dann nicht Lowell Cains Männer solche tragen ...]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0197">
-                  <en><![CDATA[Cain and his men are a joke, and so are their uniforms. What they call restoration is not a return to the old ways!]]></en>
-                  <de><![CDATA[Cain und seine Männer sind ein Witz &#8212; genau wie ihre Uniformen. Was sie Restauration nennen ist nicht die Rückkehr zu alten Traditionen!]]></de>
+                  <en><![CDATA[Cain and his men are a joke, and so are their uniforms. What they call restoration is not a return to the old ways.]]></en>
+                  <de><![CDATA[Cain und seine Männer sind ein Witz &#8212; genau wie ihre Uniformen. Was sie Restauration nennen ist nicht die Rückkehr zu alten Traditionen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3296,7 +3296,7 @@
                   <de><![CDATA[Hey du, möchtest du mit mir mitkommen?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0204">
-                  <en><![CDATA[Although rules are lax here in Ravenhollow since the Castle took over, shop lifters are still not welcome in my antique shop.]]></en>
+                  <en><![CDATA[Although the rules are lax here in Ravenhollow since the Castle took over, shoplifters are still not welcome in my antique shop.]]></en>
                   <de><![CDATA[Auch wenn sich die Regeln hier in Ravenhollow zum Schlechten hin verändert haben, seitdem das Schloss die Macht übernommen hat, werden in meinem Antiquitätenladen immer noch keine Ladendiebe geduldet.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0205">
@@ -3526,7 +3526,7 @@
                   <de><![CDATA[Ist dieses Fantasiemotiv nicht vielleicht ein bisschen zu modern für einen Antiquitätenladen?]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0243">
-                  <en><![CDATA[Usually I would agree, but in this case ... it is the unicorn itself that validates this painting’s historic age.]]></en>
+                  <en><![CDATA[Usually I would agree, but in this case ... it is the unicorn itself that validates the painting’s historic age.]]></en>
                   <de><![CDATA[Normalerweise würde ich Ihnen zustimmen, aber in diesem Fall ist es das Einhornmotiv an sich, das bestätigt, dass dies ein sehr altes Gemälde ist.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0244">
@@ -4404,7 +4404,7 @@
               <de><![CDATA[Nun ja, ich habe dieses hölzerne Modell vom Nordwest-Schloss in meinen Archiven ... Professor Von Sternberg hat es als Schmuckschatulle für seine Frau gebaut.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0367">
-              <en><![CDATA[While I remember Von Sternberg building in all sorts of hidden compartments, I can’t find any of the secret latches that open them.]]></en>
+              <en><![CDATA[While I remember Von Sternberg building all sorts of hidden compartments, I can’t find any secret latches that open them.]]></en>
               <de><![CDATA[Auch wenn ich mich daran erinnere, wie Von Sternberg viele Geheimfächer eingebaut hat, kann ich die Riegel nicht finden, um sie zu öffnen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0369">
@@ -4439,7 +4439,7 @@
               <de><![CDATA[Nun ja, ich habe dieses hölzerne Modell vom Nordwest-Schloss in meinen Archiven ... Professor Von Sternberg hat es als Schmuckschatulle für seine Frau gebaut.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0374">
-              <en><![CDATA[While I remember Von Sternberg building in all sorts of hidden compartments, I can’t find any of the secret latches that open them.]]></en>
+              <en><![CDATA[While I remember Von Sternberg building all sorts of hidden compartments, I can’t find any secret latches that open them.]]></en>
               <de><![CDATA[Auch wenn ich mich daran erinnere, wie Von Sternberg viele Geheimfächer eingebaut hat, kann ich die Riegel nicht finden, um sie zu öffnen.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0375">

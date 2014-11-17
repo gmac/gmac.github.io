@@ -1224,8 +1224,8 @@
                   <de><![CDATA[Ich erinnere mich an das Treffen mit Nigel Trelawneys, als wir in Ravenhollow angekommen waren ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30035">
-                  <en><![CDATA[He mentioned a note that his father wrote on a photograph he was carrying, and that it contained a hidden Morse code!]]></en>
                   <de><![CDATA[Er erwähnte eine Notiz, die sein Vater auf einem Foto gemacht hatte, und die einen geheimen Morse-Code enthielt!]]></de>
+                  <en><![CDATA[He mentioned a note that his father wrote on a photograph he was carrying, and that it contained an encoded message!]]></en>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30036">
                   <en><![CDATA[That must have been it! Trelawney must have changed the code, and then mailed it to his son. But why would he do that?]]></en>
@@ -1240,8 +1240,8 @@
                   <de><![CDATA[Aber wie? Nigel erzählte mir, dass es von einem Mädchen gestohlen wurde, das er getroffen hatte. Selbst er würde nicht wissen, wo es ist ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30039">
-                  <en><![CDATA[We have to hurry! A storm is coming, and the lightning collectors atop Mount Misery could charge the Apparatus with enough energy to open a Rift tonight!]]></en>
-                  <de><![CDATA[Wir müssen uns beeilen! Ein Sturm kommt auf, und wenn Vincent Glück hat, dann werden die Blitz-Attraktoren auf Mount Misery den Apparatus mit genügend Energie aufladen, um heute Abend einen Riss zu öffnen!]]></de>
+                  <en><![CDATA[I don’t know ... but a storm is coming, and the lightning collectors atop Mount Misery could charge the Apparatus with enough energy to open a Rift tonight!]]></en>
+                  <de><![CDATA[Ich weiß nicht ... ein Sturm kommt auf, und wenn Vincent Glück hat, dann werden die Blitz-Attraktoren auf Mount Misery den Apparatus mit genügend Energie aufladen, um heute Abend einen Riss zu öffnen!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30040">
                   <en><![CDATA[Apparatus ... Rift ... what’s all that about, anyway?]]></en>
@@ -1252,16 +1252,16 @@
                   <de><![CDATA[Nun ... wir wissen nicht, wo das Foto ist ... aber du hast erwähnt, dass Nigel es noch bei sich hatte, als du ihn bei den Docks getroffen hastt ... also wissen wir, wo es EINMAL war.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30042">
-                  <en><![CDATA[Are you saying ...]]></en>
-                  <de><![CDATA[Willst du damit sagen ...]]></de>
+                  <en><![CDATA[Are you saying ...?]]></en>
+                  <de><![CDATA[Willst du damit sagen ...?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30043">
                   <en><![CDATA[Maybe we have to think like Vincent. Just this one time.]]></en>
                   <de><![CDATA[Vielleicht müssen wir wie Vincent denken. Nur dieses eine Mal.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="hspeak" sound="voice/catwalk3_voice.swf:catwalk30044">
-                  <en><![CDATA[We’d have to open our own Rift to get the photograph.]]></en>
-                  <de><![CDATA[Wir müssen unseren eigenen Riss öffnen, um das Foto zu bekommen.]]></de>
+                  <en><![CDATA[We’d have to open our own Rift to get the photograph ...]]></en>
+                  <de><![CDATA[Wir müssen unseren eigenen Riss öffnen, um das Foto zu bekommen ...]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30045">
                   <en><![CDATA[Yes, and the power node in the swamp should still be charged ...]]></en>

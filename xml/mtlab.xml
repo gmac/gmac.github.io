@@ -1561,7 +1561,7 @@
                   <de><![CDATA[Ich habe Sie erwartet ... Das hier würde ohne Sie als Zeugen meines Triumphes nicht halb so viel Spaß machen!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0021">
-                  <en><![CDATA[Quick, Nathan! Use the flash device to restore Nigel and Professor Smith!]]></en>
+                  <en><![CDATA[Quick, Nathan! Use that hypnosis device to restore Nigel and Professor Smith!]]></en>
                   <de><![CDATA[Schnell, Nathan! Verwenden Sie das Blitzgerät, um Nigel und Professor Smith aus der Hypnose zu befreien!]]></de>
                 </dia>
                 <dia puppet="nigel" frame="speak5" sound="voice/mtlab_voice.swf:mtlab0022">
@@ -1621,7 +1621,7 @@
                   <de><![CDATA[Aaah!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0036">
-                  <en><![CDATA[The rift is unstable! It can’t be sustained with this little power.]]></en>
+                  <en><![CDATA[The Rift is unstable! It cannot be sustained with so little power.]]></en>
                   <de><![CDATA[Der Riss ist instabil! Er bekommt nicht genug Energie, um sich aufrechtzuerhalten.]]></de>
                 </dia>
                 <dia puppet="smith" frame="" sound="voice/mtlab_voice.swf:mtlab0037">
@@ -1693,19 +1693,19 @@
                   <de><![CDATA[Das Bild ist wieder normal ... aber ... wohin ist Vincent dann verschwunden?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0054">
-                  <en><![CDATA[It’s unlikely that Vincent could survive the collapse of the Time Rift.]]></en>
+                  <en><![CDATA[It’s unlikely that Vincent could have survived the collapse of the Time Rift.]]></en>
                   <de><![CDATA[Ich glaube, es ist sehr unwahrscheinlich, dass Vincent den Zusammenbruch des Zeitrisses überlebt hat.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0055">
-                  <en><![CDATA[Even if he did, he must be badly injured. It’s impossible to say at what point in time he might have ended up.]]></en>
+                  <en><![CDATA[Even if he did, he must be badly injured. It’s impossible to say at what point in time he would end up at.]]></en>
                   <de><![CDATA[Selbst wenn, muss er schwer verletzt sein. Es ist unmöglich zu sagen, an Punkt des Zeitflusses er gelandet ist.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0056">
-                  <en><![CDATA[The collapsing rift could have spat him out at the beginning of time for all we know ...]]></en>
+                  <en><![CDATA[The collapsing rift could have spat him out at the beginning of time itself for all we know ...]]></en>
                   <de><![CDATA[Nach allem, was wir wissen, könnte ihn der zusammenbrechende Riss am Anbeginn der Zeit selbst ausgespiehen haben ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0057">
-                  <en><![CDATA[Nigel is saved and Vincent’s plan to change our past failed. We did it!]]></en>
+                  <en><![CDATA[Nigel is safe and Vincent’s plan to change our past failed. We did it!]]></en>
                   <de><![CDATA[Nigel ist gerettet und Vincents Plan, unsere Vergangenheit zu ändern, ist fehlgeschlagen. Wir haben es geschafft!]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/mtlab_voice.swf:mtlab0058">
@@ -1733,8 +1733,8 @@
                   <de><![CDATA[Hier ist jemand, den du kennenlernen solltest.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0064">
-                  <en><![CDATA[The picture has changed again.]]></en>
-                  <de><![CDATA[Das Bild hat sich wieder verändert.]]></de>
+                  <en><![CDATA[The picture has changed again ...]]></en>
+                  <de><![CDATA[Das Bild hat sich wieder verändert ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0065">
                   <en><![CDATA[It looks like it has returned back to normal.]]></en>

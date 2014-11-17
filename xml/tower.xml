@@ -707,7 +707,7 @@
                   <de><![CDATA[Dr. Coppelius, geht es Ihnen gut?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="hspeak" sound="voice/tower_voice.swf:tower0009">
-                  <en><![CDATA[I’m quite alright lad, but I’m afraid that could change very soon. Even Mr. Cain here clearly underestimates the forces at work.]]></en>
+                  <en><![CDATA[I’m quite alright, thank you, but I’m afraid that could change very soon. Even Mr. Cain here clearly underestimates the forces at work.]]></en>
                   <de><![CDATA[Ich bin in Ordnung, aber ich fürchte, das könnte sich sehr bald ändern. Sogar Herr Cain unterschätzt eindeutig die Kräfte, die hier wirken.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower_voice.swf:tower0010">
@@ -755,12 +755,12 @@
                   <de><![CDATA[Einem &#8222;Tick&#8220; folgt mit Sicherheit immer ein &#8222;Tack&#8220; und Dummheit wie eure spielt mir mit Sicherheit immer in die Hände.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="lspeak" sound="voice/tower_voice.swf:tower0021">
-                  <en><![CDATA[Ha, what a scientifically-profound sentence ...]]></en>
-                  <de><![CDATA[Ha, das ist vielleicht der tiefschürfendste wissenschaftliche Satz ...]]></de>
+                  <en><![CDATA[Ha! How scientifically profound ...]]></en>
+                  <de><![CDATA[Ha! Das ist vielleicht der tiefschürfendste wissenschaftliche Satz ...]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0022">
-                  <en><![CDATA[I suppose your lackluster science is why you steal your colleagues’ inventions instead of developing your own, Vincent Goodchild!]]></en>
-                  <de><![CDATA[Ich nehme an, Ihre wissenschaftliche Glanzlosigkeit ist der Grund, warum Sie die Erfindungen Ihrer Kollegen stehlen mussten, anstatt eigene zu entwickeln, Vincent Goodchild!]]></de>
+                  <en><![CDATA[I suppose your lackluster science is why you steal your colleagues’ inventions instead of developing your own, Vincent Goodchild.]]></en>
+                  <de><![CDATA[Ich nehme an, Ihre wissenschaftliche Glanzlosigkeit ist der Grund, warum Sie die Erfindungen Ihrer Kollegen stehlen mussten, anstatt eigene zu entwickeln, Vincent Goodchild.]]></de>
                 </dia>
                 <dia puppet="cain" frame="" sound="voice/tower_voice.swf:tower0023">
                   <en><![CDATA[Enough.]]></en>
@@ -967,15 +967,15 @@
                   <de><![CDATA[Was ist mit meinem Zeppelin passiert??]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0074">
-                  <en><![CDATA[Henry LeMue-LaFayette??]]></en>
-                  <de><![CDATA[Henry LeMue LaFayette??]]></de>
+                  <en><![CDATA[Henry LeMue-LaFayette?!]]></en>
+                  <de><![CDATA[Henry LeMue LaFayette?!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="hspeak" sound="voice/tower_voice.swf:tower0075">
                   <en><![CDATA[Oh my ... William Coppelius, is that you? What the devil are you doing here?]]></en>
                   <de><![CDATA[Oh ... William Coppelius, bist du das? Was machst du denn hier?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0076">
-                  <en><![CDATA[Vincent has our rings, and he’s on his way to Mount Misery to finish the experiment. He wants to use the Apparatus! If that happens ...]]></en>
+                  <en><![CDATA[Vincent has our rings, and he’s on his way to Mount Misery to finish The Experiment. He wants to use the Apparatus! If that happens ...]]></en>
                   <de><![CDATA[Vincent hat die Ringe und er ist unterwegs zum Mount Misery, um unser Experiment zu beenden. Er will den Apparatus benutzen! Wenn das passiert ...]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/tower_voice.swf:tower0077">
