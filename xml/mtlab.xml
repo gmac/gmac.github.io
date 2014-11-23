@@ -1561,7 +1561,7 @@
                   <de><![CDATA[Ich habe Sie erwartet ... Das hier würde ohne Sie als Zeugen meines Triumphes nicht halb so viel Spaß machen!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0021">
-                  <en><![CDATA[Quick, Nathan! Use that hypnosis device to restore Nigel and Professor Smith!]]></en>
+                  <en><![CDATA[Quick, Nathan! Use that reversed hypnosis device to restore Nigel and Professor Smith!]]></en>
                   <de><![CDATA[Schnell, Nathan! Verwenden Sie das Blitzgerät, um Nigel und Professor Smith aus der Hypnose zu befreien!]]></de>
                 </dia>
                 <dia puppet="nigel" frame="speak5" sound="voice/mtlab_voice.swf:mtlab0022">
@@ -1697,7 +1697,7 @@
                   <de><![CDATA[Ich glaube, es ist sehr unwahrscheinlich, dass Vincent den Zusammenbruch des Zeitrisses überlebt hat.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0055">
-                  <en><![CDATA[Even if he did, he must be badly injured. It’s impossible to say at what point in time he would end up at.]]></en>
+                  <en><![CDATA[Even if he did, he must be badly injured. It’s impossible to say at what point in time he would end up.]]></en>
                   <de><![CDATA[Selbst wenn, muss er schwer verletzt sein. Es ist unmöglich zu sagen, an Punkt des Zeitflusses er gelandet ist.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0056">
