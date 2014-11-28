@@ -440,11 +440,11 @@
                   <de><![CDATA[Ist alles in Ordnung? Wo ist der Baron?]]></de>
                 </dia>
                 <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30019">
-                  <en><![CDATA[He’s in his tower ... we have seen Baron Northwest earlier in there, but now the door is locked.]]></en>
+                  <en><![CDATA[He’s in the tower ... we have seen Baron Northwest earlier in there, but now the door is locked.]]></en>
                   <de><![CDATA[Er ist in seinem Turm ... wir haben Baron Nordwest vorhin dort gesehen, aber jetzt ist die Tür verriegelt.]]></de>
                 </dia>
                 <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30020">
-                  <en><![CDATA[We think that one of the Castle guards sneaked into the room and locked himself in together with the Baron.]]></en>
+                  <en><![CDATA[We think that one of the Castle guards sneaked into the room, and locked himself in with the Baron.]]></en>
                   <de><![CDATA[Wir glauben, dass eine der Schlosswachen da reingeschlichen ist und sich zusammen mit dem Baron eingeschlossen hat.]]></de>
                 </dia>
                 <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30021">

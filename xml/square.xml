@@ -1901,12 +1901,12 @@
               <en><![CDATA[We’re even short on fish here since the Castle started confiscating the daily catch.]]></en>
               <de><![CDATA[Sogar Fisch ist Mangelware, seit das Schloss angefangen hat, den Tagesfang zu beschlagnahmen.]]></de>
             </dia>
-            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0113">
-              <en><![CDATA[Cecily still goes down to the harbor each day but there isn’t anything left to buy.]]></en>
-              <de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es gibt nichts mehr zu kaufen.]]></de>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0126">
+              <en><![CDATA[Cecily still goes down to the harbor each day, though there’s never anything left to buy.]]></en>
+              <de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es ist nie etwas zu kaufen da.]]></de>
             </dia>
-            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0114">
-              <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that. These days I make my famous fish stew and we invite him and his father over for dinner.]]></en>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0127">
+              <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that. On those days I make my famous fish stew, and we invite him and his father over for dinner.]]></en>
               <de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht. An diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0115">
@@ -1933,9 +1933,9 @@
               <en><![CDATA[The last three fishermen who said that to me all just brought back old boots they caught ...]]></en>
               <de><![CDATA[Die letzten drei Fischer, die das zu mir sagten, brachten alle bloß alte Stiefel zurück, die sie gefangen hatten ...]]></de>
             </dia>
-            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0121">
-              <en><![CDATA[I guess there still must be hundreds of boots out there after the trading ship of &#8222;Shuster & Shuster Shoes&#8220; sunk in the bay twenty years ago.]]></en>
-              <de><![CDATA[Ich schätze, da draußen müssen noch hunderte von Stiefeln herumtreiben, nachdem das Handelsschiff von &#8222;Shuster & Shuster Shoes&#8220; vor zwanzig Jahren in der Bucht gesunken ist.]]></de>
+            <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0132">
+              <en><![CDATA[I guess after the trading ship of Shuster & Shuster Shoes sunk in Ravenhollow Bay fifty years ago, there must still be hundreds of boots out there.]]></en>
+              <de><![CDATA[Ich schätze, nachdem das Handelsschiff von Shuster & Shuster Shoes vor zwanzig Jahren in der Bucht von Ravenhollow gesunken ist, müssen da draußen noch hunderte von Stiefeln herumtreiben.]]></de>
             </dia>
           </dialog>
           <script>
@@ -1969,8 +1969,8 @@
               <de><![CDATA[Cecily geht trotzdem jeden Tag zum Hafen runter, aber es ist nie etwas zu kaufen da.]]></de>
             </dia>
             <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0127">
-              <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that – on those days I make my famous fish stew and we invite him and his father over for dinner.]]></en>
-              <de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht – an diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de>
+              <en><![CDATA[Sometimes her boyfriend Stig gives us free fish, but we don’t sell that. On those days I make my famous fish stew, and we invite him and his father over for dinner.]]></en>
+              <de><![CDATA[Manchmal schenkt uns ihr Freund Stig Fisch, aber den verkaufen wir nicht. An diesen Tagen mache ich meinen berühmten Fischeintopf und wir laden ihn und seinen Vater zum Abendessen ein.]]></de>
             </dia>
           </dialog>
           <script>
@@ -2000,8 +2000,8 @@
               <de><![CDATA[Die letzten drei Fischer, die das zu mir sagten, brachten alle bloß alte Stiefel zurück, die sie gefangen hatten ...]]></de>
             </dia>
             <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0132">
-              <en><![CDATA[I guess after the trading ship of &#8222;Shuster & Shuster Shoes&#8220; sunk in the Ravenhollow Bay fifty years ago there must still be hundreds of boots out there.]]></en>
-              <de><![CDATA[Ich schätze, nachdem das Handelsschiff von &#8222;Shuster & Shuster Shoes&#8220; vor zwanzig Jahren in der Bucht von Ravenhollow gesunken ist, müssen da draußen noch hunderte von Stiefeln herumtreiben.]]></de>
+              <en><![CDATA[I guess after the trading ship of Shuster & Shuster Shoes sunk in Ravenhollow Bay fifty years ago, there must still be hundreds of boots out there.]]></en>
+              <de><![CDATA[Ich schätze, nachdem das Handelsschiff von Shuster & Shuster Shoes vor zwanzig Jahren in der Bucht von Ravenhollow gesunken ist, müssen da draußen noch hunderte von Stiefeln herumtreiben.]]></de>
             </dia>
           </dialog>
           <script>
@@ -2023,7 +2023,7 @@
               <de><![CDATA[Ah, ja, das war ein Handelsschiff der Shuster & Shuster Shoe Company namens &#8222;Zapito&#8220;.]]></de>
             </dia>
             <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0135">
-              <en><![CDATA[She and her cargo of boots foundered on an unmarked shoal in Ravenhollow bay about twenty years ago.]]></en>
+              <en><![CDATA[She and her cargo of boots foundered on an unmarked shoal in Ravenhollow Bay about twenty years ago.]]></en>
               <de><![CDATA[Das Schiff ist vor etwa zwanzig Jahren mit seiner Ladung an einer unmarkierten Untiefe gesunken.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0136">
@@ -2035,7 +2035,7 @@
               <de><![CDATA[Ja, aber wenigstens hat es Ravenhollow über die Jahre zu einem wirtschaftlichen Boom verholfen ...]]></de>
             </dia>
             <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0138">
-              <en><![CDATA[While no one wants to buy the water&#8212;logged boots that keep washing ashore, a market has sprung up for shoelaces and scrap leather.]]></en>
+              <en><![CDATA[While no one wants to buy the water-logged boots that keep washing ashore, a market has sprung up for shoelaces and scrap leather.]]></en>
               <de><![CDATA[Obwohl niemand die aufgeweichten Stiefel kaufen will, die immer noch angespült werden, ist ein Markt für Schnürsenkel und Lederreste entstanden.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0139">

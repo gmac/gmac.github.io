@@ -2025,7 +2025,7 @@
                   <de><![CDATA[Sagen Sie mir, was ich jetzt tun muss!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0106">
-                  <en><![CDATA[You should reroute all energy from the lightning collectors into this station, and then draw off enough power to destabilize Vincent’s Rift!]]></en>
+                  <en><![CDATA[You should reroute all energy from the lightning collectors into this station, and then draw enough power to destabilize Vincent’s Rift!]]></en>
                   <de><![CDATA[Du musst die Energie des Blitzkollektors manuell zur Bahn hier unten umleiten, um den Zeitriss zu destabilisieren!]]></de>
                 </dia>
               </dialog>

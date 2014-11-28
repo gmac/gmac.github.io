@@ -1017,8 +1017,8 @@
                   <de><![CDATA[... raschelnde Blätter ...]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30032">
-                  <en><![CDATA[... the knife was ... ]]></en>
-                  <de><![CDATA[... das Messer war ...]]></de>
+                  <en><![CDATA[... the night was ... ]]></en>
+                  <de><![CDATA[... das Nacht war ...]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30033">
                   <en><![CDATA[... who would have thought ...]]></en>
@@ -1073,7 +1073,7 @@
                   <de><![CDATA[... dass die Säge ein schreckliches Geräusch machte, als er sie spielte ...]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30046">
-                  <en><![CDATA[... she had known but never dared to ... ]]></en>
+                  <en><![CDATA[... she had known, but never dared to ... ]]></en>
                   <de><![CDATA[... sie hatte es gewusst, aber nie gewagt ...]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30047">
@@ -1093,8 +1093,8 @@
                   <de><![CDATA[... Geheimnis enthüllt, doch eine Frage blieb ...]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30051">
-                  <en><![CDATA[... coughing from the wardrobe ...]]></en>
-                  <de><![CDATA[... Husten aus der Garderobe ...]]></de>
+                  <en><![CDATA[... came a coughing from the wardrobe ...]]></en>
+                  <de><![CDATA[... kam ein Husten aus der Garderobe ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1436,7 +1436,7 @@
                   <de><![CDATA[Er merkt nicht mal, dass ich hier bin. Die Geschichte ist wohl zu aufregend.]]></de>
                 </dia>
                 <dia puppet="matt" frame="" sound="voice/square3_voice.swf:square30077">
-                  <en><![CDATA[Theodore did not reply at first but what he then said ...]]></en>
+                  <en><![CDATA[Theodore did not reply at first, but what he then said ...]]></en>
                   <de><![CDATA[Theodore antwortete zunächst nicht, aber was er dann sagte ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30078">

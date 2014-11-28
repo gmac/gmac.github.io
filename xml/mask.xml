@@ -939,12 +939,12 @@
                   <de><![CDATA[Oh, das muss sie sein! Meine eigene handgeschnitzte Adlermaske!]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0047">
-                  <en><![CDATA[I hope you like it. I tried to copy the style of the giant eagles up at the gate of Northwest Castle. ]]></en>
+                  <en><![CDATA[I hope you like it. I tried to copy the style of the giant eagles up at the gate of Northwest Castle.]]></en>
                   <de><![CDATA[Ich hoffe, sie gefällt Ihnen. Ich habe versucht, den Stil der riesigen Adler am Tor von Schloss Nordwest zu kopieren.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0048">
-                  <en><![CDATA[Like most statues in Ravenhollow, they were designed by a local stone cutter named Timothy Caro over 300 years ago!]]></en>
-                  <de><![CDATA[Wie die meisten Statuen in Ravenhollow wurden sie vor über 300 Jahren von einem örtlichen Steinmetz namens Timothy Caro entworfen!]]></de>
+                  <en><![CDATA[Like most statues in Ravenhollow, they were designed by a local stone cutter named Timothy Caro over 300 years ago.]]></en>
+                  <de><![CDATA[Wie die meisten Statuen in Ravenhollow wurden sie vor über 300 Jahren von einem örtlichen Steinmetz namens Timothy Caro entworfen.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0049">
                   <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great-great-and-so-on-grandnephew.]]></en>
@@ -963,7 +963,7 @@
                   <de><![CDATA[Was bekommen Sie von mir?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0053">
-                  <en><![CDATA[For now, just take it and see if the mask is to your liking. We can talk about the money later.]]></en>
+                  <en><![CDATA[Just take it and see if the mask is to your liking. We can talk about the money later.]]></en>
                   <de><![CDATA[Nehmen Sie die Maske erst einmal mit und finden Sie heraus, ob Sie ihnen gefällt. Wir können später über das Geld reden.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0054">
@@ -1153,7 +1153,7 @@
                   <de><![CDATA[Es scheint, dass diese Zeiger entworfen wurden, um als eine Art Schlüssel zu fungieren.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0073">
-                  <en><![CDATA[Once the clock hands are brought into a specific position they will activate the mechanism they are supposed to be unlocking.]]></en>
+                  <en><![CDATA[Once the clock hands are brought into a specific position, they will activate the mechanism they are supposed to be unlocking.]]></en>
                   <de><![CDATA[Sobald die Zeiger in eine bestimmte Position gebracht werden, aktivieren sie den Mechanismus, der wahrscheilich etwas entriegelt.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0074">
@@ -2394,13 +2394,13 @@
               <en><![CDATA[About the eagle mask you made for me ...]]></en>
               <de><![CDATA[Wegen der Adlermaske, die Sie für mich geschnitzt haben ...]]></de>
             </dia>
-            <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0198">
-              <en><![CDATA[I tried to copy the style of the giant eagles up at the gate of Northwest Castle.]]></en>
-              <de><![CDATA[Ich habe versucht, den Stil der riesigen Adler am Tor von Schloss Nordwest zu kopieren.]]></de>
+            <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0047">
+              <en><![CDATA[I hope you like it. I tried to copy the style of the giant eagles up at the gate of Northwest Castle.]]></en>
+              <de><![CDATA[Ich hoffe, sie gefällt Ihnen. Ich habe versucht, den Stil der riesigen Adler am Tor von Schloss Nordwest zu kopieren.]]></de>
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0199">
-              <en><![CDATA[Like most statues in Ravenhollow, they were designed by a local stone cutter named Timothy Caro over 300 years ago ...]]></en>
-              <de><![CDATA[Wie die meisten Statuen in Ravenhollow wurden sie vor über 300 Jahren von einem örtlichen Steinmetz namens Timothy Caro entworfen ...]]></de>
+              <en><![CDATA[Like most statues in Ravenhollow, they were designed by a local stone cutter named Timothy Caro over 300 years ago.]]></en>
+              <de><![CDATA[Wie die meisten Statuen in Ravenhollow wurden sie vor über 300 Jahren von einem örtlichen Steinmetz namens Timothy Caro entworfen.]]></de>
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0200">
               <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great-great-and-so-on-grandnephew.]]></en>
@@ -2422,7 +2422,7 @@
               <de><![CDATA[An was für einer Maske arbeiten Sie gerade?]]></de>
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0202">
-              <en><![CDATA[This is going to be called &#8222;the man who returned&#8220;.]]></en>
+              <en><![CDATA[This is going to be called &#8222;The Man Who Returned&#8220;.]]></en>
               <de><![CDATA[Diese hier wird &#8222;Der Mann, der zurückkehrte&#8220; heißen.]]></de>
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0203">
@@ -2454,7 +2454,7 @@
               <de><![CDATA[Leider verpasste ich das Ende der Sendung, sodass ich nie herausfand, was am Ende passierte, und die Frage geistert seitdem in meinem Kopf herum ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0210">
-              <en><![CDATA[Can’t wait to see what &#8222;the man who returned&#8220; looks like in the end.]]></en>
+              <en><![CDATA[Can’t wait to see what &#8222;The Man Who Returned&#8220; looks like in the end.]]></en>
               <de><![CDATA[Ich kann kaum erwarten, den &#8222;Mann, der zurückkehrte&#8220; zu sehen, wenn er fertig ist.]]></de>
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0211">
