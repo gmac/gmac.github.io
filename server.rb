@@ -37,6 +37,7 @@ put '/recordings/:id' do
     completed: body['completed'], 
     actor: body['actor'],
     total: body['total'],
+    cost: body['cost'] || 0
   })
   json @recording
 end

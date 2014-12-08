@@ -19,6 +19,7 @@
           <th data-sort="total">Total</th>
           <th data-sort="completed">Completed</th>
           <th data-sort="actor">Actor</th>
+          <th data-sort="cost">Cost</th>
         </tr>
       </thead>
       <tbody></tbody>
@@ -28,6 +29,7 @@
           <td id="grand-total"></td>
           <td id="completed-total"></td>
           <td id="completed-percent"></td>
+          <td id="cost-total"></td>
         </tr>
       </tfoot>
     </table>
@@ -39,6 +41,7 @@
     <td><%= total %></td>
     <td><input type="number" value="<%= completed %>" class="completed"></td>
     <td><input type="text" value="<%= actor %>" class="actor"></td>
+    <td><input type="number" value="<%= cost %>" class="cost"></td>
   </tr>
   </script>
 

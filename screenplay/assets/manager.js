@@ -4,6 +4,7 @@ var Recording = Backbone.Model.extend({
     'actor': '',
     'cast_id': '',
     'completed': 0,
+    'cost': 0,
     'total': 0
   },
 
@@ -62,7 +63,7 @@ var RecordingsView = Backbone.View.extend({
 
   initialize: function() {
     this.listenTo(this.collection, 'reset sort', this.render);
-    this.listenTo(this.collection, 'change:completed change:actor', this.tally);
+    this.listenTo(this.collection, 'change:completed change:actor change:cost', this.tally);
     this.render();
   },
 
@@ -81,10 +82,12 @@ var RecordingsView = Backbone.View.extend({
     var total = 0;
     var completed = 0;
     var cast = 0;
+    var cost = 0;
 
     this.collection.each(function(model) {
       total += model.get('total');
       completed += model.get('completed');
+      cost += model.get('cost');
 
       if (model.get('actor')) {
         cast += model.get('total');
@@ -93,6 +96,7 @@ var RecordingsView = Backbone.View.extend({
 
     this.$('#grand-total').html(total.toLocaleString());
     this.$('#completed-total').html(completed.toLocaleString());
+    this.$('#cost-total').html('$'+cost.toLocaleString());
 
     completed =  Math.round(completed / total * 100);
     cast =  Math.round(cast / total * 100);
@@ -103,6 +107,7 @@ var RecordingsView = Backbone.View.extend({
   events: {
     'change input.completed': 'onCompleted',
     'change input.actor': 'onActor',
+    'change input.cost': 'onCost',
     'click [data-sort]': 'onSort'
   },
 
@@ -118,6 +123,13 @@ var RecordingsView = Backbone.View.extend({
     var castId = $field.closest('tr').data('id');
     var model = this.collection.findWhere({cast_id: castId});
     model.save({actor: $field.val()});
+  },
+
+  onCost: function(evt) {
+    var $field = this.$(evt.target);
+    var castId = $field.closest('tr').data('id');
+    var model = this.collection.findWhere({cast_id: castId});
+    model.save({cost: parseInt($field.val())});
   },
 
   onSort: function(evt) {
