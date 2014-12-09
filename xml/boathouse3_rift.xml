@@ -393,8 +393,8 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="hspeak" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0010">
-                  <en><![CDATA[Big propellers ... Imagine the size of the ship they must have come from!]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0008">
+                  <en><![CDATA[Imagine the size of the ship these propellers must have come from!]]></en>
                   <de><![CDATA[Große Schiffsschrauben ... Man stelle sich die Größe des Schiffs vor, von dem sie stammen!]]></de>
                 </dia>
               </dialog>
@@ -449,7 +449,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0012">
-                  <en><![CDATA[There’s a piece of string hanging from the cleat.]]></en>
+                  <en><![CDATA[There’s a piece of string hanging from this cleat.]]></en>
                   <de><![CDATA[Da hängt ein Stück Schnur an dem Ding.]]></de>
                 </dia>
               </dialog>
@@ -464,7 +464,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0013">
-                  <en><![CDATA[Now that’s just being silly.]]></en>
+                  <en><![CDATA[Now that’s just silly.]]></en>
                   <de><![CDATA[Also, das ist einfach nur albern.]]></de>
                 </dia>
               </dialog>
@@ -479,8 +479,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0014">
-                  <en><![CDATA[Sure, a piece of string is very useful!]]></en>
-                  <de><![CDATA[Sicher, ein Stück Schnur ist etwas sehr Nützliches!]]></de>
+                  <en><![CDATA[Sure, a piece of string can be useful.]]></en>
+                  <de><![CDATA[Sicher, ein Stück Schnur ist etwas sehr Nützliches.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -540,12 +540,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0016">
-                  <en><![CDATA[This edge is sharp, and there's no one to help if I cut my hand ...]]></en>
-                  <de><![CDATA[Ohne einen Arzt, der anschließend meine Blutvergiftung behandelt, könnte das eine sehr schlechte Idee sein ...]]></de>
+                  <en><![CDATA[Okay. The edge is sharp, and there's no one here to help if I cut my hand ...]]></en>
+                  <de><![CDATA[Okay. Ohne einen Arzt, der anschließend meine Blutvergiftung behandelt, könnte das eine sehr schlechte Idee sein ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0017">
-                  <en><![CDATA[Well, a girl’s got to do what a girl’s got to do!]]></en>
-                  <de><![CDATA[Naja, ein Mädchen muss tun, was ein Mädchen tun muss!]]></de>
+                  <en><![CDATA[But a girl’s got to do what a girl’s got to do.]]></en>
+                  <de><![CDATA[Ein Mädchen muss tun, was ein Mädchen tun muss.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -641,8 +641,8 @@
                   <de><![CDATA[Eine alte Bootsplane, die man zum Trocknen aufgehängt hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0021">
-                  <en><![CDATA[That could make an excellent hiding place should I need one!]]></en>
-                  <de><![CDATA[Das könnte ein exzellentes Versteck abgeben, wenn ich mal eins brauche!]]></de>
+                  <en><![CDATA[That could make an excellent hiding place should I need one.]]></en>
+                  <de><![CDATA[Das könnte ein exzellentes Versteck abgeben, wenn ich mal eins brauche.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -700,8 +700,8 @@
                   <de><![CDATA[Wow. Ist das eine Schatzkiste?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0024">
-                  <en><![CDATA[I bet it’s full of diamonds, sapphires and expensive foreign silk.]]></en>
-                  <de><![CDATA[Ich wette, sie ist voller Diamanten, Saphire und teurer ausländischer Seide.]]></de>
+                  <en><![CDATA[I bet it’s full of diamonds, sapphires, and expensive foreign silks.]]></en>
+                  <de><![CDATA[Ich wette, sie ist voller Diamanten, Saphire, und teurer ausländischer Seide.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -713,12 +713,7 @@
                 <en><![CDATA[Talk to]]></en>
                 <de><![CDATA[Sprich mit]]></de>
               </title>
-              <dialog>
-                <dia puppet="_avatar" frame="hspeak" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0025">
-                  <en><![CDATA[What treasures do you hold, wooden chest?]]></en>
-                  <de><![CDATA[Welche Schätze verbirgst du, hölzerne Kiste?]]></de>
-                </dia>
-              </dialog>
+              <dialog/>
               <script>
                 <dialogue play="*" />
               </script>
@@ -730,7 +725,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0026">
-                  <en><![CDATA[Unfortunately this chest is locked with a pretty sturdy looking lock.]]></en>
+                  <en><![CDATA[Unfortunately this chest is bolted with a sturdy-looking lock.]]></en>
                   <de><![CDATA[Dummerweise ist diese Kiste mit einem ziemlich stabil aussehenden Schloss verriegelt.]]></de>
                 </dia>
               </dialog>
@@ -803,7 +798,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0029">
-                  <en><![CDATA[I’ve grown out of the age of hanging posters on my bedroom wall.]]></en>
+                  <en><![CDATA[I’ve outgrown the age of hanging posters on my walls.]]></en>
                   <de><![CDATA[Ich bin zu alt, um mir Poster ins Schlafzimmer zu hängen.]]></de>
                 </dia>
               </dialog>
@@ -833,7 +828,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0030">
-                  <en><![CDATA[That hatch up there is open.]]></en>
+                  <en><![CDATA[That hatch in the roof is open.]]></en>
                   <de><![CDATA[Diese Luke da oben ist offen.]]></de>
                 </dia>
               </dialog>
@@ -858,8 +853,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0031">
-                  <en><![CDATA[I can’t reach it ... and besides, I don’t think it’d be a good idea to venture outside right now.]]></en>
-                  <de><![CDATA[Ich komme nicht ran ... und außerdem glaube ich nicht, dass es gerade eine gute Idee wäre, mich nach draußen zu wagen.]]></de>
+                  <en><![CDATA[I can’t reach it ... besides, I don’t think it’d be a good idea to venture outside right now.]]></en>
+                  <de><![CDATA[Ich komme nicht ran ... außerdem glaube ich nicht, dass es gerade eine gute Idee wäre, mich nach draußen zu wagen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -888,7 +883,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0032">
-                  <en><![CDATA[Great, I am locked in here ... how am I supposed to get Nigel’s photograph?]]></en>
+                  <en><![CDATA[Great, I’m locked in here ... how am I supposed to get Nigel’s photograph?]]></en>
                   <de><![CDATA[Toll, ich bin hier eingesperrt ... Wie soll ich an Nigels Foto kommen?]]></de>
                 </dia>
               </dialog>
@@ -988,7 +983,7 @@
           <param mapX="854" mapY="680" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[dowsing rod]]></en>
+            <en><![CDATA[divining stick]]></en>
             <de><![CDATA[Wünschelrute]]></de>
           </title>
           <actions>
@@ -999,11 +994,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0034">
-                  <en><![CDATA[How odd ... Is that a dowsing rod floating floating out there?]]></en>
+                  <en><![CDATA[How odd ... Is that a divining stick floating out there?]]></en>
                   <de><![CDATA[Wie seltsam ... Schwimmt da eine Wünschelrute?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0035">
-                  <en><![CDATA[Apparently someone found the water they were looking for ... or else gave up when they reached the sea.]]></en>
+                  <en><![CDATA[Apparently someone found the water source they were looking for ... or else gave up when they reached the sea.]]></en>
                   <de><![CDATA[Offensichtlich hat da jemand das Wasser gefunden, das er suchte ... oder aufgegeben, als er das Meer erreicht hat.]]></de>
                 </dia>
               </dialog>
@@ -1028,7 +1023,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0036">
-                  <en><![CDATA[I can’t reach it, and I’d prefer to not jump in after it.]]></en>
+                  <en><![CDATA[I can’t reach it, and I’d prefer not to jump in after it.]]></en>
                   <de><![CDATA[Ich komme nicht ran, und würde ungern deswegen ins Wasser hineinspringen.]]></de>
                 </dia>
               </dialog>
@@ -1048,8 +1043,8 @@
                   <de><![CDATA[Mal sehen, wie’s mit meiner Treffsicherheit bestellt ist ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0038">
-                  <en><![CDATA[Ha! Pretty good I guess ... Take that all you mean boys who ridiculed me on the softball team!]]></en>
-                  <de><![CDATA[Ha! Die ist wohl ziemlich gut ... Da habt ihr’s, ihr gemeinen Jungs, die ihr mich im Softball-Team ausgelacht habt!]]></de>
+                  <en><![CDATA[Ha! Pretty good I guess ... take that all you boys who ridiculed me on the softball team.]]></en>
+                  <de><![CDATA[Ha! Die ist wohl ziemlich gut ... da habt ihr’s, ihr gemeinen Jungs, die ihr mich im Softball-Team ausgelacht habt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1071,7 +1066,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0039">
-                  <en><![CDATA[The string by itself is too light to throw over to the stick.]]></en>
+                  <en><![CDATA[The string alone is too light to throw over to the stick.]]></en>
                   <de><![CDATA[Die Schnur an sich ist zu leicht, um sie rüber zu dem Stock zu werfen.]]></de>
                 </dia>
               </dialog>
@@ -1085,7 +1080,7 @@
           <param mapX="854" mapY="680" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[hooked dowsing rod]]></en>
+            <en><![CDATA[hooked divining stick]]></en>
             <de><![CDATA[Wünschelrute mit Haken]]></de>
           </title>
           <actions>
@@ -1095,9 +1090,13 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0040">
-                  <en><![CDATA[Is that a dowsing stick floating in the middle of the water? Strange ...]]></en>
-                  <de><![CDATA[Schwimmt da eine Wünschelrute mitten auf dem Wasser? Seltsam ...]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0034">
+                  <en><![CDATA[How odd ... Is that a divining stick floating out there?]]></en>
+                  <de><![CDATA[Wie seltsam ... Schwimmt da eine Wünschelrute?]]></de>
+                </dia>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0035">
+                  <en><![CDATA[Apparently someone found the water source they were looking for ... or else gave up when they reached the sea.]]></en>
+                  <de><![CDATA[Offensichtlich hat da jemand das Wasser gefunden, das er suchte ... oder aufgegeben, als er das Meer erreicht hat.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1121,7 +1120,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0041">
-                  <en><![CDATA[I’ll reel in the dowsing rod with this string.]]></en>
+                  <en><![CDATA[I’ll reel in the divining stick with this string.]]></en>
                   <de><![CDATA[Ich ziehe die Wünschelrute mit dieser Schnur zu mir.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0042">
@@ -1164,12 +1163,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0043">
-                  <en><![CDATA[There’s a clamshell clinging to that pole.]]></en>
-                  <de><![CDATA[Da hängt eine Miesmuschel an der Stange.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0044">
-                  <en><![CDATA[The flood must have been pretty high at one time ... How else would that shellfish have been able to get up there?]]></en>
-                  <de><![CDATA[Irgendwann muss der Wasserstand mal ziemlich hoch gewesen sein ... Wie sonst hätte diese Muschel da rauf kommen können?]]></de>
+                  <en><![CDATA[There’s a clam shell clinging to one of the posts.]]></en>
+                  <de><![CDATA[Da hängt eine Muschel an einer der Stangen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1230,13 +1225,9 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0047">
-                  <en><![CDATA[There is a clam shell clinging to one of the posts.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0043">
+                  <en><![CDATA[There’s a clam shell clinging to one of the posts.]]></en>
                   <de><![CDATA[Da hängt eine Muschel an einer der Stangen.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0048">
-                  <en><![CDATA[The flood must have been pretty high at one time, how else would that shellfish have been able to get up there?]]></en>
-                  <de><![CDATA[Irgendwann muss der Wasserstand mal ziemlich hoch gewesen sein, wie sonst hätte diese Muschel da rauf kommen sollen?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1249,9 +1240,9 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0049">
-                  <en><![CDATA[I think whatever lived in that shell is long gone ... ]]></en>
-                  <de><![CDATA[Ich glaube, was auch immer mal in dieser Muschelschale gelebt hat, ist schon lange fort ...]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0045">
+                  <en><![CDATA[I think whatever lived in that shell is long gone.]]></en>
+                  <de><![CDATA[Ich glaube, was auch immer mal in dieser Muschelschale gelebt hat, ist schon lange fort.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1414,7 +1405,7 @@
                   <de><![CDATA[Wo bin ich? Ist das die Vergangenheit?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0053">
-                  <en><![CDATA[ I hope Nigel is close by ...]]></en>
+                  <en><![CDATA[I hope Nigel is close by ...]]></en>
                   <de><![CDATA[Ich hoffe, Nigel ist in der Nähe ...]]></de>
                 </dia>
               </dialog>
@@ -1430,8 +1421,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0054">
-                  <en><![CDATA[Uh oh ... they are bringing Nigel in here! I have to hide!]]></en>
-                  <de><![CDATA[Oh&#8212;oh ... sie bringen Nigel hier rein! Ich muss mich verstecken!]]></de>
+                  <en><![CDATA[Uh oh ... they’re bringing Nigel in here! I have to hide!]]></en>
+                  <de><![CDATA[Oh oh ... sie bringen Nigel hier rein! Ich muss mich verstecken!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1470,16 +1461,16 @@
                 <de><![CDATA[Untersuche]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0055">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0051">
                   <en><![CDATA[Oh, my head ... I feel ... dizzy.]]></en>
                   <de><![CDATA[Oh, mein Kopf ... Mir ist ... schwindelig.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="hspeak" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0056">
+                <dia puppet="_avatar" frame="hspeak" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0052">
                   <en><![CDATA[Where am I? Is this the past?]]></en>
                   <de><![CDATA[Wo bin ich? Ist das die Vergangenheit?]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0057">
-                  <en><![CDATA[ I hope Nigel is close by ...]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0053">
+                  <en><![CDATA[I hope Nigel is close by ...]]></en>
                   <de><![CDATA[Ich hoffe, Nigel ist in der Nähe ...]]></de>
                 </dia>
               </dialog>
@@ -1494,12 +1485,12 @@
                 <de><![CDATA[Sprich mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0058">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0054">
                   <en><![CDATA[Uh oh ... they’re bringing Nigel in here! I have to hide!]]></en>
-                  <de><![CDATA[Oh&#8212;oh ... sie bringen Nigel hier rein! Ich muss mich verstecken!]]></de>
+                  <de><![CDATA[Oh oh ... sie bringen Nigel hier rein! Ich muss mich verstecken!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0059">
-                  <en><![CDATA[I’ll just hide behind this inconspicuous&#8212;looking tarpaulin.]]></en>
+                  <en><![CDATA[I’ll just hide behind this inconspicuous-looking tarpaulin.]]></en>
                   <de><![CDATA[Ich verstecke mich einfach hinter dieser unauffälligen Plane.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0060">
@@ -1511,7 +1502,7 @@
                   <de><![CDATA[(Warum in aller Welt braucht der so lang??)]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0062">
-                  <en><![CDATA[(Ever since he regained consciousness he has been walking around talking to himself!)]]></en>
+                  <en><![CDATA[(Ever since he regained consciousness, he’s just been wandering around talking to himself!)]]></en>
                   <de><![CDATA[(Seit er wieder aufgewacht ist, läuft er die ganze Zeit herum und spricht mit sich selbst!)]]></de>
                 </dia>
                 <dia puppet="nigel" frame="hspeak6" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0063">
@@ -1527,7 +1518,7 @@
                   <de><![CDATA[(Seufz ... Was MACHT der da draußen?)]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0066">
-                  <en><![CDATA[(Oh, I think he is close by!)]]></en>
+                  <en><![CDATA[(Oh, I think he’s getting close!)]]></en>
                   <de><![CDATA[(Oh, ich glaube, er kommt näher!)]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0067">
@@ -1576,7 +1567,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0078">
                   <en><![CDATA[Sorry, I guess that’s my fault.]]></en>
-                  <de><![CDATA[ Entschuldigung, das ist wohl meine Schuld.]]></de>
+                  <de><![CDATA[Entschuldigung, das ist wohl meine Schuld.]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0079">
                   <en><![CDATA[Did I get punched too hard or are you not making much sense?]]></en>
@@ -1588,27 +1579,27 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0081">
                   <en><![CDATA[The photograph depicting the nine founding members of the Smith Institute. Now ... please?]]></en>
-                  <de><![CDATA[ Das Foto, dass die neun Gründungsmitglieder des Smith-Institutes zeigt. Jetzt ... bitte ...?]]></de>
+                  <de><![CDATA[Das Foto, dass die neun Gründungsmitglieder des Smith-Institutes zeigt. Jetzt ... bitte ...?]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0082">
                   <en><![CDATA[How do you know about that photograph? Why do you need it?]]></en>
                   <de><![CDATA[Woher weißt du von dem Foto? Wozu brauchst du das?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0083">
-                  <en><![CDATA[Lend me the photograph for a second and I’ll explain it to you.]]></en>
+                  <en><![CDATA[Lend me that photograph for a second and I’ll explain it to you.]]></en>
                   <de><![CDATA[Leih mir das Foto für eine Sekunde, dann werde ich es dir erklären.]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0084">
                   <en><![CDATA[That sounds fair.]]></en>
-                  <de><![CDATA[ Das hört sich fair an.]]></de>
+                  <de><![CDATA[Das hört sich fair an.]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0085">
                   <en><![CDATA[Hey! My picture!]]></en>
-                  <de><![CDATA[ Hey! Mein Foto!]]></de>
+                  <de><![CDATA[Hey! Mein Foto!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0086">
-                  <en><![CDATA[Sorry, I need that. Take this instead. This should help you to get out of here.]]></en>
-                  <de><![CDATA[Entschuldigung, ich brauche es. Nimm stattdessen das hier. Das sollte dir helfen, hier rauszukommen.]]></de>
+                  <en><![CDATA[Sorry, I need that. Here, take this instead ... it should help you get out of here.]]></en>
+                  <de><![CDATA[Entschuldigung, ich brauche es. Nimm stattdessen das hier ... das sollte dir helfen, hier rauszukommen.]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0087">
                   <en><![CDATA[A fish??]]></en>
@@ -1616,7 +1607,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0088">
                   <en><![CDATA[We will meet again Nigel.]]></en>
-                  <de><![CDATA[ Wir werden uns wieder treffen, Nigel.]]></de>
+                  <de><![CDATA[Wir werden uns wieder treffen, Nigel.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0089">
                   <en><![CDATA[... but I fear that I won’t recognize you.]]></en>

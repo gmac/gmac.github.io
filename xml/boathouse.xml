@@ -1228,79 +1228,79 @@
                   <en><![CDATA[Holy smoke!]]></en>
                   <de><![CDATA[Heiliger Strohsack!]]></de>
                 </dia>
-                <dia puppet="nora" frame="speak4" sound="voice/boathouse_voice.swf:boathouse0037">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0072">
                   <en><![CDATA[Nigel Trelawney?]]></en>
                   <de><![CDATA[Nigel Trelawney?]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0038">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0073">
                   <en><![CDATA[Yes ... but ...]]></en>
                   <de><![CDATA[Ja ... aber ...]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0039">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0074">
                   <en><![CDATA[Why the heck were you hiding behind that tarpaulin?]]></en>
                   <de><![CDATA[Warum zum Teufel hast du dich hinter der Plane versteckt?]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0040">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0075">
                   <en><![CDATA[Who are you?]]></en>
                   <de><![CDATA[Wer bist du?]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0041">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0076">
                   <en><![CDATA[Why are we locked in here?]]></en>
                   <de><![CDATA[Warum sind wir hier eingesperrt?]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0042">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0077">
                   <en><![CDATA[I’m actually not locked in here. But you are ...]]></en>
                   <de><![CDATA[Ich bin eigentlich nicht hier eingesperrt. Aber du  ...]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0043">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0078">
                   <en><![CDATA[Sorry, I guess that’s my fault.]]></en>
                   <de><![CDATA[Entschuldigung, das ist wohl meine Schuld.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0044">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0079">
                   <en><![CDATA[Did I get punched too hard or are you not making much sense?]]></en>
                   <de><![CDATA[Bin ich noch benommen von vorhin oder ergibt das nicht viel Sinn?]]></de>
                 </dia>
-                <dia puppet="nora" frame="lspeak" sound="voice/boathouse_voice.swf:boathouse0045">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0080">
                   <en><![CDATA[I don’t have time. I need the photograph that your father sent you.]]></en>
                   <de><![CDATA[Ich habe keine Zeit. Ich brauche das Foto, das dir dein Vater geschickt hat.]]></de>
                 </dia>
-                <dia puppet="nora" frame="hspeak" sound="voice/boathouse_voice.swf:boathouse0046">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0081">
                   <en><![CDATA[The photograph depicting the nine founding members of the Smith Institute. Now ... please?]]></en>
-                  <de><![CDATA[Das Foto, dass die neun Gründungsmitglieder des Smith-Instituts zeigt. Jetzt ... bitte?]]></de>
+                  <de><![CDATA[Das Foto, dass die neun Gründungsmitglieder des Smith-Institutes zeigt. Jetzt ... bitte ...?]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0047">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0082">
                   <en><![CDATA[How do you know about that photograph? Why do you need it?]]></en>
                   <de><![CDATA[Woher weißt du von dem Foto? Wozu brauchst du das?]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0048">
-                  <en><![CDATA[Lend me the photograph for a second and I’ll explain it to you.]]></en>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0083">
+                  <en><![CDATA[Lend me that photograph for a second and I’ll explain it to you.]]></en>
                   <de><![CDATA[Leih mir das Foto für eine Sekunde, dann werde ich es dir erklären.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0049">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0084">
                   <en><![CDATA[That sounds fair.]]></en>
                   <de><![CDATA[Das hört sich fair an.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0050">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0085">
                   <en><![CDATA[Hey! My picture!]]></en>
                   <de><![CDATA[Hey! Mein Foto!]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0051">
-                  <en><![CDATA[Sorry, I need that. Take this instead. This should help you to get out of here.]]></en>
-                  <de><![CDATA[Entschuldigung, ich brauche es. Nimm stattdessen das hier. Das sollte dir helfen, hier rauszukommen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0086">
+                  <en><![CDATA[Sorry, I need that. Here, take this instead ... it should help you get out of here.]]></en>
+                  <de><![CDATA[Entschuldigung, ich brauche es. Nimm stattdessen das hier ... das sollte dir helfen, hier rauszukommen.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0052">
+                <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0087">
                   <en><![CDATA[A fish??]]></en>
                   <de><![CDATA[Ein Fisch??]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0053">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0088">
                   <en><![CDATA[We will meet again Nigel.]]></en>
                   <de><![CDATA[Wir werden uns wieder treffen, Nigel.]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0054">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0089">
                   <en><![CDATA[... but I fear that I won’t recognize you.]]></en>
                   <de><![CDATA[... aber ich fürchte, ich werde dich nicht wiedererkennen.]]></de>
                 </dia>
-                <dia puppet="nora" frame="" sound="voice/boathouse_voice.swf:boathouse0055">
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0090">
                   <en><![CDATA[Please don’t take that personally.]]></en>
                   <de><![CDATA[Bitte nimm das nicht persönlich.]]></de>
                 </dia>
