@@ -586,7 +586,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30020">
-                  <en><![CDATA[That’s the upper-end of that strange device that I saw in the Smith Institute.]]></en>
+                  <en><![CDATA[That’s the upper-end of the strange device that I saw at the Smith Institute.]]></en>
                   <de><![CDATA[Das ist der obere Teil dieses seltsamen Geräts, das ich im Institut gesehen habe.]]></de>
                 </dia>
               </dialog>
@@ -652,7 +652,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30020">
-                  <en><![CDATA[That’s the upper-end of that strange device that I saw in the Smith Institute.]]></en>
+                  <en><![CDATA[That’s the upper-end of the strange device that I saw at the Smith Institute.]]></en>
                   <de><![CDATA[Das ist der obere Teil dieses seltsamen Geräts, das ich im Institut gesehen habe.]]></de>
                 </dia>
               </dialog>
@@ -743,7 +743,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30020">
-                  <en><![CDATA[That’s the upper-end of that strange device that I saw in the Smith Institute.]]></en>
+                  <en><![CDATA[That’s the upper-end of the strange device that I saw at the Smith Institute.]]></en>
                   <de><![CDATA[Das ist der obere Teil dieses seltsamen Geräts, das ich im Institut gesehen habe.]]></de>
                 </dia>
               </dialog>
@@ -1072,7 +1072,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river3_voice.swf:river30036">
-                  <en><![CDATA[While the boxes look similar enough that I might be able to pull a swap, that guard would catch me doing it.]]></en>
+                  <en><![CDATA[While the boxes look similar enough that I might be able to pull a swap, the guard would catch me doing it.]]></en>
                   <de><![CDATA[Die Kisten ähneln sich zwar genug, dass ich sie vielleicht austauschen könnte, aber der Typ würde mich dabei erwischen.]]></de>
                 </dia>
               </dialog>

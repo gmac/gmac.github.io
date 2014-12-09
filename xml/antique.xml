@@ -1962,7 +1962,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0117">
-                  <en><![CDATA[Time for some good old&#8212;fashioned archive research.]]></en>
+                  <en><![CDATA[Time for some good old-fashioned archive research.]]></en>
                   <de><![CDATA[Zeit für ein wenig gute, altmodische Archivrecherche.]]></de>
                 </dia>
               </dialog>
@@ -2010,7 +2010,7 @@
                   <de><![CDATA[Dieses Modell hat eine blaue Uhr, genau wie das echte Schloss ... nur die Uhrzeiger fehlen.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0119">
-                  <en><![CDATA[Professor Von Sternberg said that the clock hands were lost before he moved to London.]]></en>
+                  <en><![CDATA[Professor Von Sternberg said that the clock’s hands were lost before he moved to London.]]></en>
                   <de><![CDATA[Professor Von Sternberg hat gesagt, dass die Uhrzeiger verloren gingen, bevor er nach London zog.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0120">
@@ -3559,7 +3559,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0246">
-                  <en><![CDATA[No, actually I think I will be better off without owning any unicorn&#8212;related media.]]></en>
+                  <en><![CDATA[No, actually I think I will be better off without owning any unicorn-related media.]]></en>
                   <de><![CDATA[Nein, ich denke ich bin besser ohne ein Gemälde von einem Einhorn dran.]]></de>
                 </dia>
               </dialog>
@@ -3877,7 +3877,7 @@
               <de><![CDATA[Da sind Ananas auf die Münzen geprägt. ]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0267">
-              <en><![CDATA[Yes, these are Malabo Coins.]]></en>
+              <en><![CDATA[Yes, these are Malabo coins.]]></en>
               <de><![CDATA[Ja, das sind malaboische Münzen.]]></de>
             </dia>
             <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0268">
@@ -3904,7 +3904,7 @@
               <de><![CDATA[Ich habe eine Handvoll fast trockener alter Münzen, die ich aus dem Schildkrötenbrunnen in der Parallelstraße gefischt habe.]]></de>
             </dia>
             <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0271">
-              <en><![CDATA[Well, at least it’s real money.]]></en>
+              <en><![CDATA[Well, at least that’s real money.]]></en>
               <de><![CDATA[Nun ja, das ist wenigstens echtes Geld.]]></de>
             </dia>
             <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0272">
@@ -4161,7 +4161,7 @@
               <de><![CDATA[Heiliger Bimbam ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0283">
-              <en><![CDATA[Yes, now you know why no one has bought the ring for so many years now. The diamond and the ring itself are of the finest quality.]]></en>
+              <en><![CDATA[Yes, now you know why no one has bought the ring for so many years. The diamond and the ring itself are of the finest quality.]]></en>
               <de><![CDATA[Ja, jetzt verstehen Sie sicher, warum in all den Jahren niemand diesen Ring gekauft hat. Der Diamant und der Ring selbst sind von höchster Qualität.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0284">
@@ -4188,11 +4188,11 @@
               <de><![CDATA[Es gibt also keine Chance für mich, diesen Ring zu bekommen?]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0287">
-              <en><![CDATA[You fell in love with that ring didn’t you? Well, that is quite understandable.]]></en>
+              <en><![CDATA[You fell in love with that ring didn’t you? It’s quite understandable.]]></en>
               <de><![CDATA[Sie haben sich in diesen Ring verliebt, hm? Nun ja, das kann ich gut verstehen.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0288">
-              <en><![CDATA[My niece, Cecily, has adored this ring since she was a child. I would like to give it to her, but my sister tells me that I mustn’t spoil the child.]]></en>
+              <en><![CDATA[My niece, Cecily, has adored the ring since she was a child. I would like to give it to her, but my sister tells me that I mustn’t spoil the child.]]></en>
               <de><![CDATA[Meine Nichte Cecily liebt diesen Ring ebenfalls, schon seit ihrer Kindheit. Ich würde ihn ihr gerne schenken, aber meine Schwester sagt mir so oft, dass ich das Kind nicht verwöhnen soll.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0289">
@@ -4658,8 +4658,8 @@
               <de><![CDATA[Oh nein ... das muss Timothy Caros Statue von Lilly sein, die Lowell Cain vom Dorfplatz weggeschafft hat. Wenn wir nur eine Möglichkeit finden könnten, sie von dort zu bergen.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0356">
-              <en><![CDATA[A colleague of your father’s, a man named Henry LeMue LaFayette, had a zeppelin ...]]></en>
-              <de><![CDATA[Ein Kollege Ihres Vaters, ein Mann namens Henry LeMue LaFayette, hatte einen Zeppelin ...]]></de>
+              <en><![CDATA[A colleague of your father’s, a man named Henry LeMue-LaFayette, had a zeppelin ...]]></en>
+              <de><![CDATA[Ein Kollege Ihres Vaters, ein Mann namens Henry LeMue-LaFayette, hatte einen Zeppelin ...]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0357">
               <en><![CDATA[He could have lifted the statue for us, but unfortunately he’s left Ravenhollow. I fear there’s nothing we can do ...]]></en>
@@ -4739,8 +4739,8 @@
               <de><![CDATA[Ich darf mich also nicht im Archiv umsehen?]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0408">
-              <en><![CDATA[Well. I see that you are very interested in the history of Ravenhollow, so ... would you be willing to do me a favor?]]></en>
-              <de><![CDATA[Nun gut. Wie ich sehe haben Sie großes Interesse an der Geschichte von Ravenhollow, also ... würden Sie mir einen Gefallen tun?]]></de>
+              <en><![CDATA[I see that you are very interested in the history of Ravenhollow, so ... would you be willing to do me a favor?]]></en>
+              <de><![CDATA[Wie ich sehe haben Sie großes Interesse an der Geschichte von Ravenhollow, also ... würden Sie mir einen Gefallen tun?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0409">
               <en><![CDATA[What is it?]]></en>
@@ -4885,12 +4885,12 @@
         </topic>
         <topic key="t0" id="3" enabled="1" hold="0" expose="8" go="0">
           <title>
-            <en><![CDATA[I will set the clock hands to three o’clock.]]></en>
+            <en><![CDATA[I’ll set the clock hands to three o’clock.]]></en>
             <de><![CDATA[Ich werde die Uhrzeiger auf drei Uhr stellen.]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0428">
-              <en><![CDATA[I will set the clock hands to three o’clock.]]></en>
+              <en><![CDATA[I’ll set the clock hands to three o’clock.]]></en>
               <de><![CDATA[Ich werde die Uhrzeiger auf drei Uhr stellen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0429">
@@ -4963,13 +4963,13 @@
         </topic>
         <topic key="t3" id="1030" enabled="0" hold="0" expose="" go="0">
           <title>
-            <en><![CDATA[10:30 ... I’m pretty sure it’s 10:30!]]></en>
-            <de><![CDATA[10:30 Uhr ... Ich bin mir ganz sicher, dass es 10:30 Uhr ist!]]></de>
+            <en><![CDATA[10:30 ... I’m pretty sure it’s 10:30 right now.]]></en>
+            <de><![CDATA[10:30 Uhr ... Ich bin mir ganz sicher, dass es 10:30 Uhr ist.]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0434">
-              <en><![CDATA[10:30 ... I’m pretty sure it’s 10:30!]]></en>
-              <de><![CDATA[10:30 Uhr ... Ich bin mir ganz sicher, dass es 10:30 Uhr ist!]]></de>
+              <en><![CDATA[10:30 ... I’m pretty sure it’s 10:30 right now.]]></en>
+              <de><![CDATA[10:30 Uhr ... Ich bin mir ganz sicher, dass es 10:30 Uhr ist.]]></de>
             </dia>
             <dia puppet="_avatar" frame="lspeak" sound="voice/antique_voice.swf:antique0435">
               <en><![CDATA[Nothing? Darn ... I was so sure!]]></en>

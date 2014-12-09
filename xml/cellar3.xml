@@ -1581,7 +1581,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30059">
-                  <en><![CDATA[This dry barrel won’t make the touch wicks any more flammable.]]></en>
+                  <en><![CDATA[This dry barrel won’t make the torch wicks any more flammable.]]></en>
                   <de><![CDATA[Bei einem trockenen Fass kann ich die Dochte nicht in etwas Entflammbares tauchen.]]></de>
                 </dia>
               </dialog>

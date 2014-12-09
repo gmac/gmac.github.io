@@ -971,8 +971,8 @@
                   <de><![CDATA[Henry LeMue LaFayette?!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="hspeak" sound="voice/tower_voice.swf:tower0075">
-                  <en><![CDATA[Oh my ... William Coppelius, is that you? What the devil are you doing here?]]></en>
-                  <de><![CDATA[Oh ... William Coppelius, bist du das? Was machst du denn hier?]]></de>
+                  <en><![CDATA[William Coppelius, is that you? What the devil are you doing here?]]></en>
+                  <de><![CDATA[William Coppelius, bist du das? Was machst du denn hier?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0076">
                   <en><![CDATA[Vincent has our rings, and he’s on his way to Mount Misery to finish The Experiment. He wants to use the Apparatus! If that happens ...]]></en>
