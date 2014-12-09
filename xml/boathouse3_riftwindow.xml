@@ -136,7 +136,7 @@
                   <de><![CDATA[Leider hat Vincent dort auf uns gewartet. Er stahl das Boot und brachte mich nach Ravenhollow, wo seine Schergen schon auf uns warteten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0002">
-                  <en><![CDATA[Vincent must have known Grandpa and the others would follow us here ... they walked right into his trap.]]></en>
+                  <en><![CDATA[Vincent must have known that Grandpa and the others would follow us here ... they walked right into his trap.]]></en>
                   <de><![CDATA[Ich schätze, Vincent wusste, dass Opa und die anderen uns folgen würden ... sie gingen direkt in seine Falle.]]></de>
                 </dia>
               </dialog>
@@ -231,7 +231,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0008">
-                  <en><![CDATA[I still haven’t seen much of Ravenhollow. I hear it’s worth a visit.]]></en>
+                  <en><![CDATA[I still haven’t seen much of Ravenhollow. I hear that it’s quite lovely.]]></en>
                   <de><![CDATA[Ich habe noch nicht viel von Ravenhollow gesehen. Ich habe aber gehört, dass es einen Besuch wert ist.]]></de>
                 </dia>
               </dialog>
@@ -245,9 +245,9 @@
                 <de><![CDATA[Spreche mit]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0009">
-                  <en><![CDATA[I have to be careful not to attract attention!]]></en>
-                  <de><![CDATA[Ich muss vorsichtig sein, um nicht zu viel Aufmerksamkeit zu erregen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0041">
+                  <en><![CDATA[No. I can’t let anyone except Nigel know that I’m here.]]></en>
+                  <de><![CDATA[Nein. Nur Nigel darf wissen, dass ich hier bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -260,9 +260,9 @@
                 <de><![CDATA[Betrete]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0009">
-                  <en><![CDATA[I have to be careful not to attract attention!]]></en>
-                  <de><![CDATA[Ich muss vorsichtig sein, um nicht zu viel Aufmerksamkeit zu erregen!]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0041">
+                  <en><![CDATA[No. I can’t let anyone except Nigel know that I’m here.]]></en>
+                  <de><![CDATA[Nein. Nur Nigel darf wissen, dass ich hier bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -478,8 +478,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0020">
-                  <en><![CDATA[No, McManus seems like such a nice man. He doesn’t deserve to be shot at!]]></en>
-                  <de><![CDATA[Nein, McManus schien immer ein so netter Mensch zu sein. Er verdient es nicht, dass auf ihn geschossen wird!]]></de>
+                  <en><![CDATA[No. McManus seems like such a nice man. He doesn’t deserve to be shot at.]]></en>
+                  <de><![CDATA[Nein. McManus schien immer ein so netter Mensch zu sein. Er verdient es nicht, dass auf ihn geschossen wird.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -507,12 +507,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0021">
-                  <en><![CDATA[I have never seen him so worried.]]></en>
-                  <de><![CDATA[Ich habe ihn noch nie so besorgt gesehen.]]></de>
+                  <en><![CDATA[I have never seen him so worried ...]]></en>
+                  <de><![CDATA[Ich habe ihn noch nie so besorgt gesehen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0022">
-                  <en><![CDATA[Grandpa always did his best to protect me ... he never said a word about Vincent and his work at the Smith Institute.]]></en>
-                  <de><![CDATA[Opa hat immer sein Bestes getan, um mich zu schützen ... er hat mir nie etwas von Vincent und den Vorgängen im Smith-Institut erzählt.]]></de>
+                  <en><![CDATA[Grandpa always did his best to protect me. He never said a word about Vincent and his work at the Smith Institute.]]></en>
+                  <de><![CDATA[Opa hat immer sein Bestes getan, um mich zu schützen. Er hat mir nie etwas von Vincent und den Vorgängen im Smith-Institut erzählt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -526,8 +526,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0023">
-                  <en><![CDATA[No, I can’t let him know I’m here. It might cause a paradox!]]></en>
-                  <de><![CDATA[Nein, er darf nicht wissen, dass ich hier bin. Es könnte zu einem Paradoxon führen!]]></de>
+                  <en><![CDATA[No, I can’t let him know that I’m here. It might cause a paradox ...]]></en>
+                  <de><![CDATA[Nein, er darf nicht wissen, dass ich hier bin. Es könnte zu einem Paradoxon führen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0024">
                   <en><![CDATA[Or, he’d just be VERY confused.]]></en>
@@ -557,8 +557,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0025">
-                  <en><![CDATA[What? No, I will NOT shoot at Grandpa.]]></en>
-                  <de><![CDATA[Was? Nein, ich würde nicht einmal in Erwägung ziehen, auf Opa zu schießen.]]></de>
+                  <en><![CDATA[What?! No. I will NOT shoot at Grandpa.]]></en>
+                  <de><![CDATA[Was?! Nein. ich würde nicht einmal in Erwägung ziehen, auf Opa zu schießen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -586,8 +586,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0026">
-                  <en><![CDATA[Even old Shroom seems to detest Lowell Cain.]]></en>
-                  <de><![CDATA[Selbst der gute alte Shroom mag Lowell Cain nicht.]]></de>
+                  <en><![CDATA[Even old Shroomy seems to detest Lowell Cain.]]></en>
+                  <de><![CDATA[Selbst der gute alte Shroomy mag Lowell Cain nicht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -743,12 +743,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0039">
-                  <en><![CDATA[Oh, no ... It looks like he’s about to arrest Grandpa and the others!]]></en>
-                  <de><![CDATA[Oh, nein ... Es sieht aus, als werde er gleich Opa und die anderen verhaften!]]></de>
+                  <en><![CDATA[Oh no ... It looks like he’s about to arrest Grandpa and the others!]]></en>
+                  <de><![CDATA[Oh nein ... Es sieht aus, als werde er gleich Opa und die anderen verhaften!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0040">
-                  <en><![CDATA[I have to stop them from taking Nigel up to the Castle as well.]]></en>
-                  <de><![CDATA[Ich muss einen Weg finden, um sie davon abzuhalten, auch Nigel hoch zum Schloss zu bringen.]]></de>
+                  <en><![CDATA[I have to stop them from taking Nigel up to the Castle.]]></en>
+                  <de><![CDATA[Ich muss einen Weg finden, um sie davon abzuhalten, auch Nigel hoch zum Schloss.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -805,11 +805,11 @@
                   <de><![CDATA[Au!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0046">
-                  <en><![CDATA[Sorry, Nigel! I didn’t expect that he’d be THAT rough.]]></en>
+                  <en><![CDATA[Sorry, Nigel! I didn’t expect him to be THAT rough.]]></en>
                   <de><![CDATA[Tut mir leid, Nigel! Ich hatte nicht erwartet, dass er SO brutal ist.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0047">
-                  <en><![CDATA[I’d better get rid of this slingshot before they bring Nigel in here ...]]></en>
+                  <en><![CDATA[I’d better get rid of this slingshot before they bring Nigel over ...]]></en>
                   <de><![CDATA[Ich werde besser die Schleuder los, bevor sie Nigel hier reinbringen ...]]></de>
                 </dia>
               </dialog>
@@ -863,11 +863,11 @@
                   <de><![CDATA[Nach dem suche ich ... Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0049">
-                  <en><![CDATA[I recognize him from that brief moment when he and Nathan burst into the Castle tower.]]></en>
+                  <en><![CDATA[I recognize him from that moment where he and Nathan burst into the Castle tower.]]></en>
                   <de><![CDATA[Ich sah ihn nur für einen kurzen Moment, als er und Nathan in den Schlossturm einbrachen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0050">
-                  <en><![CDATA[I can’t let Cain and his henchman arrest Nigel. I have to get that photograph from him ...]]></en>
+                  <en><![CDATA[I can’t let Cain and his henchman arrest Nigel. I have to get that photograph from him!]]></en>
                   <de><![CDATA[Ich kann nicht zulassen, dass Cain und seine Handlanger Nigel verhaften. Ich muss das Bild seines Vaters zurück in die Zukunft bringen!]]></de>
                 </dia>
               </dialog>
@@ -904,7 +904,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0051">
-                  <en><![CDATA[Shooting at the man I’m after doesn’t seem like the best way to start a conversation.]]></en>
+                  <en><![CDATA[Shooting at the man I’m trying to talk to doesn’t seem like the best way to start a conversation.]]></en>
                   <de><![CDATA[Auf den Mann zu schießen, mit dem ich sprechen will, ist wohl nicht der beste Weg, um ein Gespräch zu beginnen.]]></de>
                 </dia>
               </dialog>
@@ -941,7 +941,7 @@
                   <de><![CDATA[Ich habe ein Gespräch zwischen zwei seiner Schergen belauscht ... sie sagten, dass Cain unehrenhaft aus der Armee entlassen wurde.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0054">
-                  <en><![CDATA[Cain really thought that he could use a madman like Vincent to build his own regime.]]></en>
+                  <en><![CDATA[Cain really thought that he could conspire with a madman like Vincent to build his own regime.]]></en>
                   <de><![CDATA[Cain dachte wirklich, dass er mit einem Wahnsinnigen wie Vincent zusammenarbeiten und davon sogar profitieren könnte, um sein eigenes Regime aufzubauen.]]></de>
                 </dia>
               </dialog>
