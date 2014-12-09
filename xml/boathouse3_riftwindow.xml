@@ -128,15 +128,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0000">
-                  <en><![CDATA[That’s McManus’ boat. Grandpa hired him to bring us to his nearby laboratory to fix my heart.]]></en>
+                  <en><![CDATA[That’s McManus’ boat. McManus took me to Grandpa’s nearby laboratory to fix my heart.]]></en>
                   <de><![CDATA[Das ist das Boot von McManus. Opa engagierte ihn, um uns in sein Labor zu bringen, damit er mein Herz reparieren kann.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0001">
-                  <en><![CDATA[Unfortunately Vincent was waiting for us there. He stole the boat and took me here to Ravenhollow where his henchmen had already been waiting for us.]]></en>
+                  <en><![CDATA[Unfortunately, Vincent was waiting for us there. He captured me, stole McManus’ boat, and then brought me here to Ravenhollow.]]></en>
                   <de><![CDATA[Leider hat Vincent dort auf uns gewartet. Er stahl das Boot und brachte mich nach Ravenhollow, wo seine Schergen schon auf uns warteten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0002">
-                  <en><![CDATA[I guess Vincent knew grandpa and the others would follow us here ... they walked right into his trap.]]></en>
+                  <en><![CDATA[Vincent must have known Grandpa and the others would follow us here ... they walked right into his trap.]]></en>
                   <de><![CDATA[Ich schätze, Vincent wusste, dass Opa und die anderen uns folgen würden ... sie gingen direkt in seine Falle.]]></de>
                 </dia>
               </dialog>
@@ -231,7 +231,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0008">
-                  <en><![CDATA[I still haven’t seen a lot of Ravenhollow. I heard it’s worth a visit, though.]]></en>
+                  <en><![CDATA[I still haven’t seen much of Ravenhollow. I hear it’s worth a visit.]]></en>
                   <de><![CDATA[Ich habe noch nicht viel von Ravenhollow gesehen. Ich habe aber gehört, dass es einen Besuch wert ist.]]></de>
                 </dia>
               </dialog>
@@ -246,7 +246,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0009">
-                  <en><![CDATA[I have to be careful not to attract too much attention!]]></en>
+                  <en><![CDATA[I have to be careful not to attract attention!]]></en>
                   <de><![CDATA[Ich muss vorsichtig sein, um nicht zu viel Aufmerksamkeit zu erregen!]]></de>
                 </dia>
               </dialog>
@@ -260,9 +260,9 @@
                 <de><![CDATA[Betrete]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0010">
-                  <en><![CDATA[I would like to, but being locked up in here doesn’t really help me to stride through that gate.]]></en>
-                  <de><![CDATA[Ich bleibe besser hier ... wegen dem Paradoxon und so.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0009">
+                  <en><![CDATA[I have to be careful not to attract attention!]]></en>
+                  <de><![CDATA[Ich muss vorsichtig sein, um nicht zu viel Aufmerksamkeit zu erregen!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -405,9 +405,9 @@
                 <de><![CDATA[Breche durch Wand vom]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0017">
-                  <en><![CDATA[The walls are too stable. I have to find another way to escape from this boathouse.]]></en>
-                  <de><![CDATA[Die Wände sind zu stabil. Ich muss einen anderen Weg finden, um aus diesem Bootshaus zu entkommen.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0016">
+                  <en><![CDATA[Useless.]]></en>
+                  <de><![CDATA[Nutzlos.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -450,9 +450,9 @@
                 <de><![CDATA[Rufe]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0019">
-                  <en><![CDATA[No ... I can’t let them know I’m here.]]></en>
-                  <de><![CDATA[Nein ... Sie dürfen nicht wissen, dass ich hier bin.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0041">
+                  <en><![CDATA[No. I can’t let anyone except Nigel know that I’m here.]]></en>
+                  <de><![CDATA[Nein. Nur Nigel darf wissen, dass ich hier bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -478,8 +478,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0020">
-                  <en><![CDATA[No, McManus has always seemed like such a nice man. He doesn’t deserve to be shot at.]]></en>
-                  <de><![CDATA[Nein, McManus schien immer ein so netter Mensch zu sein. Er verdient es nicht, dass auf ihn geschossen wird.]]></de>
+                  <en><![CDATA[No, McManus seems like such a nice man. He doesn’t deserve to be shot at!]]></en>
+                  <de><![CDATA[Nein, McManus schien immer ein so netter Mensch zu sein. Er verdient es nicht, dass auf ihn geschossen wird!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -511,7 +511,7 @@
                   <de><![CDATA[Ich habe ihn noch nie so besorgt gesehen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0022">
-                  <en><![CDATA[Grandpa always did the best he could to protect me ... he never told me a word about Vincent and what had happened at the Smith Institute.]]></en>
+                  <en><![CDATA[Grandpa always did his best to protect me ... he never said a word about Vincent and his work at the Smith Institute.]]></en>
                   <de><![CDATA[Opa hat immer sein Bestes getan, um mich zu schützen ... er hat mir nie etwas von Vincent und den Vorgängen im Smith-Institut erzählt.]]></de>
                 </dia>
               </dialog>
@@ -530,8 +530,8 @@
                   <de><![CDATA[Nein, er darf nicht wissen, dass ich hier bin. Es könnte zu einem Paradoxon führen!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0024">
-                  <en><![CDATA[Or he’d just get VERY confused.]]></en>
-                  <de><![CDATA[Oder er würde nur SEHR verwirrt werden.]]></de>
+                  <en><![CDATA[Or, he’d just be VERY confused.]]></en>
+                  <de><![CDATA[Oder, er würde nur SEHR verwirrt werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -557,7 +557,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0025">
-                  <en><![CDATA[What? No, I wouldn’t even consider shooting at Grandpa.]]></en>
+                  <en><![CDATA[What? No, I will NOT shoot at Grandpa.]]></en>
                   <de><![CDATA[Was? Nein, ich würde nicht einmal in Erwägung ziehen, auf Opa zu schießen.]]></de>
                 </dia>
               </dialog>
@@ -586,8 +586,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0026">
-                  <en><![CDATA[Even good old Shroomy doesn’t like Lowell Cain.]]></en>
-                  <de><![CDATA[Selbst der gute alte Shroomy mag Lowell Cain nicht.]]></de>
+                  <en><![CDATA[Even old Shroom seems to detest Lowell Cain.]]></en>
+                  <de><![CDATA[Selbst der gute alte Shroom mag Lowell Cain nicht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -600,9 +600,9 @@
                 <de><![CDATA[Rufe]]></de>
               </title>
               <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0027">
-                  <en><![CDATA[That would attract the attention of the others.]]></en>
-                  <de><![CDATA[Das würde die Aufmerksamkeit der Anderen wecken.]]></de>
+                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0041">
+                  <en><![CDATA[No. I can’t let anyone except Nigel know that I’m here.]]></en>
+                  <de><![CDATA[Nein. Nur Nigel darf wissen, dass ich hier bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -628,7 +628,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0028">
-                  <en><![CDATA[I take issue with being abusive to animals.]]></en>
+                  <en><![CDATA[I take serious issue with animal abuse.]]></en>
                   <de><![CDATA[Tiermissbrauch ist nicht meine Sache.]]></de>
                 </dia>
               </dialog>
@@ -655,12 +655,7 @@
                 <en><![CDATA[Look at]]></en>
                 <de><![CDATA[Untersuche]]></de>
               </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0029">
-                  <en><![CDATA[Hey, there is something sticking out from that barrel.]]></en>
-                  <de><![CDATA[Hey, etwas ragt aus diesem Fass heraus.]]></de>
-                </dia>
-              </dialog>
+              <dialog />
               <script>
                 <dialogue play="*" />
               </script>
@@ -680,46 +675,16 @@
                 <en><![CDATA[Take object from]]></en>
                 <de><![CDATA[Nimm Objekt vom]]></de>
               </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0030">
-                  <en><![CDATA[If I stretch my arm out as far as I can I might be able to ...]]></en>
-                  <de><![CDATA[Wenn ich meinen Arm soweit wie möglich ausstrecke, kann ich vielleicht ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0031">
-                  <en><![CDATA[Yes! I got it!]]></en>
-                  <de><![CDATA[Ja! Ich habe es!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0032">
-                  <en><![CDATA[Hey, it’s a slingshot!]]></en>
-                  <de><![CDATA[Hey, es ist eine Schleuder!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0033">
-                  <en><![CDATA[I wonder if this slingshot is in any way connected to that hulking Castle guard being hit on the back of the head.]]></en>
-                  <de><![CDATA[Ich frage mich, ob diese Schleuder etwas damit zu tun hat, dass dieser massige Schlosswächter am Hinterkopf getroffen wurde.]]></de>
-                </dia>
-              </dialog>
+              <dialog />
               <script>
-                <method call="controls" enabled="0" />
-                <dialogue playList="0" />
-                <inventory display="show" />
-                <inventory scrollTo="_blank" />
-                <dialogue playList="1" />
-                <inventory target="nigel" add="slingshot" />
-                <wait seconds="1" />
-                <layer target="_current:barrel" visible="0" omit="1" />
-                <dialogue playList="2" />
-                <wait seconds="1" />
-                <inventory display="hide" />
-                <wait seconds="1" />
-                <method call="controls" enabled="1" />
-                <dialogue playList="3" />
+                <dialogue play="*" />
               </script>
             </action>
           </actions>
           <items />
         </state>
         <state id="slingshot" x="498" y="208" img="1" imgX="0" imgY="0" imgW="1" imgH="1" frame="3" blend="normal" alpha="1" bitmap="0" hit="1" hitX="-55" hitY="23" hitW="44" hitH="63" shape="rect">
-          <param mapX="512" mapY="384" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
+          <param mapX="512" mapY="384" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="0" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
             <en><![CDATA[barrel]]></en>
@@ -731,12 +696,7 @@
                 <en><![CDATA[Look at]]></en>
                 <de><![CDATA[Untersuche]]></de>
               </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0034">
-                  <en><![CDATA[Hey, there is something sticking out from that barrel.]]></en>
-                  <de><![CDATA[Hey, etwas ragt aus diesem Fass heraus.]]></de>
-                </dia>
-              </dialog>
+              <dialog />
               <script>
                 <dialogue play="*" />
               </script>
@@ -756,39 +716,9 @@
                 <en><![CDATA[Take object from]]></en>
                 <de><![CDATA[Nimm Objekt vom]]></de>
               </title>
-              <dialog>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0035">
-                  <en><![CDATA[If I stretch my arm out as far as I can I might be able to ...]]></en>
-                  <de><![CDATA[Wenn ich meinen Arm soweit wie möglich ausstrecke, kann ich vielleicht ...]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0036">
-                  <en><![CDATA[Yes! I got it!]]></en>
-                  <de><![CDATA[Ja! Ich habe es!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0037">
-                  <en><![CDATA[Hey, it’s a slingshot!]]></en>
-                  <de><![CDATA[Hey, es ist eine Schleuder!]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0038">
-                  <en><![CDATA[I wonder if this slingshot is in any way connected to that hulking Castle guard being hit on the back of the head.]]></en>
-                  <de><![CDATA[Ich frage mich, ob diese Schleuder etwas damit zu tun hat, dass dieser massige Schlosswächter am Hinterkopf getroffen wurde.]]></de>
-                </dia>
-              </dialog>
+              <dialog />
               <script>
-                <method call="controls" enabled="0" />
-                <dialogue playList="0" />
-                <inventory display="show" />
-                <inventory scrollTo="_blank" />
-                <dialogue playList="1" />
-                <inventory target="nigel" add="slingshot" />
-                <wait seconds="1" />
-                <layer target="_current:barrel" visible="0" omit="1" />
-                <dialogue playList="2" />
-                <wait seconds="1" />
-                <inventory display="hide" />
-                <wait seconds="1" />
-                <method call="controls" enabled="1" />
-                <dialogue playList="3" />
+                <dialogue play="*" />
               </script>
             </action>
           </actions>
@@ -813,12 +743,12 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0039">
-                  <en><![CDATA[I hate that guy.]]></en>
-                  <de><![CDATA[Ich hasse diesen Kerl.]]></de>
+                  <en><![CDATA[Oh, no ... It looks like he’s about to arrest Grandpa and the others!]]></en>
+                  <de><![CDATA[Oh, nein ... Es sieht aus, als werde er gleich Opa und die anderen verhaften!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0040">
-                  <en><![CDATA[It looks like he’s about to arrest grandpa and the others ... I have to find a way to stop them from taking Nigel up to the castle as well.]]></en>
-                  <de><![CDATA[Es sieht aus, als werde er gleich Opa und die anderen verhaften ... Ich muss einen Weg finden, um sie davon abzuhalten, auch Nigel hoch zum Schloss zu bringen.]]></de>
+                  <en><![CDATA[I have to stop them from taking Nigel up to the Castle as well.]]></en>
+                  <de><![CDATA[Ich muss einen Weg finden, um sie davon abzuhalten, auch Nigel hoch zum Schloss zu bringen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -832,8 +762,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0041">
-                  <en><![CDATA[No ... I can’t let anyone except Nigel know that I’m here.]]></en>
-                  <de><![CDATA[Nein ... Nur Nigel darf wissen, dass ich hier bin.]]></de>
+                  <en><![CDATA[No. I can’t let anyone except Nigel know that I’m here.]]></en>
+                  <de><![CDATA[Nein. Nur Nigel darf wissen, dass ich hier bin.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -859,27 +789,27 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0042">
-                  <en><![CDATA[Maybe I can make that bug guy lose his temper and lock Nigel up with me in the boathouse ...]]></en>
-                  <de><![CDATA[Vielleicht kann ich den Schrank dazu bringen, die Beherrschung zu verlieren, damit er Nigel mit mir im Bootshaus einsperrt ...]]></de>
+                  <en><![CDATA[Maybe I can make that bug guy lose his temper, and lock up Nigel with me here in the boathouse?]]></en>
+                  <de><![CDATA[Vielleicht kann ich den Schrank dazu bringen, die Beherrschung zu verlieren, damit er Nigel mit mir im Bootshaus einsperrt?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0043">
-                  <en><![CDATA[I think he believes Nigel hit him.]]></en>
-                  <de><![CDATA[Ich glaube, er glaubt, dass Nigel ihn geschlagen hat.]]></de>
+                  <en><![CDATA[He thinks Nigel hit him!]]></en>
+                  <de><![CDATA[Ich glaube, er glaubt, dass Nigel ihn geschlagen hat!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0044">
-                  <en><![CDATA[One more hit should drive the guard over the edge.]]></en>
-                  <de><![CDATA[Noch ein Schlag sollte den Wächter auf die Palme bringen.]]></de>
+                  <en><![CDATA[One more shot should drive that guard over the edge ...]]></en>
+                  <de><![CDATA[Noch ein Schlag sollte den Wächter auf die Palme bringen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0045">
                   <en><![CDATA[Ouch!]]></en>
                   <de><![CDATA[Au!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0046">
-                  <en><![CDATA[Sorry, Nigel! I didn’t expect that he’d be THAT brutal!]]></en>
-                  <de><![CDATA[Tut mir leid, Nigel! Ich hatte nicht erwartet, dass er SO brutal ist!]]></de>
+                  <en><![CDATA[Sorry, Nigel! I didn’t expect that he’d be THAT rough.]]></en>
+                  <de><![CDATA[Tut mir leid, Nigel! Ich hatte nicht erwartet, dass er SO brutal ist.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0047">
-                  <en><![CDATA[I’d better get rid of the slingshot before they bring Nigel in here ...]]></en>
+                  <en><![CDATA[I’d better get rid of this slingshot before they bring Nigel in here ...]]></en>
                   <de><![CDATA[Ich werde besser die Schleuder los, bevor sie Nigel hier reinbringen ...]]></de>
                 </dia>
               </dialog>
@@ -929,15 +859,15 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0048">
-                  <en><![CDATA[That’s the one I’m looking for ... Nigel Trelawney.]]></en>
+                  <en><![CDATA[That’s the man I’m looking for ... Nigel Trelawney.]]></en>
                   <de><![CDATA[Nach dem suche ich ... Nigel Trelawney.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0049">
-                  <en><![CDATA[I just saw him for a brief moment when he and Nathan burst into the castle tower.]]></en>
+                  <en><![CDATA[I recognize him from that brief moment when he and Nathan burst into the Castle tower.]]></en>
                   <de><![CDATA[Ich sah ihn nur für einen kurzen Moment, als er und Nathan in den Schlossturm einbrachen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0050">
-                  <en><![CDATA[I can’t let Cain and his henchman arrest Nigel. I have to bring his father’s picture back to the future!]]></en>
+                  <en><![CDATA[I can’t let Cain and his henchman arrest Nigel. I have to get that photograph from him ...]]></en>
                   <de><![CDATA[Ich kann nicht zulassen, dass Cain und seine Handlanger Nigel verhaften. Ich muss das Bild seines Vaters zurück in die Zukunft bringen!]]></de>
                 </dia>
               </dialog>
@@ -974,7 +904,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0051">
-                  <en><![CDATA[Shooting at the man that I’m trying to talk to doesn’t seem like the best way to start a conversation.]]></en>
+                  <en><![CDATA[Shooting at the man I’m after doesn’t seem like the best way to start a conversation.]]></en>
                   <de><![CDATA[Auf den Mann zu schießen, mit dem ich sprechen will, ist wohl nicht der beste Weg, um ein Gespräch zu beginnen.]]></de>
                 </dia>
               </dialog>
@@ -1003,16 +933,16 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0052">
-                  <en><![CDATA[Lowell Cain ... what a schmuck.]]></en>
+                  <en><![CDATA[Lowell Cain ... what a wretch.]]></en>
                   <de><![CDATA[Lowell Cain ... was für ein eingebildeter Fatzke.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0053">
-                  <en><![CDATA[I overheard a conversation between two of his henchmen ... they said Cain was given a dishonorable discharge from the army.]]></en>
+                  <en><![CDATA[I overheard his henchmen say that he was dishonorably discharged from the army.]]></en>
                   <de><![CDATA[Ich habe ein Gespräch zwischen zwei seiner Schergen belauscht ... sie sagten, dass Cain unehrenhaft aus der Armee entlassen wurde.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0054">
-                  <en><![CDATA[He really thought that he could cooperate and even profit from a madman like Vincent and build up his own regime.]]></en>
-                  <de><![CDATA[Er dachte wirklich, dass er mit einem Wahnsinnigen wie Vincent zusammenarbeiten und davon sogar profitieren könnte, um sein eigenes Regime aufzubauen.]]></de>
+                  <en><![CDATA[Cain really thought that he could use a madman like Vincent to build his own regime.]]></en>
+                  <de><![CDATA[Cain dachte wirklich, dass er mit einem Wahnsinnigen wie Vincent zusammenarbeiten und davon sogar profitieren könnte, um sein eigenes Regime aufzubauen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1026,7 +956,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0055">
-                  <en><![CDATA[Even if I could I’d prefer not to.]]></en>
+                  <en><![CDATA[Even if I could, I’d prefer not to.]]></en>
                   <de><![CDATA[Selbst wenn ich könnte, würde ich lieber nicht.]]></de>
                 </dia>
               </dialog>
