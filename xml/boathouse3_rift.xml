@@ -254,7 +254,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0005">
-                  <en><![CDATA[Tetanus is the last thing I need here in the not&#8212;so&#8212;distant past.]]></en>
+                  <en><![CDATA[Tetanus is the last thing I need here in the not-so-distant past.]]></en>
                   <de><![CDATA[Tetanus ist das letzte, was ich hier in der nicht zu weit entfernten Vergangenheit brauche.]]></de>
                 </dia>
               </dialog>
@@ -725,7 +725,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0026">
-                  <en><![CDATA[Unfortunately this chest is bolted with a sturdy-looking lock.]]></en>
+                  <en><![CDATA[Unfortunately this chest is bolted with a sturdy lock.]]></en>
                   <de><![CDATA[Dummerweise ist diese Kiste mit einem ziemlich stabil aussehenden Schloss verriegelt.]]></de>
                 </dia>
               </dialog>

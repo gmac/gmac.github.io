@@ -1637,7 +1637,7 @@
                   <de><![CDATA[Irgendetwas ... uah ... stimmt nicht!<br>Ich bin zu weit gekommen ... zu weit um ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0040">
-                  <en><![CDATA[Oh my! What is happening to him?!]]></en>
+                  <en><![CDATA[Oh my! What’s happening to him?!]]></en>
                   <de><![CDATA[Oh weh! Was passiert mit ihm?!]]></de>
                 </dia>
                 <dia puppet="vincent2" frame="" sound="voice/mtlab_voice.swf:mtlab0041">
@@ -1669,20 +1669,20 @@
                   <de><![CDATA[Er ist weg.]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0048">
-                  <en><![CDATA[Does that mean he ... won?]]></en>
+                  <en><![CDATA[Does that mean ... he won?]]></en>
                   <de><![CDATA[Heißt das, er hat ... gewonnen?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0049">
-                  <en><![CDATA[The photograph ... Look at the photograph!]]></en>
-                  <de><![CDATA[Das Foto ... Sehen wir uns das Foto an!]]></de>
+                  <en><![CDATA[The photograph. Look at the photograph!]]></en>
+                  <de><![CDATA[Das Foto. Sehen wir uns das Foto an!]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/mtlab_voice.swf:mtlab0050">
                   <en><![CDATA[Hey, that’s the picture you stole from me in the boathouse!]]></en>
                   <de><![CDATA[He, das ist das Bild, das du mir im Bootshaus gestohlen hast!]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0051">
-                  <en><![CDATA[Yes, I didn’t mean to be rude but I ... didn’t have much time.]]></en>
-                  <de><![CDATA[Ja, ich wollte nicht unhöflich sein, aber ich ... hatte nicht viel Zeit.]]></de>
+                  <en><![CDATA[Yes, I didn’t mean to be rude, but ... I didn’t have much time.]]></en>
+                  <de><![CDATA[Ja, ich wollte nicht unhöflich sein, aber ... ich hatte nicht viel Zeit.]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/mtlab_voice.swf:mtlab0052">
                   <en><![CDATA[Oh. NOW you remember!?]]></en>
@@ -1705,8 +1705,8 @@
                   <de><![CDATA[Nach allem, was wir wissen, könnte ihn der zusammenbrechende Riss am Anbeginn der Zeit selbst ausgespiehen haben ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0057">
-                  <en><![CDATA[Nigel is safe and Vincent’s plan to change our past failed. We did it!]]></en>
-                  <de><![CDATA[Nigel ist gerettet und Vincents Plan, unsere Vergangenheit zu ändern, ist fehlgeschlagen. Wir haben es geschafft!]]></de>
+                  <en><![CDATA[Nigel is safe, and Vincent’s plan to alter our past has failed. We did it!]]></en>
+                  <de><![CDATA[Nigel ist gerettet, und Vincents Plan, unsere Vergangenheit zu ändern, ist fehlgeschlagen. Wir haben es geschafft!]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/mtlab_voice.swf:mtlab0058">
                   <en><![CDATA[I just wish I hadn’t been the damsel in distress ...]]></en>
@@ -1737,7 +1737,7 @@
                   <de><![CDATA[Das Bild hat sich wieder verändert ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0065">
-                  <en><![CDATA[It looks like it has returned back to normal.]]></en>
+                  <en><![CDATA[It looks like it returned to normal.]]></en>
                   <de><![CDATA[Es sieht aus, als wäre es wieder normal geworden.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0066">

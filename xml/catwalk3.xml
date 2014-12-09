@@ -1144,11 +1144,11 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30015">
-                  <en><![CDATA[Hey, I had no idea this was underneath the institute.]]></en>
+                  <en><![CDATA[Hey, I had no idea this was underneath the Institute.]]></en>
                   <de><![CDATA[Hey, ich hatte keine Ahnung, dass es sowas unter dem Institut gibt.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/catwalk3_voice.swf:catwalk30016">
-                  <en><![CDATA[It’s chilly down here. Where is that draft coming from?]]></en>
+                  <en><![CDATA[It’s chilly down here. Where’s that draft coming from?]]></en>
                   <de><![CDATA[Es ist kühl hier unten. Wo kommt denn dieser Luftzug her?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="speak4" sound="voice/catwalk3_voice.swf:catwalk30017">
@@ -1172,7 +1172,7 @@
                   <de><![CDATA[Henry, aktiviere bitte den Lift.]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30022">
-                  <en><![CDATA[This looks like an underground train station! The question is ... where do the train tracks lead?]]></en>
+                  <en><![CDATA[This looks like an underground train station! The question is: where do the tracks lead?]]></en>
                   <de><![CDATA[Das sieht ja aus wie eine U-Bahn-Station! Die Frage ist: Wohin führen die Gleise?]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/catwalk3_voice.swf:catwalk30023">
@@ -1204,8 +1204,8 @@
                   <de><![CDATA[Natürlich habe ich das. Er hat nicht funktioniert ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30030">
-                  <en><![CDATA[Maybe Vincent changed it to keep us from following him.]]></en>
-                  <de><![CDATA[Vielleicht hat Vincent ihn geändert, damit wir ihm nicht folgen können.]]></de>
+                  <en><![CDATA[Maybe Vincent changed the code to keep us from following him?]]></en>
+                  <de><![CDATA[Vielleicht hat Vincent ihn geändert, damit wir ihm nicht folgen können?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30031">
                   <en><![CDATA[I don’t think so. We created a new passcode after we forced Vincent to leave the Institute ... one of the remaining eight of us must have altered it.]]></en>
@@ -1216,7 +1216,7 @@
                   <de><![CDATA[Warte! Das Passwort muss doch im Morse-Alphabet codiert worden sein...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30033">
-                  <en><![CDATA[What is it, grandpa?]]></en>
+                  <en><![CDATA[What is it, Grandpa?]]></en>
                   <de><![CDATA[Was ist denn, Opa?]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/catwalk3_voice.swf:catwalk30034">
@@ -1272,7 +1272,7 @@
                   <de><![CDATA[Wohin gehen Sie denn jetzt wieder hin? Und ... wovon sprechen Sie?]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30047">
-                  <en><![CDATA[I think we have to get Nigel Trelawney’s photograph to activate this train, and then follow Vincent to Mount Misery ... somehow.]]></en>
+                  <en><![CDATA[I think we have to get Nigel Trelawney’s photograph to activate this train, and then follow Vincent up to Mount Misery ... somehow.]]></en>
                   <de><![CDATA[Ich glaube, wir müssen irgendwie Nigel Trelawneys Foto kriegen, um irgendwie den Zug zu aktivieren, um Vincent zum Mount Misery zu folgen.]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/catwalk3_voice.swf:catwalk30048">
@@ -1397,8 +1397,8 @@
                   <de><![CDATA[Sehr gut. Hoffen wir, es war all die Mühe wert.]]></de>
                 </dia>
                 <dia puppet="nora" frame="speak4" sound="voice/catwalk3_voice.swf:catwalk30052">
-                  <en><![CDATA[Come on! We have to go to Mount Misery and stop Vincent once and for all!]]></en>
-                  <de><![CDATA[Kommt! Wir müssen zum Mount Misery und Vincent ein für alle Mal aufhalten!]]></de>
+                  <en><![CDATA[Come on! We have to get to Mount Misery and stop Vincent once and for all.]]></en>
+                  <de><![CDATA[Kommt! Wir müssen zum Mount Misery und Vincent ein für alle Mal aufhalten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30053">
                   <en><![CDATA[I just hope we arrive in time ...]]></en>

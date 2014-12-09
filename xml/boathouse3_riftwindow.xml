@@ -128,7 +128,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0000">
-                  <en><![CDATA[That’s McManus’ boat. McManus took me to Grandpa’s nearby laboratory to fix my heart.]]></en>
+                  <en><![CDATA[That’s McManus’ boat. McManus took me to Grandfather’s nearby laboratory to fix my heart.]]></en>
                   <de><![CDATA[Das ist das Boot von McManus. Opa engagierte ihn, um uns in sein Labor zu bringen, damit er mein Herz reparieren kann.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0001">
@@ -136,7 +136,7 @@
                   <de><![CDATA[Leider hat Vincent dort auf uns gewartet. Er stahl das Boot und brachte mich nach Ravenhollow, wo seine Schergen schon auf uns warteten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0002">
-                  <en><![CDATA[Vincent must have known that Grandpa and the others would follow us here ... they walked right into his trap.]]></en>
+                  <en><![CDATA[Vincent must have known that Grandfather and the others would follow us here ... they walked right into his trap.]]></en>
                   <de><![CDATA[Ich schätze, Vincent wusste, dass Opa und die anderen uns folgen würden ... sie gingen direkt in seine Falle.]]></de>
                 </dia>
               </dialog>
@@ -496,7 +496,7 @@
           <param mapX="512" mapY="384" cursor="" onclick="-1" prefix="" subtitle="0xFFFFFF" mouse="1" float="0" turn="0" tween="7" rotate="0" scroller="0" scale="" color="" rate="" blur="" />
           <vars />
           <title>
-            <en><![CDATA[Grandpa]]></en>
+            <en><![CDATA[Grandfather]]></en>
             <de><![CDATA[Opa]]></de>
           </title>
           <actions>
@@ -511,7 +511,7 @@
                   <de><![CDATA[Ich habe ihn noch nie so besorgt gesehen ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0022">
-                  <en><![CDATA[Grandpa always did his best to protect me. He never said a word about Vincent and his work at the Smith Institute.]]></en>
+                  <en><![CDATA[Grandfather always did his best to protect me. He never said a word about Vincent and his work at the Smith Institute.]]></en>
                   <de><![CDATA[Opa hat immer sein Bestes getan, um mich zu schützen. Er hat mir nie etwas von Vincent und den Vorgängen im Smith-Institut erzählt.]]></de>
                 </dia>
               </dialog>
@@ -557,7 +557,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0025">
-                  <en><![CDATA[What?! No. I will NOT shoot at Grandpa.]]></en>
+                  <en><![CDATA[What?! No. I will NOT shoot at Grandfather.]]></en>
                   <de><![CDATA[Was?! Nein. ich würde nicht einmal in Erwägung ziehen, auf Opa zu schießen.]]></de>
                 </dia>
               </dialog>
@@ -743,7 +743,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0039">
-                  <en><![CDATA[Oh no ... It looks like he’s about to arrest Grandpa and the others!]]></en>
+                  <en><![CDATA[Oh no ... It looks like he’s about to arrest Grandfather and the others!]]></en>
                   <de><![CDATA[Oh nein ... Es sieht aus, als werde er gleich Opa und die anderen verhaften!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0040">
