@@ -1447,16 +1447,16 @@
               </title>
               <dialog>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0006">
-                  <en><![CDATA[Mr. Trelawney! Use the first three insignia rings to activate the Time Rift Apparatus!]]></en>
-                  <de><![CDATA[Herr Trelawney! Benutzen Sie die ersten drei Insignienringe, um den Zeitriss-Apparatus zu aktivieren!]]></de>
+                  <en><![CDATA[Mr. Trelawney, use the first three insignia rings to activate the Time Rift Apparatus ...]]></en>
+                  <de><![CDATA[Herr Trelawney, benutzen Sie die ersten drei Insignienringe, um den Zeitriss-Apparatus zu aktivieren ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0007">
-                  <en><![CDATA[Yes! It is just a matter of minutes until the rift opens and then ... THEN I will have my revenge! I will go back into the past and take all of their inventions!]]></en>
+                  <en><![CDATA[Yes! It’s only a matter of minutes until the rift opens and then ... THEN I will have my revenge! I will reclaim all of their inventions in the past!]]></en>
                   <de><![CDATA[Ja! Es kann sich nur noch um Minuten handeln, bis der Riss sich öffnet, und dann ... DANN nehme ich endlich Rache! Ich reise zurück in die Vergangenheit und nehme all ihre Erfindungen an mich!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0008">
-                  <en><![CDATA[This time they won’t be able to throw me out! This time I will succeed! With my superior intellect and the raw power of their inventions I will shape the world to my liking!!]]></en>
-                  <de><![CDATA[Dieses Mal können sie mich nicht hinauswerfen! Diesmal werde ich Erfolg haben! Mit meiner überlegenen Intelligenz und der schieren Macht ihrer Erfindungen werde ich die Welt nach meinem Willen gestalten!!]]></de>
+                  <en><![CDATA[This time they won’t be able to throw me out ... this time I will succeed! With my superior intellect and the raw power of the Smith Institute, I will shape the future to my liking! Haha!]]></en>
+                  <de><![CDATA[Dieses Mal können sie mich nicht hinauswerfen ... diesmal werde ich Erfolg haben! Mit meiner überlegenen Intelligenz und der schieren Macht ihrer Erfindungen werde ich die Welt nach meinem Willen gestalten! Haha!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0009">
                   <en><![CDATA[I have to hurry! Vincent is already starting the Apparatus.]]></en>
@@ -1488,12 +1488,12 @@
                   <de><![CDATA[Prismatische Spektralisatoren hochfahren!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0011">
-                  <en><![CDATA[Prepare vibrator plates.]]></en>
-                  <de><![CDATA[Vibrationsplatten bereit machen.]]></de>
+                  <en><![CDATA[Prepare the vibrator plates ...]]></en>
+                  <de><![CDATA[Vibrationsplatten bereit machen ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0012">
-                  <en><![CDATA[Very good! Now use the second set of insignia rings to initialize the Apparatus charge sequence.]]></en>
-                  <de><![CDATA[Sehr gut! Benutzen Sie jetzt den zweiten Satz Siegelringe, um die Ladesequenz des Apparatus zu initialisieren.]]></de>
+                  <en><![CDATA[Very good! Now, use the next three insignia rings to initialize the Apparatus charge sequence.]]></en>
+                  <de><![CDATA[Sehr gut! Benutzen, Sie jetzt den zweiten Satz Siegelringe, um die Ladesequenz des Apparatus zu initialisieren.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtlab_voice.swf:mtlab0013">
                   <en><![CDATA[I have to hurry and draw power away from the Apparatus!]]></en>
@@ -1533,16 +1533,16 @@
               </title>
               <dialog>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0014">
-                  <en><![CDATA[Yes! The thunderstorm charges the lightning collectors one after another ... Add the last three rings and activate the rift sequence, Nigel!]]></en>
+                  <en><![CDATA[Yes! This thunderstorm charges the lightning collectors one-by-one ... Now add the final three insignia rings to activate the Rift sequence, Nigel!]]></en>
                   <de><![CDATA[Ja! Das Gewitter lädt die Blitzkollektoren einen nach dem anderen auf ... Aktivieren Sie mithilfe der letzten drei Ringe die Zeitspalt-Sequenz, Nigel!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0015">
-                  <en><![CDATA[In a few seconds the rift will open and I will finally get my revenge ...]]></en>
+                  <en><![CDATA[In a few seconds the Rift will open and I will finally have my revenge ...]]></en>
                   <de><![CDATA[In wenigen Sekunden öffnet sich der Riss und ich bekomme endlich meine Rache ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0016">
-                  <en><![CDATA[I will travel five years into the past ... then I will finally get my hands on the technology that those old fools destroyed to hide from me!]]></en>
-                  <de><![CDATA[Ich reise fünf Jahre in die Vergangenheit ... Dann hole ich mir endlich die Technologie, die diese Narren zerstört haben, um sich vor mir zu verstecken!]]></de>
+                  <en><![CDATA[I will travel five years into the past ... then I will finally behold the technology that those old fools destroyed to hide from me! Haha!]]></en>
+                  <de><![CDATA[Ich reise fünf Jahre in die Vergangenheit ... Dann hole ich mir endlich die Technologie, die diese Narren zerstört haben, um sich vor mir zu verstecken! Haha!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0017">
                   <en><![CDATA[Vincent! I demand that you to stop this madness.]]></en>
@@ -1553,11 +1553,11 @@
                   <de><![CDATA[Coppelius!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0019">
-                  <en><![CDATA[I see you finally caught up with us. ]]></en>
+                  <en><![CDATA[I see that you finally caught up with us.]]></en>
                   <de><![CDATA[Wie ich sehe, haben Sie uns endlich eingeholt.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0020">
-                  <en><![CDATA[I’ve been expecting you ... this wouldn’t be half as much fun without you as an audience to witness my triumph!]]></en>
+                  <en><![CDATA[I’ve been expecting you ... this wouldn’t be half as much fun without an audience to witness my triumph!]]></en>
                   <de><![CDATA[Ich habe Sie erwartet ... Das hier würde ohne Sie als Zeugen meines Triumphes nicht halb so viel Spaß machen!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0021">
@@ -1585,27 +1585,53 @@
                   <de><![CDATA[Aber Sie könnten selbst sterben!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0027">
-                  <en><![CDATA[Ha! Now that I’ve strengthened my body enough to pass through the rift, I don’t really need to worry about death, do I?]]></en>
-                  <de><![CDATA[Ha! Jetzt, wo ich meinen Körper ausreichend verstärkt habe, um den Riss zu durchqueren, muss ich mir über den Tod nicht mehr wirklich Sorgen machen, oder?]]></de>
+                  <en><![CDATA[Ha! Now that I’ve fortified my body, I don’t really need to worry about death, do I?]]></en>
+                  <de><![CDATA[Ha! Jetzt, wo ich meinen Körper ausreichend verstärkt habe, muss ich mir über den Tod nicht mehr wirklich Sorgen machen, oder?]]></de>
                 </dia>
+
+                <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0067" reorder="start">
+                  <en><![CDATA[Yes, that fortifying suit you’re wearing: where did you get it, Vincent?]]></en>
+                  <de><![CDATA[Ja, dieser Kraftverstärkungsanzug, den Sie tragen ... Wo haben Sie den her, Vincent?]]></de>
+                </dia>
+                <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0068">
+                  <en><![CDATA[I’m SO glad you asked, Coppelius. That’s an interesting story ...]]></en>
+                  <de><![CDATA[Freut mich, dass Sie fragen, Coppelius. Das ist eine interessante Geschichte ...]]></de>
+                </dia>
+                <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0069">
+                  <en><![CDATA[Ironically, it was a mere drop of red ink in my notes&#8212;almost like a drop of blood&#8212;that made me realize the heart alone could fail.]]></en>
+                  <de><![CDATA[Ironischerweise war es ein Tropfen roter Tinte auf meinen Notizen&#8212;fast wie ein Blutstropfen&#8212;der mich auf den Gedanken brachte, dass das Herz ohne Unterstützung versagen könnte.]]></de>
+                </dia>
+                <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0070">
+                  <en><![CDATA[I’d need more endurance to assure safe passage, so I tracked down Professor Von Sternberg and relieved him of his fortifying suit! Haha!]]></en>
+                  <de><![CDATA[Ich würde mehr Stärke brauchen, um heil durchzukommen, also machte ich Professor Von Sternberg ausfindig und nahm ihm seinen Kraftverstärkungsanzug ab! Haha!]]></de>
+                </dia>
+                <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0071">
+                  <en><![CDATA[Vincent, you scoundrel! You stole a cripple’s life support? Von Sternberg has surely died without that suit!]]></en>
+                  <de><![CDATA[Vincent, Sie Teufel! Sie haben einem Invaliden seinen lebenserhaltenden Anzug gestohlen? Von Sternberg ist ohne den Anzug sicher gestorben!]]></de>
+                </dia>
+                <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0072" reorder="end">
+                  <en><![CDATA[Better he than I, Coppelius! His sacrifice has made me unstoppable!]]></en>
+                  <de><![CDATA[Besser er als ich, Coppelius! Sein Opfer hat mich nun unfehlbar werden lassen!]]></de>
+                </dia>
+
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0028">
                   <en><![CDATA[The Time Rift! It’s open!]]></en>
                   <de><![CDATA[Der Zeitriss! Er hat sich geöffnet!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="TRA1speak" sound="voice/mtlab_voice.swf:mtlab0029">
-                  <en><![CDATA[The suit I took from Von Sternberg enhances my physical powers ...]]></en>
+                  <en><![CDATA[This suit I took from Von Sternberg enhances my physical powers ...]]></en>
                   <de><![CDATA[Der Anzug, den Von Sternberg abgenommen habe, vervielfacht meine körperliche Kraft ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="TRAhspeak" sound="voice/mtlab_voice.swf:mtlab0030">
-                  <en><![CDATA[Combined with the mechanical heart, my body will be able to completely withstand the shattering effects of the Time Rift.]]></en>
-                  <de><![CDATA[Damit und mit dem mechanischen Herzen wird mein Körper in der Lage sein, den vernichtenden Effekten des Zeitrisses völlig zu widerstehen.]]></de>
+                  <en><![CDATA[And combined with the mechanical heart, my body will be impervious to the crippling effects of the Time Rift.]]></en>
+                  <de><![CDATA[Und damit und mit dem mechanischen Herzen wird mein Körper in der Lage sein, den vernichtenden Effekten des Zeitrisses völlig zu widerstehen.]]></de>
                 </dia>
                 <dia puppet="vincent2" frame="" sound="voice/mtlab_voice.swf:mtlab0031">
                   <en><![CDATA[Do you see!? Oh, it feels wonderful!]]></en>
                   <de><![CDATA[Sehen Sie!? Oh, was für ein wunderbares Gefühl!]]></de>
                 </dia>
                 <dia puppet="vincent2" frame="" sound="voice/mtlab_voice.swf:mtlab0032">
-                  <en><![CDATA[I will finally live up to my promise and take revenge! ]]></en>
+                  <en><![CDATA[I will finally live up to my promise, and take my revenge!]]></en>
                   <de><![CDATA[Endlich werde ich mein Versprechen erfüllen und Rache nehmen!]]></de>
                 </dia>
                 <dia puppet="vincent2" frame="" sound="voice/mtlab_voice.swf:mtlab0033">
@@ -1633,7 +1659,7 @@
                   <de><![CDATA[Niemals! Aaah ...]]></de>
                 </dia>
                 <dia puppet="vincent2" frame="" sound="voice/mtlab_voice.swf:mtlab0039">
-                  <en><![CDATA[Something is ... urgh ... wrong!<br>I have come too far ... too far to...]]></en>
+                  <en><![CDATA[Something is ... urgh ... wrong!<br>I have come too far ... TOO far to ...]]></en>
                   <de><![CDATA[Irgendetwas ... uah ... stimmt nicht!<br>Ich bin zu weit gekommen ... zu weit um ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0040">
@@ -1744,7 +1770,7 @@
                   <en><![CDATA[Yes. We made it!]]></en>
                   <de><![CDATA[Ja. Wir haben es geschafft!]]></de>
                 </dia>
-                <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0067">
+                <!--dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0067">
                   <en><![CDATA[Yes, that fortifying suit you’re wearing: where did you get it, Vincent?]]></en>
                   <de><![CDATA[Ja, dieser Kraftverstärkungsanzug, den Sie tragen ... Wo haben Sie den her, Vincent?]]></de>
                 </dia>
@@ -1765,9 +1791,9 @@
                   <de><![CDATA[Vincent, Sie Teufel! Sie haben einem Invaliden seinen lebenserhaltenden Anzug gestohlen? Von Sternberg ist ohne den Anzug sicher gestorben!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0072">
-                  <en><![CDATA[Better he than I, Coppelius! His sacrifice has made me impervious!]]></en>
+                  <en><![CDATA[Better he than I, Coppelius! His sacrifice has made me unstoppable!]]></en>
                   <de><![CDATA[Besser er als ich, Coppelius! Sein Opfer hat mich nun unfehlbar werden lassen!]]></de>
-                </dia>
+                </dia-->
               </dialog>
               <script>
                 <dialogue playList="0" />

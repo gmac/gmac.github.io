@@ -751,7 +751,7 @@
                   <de><![CDATA[Ich bin sicher, meine lieben alten Kollegen würden mir zustimmen, dass ihr zwei funktioniert wie ein Uhrwerk ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="speak" sound="voice/tower_voice.swf:tower0020">
-                  <en><![CDATA[A &#8222;Tick&#8220; will surely always be followed by a &#8222;Tock&#8220;, and stupidity such as yours will always play into my hands.]]></en>
+                  <en><![CDATA[A &#8222;Tick&#8220; will surely always precede a &#8222;Tock&#8220;, and stupidity such as yours will always play into my hands.]]></en>
                   <de><![CDATA[Einem &#8222;Tick&#8220; folgt mit Sicherheit immer ein &#8222;Tack&#8220; und Dummheit wie eure spielt mir mit Sicherheit immer in die Hände.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="lspeak" sound="voice/tower_voice.swf:tower0021">
@@ -787,8 +787,8 @@
                   <de><![CDATA[Ich habe meinen Teil geleistet und Sie während der Operation unter dem Messer der Wissenschaftler beschützt.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0029">
-                  <en><![CDATA[Indeed, you’ve done quite well.]]></en>
-                  <de><![CDATA[Das stimmt, Sie haben Ihre Sache gut gemacht.]]></de>
+                  <en><![CDATA[Indeed, and you’ve done quite well.]]></en>
+                  <de><![CDATA[Das stimmt, und Sie haben Ihre Sache gut gemacht.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="lspeak2" sound="voice/tower_voice.swf:tower0030">
                   <en><![CDATA[But your arrogance fails to recall that your source of power here in Ravenhollow comes from that which I gave you.]]></en>
@@ -847,8 +847,8 @@
                   <de><![CDATA[Ich habe dir eine führende Rolle versprochen und die hattest du. Jetzt gibt es nur noch eins für dich zu tun Cain ... du darfst von der Bühne abtreten.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0044">
-                  <en><![CDATA[And now I will fulfill another promise that I made to you, Professor Smith, so many years ago ...]]></en>
-                  <de><![CDATA[Und jetzt erfülle ich endlich das Versprechen, das ich Ihnen, Professor Smith, vor so vielen Jahren gegeben habe ...]]></de>
+                  <en><![CDATA[And now I will fulfill another promise that I made to you, Smith, so many years ago ...]]></en>
+                  <de><![CDATA[Und jetzt erfülle ich endlich das Versprechen, das ich Ihnen, Smith, vor so vielen Jahren gegeben habe ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0045">
                   <en><![CDATA[I will get my hands on the power of your inventions. ALL of them.]]></en>
@@ -879,20 +879,20 @@
                   <de><![CDATA[Wie der Prototyp, der in der Brust Ihrer Enkelin überlebt hat, Coppelius? Und das war nur die erste von vielen Erfindungen, die ich nutzen werde, um die Welt in die Knie zu zwingen.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0052">
-                  <en><![CDATA[You old fools forget that it would only take one machine to crumble your efforts of hiding your research from me.]]></en>
-                  <de><![CDATA[Ihr alten Narren vergesst, dass es nur einer einzigen Apparatur bedarf, um all eure Anstrengungen zunichte zu machen.]]></de>
+                  <en><![CDATA[You old fools forget that it would only take one machine to crumble your efforts of hiding your research from me ...]]></en>
+                  <de><![CDATA[Ihr alten Narren vergesst, dass es nur einer einzigen Apparatur bedarf, um all eure Anstrengungen zunichte zu machen ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0053">
-                  <en><![CDATA[And now that storms rage again at the top of Mount Misery, I would say that the doorway has been reopened to the power and brilliance of The Nine.]]></en>
-                  <de><![CDATA[Und jetzt, wo wieder ein Sturm auf dem Gipfel des Mount Misery wütet, kann die Tür zur Macht und Brillanz der Neun wieder aufgestoßen werden.]]></de>
+                  <en><![CDATA[And now that storms rage atop Mount Misery again, I would say that the doorway is reopening to the power and brilliance of The Nine.]]></en>
+                  <de><![CDATA[Und jetzt wo wieder ein Sturm auf dem Gipfel des Mount Misery wütet, kann die Tür zur Macht und Brillanz der Neun wieder aufgestoßen werden.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0054">
-                  <en><![CDATA[According to my&#8212;albeit clumsy&#8212;calculations, this suit and heart should give me more than enough strength to conduct the forbidden experiment.]]></en>
+                  <en><![CDATA[According to my&#8212;albeit clumsy&#8212;calculations, this suit and heart should give me more than enough strength to conduct the Forbidden Experiment.]]></en>
                   <de><![CDATA[Meinen - wenn auch groben - Berechnungen zufolge sollten das mechanische Herz und der Anzug mir mehr als genug Kraft geben, um das verbotene Experiment durchzuführen.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0055">
-                  <en><![CDATA[Gentlemen, I’ll see you on the other side of ... The Apparatus.]]></en>
-                  <de><![CDATA[Meine Herren, ich sehe Sie auf der anderen Seite ... des Risses.]]></de>
+                  <en><![CDATA[Gentlemen, I’ll see you on the other side of ... The Apparatus. Haha!]]></en>
+                  <de><![CDATA[Meine Herren, ich sehe Sie auf der anderen Seite ... des Risses. Haha!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/tower_voice.swf:tower0056">
                   <en><![CDATA[No! You can’t do that! You wouldn’t dare!]]></en>
@@ -943,8 +943,8 @@
                   <de><![CDATA[0,89281242642004377634810086032551 ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0068">
-                  <en><![CDATA[Ha! You really are your father’s son ... old Trelawney couldn’t control it either ...]]></en>
-                  <de><![CDATA[Ha! Sie sind wirklich der Sohn Ihres Vaters ... der alte Trelawney konnte es auch nicht kontrollieren ...]]></de>
+                  <en><![CDATA[Ha! You really are your father’s son ... old Trelawney couldn’t control it either.]]></en>
+                  <de><![CDATA[Ha! Sie sind wirklich der Sohn Ihres Vaters ... der alte Trelawney konnte es auch nicht kontrollieren.]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/tower_voice.swf:tower0069">
                   <en><![CDATA[Nigel, watch out!!]]></en>
@@ -955,8 +955,8 @@
                   <de><![CDATA[Seien Sie vorsichtig!]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0071">
-                  <en><![CDATA[I fear I will need your help too, Professor Smith! I am sure you will enjoy our trip!]]></en>
-                  <de><![CDATA[Ich fürchte, ich werde auch Ihre Hilfe benötigen, Professor Smith! Ich bin sicher, Sie werden den Ausflug genießen!]]></de>
+                  <en><![CDATA[I fear I will need your help too, Smith! I am sure you will enjoy our trip!]]></en>
+                  <de><![CDATA[Ich fürchte, ich werde auch Ihre Hilfe benötigen, Smith! Ich bin sicher, Sie werden den Ausflug genießen!]]></de>
                 </dia>
                 <dia puppet="nathan" frame="" sound="voice/tower_voice.swf:tower0072">
                   <en><![CDATA[He jumped!! Why in the world ...?]]></en>
