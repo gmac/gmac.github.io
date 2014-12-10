@@ -544,7 +544,7 @@
                   <de><![CDATA[Okay. Ohne einen Arzt, der anschließend meine Blutvergiftung behandelt, könnte das eine sehr schlechte Idee sein ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0017">
-                  <en><![CDATA[But a girl’s got to do what a girl’s got to do.]]></en>
+                  <en><![CDATA[But a girl’s got to do, what a girl’s got to do.]]></en>
                   <de><![CDATA[Ein Mädchen muss tun, was ein Mädchen tun muss.]]></de>
                 </dia>
               </dialog>
@@ -696,8 +696,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0023">
-                  <en><![CDATA[Wow. Is that a treasure chest?]]></en>
-                  <de><![CDATA[Wow. Ist das eine Schatzkiste?]]></de>
+                  <en><![CDATA[Is that a treasure chest?]]></en>
+                  <de><![CDATA[Ist das eine Schatzkiste?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0024">
                   <en><![CDATA[I bet it’s full of diamonds, sapphires, and expensive foreign silks.]]></en>
@@ -1514,12 +1514,12 @@
                   <de><![CDATA[Vielleicht sind sie dazu da, das Bootshaus bei heftigen Stürmen an Ort und Stelle zu halten ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0065">
-                  <en><![CDATA[(Sigh ... what IS he doing out there?)]]></en>
+                  <en><![CDATA[(Sigh ... what is he DOING out there?)]]></en>
                   <de><![CDATA[(Seufz ... Was MACHT der da draußen?)]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0066">
-                  <en><![CDATA[(Oh, I think he’s getting close!)]]></en>
-                  <de><![CDATA[(Oh, ich glaube, er kommt näher!)]]></de>
+                  <en><![CDATA[(Okay. I think he’s getting close!)]]></en>
+                  <de><![CDATA[(Okay. ich glaube, er kommt näher!)]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0067">
                   <en><![CDATA[Nice bulb ... and it seems to be intact.]]></en>
