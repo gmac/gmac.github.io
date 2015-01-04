@@ -1857,7 +1857,7 @@
                   <de><![CDATA[Old MacDonald? ... Sekunde mal, bist du ... Onkel Slappy?!]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0106">
-                  <en><![CDATA[Yes! Henry &#8222;Slappy&#8220; LeMue LaFayette ... or, as I’m known in many other parts of the world: &#8222;The Zeppelin Man&#8220;. Hahaha.]]></en>
+                  <en><![CDATA[Oui! Henry &#8222;Slappy&#8220; LeMue LaFayette ... or, as I’m known in many other parts of the world: &#8222;The Zeppelin Man&#8220;. Hahaha.]]></en>
                   <de><![CDATA[Ja! Henry &#8222;Slappy&#8220; LeMue LaFayette ... oder, wie man mich in vielen anderen Teilen der Welt nennt: &#8222;Der Zeppelin-Mann&#8220;. Hahaha.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0107">
@@ -2047,7 +2047,7 @@
               <de><![CDATA[Einer der neun Wissenschaftler war ein Mann namens Vincent Goodchild.]]></de>
             </dia>
             <dia puppet="slappy" frame="lspeak" sound="voice/mill_voice.swf:mill0137">
-              <en><![CDATA[Vincent proposed that we use our research to overthrow the government and seize capital ... he told us that superior minds should hold superior positions in our society.]]></en>
+              <en><![CDATA[Vincent proposed that we use our research to overthrow the government and seize the capitol ... he told us that superior minds should hold superior positions in our society.]]></en>
               <de><![CDATA[Vincent schlug vor, dass wir unsere Erfindungen nutzen, um die Regierung zu stürzen und Geld zu stehlen ... er sagte uns, dass überlegene Geister überlegene Positionen in unserer Gesellschaft einnehmen sollten.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0138">
@@ -2177,7 +2177,7 @@
               <de><![CDATA[Wegen dem Siegelring von Steven LeMue LaFayette ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0170">
-              <en><![CDATA[My brother’s ring? Sure, it’s stuck in that wall over there above the hammock.]]></en>
+              <en><![CDATA[My brother’s ring? Oui. It’s stuck in that wall over there above the hammock.]]></en>
               <de><![CDATA[Der Ring meines Bruders? Klar, der steckt in der Wand dort über der Hängematte.]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0171">
@@ -2283,7 +2283,7 @@
               <de><![CDATA[Du erinnerst dich daran?]]></de>
             </dia>
             <dia puppet="slappy" frame="lspeak" sound="voice/mill_voice.swf:mill0159">
-              <en><![CDATA[Yes, but I don’t understand why Lionstone would require you to seek our insignia seals over a silly matter of 81 cents! That just doesn’t sound like Lionstone.]]></en>
+              <en><![CDATA[Oui, but I don’t understand why Lionstone would require you to seek our insignia seals over a silly matter of 81 cents! That just doesn’t sound like Lionstone.]]></en>
               <de><![CDATA[Ja, aber ich verstehe nicht, warum Lionstone von dir wegen lächerlicher 81 Cent unsere Siegel verlangt! Das sieht Lionstone nicht ähnlich.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mill_voice.swf:mill0160">
@@ -2314,7 +2314,7 @@
               <de><![CDATA[Wegen der neun Mitglieder des Smith-Instituts und ihren Insignienringen ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0164">
-              <en><![CDATA[Yes?]]></en>
+              <en><![CDATA[Oui?]]></en>
               <de><![CDATA[Ja?]]></de>
             </dia>
           </dialog>
@@ -2350,8 +2350,8 @@
               <de><![CDATA[Du hast mit meinem Vater zusammengearbeitet, nicht wahr?]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0116">
-              <en><![CDATA[Oh yes! Those were quite the times back at the Smith Institute!]]></en>
-              <de><![CDATA[Oh ja! Das waren noch Zeiten, damals im Smith-Institut!]]></de>
+              <en><![CDATA[Oui! Those were quite the times back at the Smith Institute!]]></en>
+              <de><![CDATA[Ja! Das waren noch Zeiten, damals im Smith-Institut!]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0117">
               <en><![CDATA[There was no problem that could not be solved by the nine of us, and no goal that could not be reached ... ]]></en>
@@ -2593,7 +2593,7 @@
               <de><![CDATA[Ich glaub, ich muss dann mal wieder los ...]]></de>
             </dia>
             <dia puppet="slappy" frame="" sound="voice/mill_voice.swf:mill0212">
-              <en><![CDATA[Sure! Feel free to drop by any time if you want to talk or have a nap in that old hammock!]]></en>
+              <en><![CDATA[Oui! Feel free to drop by any time if you want to talk or have a nap in that old hammock!]]></en>
               <de><![CDATA[Natürlich! Komm jederzeit wieder, wenn du reden oder in meiner alten Hängematte ein Nickerchen machen willst!]]></de>
             </dia>
           </dialog>

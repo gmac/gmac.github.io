@@ -1613,7 +1613,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30094">
-                  <en><![CDATA[He’s now juggling terrifying knives!]]></en>
+                  <en><![CDATA[Now he’s juggling terrifying knives!]]></en>
                   <de><![CDATA[Jetzt jongliert er mit diesen beängstigend aussehenden Messern!]]></de>
                 </dia>
               </dialog>
@@ -1784,7 +1784,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30100">
-                  <en><![CDATA[Eve enjoys the show.]]></en>
+                  <en><![CDATA[Eve is enjoying the show.]]></en>
                   <de><![CDATA[Eve gefällt die Show.]]></de>
                 </dia>
               </dialog>

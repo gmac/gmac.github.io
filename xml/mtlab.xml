@@ -1569,8 +1569,8 @@
                   <de><![CDATA[Huch ... ? Wo bin ich? Was ist passiert? Ich weiß nur noch, dass ich Zahlen ausgespuckt habe, um irgendeine Maschine zu kalibrieren.]]></de>
                 </dia>
                 <dia puppet="smith" frame="" sound="voice/mtlab_voice.swf:mtlab0023">
-                  <en><![CDATA[No, it’s the Time Rift Apparatus!<br>Stop this, Vincent!]]></en>
-                  <de><![CDATA[Nein, es ist der Zeitriss-Apparatus!<br>Das dürfen Sie nicht, Vincent!]]></de>
+                  <en><![CDATA[It’s the Time Rift Apparatus!<br>Stop this, Vincent!]]></en>
+                  <de><![CDATA[Es ist der Zeitriss-Apparatus!<br>Das dürfen Sie nicht, Vincent!]]></de>
                 </dia>
                 <dia puppet="smith" frame="" sound="voice/mtlab_voice.swf:mtlab0024">
                   <en><![CDATA[Stop before you destroy us all!]]></en>

@@ -751,8 +751,8 @@
                   <de><![CDATA[Ich bin sicher, meine lieben alten Kollegen würden mir zustimmen, dass ihr zwei funktioniert wie ein Uhrwerk ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="speak" sound="voice/tower_voice.swf:tower0020">
-                  <en><![CDATA[A &#8222;Tick&#8220; will surely always precede a &#8222;Tock&#8220;, and stupidity such as yours will always play into my hands.]]></en>
-                  <de><![CDATA[Einem &#8222;Tick&#8220; folgt mit Sicherheit immer ein &#8222;Tack&#8220; und Dummheit wie eure spielt mir mit Sicherheit immer in die Hände.]]></de>
+                  <en><![CDATA[A “Tick” will surely always precede a “Tock”, and stupidity such as yours will always play into my hands. Haha!]]></en>
+                  <de><![CDATA[Einem “Tick” folgt mit Sicherheit immer ein “Tack”; und Dummheit wie eure spielt mir mit Sicherheit immer in die Hände. Haha!]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="lspeak" sound="voice/tower_voice.swf:tower0021">
                   <en><![CDATA[Ha! How scientifically profound ...]]></en>
@@ -827,8 +827,8 @@
                   <de><![CDATA[Sie haben es getan, um mich vor Lowell Cain zu retten, der mich als Geisel gefangen hielt, bis Vincent die Operation sicher überstanden hat.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0039">
-                  <en><![CDATA[And you made a fine insurance policy, my dear! Heaven forbid that your grandfather’s blade would have accidentally “slipped” during the surgery.]]></en>
-                  <de><![CDATA[Und Sie haben eine gute Versicherungspolice abgegeben, meine Liebe! So ist Ihr Großvater während der Operation nicht aus Versehen mit der Klinge “abgerutscht”.]]></de>
+                  <en><![CDATA[And you made a fine insurance policy, my dear. Heaven forbid that your grandfather’s blade would have accidentally “slipped” during surgery, hmm?]]></en>
+                  <de><![CDATA[Und Sie haben eine gute Versicherungspolice abgegeben, meine Liebe! So ist Ihr Großvater während der Operation nicht aus Versehen mit der Klinge “abgerutscht”, hmm?]]></de>
                 </dia>
                 <dia puppet="cain" frame="" sound="voice/tower_voice.swf:tower0040">
                   <en><![CDATA[Enough! Guards, they exaggerate his strength. You can easily overpower him!]]></en>
@@ -851,8 +851,8 @@
                   <de><![CDATA[Und jetzt erfülle ich endlich das Versprechen, das ich Ihnen, Smith, vor so vielen Jahren gegeben habe ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0045">
-                  <en><![CDATA[I will get my hands on the power of your inventions. ALL of them.]]></en>
-                  <de><![CDATA[Ich hole mir die ungezügelte Kraft Ihrer Erfindungen. ALLER Ihrer Erfindungen.]]></de>
+                  <en><![CDATA[I will get my hands on the power of your inventions. ALL of them. Hahaha!]]></en>
+                  <de><![CDATA[Ich hole mir die ungezügelte Kraft Ihrer Erfindungen. ALLER Ihrer Erfindungen. Hahaha!]]></de>
                 </dia>
                 <dia puppet="smith" frame="" sound="voice/tower_voice.swf:tower0046">
                   <en><![CDATA[You know it’s too late for that, Vincent. They’re all gone!]]></en>
@@ -875,8 +875,8 @@
                   <de><![CDATA[Wir wussten, dass wir sie Ihnen nicht in die Hände fallen lassen durften. Ihr Plan ist schon vor Jahren gescheitert.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0051">
-                  <en><![CDATA[Like the mechanical heart that survived in your granddaughter’s chest, Coppelius? That is just the first of many inventions that I will use to bring society to its knees.]]></en>
-                  <de><![CDATA[Wie der Prototyp, der in der Brust Ihrer Enkelin überlebt hat, Coppelius? Und das war nur die erste von vielen Erfindungen, die ich nutzen werde, um die Welt in die Knie zu zwingen.]]></de>
+                  <en><![CDATA[Like the mechanical heart that survived in your granddaughter’s chest, Coppelius?]]></en>
+                  <de><![CDATA[Wie der Prototyp, der in der Brust Ihrer Enkelin überlebt hat, Coppelius?]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0052">
                   <en><![CDATA[You old fools forget that it would only take one machine to crumble your efforts of hiding your research from me ...]]></en>
@@ -887,8 +887,8 @@
                   <de><![CDATA[Und jetzt wo wieder ein Sturm auf dem Gipfel des Mount Misery wütet, kann die Tür zur Macht und Brillanz der Neun wieder aufgestoßen werden.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0054">
-                  <en><![CDATA[According to my&#8212;albeit clumsy&#8212;calculations, this suit and heart should give me more than enough strength to conduct the Forbidden Experiment.]]></en>
-                  <de><![CDATA[Meinen - wenn auch groben - Berechnungen zufolge sollten das mechanische Herz und der Anzug mir mehr als genug Kraft geben, um das verbotene Experiment durchzuführen.]]></de>
+                  <en><![CDATA[According to my&#8212;albeit clumsy&#8212;calculations, this suit and heart should give me more than enough strength to conduct the forbidden experiment.]]></en>
+                  <de><![CDATA[Meinen&#8212;wenn auch groben&#8212;Berechnungen zufolge sollten das mechanische Herz und der Anzug mir mehr als genug Kraft geben, um das verbotene Experiment durchzuführen.]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/tower_voice.swf:tower0055">
                   <en><![CDATA[Gentlemen, I’ll see you on the other side of ... The Apparatus. Haha!]]></en>

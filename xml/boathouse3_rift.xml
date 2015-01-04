@@ -1493,15 +1493,15 @@
                   <en><![CDATA[I’ll just hide behind this inconspicuous-looking tarpaulin.]]></en>
                   <de><![CDATA[Ich verstecke mich einfach hinter dieser unauffälligen Plane.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0060">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0060">
                   <en><![CDATA[(I’ll just wait here until Nigel finds me ... so that I don’t jump out and startle him.)]]></en>
                   <de><![CDATA[(Ich warte einfach hier, bis Nigel mich findet ... damit ich ihn nicht erschrecke, wenn ich hervorspringe.)]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0061">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0061">
                   <en><![CDATA[(What in the world is taking him so long??)]]></en>
                   <de><![CDATA[(Warum in aller Welt braucht der so lang??)]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0062">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0062">
                   <en><![CDATA[(Ever since he regained consciousness, he’s just been wandering around talking to himself!)]]></en>
                   <de><![CDATA[(Seit er wieder aufgewacht ist, läuft er die ganze Zeit herum und spricht mit sich selbst!)]]></de>
                 </dia>
@@ -1513,11 +1513,11 @@
                   <en><![CDATA[Maybe they are meant to keep the boathouse in place during heavy storms ...]]></en>
                   <de><![CDATA[Vielleicht sind sie dazu da, das Bootshaus bei heftigen Stürmen an Ort und Stelle zu halten ...]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0065">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0065">
                   <en><![CDATA[(Sigh ... what is he DOING out there?)]]></en>
                   <de><![CDATA[(Seufz ... Was MACHT der da draußen?)]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0066">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0066">
                   <en><![CDATA[(Okay. I think he’s getting close!)]]></en>
                   <de><![CDATA[(Okay. ich glaube, er kommt näher!)]]></de>
                 </dia>
@@ -1525,7 +1525,7 @@
                   <en><![CDATA[Nice bulb ... and it seems to be intact.]]></en>
                   <de><![CDATA[Nette Glühbirne ... Und sie scheint intakt zu sein.]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0068">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0068">
                   <en><![CDATA[(Nice bulb??)]]></en>
                   <de><![CDATA[(Nette Glühbirne??)]]></de>
                 </dia>
@@ -1533,7 +1533,7 @@
                   <en><![CDATA[This tarpaulin seems to be dry ...]]></en>
                   <de><![CDATA[Diese Plane scheint trocken zu sein ...]]></de>
                 </dia>
-                <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0070">
+                <dia puppet="_avatar" frame="rest" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0070">
                   <en><![CDATA[(Finally!)]]></en>
                   <de><![CDATA[(Endlich!)]]></de>
                 </dia>

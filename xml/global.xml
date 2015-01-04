@@ -6257,14 +6257,9 @@
           <en><![CDATA[Talk to]]></en>
           <de><![CDATA[Sprich mit]]></de>
         </title>
-        <dialog>
-          <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0438">
-            <en><![CDATA[I have nothing to say to this notebook ... however, it may be interesting to look at.]]></en>
-            <de><![CDATA[Ich habe diesem Notizbuch nichts zu sagen ... ein Blick hinein könnte jedoch helfen.]]></de>
-          </dia>
-        </dialog>
+        <dialog />
         <script>
-          <dialogue play="*" />
+          <method call="notebook" display="show" />
         </script>
       </action>
       <action id="act2">
