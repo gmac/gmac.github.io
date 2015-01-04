@@ -1105,7 +1105,7 @@
                   <de><![CDATA[Okay, Das sieht doch gut aus ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0033">
-                  <en><![CDATA[That seems to have powered up the train station!]]></en>
+                  <en><![CDATA[That seems to have powered up the station!]]></en>
                   <de><![CDATA[Das scheint die Bahnstation jetzt mit Energie versorgt zu haben!]]></de>
                 </dia>
                 <dia puppet="trelawney" frame="lspeak" sound="voice/mtstation_voice.swf:mtstation0034">
