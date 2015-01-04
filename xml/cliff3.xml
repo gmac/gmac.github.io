@@ -538,20 +538,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30014">
-                  <en><![CDATA[One.]]></en>
-                  <de><![CDATA[Eins.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30015">
-                  <en><![CDATA[Two.]]></en>
-                  <de><![CDATA[Zwei.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30016">
-                  <en><![CDATA[Three.]]></en>
-                  <de><![CDATA[Drei.]]></de>
-                </dia>
-                <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30017">
-                  <en><![CDATA[Boy this thing turns faster than I can count.]]></en>
-                  <de><![CDATA[Junge, dieses Ding dreht sich schneller, als ich zählen kann.]]></de>
+                  <en><![CDATA[One ... Two ... Three ... Boy this thing turns faster than I can count.]]></en>
+                  <de><![CDATA[Eins ... Zwei ... Drei ... Junge, dieses Ding dreht sich schneller, als ich zählen kann.]]></de>
                 </dia>
               </dialog>
               <script>

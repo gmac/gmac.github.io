@@ -231,7 +231,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0008">
-                  <en><![CDATA[I still haven’t seen much of Ravenhollow. I hear that it’s quite lovely.]]></en>
+                  <en><![CDATA[I still haven’t seen much of Ravenhollow. I hear it’s quite lovely.]]></en>
                   <de><![CDATA[Ich habe noch nicht viel von Ravenhollow gesehen. Ich habe aber gehört, dass es einen Besuch wert ist.]]></de>
                 </dia>
               </dialog>
@@ -789,8 +789,8 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0042">
-                  <en><![CDATA[Maybe I can make that bug guy lose his temper, and lock up Nigel with me here in the boathouse?]]></en>
-                  <de><![CDATA[Vielleicht kann ich den Schrank dazu bringen, die Beherrschung zu verlieren, damit er Nigel mit mir im Bootshaus einsperrt?]]></de>
+                  <en><![CDATA[Maybe I can make that big guy lose his temper, and lock up Nigel with me here in the boathouse ...]]></en>
+                  <de><![CDATA[Vielleicht kann ich den Schrank dazu bringen, die Beherrschung zu verlieren, damit er Nigel mit mir im Bootshaus einsperrt ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0043">
                   <en><![CDATA[He thinks Nigel hit him!]]></en>

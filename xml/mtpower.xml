@@ -570,7 +570,7 @@
                   <de><![CDATA[Das muss der Hauptenergiepuffer sein, der Vincents Zeitriss mit Strom versorgt.]]></de>
                 </dia>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0010">
-                  <en><![CDATA[I have to find a way to draw the power away from it.]]></en>
+                  <en><![CDATA[I’ll have to find a way to draw the power away from it.]]></en>
                   <de><![CDATA[Ich muss einen Weg finden, den Strom aus dem Puffer zu ziehen.]]></de>
                 </dia>
               </dialog>
@@ -840,7 +840,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0024">
-                  <en><![CDATA[I’ll need to go outside and manually flip that switch on the attractor tower.]]></en>
+                  <en><![CDATA[I’ll need to go outside and manually flip the switch on that attractor tower.]]></en>
                   <de><![CDATA[Ich muss nach draußen gehen und den Schalter am Attraktorturm manuell betätigen.]]></de>
                 </dia>
               </dialog>
@@ -900,7 +900,7 @@
               </title>
               <dialog>
                 <dia puppet="narrative" frame="" sound="voice/mtpower_voice.swf:mtpower0027">
-                  <en><![CDATA[I’ll need to go outside and manually flip that switch on the attractor tower.]]></en>
+                  <en><![CDATA[I’ll need to go outside and manually flip the switch on that attractor tower.]]></en>
                   <de><![CDATA[Ich muss nach draußen gehen und den Schalter am Attraktorenturm manuell betätigen.]]></de>
                 </dia>
               </dialog>

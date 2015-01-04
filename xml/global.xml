@@ -863,8 +863,8 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0113">
-            <en><![CDATA[I’ve finally traveled through time like one of the science fiction heros that I read about; but who is my companion...?]]></en>
-            <de><![CDATA[Endlich bin ich ein Zeitreisender wie die Leute in meinen Science-Fiction-Magazinen ... und wer begleitet mich...?]]></de>
+            <en><![CDATA[I’ve finally traveled through time like one of the science fiction heros that I read about, but who is my companion...?]]></en>
+            <de><![CDATA[Endlich bin ich ein Zeitreisender wie die Leute in meinen Science-Fiction-Magazinen, und wer begleitet mich...?]]></de>
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0114">
             <en><![CDATA[A dead fish.]]></en>
@@ -6328,10 +6328,6 @@
             <en><![CDATA[Hm ... a rectangular frame of near-human dimensions.]]></en>
             <de><![CDATA[Hm ... eine quadratische Platte von nahezu menschlichen Ausmaßen.]]></de>
           </dia>
-          <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0441">
-            <en><![CDATA[What could this be used for?]]></en>
-            <de><![CDATA[Wozu könnte mir das wohl nützlich sein?]]></de>
-          </dia>
         </dialog>
         <script>
           <dialogue play="*" />
@@ -6456,10 +6452,6 @@
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0440">
             <en><![CDATA[Hm ... a rectangular frame of near-human dimensions.]]></en>
             <de><![CDATA[Hm ... eine quadratische Platte von nahezu menschlichen Ausmaßen.]]></de>
-          </dia>
-          <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0441">
-            <en><![CDATA[What could this be used for?]]></en>
-            <de><![CDATA[Wozu könnte mir das wohl nützlich sein?]]></de>
           </dia>
         </dialog>
         <script>
@@ -6910,7 +6902,7 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0476">
-            <en><![CDATA[I could put this power connector use now, I think.]]></en>
+            <en><![CDATA[I could put this power connector to use now.]]></en>
             <de><![CDATA[Ich denke, dass ich dieses Stromanschlusskabel nun verwenden kann.]]></de>
           </dia>
         </dialog>
@@ -8968,7 +8960,7 @@
     </item>
     <item id="slingshot_pre1" asset="lib/inventory.swf:InvenSlingshotPre1" frame="" hover="">
       <title>
-        <en><![CDATA[divining rod]]></en>
+        <en><![CDATA[divining stick]]></en>
         <de><![CDATA[Wünschelrute]]></de>
       </title>
       <action id="act0">
@@ -9041,7 +9033,7 @@
     </item>
     <item id="slingshot_pre2" asset="lib/inventory.swf:InvenSlingshotPre2" frame="" hover="">
       <title>
-        <en><![CDATA[dowsing rod]]></en>
+        <en><![CDATA[divining stick]]></en>
         <de><![CDATA[Wünschelrute]]></de>
       </title>
       <action id="act0">
@@ -9055,7 +9047,7 @@
             <de><![CDATA[Ich habe die Enden der Wünschelrute gekürzt.]]></de>
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0597">
-            <en><![CDATA[This shape seems be more useful, I think ...]]></en>
+            <en><![CDATA[This shape seems to be more useful, I think ...]]></en>
             <de><![CDATA[Diese Form wird nützlicher sein ...]]></de>
           </dia>
         </dialog>
@@ -10505,8 +10497,8 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0679">
-            <en><![CDATA[It’s worthless now ... I shouldn’t have thrown that chest from the top of the lighthouse. What a STUPID idea!]]></en>
-            <de><![CDATA[Nun ist es wertlos ... Ich hätte diese Truhe nicht vom Leuchtturm werfen sollen. Was für eine DÄMLICHE Idee!]]></de>
+            <en><![CDATA[It’s worthless now ... I shouldn’t have thrown that chest from the top of the lighthouse. What a stupid idea.]]></en>
+            <de><![CDATA[Nun ist es wertlos ... Ich hätte diese Truhe nicht vom Leuchtturm werfen sollen. Was für eine dämliche Idee.]]></de>
           </dia>
         </dialog>
         <script>
@@ -11300,7 +11292,7 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0004">
-            <en><![CDATA[Now there’s no mistaking the origins of this box.]]></en>
+            <en><![CDATA[There’s no mistaking the origins of this box.]]></en>
             <de><![CDATA[Nun gibt es keinen Zweifel mehr am Ursprung dieser Box.]]></de>
           </dia>
         </dialog>
@@ -11355,7 +11347,7 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0007">
-            <en><![CDATA[Hm ... good idea, but the looped rubberband is too short to tie across the forks.]]></en>
+            <en><![CDATA[Good idea, but the looped rubberband is too short to tie across the forks.]]></en>
             <de><![CDATA[Obwohl dies eine gute Schleuder ergeben würde, ist das Gummiband momentan zu kurz, um es an den Stock zu knoten.]]></de>
           </dia>
         </dialog>
@@ -11608,7 +11600,7 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0027">
-            <en><![CDATA[The torches are on fire now.]]></en>
+            <en><![CDATA[The torches are now on fire.]]></en>
             <de><![CDATA[Die Fackeln brennen nun.]]></de>
           </dia>
         </dialog>
@@ -11939,7 +11931,7 @@
         </title>
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0050">
-            <en><![CDATA[I shortened the ends of the dowsing rod.]]></en>
+            <en><![CDATA[I shortened the ends of the divining stick.]]></en>
             <de><![CDATA[Ich habe die Enden der Wünschelrute gekürzt.]]></de>
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0051">

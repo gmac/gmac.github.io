@@ -1637,8 +1637,8 @@
                   <de><![CDATA[Irgendetwas ... uah ... stimmt nicht!<br>Ich bin zu weit gekommen ... zu weit um ...]]></de>
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0040">
-                  <en><![CDATA[Oh my! What’s happening to him?!]]></en>
-                  <de><![CDATA[Oh weh! Was passiert mit ihm?!]]></de>
+                  <en><![CDATA[What’s happening to him?!]]></en>
+                  <de><![CDATA[Was passiert mit ihm?!]]></de>
                 </dia>
                 <dia puppet="vincent2" frame="" sound="voice/mtlab_voice.swf:mtlab0041">
                   <en><![CDATA[You did this ... you did ... Coppelius!!]]></en>
