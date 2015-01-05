@@ -1336,6 +1336,7 @@
                   <puppetTween target="_avatar" type="move" to="position:join_docks" waitForComplete="1" />
                   <dialogue playList="1,2" />
                   <layerState target="_current:_avatar:main" turnView="6" />
+                  <wait ms="400" />
                   <dialogue playList="3" />
                   <puppetTween target="_avatar" type="move" to="position:shroom" waitForComplete="1" />
                   <dialogue playList="4" />
@@ -1348,14 +1349,14 @@
                   <dialogue playList="6,7" />
                   <process>
                     <layerState target="_current:_avatar:main" turnView="6" />
+                    <wait ms="400" />
                     <dialogue playList="8" />
                     <puppetTween target="_avatar" type="move" to="position:front" waitForComplete="1" />
                     <layerState target="_current:_avatar:main" turnView="6" />
                   </process>
                   <puppetTween target="nora" type="move" to="position:front2" waitForComplete="1" />
                   <layerState target="_current:nora:main" turnView="4" />
-                  <dialogue playList="9" />
-                  <dialogue playList="10,11,12,13" />
+                  <dialogue playList="9,10,11,12,13" />
                   <puppetTween target="_avatar" type="move" to="position:front1b" waitForComplete="1" />
                   <layerState target="_current:_avatar:main" turnView="4" />
                   <layerSprite target="_avatar" animFrame="give_photo" waitForComplete="1" />
@@ -1383,6 +1384,7 @@
                   <puppetTween target="nora" type="move" to="position:front3" waitForComplete="1" />
                   <dialogue playList="19" />
                   <process>
+                    <wait ms="500" />
                     <layerState target="_current:_avatar:main" turnView="5" />
                     <dialogue playList="20" />
                     <wait seconds="2" />
@@ -1391,6 +1393,7 @@
                     <puppetTween target="_avatar" type="move" to="position:nigel_nora" waitForComplete="1" />
                     <layerState target="_current:_avatar:main" turnView="6" />
                     <dialogue playList="22,23" />
+                    <wait ms="600" />
                     <layerState target="_current:_avatar:main" turnView="5" />
                     <dialogue playList="24,25" />
                     <method call="controls" enabled="1" cursor="1" />

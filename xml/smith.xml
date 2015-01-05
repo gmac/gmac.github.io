@@ -3141,9 +3141,7 @@
             <layerSprite target="slideshow" animFrame="slide8_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide7_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide7" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_26" enabled="1" hold="1" expose="" go="-2">
@@ -3169,8 +3167,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3267,9 +3264,7 @@
             <layerSprite target="slideshow" animFrame="slide7_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide6_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide6" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_22" enabled="1" hold="1" expose="" go="-2">
@@ -3295,8 +3290,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3334,9 +3328,7 @@
             <layerSprite target="slideshow" animFrame="slide6_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide7_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide7" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t3" id="_32" enabled="1" hold="1" expose="" go="0">
@@ -3378,9 +3370,7 @@
             <layerSprite target="slideshow" animFrame="slide6_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide5_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide5" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_19" enabled="1" hold="1" expose="" go="-2">
@@ -3406,8 +3396,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3441,9 +3430,7 @@
             <layerSprite target="slideshow" animFrame="slide5_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide6_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide6" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t3" id="_31" enabled="1" hold="1" expose="" go="0">
@@ -3493,9 +3480,7 @@
             <layerSprite target="slideshow" animFrame="slide5_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide4_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide4" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_16" enabled="1" hold="1" expose="" go="-2">
@@ -3521,8 +3506,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3564,9 +3548,7 @@
             <layerSprite target="slideshow" animFrame="slide4_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide5_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide5" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t3" id="_30" enabled="1" hold="1" expose="" go="0">
@@ -3615,9 +3597,7 @@
             <layerSprite target="slideshow" animFrame="slide4_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide3_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide3" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_13" enabled="1" hold="1" expose="" go="-2">
@@ -3643,8 +3623,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3686,9 +3665,7 @@
             <layerSprite target="slideshow" animFrame="slide3_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide4_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide4" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t3" id="_29" enabled="1" hold="1" expose="" go="0">
@@ -3741,9 +3718,7 @@
             <layerSprite target="slideshow" animFrame="slide3_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide2_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide2" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_10" enabled="1" hold="1" expose="" go="-2">
@@ -3769,8 +3744,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3816,9 +3790,7 @@
             <layerSprite target="slideshow" animFrame="slide2_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide3_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide3" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t3" id="_28" enabled="1" hold="1" expose="" go="0">
@@ -3867,9 +3839,7 @@
             <layerSprite target="slideshow" animFrame="slide2_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide1_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide1" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t2" id="_7" enabled="1" hold="1" expose="" go="-2">
@@ -3895,8 +3865,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />
@@ -3938,9 +3907,7 @@
             <layerSprite target="slideshow" animFrame="slide1_out" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide2_in" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="slide2" waitForComplete="0" />
-            <dialogue playList="1" />
-            <dialogue playList="2" />
-            <dialogue playList="3,4" />
+            <dialogue playList="1,2,3,4" />
           </script>
         </topic>
         <topic key="t5" id="_27" enabled="1" hold="1" expose="" go="0">
@@ -3997,8 +3964,7 @@
             <sound soundtrack1="lib/music_memory.swf:MemoryMusic" />
             <layerSprite target="slideshow" animFrame="up" waitForComplete="1" />
             <layerSprite target="slideshow" animFrame="off" waitForComplete="0" />
-            <dialogue playList="1,2,3" />
-            <dialogue playList="4" />
+            <dialogue playList="1,2,3,4" />
             <layerSprite target="_avatar" animFrame="kneel_out" waitForComplete="1" />
             <process>
               <layerSprite target="_avatar" animFrame="kneel_in" waitForComplete="1" />

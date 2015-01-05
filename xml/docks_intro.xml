@@ -824,8 +824,10 @@
                 <sequence skip="1">
                   <dialogue playList="0,1,2,3" />
                   <layerState target="_current:nathan:main" turnView="5" />
+                  <wait ms="400" />
                   <dialogue playList="4" />
                   <layerState target="_current:nathan:main" turnView="4" />
+                  <wait ms="400" />
                   <dialogue playList="5" />
                   <puppetTween target="nathan" type="move" to="position:nathan_stop1" waitForComplete="1" />
                   <layerState target="_current:nathan:main" turnView="4" />
@@ -836,9 +838,10 @@
                     <puppetTween target="nathan" type="move" to="position:exit" waitForComplete="1" />
                     <layerSprite target="_current:nathan" visible="0" />
                   </process>
-                  <wait seconds="1.5" />
+                  <wait seconds="1" />
                   <dialogue playList="8,9" />
                   <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+                  <wait ms="400" />
                   <dialogue playList="10" />
                   <puppetTween target="_avatar" type="moveThenTurn" to="position:nigel_stop" toView="4" waitForComplete="1" />
                   <dialogue playList="11,12,13,14,15,16,17" />
@@ -1204,8 +1207,7 @@
             <layerSprite target="shroom" animFrame="togrowl" waitForComplete="1" />
             <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
             <layerState target="_current:shroom:main" restState="growl" />
-            <dialogue playList="11" />
-            <dialogue playList="8,9,10" />
+            <dialogue playList="11,8,9,10" />
             <method call="controls" enabled="1" cursor="1" />
             <tree load="intro2" />
           </script>
@@ -1618,7 +1620,7 @@
               <de><![CDATA[Sie meinen, wir brauchen eine Genehmigung, um Ravenhollow zu betreten? Das ist doch wohl ein Scherz.]]></de>
             </dia>
             <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0075">
-              <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+              <en><![CDATA[Should I knock out this loud-mouthed trespasser, and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
               <de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0076">
@@ -1645,7 +1647,7 @@
               <de><![CDATA[Bitte stören Sie uns nicht, wir sind gerade mitten in einer Unterhaltung.]]></de>
             </dia>
             <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0139">
-              <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+              <en><![CDATA[Should I knock out this loud-mouthed trespasser, and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
               <de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0140">
@@ -1672,7 +1674,7 @@
               <de><![CDATA[Wir lungern nicht herum. Aber vielleicht lungern Sie ja herum!]]></de>
             </dia>
             <dia puppet="manbreaker" frame="" sound="voice/docks_intro_voice.swf:docks_intro0143">
-              <en><![CDATA[Should I knock out this loud-mouthed trespasser and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
+              <en><![CDATA[Should I knock out this loud-mouthed trespasser, and lock him up in the boathouse with the rest of the junk we confiscated this week?]]></en>
               <de><![CDATA[Soll ich diesen vorlauten Grenzübertreter ausknipsen und ihn zusammen mit dem anderen Zeug, das wir diese Woche beschlagnahmt haben, ins Bootshaus sperren?]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0144">

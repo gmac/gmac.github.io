@@ -689,10 +689,13 @@
                     <dialogue playList="6,7,8,9" />
                     <inventory remove="jar1b" />
                     <layer target="_current:gecko" visible="1" />
+                    <wait ms="400" />
                     <dialogue playList="10" />
                     <inventory display="show" scrollTo="_blank" />
+                    <wait ms="400" />
                     <dialogue playList="11,12,13" />
                     <inventory display="hide" />
+                    <wait ms="400" />
                     <dialogue playList="14,15,16,17,18" />
                     <layerState target="_current:caro:main" restState="rest" />
                     <layerSprite target="caro" animFrame="outro" waitForBreak="1" waitForComplete="1" />

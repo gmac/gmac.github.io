@@ -2287,15 +2287,13 @@
                     <dialogue playList="0" />
                     <layerSprite target="kid1" animFrame="intro" waitForBreak="1" waitForComplete="1" />
                     <layerState target="_current:kid1:main" restState="diapause" />
-                    <dialogue playList="1" />
-                    <dialogue playList="2" />
+                    <dialogue playList="1,2" />
                     <layerSprite target="kid2" animFrame="intro" waitForComplete="1" />
                     <layerState target="_current:kid2:main" restState="pause2" />
                     <dialogue playList="3" />
                     <layerSprite target="kid3" animFrame="intro" waitForComplete="1" />
                     <layerState target="_current:kid3:main" restState="pause2" />
-                    <dialogue playList="4,5,6" />
-                    <dialogue playList="7,8" />
+                    <dialogue playList="4,5,6,7,8" />
                     <method call="controls" enabled="1" />
                     <tree load="kids" />
                   </if>
@@ -2400,8 +2398,7 @@
                 <inventory target="rings" add="ring_zygmunt" />
                 <inventory display="show" />
                 <inventory scrollTo="_blank" />
-                <wait seconds="1" />
-                <wait seconds="1" />
+                <wait seconds="2" />
                 <inventory display="hide" />
                 <wait seconds="1" />
                 <dialogue playList="6,7,8,9,10" />
@@ -2644,12 +2641,10 @@
             <wait seconds="1" />
             <layer target="_current:door" state="main" />
             <sound effect="lib/sound_effects.swf:doorClose" waitForComplete="0" />
-            <dialogue playList="6" />
-            <dialogue playList="7" />
+            <dialogue playList="6,7" />
             <layerSprite target="kid2" animFrame="outro" waitForComplete="1" />
             <layerState target="_current:kid2:main" restState="rest" />
-            <dialogue playList="8" />
-            <dialogue playList="9" />
+            <dialogue playList="8,9" />
             <puppetTween target="kid3" type="move" to="position:kid3" waitForComplete="1" />
             <layerState target="_current:_avatar:main" turnView="5" />
             <dialogue playList="10,11,12" />
@@ -2815,8 +2810,7 @@
           </dialog>
           <script>
             <method call="controls" enabled="0" />
-            <dialogue playList="0" />
-            <dialogue playList="1" />
+            <dialogue playList="0,1" />
             <process>
               <layerSprite target="kid1" animFrame="outro" waitForComplete="1" />
               <layerState target="_current:kid1:main" restState="rest" />
