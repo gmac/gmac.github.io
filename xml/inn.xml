@@ -3363,19 +3363,19 @@
                   <de><![CDATA[Dadurch entstanden 81 Cent Zinsschulden, die auf das Grundkapital von $380502 angerechnet wurden.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0221">
-                  <en><![CDATA[Your father was out of the country at the time, so his colleague at the institute, Prof. Smith, paid off the new interest with a check issued by the Smith Institute.]]></en>
-                  <de><![CDATA[Ihr Vater war zu der Zeit nicht im Lande und so zahlte sein Kollege vom Institut, Prof. Smith, diesen Betrag mit einem Scheck, der vom Smith-Institut ausgestellt wurde.]]></de>
+                  <en><![CDATA[Your father was out of the country at the time, so his colleague, Professor Smith, paid off the new interest with a cheque issued by the Smith Institute.]]></en>
+                  <de><![CDATA[Ihr Vater war zu der Zeit nicht im Lande und so zahlte sein Kollege, Prof. Smith, diesen Betrag mit einem Scheck, der vom Smith-Institut ausgestellt wurde.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/inn_voice.swf:inn0222">
                   <en><![CDATA[And that means what?]]></en>
                   <de><![CDATA[Und das bedeutet was?]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0223">
-                  <en><![CDATA[I’m afraid, Mr. Trelawney, that this settling payment from the Smith Institute accredited a small portion of the ownership of your father’s estate to the Institute’s nine founding members ...]]></en>
+                  <en><![CDATA[I’m afraid, Mr. Trelawney, that this settling payment from the Smith Institute accredited a small portion of the ownership to the Institute’s nine founding members ...]]></en>
                   <de><![CDATA[Ich befürchte, Herr Trelawney, dass durch diese Zahlung vom Smith-Institut ein kleiner Teil des Eigentums vom Besitz Ihres Vaters an die neun Gründungsmitglieder des Instituts übertragen wurde.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0224">
-                  <en><![CDATA[... making each of the nine a technical co&#8212;owner of your father’s home.]]></en>
+                  <en><![CDATA[... making each of the nine a technical co-owner of your father’s home.]]></en>
                   <de><![CDATA[... und dadurch sind alle neun praktisch gesehen Miteigentümer am Haus Ihres Vaters.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0225">
@@ -3383,7 +3383,7 @@
                   <de><![CDATA[Daher benötigen Sie von jedem Einzelnen eine Einverständniserklärung, um offiziell das Erbe Ihres Vaters anzutreten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0226">
-                  <en><![CDATA[Wait, so you’re saying that one four&#8212;hundred&#8212;sixty&#8212;nine&#8212;thousand&#8212;seven&#8212;hundred&#8212;fifty&#8212;sixth of my father’s estate fell into ownership of the the Smith Institute!?]]></en>
+                  <en><![CDATA[Wait, so you’re saying that one four-hundred-sixty-nine-thousand-seven-hundred-fifty-sixth of my father’s estate fell into ownership of the the Smith Institute!?]]></en>
                   <de><![CDATA[Warten Sie, das heißt also, dass ein Vierhundertneunundsechzigtausendsiebenhundertsechsundfünfzigstel vom Haus meines Vaters dem Smith-Institut gehört!?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/inn_voice.swf:inn0227">
@@ -3403,8 +3403,8 @@
                   <de><![CDATA[Könnten Sie vielleicht ...?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/inn_voice.swf:inn0231">
-                  <en><![CDATA[No, sorry. I’m not doing your accounting books, tax declarations or whatever else you need calculated!]]></en>
-                  <de><![CDATA[Nein, tut mir leid. Ich werde für Sie weder die Buchhaltung übernehmen, noch die Steuererklärung oder irgendetwas anderes machen, was mit Zahlen zu tun hat!]]></de>
+                  <en><![CDATA[No, sorry. I’m not doing your accounting books, tax declarations or whatever else you need calculated.]]></en>
+                  <de><![CDATA[Nein, tut mir leid. Ich werde für Sie weder die Buchhaltung übernehmen, noch die Steuererklärung oder irgendetwas anderes machen, was mit Zahlen zu tun hat.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0232">
                   <en><![CDATA[Anyway, take this notebook. It contains information on all nine founding members of the Smith Institute.]]></en>
@@ -3488,21 +3488,21 @@
               <en><![CDATA[As a result, 81 cents of new interest accrued on the $380,502 principal.]]></en>
               <de><![CDATA[Dadurch entstanden 81 Cent Zinsschulden, die auf das Grundkapital von $380502 angerechnet wurden. ]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0242">
-              <en><![CDATA[Your father was out of the country at the time, so his colleague at the institute, Prof. Smith, paid off the new interest with a check issued by the Smith Institute.]]></en>
-              <de><![CDATA[Ihr Vater war zu der Zeit nicht im Lande und so zahlten sein Kollege vom Institut, Prof. Smith, diesen Betrag mit einem Scheck, der vom Smith-Institut ausgestellt wurde.]]></de>
+            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0221">
+              <en><![CDATA[Your father was out of the country at the time, so his colleague, Professor Smith, paid off the new interest with a cheque issued by the Smith Institute.]]></en>
+              <de><![CDATA[Ihr Vater war zu der Zeit nicht im Lande und so zahlte sein Kollege, Prof. Smith, diesen Betrag mit einem Scheck, der vom Smith-Institut ausgestellt wurde.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0243">
               <en><![CDATA[And that means what?]]></en>
               <de><![CDATA[Und das bedeutet was?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0244">
-              <en><![CDATA[I’m afraid, Mr. Trelawney, that this settling payment from the Smith Institute accredited a small portion of the ownership of your father’s estate to the Institute’s nine founding members ...]]></en>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0223">
+              <en><![CDATA[I’m afraid, Mr. Trelawney, that this settling payment from the Smith Institute accredited a small portion of the ownership to the Institute’s nine founding members ...]]></en>
               <de><![CDATA[Ich befürchte, Herr Trelawney, dass durch diese Zahlung vom Smith-Institut ein kleiner Teil des Eigentums vom Besitz Ihres Vaters an die neun Gründungsmitglieder des Instituts übertragen wurde.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0245">
-              <en><![CDATA[... making each of the nine a technical co&#8212;owner of your father’s home.]]></en>
-              <de><![CDATA[... und dadurch sind alle neun Wissenschaftler praktisch gesehen Miteigentümer am Haus Ihres Vaters.]]></de>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0224">
+              <en><![CDATA[... making each of the nine a technical co-owner of your father’s home.]]></en>
+              <de><![CDATA[... und dadurch sind alle neun praktisch gesehen Miteigentümer am Haus Ihres Vaters.]]></de>
             </dia>
           </dialog>
           <script>
@@ -3582,12 +3582,12 @@
               <de><![CDATA[Nehmen Sie das Notizheft, das ich Ihnen gegeben habe und versuchen Sie, so viel wie möglich über die neun Gründungsmitglieder des Smith-Instituts herauszufinden.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0257">
-              <en><![CDATA[Officially your father’s house is under legal ownership of the Castle right now, but it might be the best place to start your research for the seal rings. Just make sure the Castle‘s men don’t find out about it.]]></en>
+              <en><![CDATA[Officially your father’s house is under legal ownership of the Castle right now, but it might be the best place to start your research for the insignia rings. Just make sure the Castle‘s men don’t find out about it.]]></en>
               <de><![CDATA[Offiziell ist das Haus Ihres Vaters jetzt rechtliches Eigentum des Schlosses, aber Sie sollten am besten dort mit der Suche nach den Siegelringen beginnen. Achten Sie nur darauf, dass Ihnen die Männer vom Schloss nicht auf die Schliche kommen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0258">
-              <en><![CDATA[The address is Turtle Lane 27.]]></en>
-              <de><![CDATA[Die Adresse ist Schildkrötenweg 27.]]></de>
+              <en><![CDATA[Your father’s old address is Turtle Lane 27.]]></en>
+              <de><![CDATA[Alte Adresse deines Vaters ist Schildkrötenweg 27.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0259">
               <en><![CDATA[Okay, is there anyone else I can trust?]]></en>
@@ -3598,7 +3598,7 @@
               <de><![CDATA[Ein weiterer Ort, an dem Sie Informationen sammeln können, ist Stephan Caros Antiquitätenladen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0261">
-              <en><![CDATA[Just ask around and see what you can find out ... perhaps you can even find a way to get into the old institute.]]></en>
+              <en><![CDATA[Just ask around and see what you can find out ... perhaps you can even find a way to get into the old Institute.]]></en>
               <de><![CDATA[Fragen Sie einfach ein wenig herum und versuchen Sie, etwas herauszufinden ... vielleicht finden Sie ja sogar eine Möglichkeit, in das alte Institut zu gelangen.]]></de>
             </dia>
           </dialog>
@@ -3616,32 +3616,32 @@
               <en><![CDATA[Again, how do you think I can get the other eight scientists’ seals?]]></en>
               <de><![CDATA[Nochmal, was denken Sie, wie ich die acht Siegel der Wissenschaftler aufspüren kann?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0263">
+            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0255">
               <en><![CDATA[It’s quite possible that your father’s colleagues have left these rings behind here in Ravenhollow, and that you may be able to collect them.]]></en>
               <de><![CDATA[Es ist sehr wahrscheinlich, dass die Kollegen Ihres Vaters diese Ringe hier in Ravenhollow zurückgelassen haben und dass Sie sie finden können.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0264">
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0256">
               <en><![CDATA[Use the notebook I gave you and try to find out as much as possible about the nine founding members of the Smith Institute.]]></en>
               <de><![CDATA[Nehmen Sie das Notizheft, das ich Ihnen gegeben habe und versuchen Sie, so viel wie möglich über die neun Gründungsmitglieder des Smith-Instituts herauszufinden.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0265">
-              <en><![CDATA[Officially your father’s house is under legal ownership of the Castle right now, but it might be the best place to start your research for the seal rings. Just make sure the Castle‘s men don’t find out about it.]]></en>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0257">
+              <en><![CDATA[Officially your father’s house is under legal ownership of the Castle right now, but it might be the best place to start your research for the insignia rings. Just make sure the Castle‘s men don’t find out about it.]]></en>
               <de><![CDATA[Offiziell ist das Haus Ihres Vaters jetzt rechtliches Eigentum des Schlosses, aber Sie sollten am besten dort mit der Suche nach den Siegelringen beginnen. Achten Sie nur darauf, dass Ihnen die Männer vom Schloss nicht auf die Schliche kommen.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0266">
-              <en><![CDATA[The address is Turtle Lane 27.]]></en>
-              <de><![CDATA[Die Adresse ist Schildkrötenweg 27.]]></de>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0258">
+              <en><![CDATA[Your father’s old address is Turtle Lane 27.]]></en>
+              <de><![CDATA[Alte Adresse deines Vaters ist Schildkrötenweg 27.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0267">
               <en><![CDATA[Okay, is there anyone else I can trust?]]></en>
               <de><![CDATA[Okay, gibt es sonst noch jemanden, dem ich vertrauen kann?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0268">
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0260">
               <en><![CDATA[Another good place to gather more information might be Stephan Caro’s antique shop.]]></en>
               <de><![CDATA[Ein weiterer Ort, an dem Sie Informationen sammeln können, ist Stephan Caros Antiquitätenladen.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0269">
-              <en><![CDATA[Just ask around and see what you can find out ... perhaps you can even find a way to get into the old institute.]]></en>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0261">
+              <en><![CDATA[Just ask around and see what you can find out ... perhaps you can even find a way to get into the old Institute.]]></en>
               <de><![CDATA[Fragen Sie einfach ein wenig herum und versuchen Sie, etwas herauszufinden ... vielleicht finden Sie ja sogar eine Möglichkeit, in das alte Institut zu gelangen.]]></de>
             </dia>
           </dialog>
@@ -3822,7 +3822,7 @@
               <de><![CDATA[... und nach sechs Monaten hatte ich keine andere Wahl, als ihn für tot erklären zu lassen und sein Testament zu eröffnen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0298">
-              <en><![CDATA[He wanted you, his son, to be his sole heir. He had included a photograph and a ring that I was supposed to send you. Do you still have them?]]></en>
+              <en><![CDATA[He wanted you, his son, to be his sole heir. He had included a photograph and a ring that I was supposed to send you. Do you have them?]]></en>
               <de><![CDATA[Er machte Sie, seinen Sohn, zum Alleinerben. In seinem Testament waren ein Foto und ein Ring, die ich Ihnen schicken sollte. Haben Sie das noch?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0299">
@@ -3884,8 +3884,8 @@
               <en><![CDATA[... and after three months I had no choice but to declare him dead and open his will.]]></en>
               <de><![CDATA[... und nach sechs Monaten hatte ich keine andere Wahl, als ihn für tot erklären zu lassen und sein Testament zu öffnen.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0311">
-              <en><![CDATA[He wanted you, his son, to be his sole heir. He had included a photograph and a ring that I was supposed to send you. Do you still have them?]]></en>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0298">
+              <en><![CDATA[He wanted you, his son, to be his sole heir. He had included a photograph and a ring that I was supposed to send you. Do you have them?]]></en>
               <de><![CDATA[Er machte Sie, seinen Sohn, zum Alleinerben. In seinem Testament waren ein Foto und ein Ring, die ich Ihnen schicken sollte. Haben Sie das noch?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0312">
@@ -3915,11 +3915,11 @@
               <en><![CDATA[Okay, so who is this Lowell Cain?]]></en>
               <de><![CDATA[Okay, also wer ist dieser Lowell Cain?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0316">
+            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0328">
               <en><![CDATA[Oh, he is a nightmare ... sometimes I believe his presence is all a bad dream.]]></en>
               <de><![CDATA[Oh, er ist ein Albtraum ... manchmal denke ich wirklich, dass sein Auftauchen hier nur ein böser Traum ist.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0317">
+            <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0329">
               <en><![CDATA[All my life I have defended the law, haven’t I Webb?]]></en>
               <de><![CDATA[Mein ganzes Leben lang habe ich Recht und Gesetz verteidigt, stimmt’s Webb?]]></de>
             </dia>
@@ -3928,16 +3928,16 @@
               <de><![CDATA[Stimmt, Lionstone.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0319">
-              <en><![CDATA[... but now, Baron Northwest sends Lowell Cain down here to Ravenhollow and tells us about new laws and new rules, and if you ask me, it’s illegal, phony, and all a big joke.]]></en>
+              <en><![CDATA[... but now, Baron Northwest sends Lowell Cain down here to Ravenhollow, and tells us all about the new laws and new rules. If you ask me: it’s illegal, it’s phony, and it’s all a big joke.]]></en>
               <de><![CDATA[... aber jetzt schickt Baron Nordwest diesen Lowell Cain runter nach Ravenhollow, um uns über neue Gesetze und Regeln zu informieren und wenn Sie mich fragen, ist das illegal, falsch und einfach nur ein großer Scherz.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0320">
-              <en><![CDATA[... but then again I don’t feel like laughing.]]></en>
+              <en><![CDATA[... but then again, I don’t feel like laughing.]]></en>
               <de><![CDATA[... aber andererseits ist mir nicht gerade zum Lachen zumute.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0321">
-              <en><![CDATA[Lowell Cain isn’t making the law, he IS the law and he has the means to make everyone accept that.]]></en>
-              <de><![CDATA[Lowell Cain macht diese Gesetze nicht, er IST das Gesetz und er verfügt über die Mittel, seine Regeln durchzusetzen.]]></de>
+              <en><![CDATA[Lowell Cain isn’t making the law, he IS the law ... and he has the means to make everyone accept that.]]></en>
+              <de><![CDATA[Lowell Cain macht diese Gesetze nicht, er IST das Gesetz ... und er verfügt über die Mittel, seine Regeln durchzusetzen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0322">
               <en><![CDATA[I am outdated, he says. Yesterday’s laws are worthless today. And what was a crime yesterday is now Castle law.]]></en>
@@ -3948,7 +3948,7 @@
               <de><![CDATA[Wie konnte das passieren?]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0324">
-              <en><![CDATA[Maybe we weren’t careful enough and waited for too long before taking action when Cain first showed up.]]></en>
+              <en><![CDATA[Maybe we weren’t careful enough, and waited for too long before taking action when Cain first showed up.]]></en>
               <de><![CDATA[Vielleicht haben wir nicht genug aufgepasst und haben zu lange gewartet, etwas zu unternehmen, nachdem Cain das erste Mal aufgetaucht ist.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0325">
@@ -3956,8 +3956,8 @@
               <de><![CDATA[Es passierte einfach zu schnell. Wir wurden völlig überrumpelt, Lionstone. Es blieb keine Zeit, etwas dagegen zu unternehmen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0326">
-              <en><![CDATA[We should have stood together and thrown Cain and his men out on the day they arrived ... ]]></en>
-              <de><![CDATA[Wir hätten zusammenhalten müssen und Cain und seine Männer gleich an dem Tag, als sie hier angekommen sind, zum Teufel jagen sollen ...]]></de>
+              <en><![CDATA[We should have stood together, and thrown Cain and his men out on the day they arrived!]]></en>
+              <de><![CDATA[Wir hätten zusammenhalten müssen und Cain und seine Männer gleich an dem Tag, als sie hier angekommen sind, zum Teufel jagen sollen!]]></de>
             </dia>
           </dialog>
           <script>
@@ -3986,17 +3986,17 @@
               <en><![CDATA[Sure, Lionstone.]]></en>
               <de><![CDATA[Stimmt, Lionstone.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0331">
-              <en><![CDATA[... but now, Baron Northwest sends Lowell Cain down here to Ravenhollow and tells us about new laws and new rules, and if you ask me, it’s illegal, phony, and all a big joke.]]></en>
+            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0319">
+              <en><![CDATA[... but now, Baron Northwest sends Lowell Cain down here to Ravenhollow, and tells us all about the new laws and new rules. If you ask me: it’s illegal, it’s phony, and it’s all a big joke.]]></en>
               <de><![CDATA[... aber jetzt schickt Baron Nordwest diesen Lowell Cain runter nach Ravenhollow, um uns über neue Gesetze und Regeln zu informieren und wenn Sie mich fragen, ist das illegal, falsch und einfach nur ein großer Scherz.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0332">
-              <en><![CDATA[... but then again I don’t feel like laughing.]]></en>
+            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0320">
+              <en><![CDATA[... but then again, I don’t feel like laughing.]]></en>
               <de><![CDATA[... aber andererseits ist mir nicht gerade zum Lachen zumute.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0333">
-              <en><![CDATA[Lowell Cain isn’t making the law, he IS the law and he has the means to make everyone accept that.]]></en>
-              <de><![CDATA[Lowell Cain macht diese Gesetze nicht, er IST das Gesetz und er verfügt über die Mittel, seine Regeln durchzusetzen.]]></de>
+            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0321">
+              <en><![CDATA[Lowell Cain isn’t making the law, he IS the law ... and he has the means to make everyone accept that.]]></en>
+              <de><![CDATA[Lowell Cain macht diese Gesetze nicht, er IST das Gesetz ... und er verfügt über die Mittel, seine Regeln durchzusetzen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0334">
               <en><![CDATA[I am outdated, he says. Yesterday’s laws are worthless today. And what was a crime yesterday is now Castle law.]]></en>
@@ -4006,17 +4006,17 @@
               <en><![CDATA[How could that happen?]]></en>
               <de><![CDATA[Wie konnte das passieren?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0336">
-              <en><![CDATA[Maybe we weren’t careful enough and waited for too long before taking action when Cain first showed up.]]></en>
+            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0324">
+              <en><![CDATA[Maybe we weren’t careful enough, and waited for too long before taking action when Cain first showed up.]]></en>
               <de><![CDATA[Vielleicht haben wir nicht genug aufgepasst und haben zu lange gewartet, etwas zu unternehmen, nachdem Cain das erste Mal aufgetaucht ist.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0337">
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0325">
               <en><![CDATA[It happened too fast. We were overwhelmed, Lionstone. There was no time to react.]]></en>
               <de><![CDATA[Es passierte einfach zu schnell. Wir wurden völlig überrumpelt, Lionstone. Es blieb keine Zeit, etwas dagegen zu unternehmen.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0338">
-              <en><![CDATA[We should have stood together and thrown Cain and his men out on the day they arrived ... ]]></en>
-              <de><![CDATA[Wir hätten zusammenhalten müssen und Cain und seine Männer gleich an dem Tag, als sie hier angekommen sind, zum Teufel jagen sollen ...]]></de>
+            <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0326">
+              <en><![CDATA[We should have stood together, and thrown Cain and his men out on the day they arrived!]]></en>
+              <de><![CDATA[Wir hätten zusammenhalten müssen und Cain und seine Männer gleich an dem Tag, als sie hier angekommen sind, zum Teufel jagen sollen!]]></de>
             </dia>
           </dialog>
           <script>
@@ -4034,11 +4034,11 @@
               <de><![CDATA[Wo kann ich Sie finden, wenn ich einen Rat brauche?]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0340">
-              <en><![CDATA[The Castle confiscated most of my books and paperwork, so there’s no need for me to stay in my office ...]]></en>
+              <en><![CDATA[The Castle confiscated my books and my paperwork, so there’s no need for me to stay in my office ...]]></en>
               <de><![CDATA[Das Schloss hat die meisten meiner Bücher und Unterlagen konfisziert, ich hab also keinen Grund, noch länger in meinem Büro zu bleiben ...]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0341">
-              <en><![CDATA[So I spend most of my time here. Feel free to drop by at any time Mr. Trelawney.]]></en>
+              <en><![CDATA[So I spend most of my time here. Feel free to drop by at any time, Mr. Trelawney.]]></en>
               <de><![CDATA[Also verbringe ich die meiste Zeit hier. Sie können gerne jederzeit vorbeikommen, Herr Trelawney]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0342">
@@ -4069,8 +4069,8 @@
               <de><![CDATA[... und damit haben Sie absolut recht, junger Mann.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0346">
-              <en><![CDATA[But you see, I drink to forget. I forget about the Castle and my empty office and all the good men who don’t come here anymore.]]></en>
-              <de><![CDATA[Aber wissen Sie, ich trinke, um zu vergessen. Ich vergesse das Schloss und mein leeres Büro und all die guten Männer, die nicht mehr hierherkommen.]]></de>
+              <en><![CDATA[But you see, I drink to forget! I forget about the Castle, and my empty office, and all the good men who don’t come here anymore.]]></en>
+              <de><![CDATA[Aber wissen Sie, ich trinke, um zu vergessen! Ich vergesse das Schloss und mein leeres Büro und all die guten Männer, die nicht mehr hierherkommen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0347">
               <en><![CDATA[But I also forget that drinking is not a good thing. So I thank you for reminding me about that.]]></en>
@@ -4444,11 +4444,11 @@
               <de><![CDATA[Keine Ahnung, was er ihnen gesagt &#8212; oder angetan hat. Ich weiß nur, dass sie nicht mehr zu mir kommen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0359">
-              <en><![CDATA[Didn’t you hear about the flashing lights? Webb, you should tell him about the flashing lights.]]></en>
-              <de><![CDATA[Haben Sie nichts von diesen Blitzlichtern gehört? Webb, erzählen Sie ihm von den Blitzlichtern.]]></de>
+              <en><![CDATA[Didn’t you hear about the flashing lights? Webb, you should tell him about the flashing lights!]]></en>
+              <de><![CDATA[Haben Sie nichts von diesen Blitzlichtern gehört? Webb, erzählen Sie ihm von den Blitzlichtern!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0360">
-              <en><![CDATA[Shut it, Lionstone. Have you actually SEEN any of these flashing lights? ]]></en>
+              <en><![CDATA[Shut it, Lionstone. Have you actually SEEN any of these flashing lights?]]></en>
               <de><![CDATA[Jaja, Lionstone. Haben Sie diese Blitzlichter denn wirklich jemals selbst GESEHEN?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0361">
@@ -4459,7 +4459,7 @@
               <en><![CDATA[Then call me a child Webb, ‘cause I’m scared!]]></en>
               <de><![CDATA[Dann bin ich eben ein kleines Kind Webb, denn ich habe Angst!]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0363">
+            <dia puppet="lionstone" frame="lspeak" sound="voice/inn_voice.swf:inn0372">
               <en><![CDATA[You see, Mr. Trelawney, there’s a rumor about a strange flashing light that the Castle uses to ... to ... change people.]]></en>
               <de><![CDATA[Wissen Sie, Herr Trelawney, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
             </dia>
@@ -4490,19 +4490,19 @@
               <en><![CDATA[I don’t know what he told them&#8212;or did to them. I just know they aren’t coming here anymore.]]></en>
               <de><![CDATA[Keine Ahnung, was er ihnen gesagt &#8212; oder angetan hat. Ich weiß nur, dass sie nicht mehr zu mir kommen.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0368">
-              <en><![CDATA[Didn’t you hear about the flashing lights? Webb, you should tell him about the flashing lights.]]></en>
-              <de><![CDATA[Haben Sie nichts von diesen Blitzlichtern gehört? Webb, erzählen Sie ihm von den Blitzlichtern.]]></de>
+            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0359">
+              <en><![CDATA[Didn’t you hear about the flashing lights? Webb, you should tell him about the flashing lights!]]></en>
+              <de><![CDATA[Haben Sie nichts von diesen Blitzlichtern gehört? Webb, erzählen Sie ihm von den Blitzlichtern!]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0360">
-              <en><![CDATA[Shut it, Lionstone. Have you actually SEEN any of these flashing lights? ]]></en>
+              <en><![CDATA[Shut it, Lionstone. Have you actually SEEN any of these flashing lights?]]></en>
               <de><![CDATA[Jaja, Lionstone. Haben Sie diese Blitzlichter denn wirklich jemals selbst GESEHEN?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0361">
               <en><![CDATA[I sure haven’t, and do you know why Lionstone? Because it’s just a story. A story to scare children.]]></en>
               <de><![CDATA[Ich nämlich ganz bestimmt nicht und wissen Sie warum, Lionstone? Weil es nur eine Geschichte ist. Eine Geschichte, um die Kinder zu erschrecken.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0371">
+            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0362">
               <en><![CDATA[Then call me a child Webb, ‘cause I’m scared!]]></en>
               <de><![CDATA[Dann bin ich eben ein kleines Kind Webb, denn ich habe Angst!]]></de>
             </dia>
@@ -4510,7 +4510,7 @@
               <en><![CDATA[You see, Mr. Trelawney, there’s a rumor about a strange flashing light that the Castle uses to ... to ... change people.]]></en>
               <de><![CDATA[Wissen Sie, Herr Trelawney, da geht das Gerücht von seltsamen Blitzlichtern um, mit denen das Schloss die ... die ... Leute verändert.]]></de>
             </dia>
-            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0373">
+            <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0364">
               <en><![CDATA[To get rid of opposition, they say. Hogwash, if you ask me.]]></en>
               <de><![CDATA[Also sozusagen, um die Gegner auszuschalten. Völliger Unfug, wenn Sie mich fragen.]]></de>
             </dia>
@@ -4546,7 +4546,7 @@
               <de><![CDATA[Ich wünschte, ich könnte Ihnen mehr anbieten. Die Zimmer stehen alle leer, wissen Sie, aber wenn ich eines davon vermiete, bekomme ich Ärger.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0379">
-              <en><![CDATA[Webb, you are bound to get in trouble sooner or later. I’m telling you, for whatever reason ... they are closing Ravenhollow down.]]></en>
+              <en><![CDATA[Webb, you’re bound to get in trouble sooner or later. I’m telling you, for whatever reason ... they’re closing Ravenhollow down.]]></en>
               <de><![CDATA[Webb, Sie werden früher oder später sowieso Schwierigkeiten bekommen. Eins sag ich Ihnen, aus irgendeinem Grund ... wird Ravenhollow stillgelegt.]]></de>
             </dia>
             <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0380">
@@ -4588,15 +4588,15 @@
               <en><![CDATA[I wish I could do more for you. The rooms are empty you know, but if I rent you a room then I’ll get in trouble.]]></en>
               <de><![CDATA[Ich wünschte, ich könnte Ihnen mehr anbieten. Die Zimmer stehen alle leer, wissen Sie, aber wenn ich eines davon vermiete, bekomme ich Ärger.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0387">
-              <en><![CDATA[Webb, you are bound to get in trouble sooner or later. I’m telling you, for whatever reason ... they are closing Ravenhollow down.]]></en>
+            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0379">
+              <en><![CDATA[Webb, you’re bound to get in trouble sooner or later. I’m telling you, for whatever reason ... they’re closing Ravenhollow down.]]></en>
               <de><![CDATA[Webb, Sie werden früher oder später sowieso Schwierigkeiten bekommen. Eins sag ich Ihnen, aus irgendeinem Grund ... wird Ravenhollow stillgelegt.]]></de>
             </dia>
-            <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0388">
+            <dia puppet="lionstone" frame="lspeakw" sound="voice/inn_voice.swf:inn0380">
               <en><![CDATA[It’ll only be a matter of time Webb, and then the Castle men will come to our houses!]]></en>
               <de><![CDATA[Es ist nur noch eine Frage der Zeit, Webb, bis die Männer vom Schloss unsere Häuser stürmen!]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0389">
+            <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0381">
               <en><![CDATA[If the flashing light doesn’t get us, then they’ll surely just lock us up in the castle cellar ...]]></en>
               <de><![CDATA[Wenn uns das Blitzlicht nicht außer Gefecht setzt, dann sperren sie uns bestimmt in die Keller des Schlosses ...]]></de>
             </dia>
@@ -6165,11 +6165,11 @@
               <de><![CDATA[Entschuldigen Sie, wenn ich unterbreche, aber wegen dem Tod meines Vaters ...]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0514">
-              <en><![CDATA[Your father ... oh Webb. Webb, d’you know what else I’m thinking ...]]></en>
-              <de><![CDATA[Ihr Vater ... oh Webb. Webb, wissen Sie, was ich noch denke ...]]></de>
+              <en><![CDATA[Your father ... oh, Webb. Webb, d’you know what I’m thinking ...?]]></en>
+              <de><![CDATA[Ihr Vater ... oh, Webb. Webb, wissen Sie, was ich noch denke ...?]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0515">
-              <en><![CDATA[What if we failed to do something while we still could and now his blood is on our hands, Webb?]]></en>
+              <en><![CDATA[What if we failed to do something while we still could, and now his blood is on our hands, Webb?]]></en>
               <de><![CDATA[Webb, was ist, wenn wir dafür auch verantwortlich sind, weil wir nichts gegen das Schloss unternommen haben?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0516">
@@ -6199,12 +6199,12 @@
               <en><![CDATA[Do you know what exactly happened to my father?]]></en>
               <de><![CDATA[Wissen Sie denn genau, was meinem Vater zugestoßen ist?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0673">
-              <en><![CDATA[Your father ... oh Webb. Webb, d’you know what else I’m thinking ...]]></en>
-              <de><![CDATA[Ihr Vater ... oh Webb. Webb, wissen Sie, was ich noch denke ...]]></de>
+            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0514">
+              <en><![CDATA[Your father ... oh, Webb. Webb, d’you know what I’m thinking ...?]]></en>
+              <de><![CDATA[Ihr Vater ... oh, Webb. Webb, wissen Sie, was ich noch denke ...?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0674">
-              <en><![CDATA[What if we failed to do something while we still could and now his blood is on our hands, Webb?]]></en>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0515">
+              <en><![CDATA[What if we failed to do something while we still could, and now his blood is on our hands, Webb?]]></en>
               <de><![CDATA[Webb, was ist, wenn wir dafür auch verantwortlich sind, weil wir nichts gegen das Schloss unternommen haben?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0675">
@@ -6234,12 +6234,12 @@
               <en><![CDATA[To return to the topic of settling my father’s estate ...]]></en>
               <de><![CDATA[Um nochmal auf das Testament meines Vaters zurückzukommen ...]]></de>
             </dia>
-            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0679">
-              <en><![CDATA[Your father ... oh Webb. Webb, d’you know what else I’m thinking ...]]></en>
-              <de><![CDATA[Ihr Vater ... oh Webb. Webb, wissen Sie, was ich noch denke ...]]></de>
+            <dia puppet="lionstone" frame="hspeakw" sound="voice/inn_voice.swf:inn0514">
+              <en><![CDATA[Your father ... oh, Webb. Webb, d’you know what I’m thinking ...?]]></en>
+              <de><![CDATA[Ihr Vater ... oh, Webb. Webb, wissen Sie, was ich noch denke ...?]]></de>
             </dia>
-            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0680">
-              <en><![CDATA[What if we failed to do something while we still could and now his blood is on our hands, Webb?]]></en>
+            <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0515">
+              <en><![CDATA[What if we failed to do something while we still could, and now his blood is on our hands, Webb?]]></en>
               <de><![CDATA[Webb, was ist, wenn wir dafür auch verantwortlich sind, weil wir nichts gegen das Schloss unternommen haben?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0681">
