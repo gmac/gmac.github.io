@@ -1422,8 +1422,7 @@
                 </dia>
               </dialog>
               <script>
-                <dialogue playList="0" />
-                <dialogue playList="1" />
+                <dialogue playList="0,1" />
                 <tree load="slappy_door" />
               </script>
             </action>

@@ -1635,8 +1635,7 @@
                 <layer target="_current:trophy" visible="0" omit="1" />
                 <inventory target="nigel" add="trophy_kids" />
                 <wait seconds="1" />
-                <dialogue playList="1" />
-                <dialogue playList="2" />
+                <dialogue playList="1,2" />
                 <wait seconds="1" />
                 <inventory display="hide" />
                 <method call="controls" enabled="1" />

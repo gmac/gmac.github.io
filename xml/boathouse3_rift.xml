@@ -1688,8 +1688,7 @@
                   </process>
                   <puppetTween target="_avatar" type="move" to="position:front2" waitForComplete="1" />
                   <layerState target="_current:_avatar:main" turnView="4" />
-                  <dialogue playList="22" />
-                  <dialogue playList="23,24,25,26" />
+                  <dialogue playList="22,23,24,25,26" />
                   <puppetTween target="nigel" type="move" to="position:front1b" waitForComplete="1" />
                   <layerState target="_current:nigel:main" turnView="4" />
                   <layerSprite target="nigel" animFrame="give_photo" waitForComplete="1" />

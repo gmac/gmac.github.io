@@ -1829,9 +1829,7 @@
                 <layerSprite target="slideshow" animFrame="slide1_in" waitForComplete="1" />
                 <layerSprite target="slideshow" animFrame="slide1" waitForComplete="0" />
                 <sound soundtrack1="lib/music_theme.swf:theme" />
-                <dialogue playList="0,1" />
-                <dialogue playList="2" />
-                <dialogue playList="3,4" />
+                <dialogue playList="0,1,2,3,4" />
                 <method call="controls" enabled="1" cursor="1" />
                 <tree load="slides" />
               </script>

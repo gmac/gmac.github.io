@@ -932,8 +932,7 @@
                 <puppetTween target="_avatar" type="turn" to="view:6" />
                 <dialogue playList="2" />
                 <puppetTween target="_avatar" type="move" to="position:pictures" waitForComplete="1" />
-                <dialogue playList="3" />
-                <dialogue playList="4" />
+                <dialogue playList="3,4" />
                 <method call="controls" enabled="1" />
                 <tree load="radio" />
               </script>
@@ -3528,7 +3527,7 @@
               <de><![CDATA[Sie verwendeten diese Insignienringe für Wachssiegel und zum Stempeln offizieller Dokumenten.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0249">
-              <en><![CDATA[While little is known about the inner workings of the Smith Institute’s research, rumor has it that they also used these insignia rings as keys to some of their more advanced experiments.]]></en>
+              <en><![CDATA[While little is known about the Smith Institute’s research, rumor has it that they also used these insignia rings as keys to some of their more advanced experiments.]]></en>
               <de><![CDATA[Auch wenn nur wenig über die Vorgänge innerhalb des Smith-Instituts bekannt ist, sagt man, dass diese Siegelringe auch als Schlüssel zu weiter fortgeschrittenen Experimenten dienten.]]></de>
             </dia>
           </dialog>
@@ -3538,12 +3537,12 @@
         </topic>
         <topic key="t4" id="rings2" enabled="0" hold="1" expose="" go="0">
           <title>
-            <en><![CDATA[What did you say those seal rings were?]]></en>
+            <en><![CDATA[What did you say those insignia rings were?]]></en>
             <de><![CDATA[Was haben Sie gesagt, waren diese Insignienringe?]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0250">
-              <en><![CDATA[What did you say those seal rings were?]]></en>
+              <en><![CDATA[What did you say those insignia rings were?]]></en>
               <de><![CDATA[Was haben Sie gesagt, waren diese Insignienringe?]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0251">
@@ -3555,7 +3554,7 @@
               <de><![CDATA[Sie verwendeten diese Insignienringe für Wachssiegel und zum Stempeln offizieller Dokumenten.]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0253">
-              <en><![CDATA[While little is known about the inner workings of the Smith Institute’s research, rumor has it that they also used these insignia rings as keys to some of their more advanced experiments.]]></en>
+              <en><![CDATA[While little is known about the Smith Institute’s research, rumor has it that they also used these insignia rings as keys to some of their more advanced experiments.]]></en>
               <de><![CDATA[Auch wenn nur wenig über die Vorgänge innerhalb des Smith-Instituts bekannt ist, sagt man, dass diese Siegelringe auch als Schlüssel zu weiter fortgeschrittenen Experimenten dienten.]]></de>
             </dia>
           </dialog>
@@ -3948,7 +3947,7 @@
               <de><![CDATA[Wie konnte das passieren?]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0324">
-              <en><![CDATA[Maybe we weren’t careful enough, and waited for too long before taking action when Cain first showed up.]]></en>
+              <en><![CDATA[Maybe we weren’t careful enough, and waited for too long before taking action when Lowell Cain first showed up.]]></en>
               <de><![CDATA[Vielleicht haben wir nicht genug aufgepasst und haben zu lange gewartet, etwas zu unternehmen, nachdem Cain das erste Mal aufgetaucht ist.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0325">
@@ -4007,7 +4006,7 @@
               <de><![CDATA[Wie konnte das passieren?]]></de>
             </dia>
             <dia puppet="lionstone" frame="hspeak" sound="voice/inn_voice.swf:inn0324">
-              <en><![CDATA[Maybe we weren’t careful enough, and waited for too long before taking action when Cain first showed up.]]></en>
+              <en><![CDATA[Maybe we weren’t careful enough, and waited for too long before taking action when Lowell Cain first showed up.]]></en>
               <de><![CDATA[Vielleicht haben wir nicht genug aufgepasst und haben zu lange gewartet, etwas zu unternehmen, nachdem Cain das erste Mal aufgetaucht ist.]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0325">
@@ -5783,8 +5782,7 @@
             </dia>
           </dialog>
           <script>
-            <dialogue playList="0" />
-            <dialogue playList="1" />
+            <dialogue playList="0,1" />
             <puppetTween target="cain" type="turn" to="view:6" waitForComplete="1" />
             <dialogue playList="2,3,4" />
             <layerState target="_current:lionstone:main" restState="rest" />
@@ -5819,8 +5817,7 @@
             </dia>
           </dialog>
           <script>
-            <dialogue playList="0" />
-            <dialogue playList="1" />
+            <dialogue playList="0,1" />
             <puppetTween target="cain" type="turn" to="view:6" waitForComplete="1" />
             <dialogue playList="2,3,4" />
             <layerState target="_current:lionstone:main" restState="rest" />
@@ -5855,8 +5852,7 @@
             </dia>
           </dialog>
           <script>
-            <dialogue playList="0" />
-            <dialogue playList="1" />
+            <dialogue playList="0,1" />
             <puppetTween target="cain" type="turn" to="view:6" waitForComplete="1" />
             <dialogue playList="2,3,4" />
             <layerState target="_current:lionstone:main" restState="rest" />
