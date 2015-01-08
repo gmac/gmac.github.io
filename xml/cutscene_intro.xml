@@ -73,7 +73,7 @@
                   <de><![CDATA[Was dich im Innersten bewegt?]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_004">
-                  <en><![CDATA[The next day, another young man's adventure will begin.]]></en>
+                  <en><![CDATA[The next day, another young man's <br>adventure will begin.]]></en>
                   <de><![CDATA[Am nächsten Tag beginnt das Abenteuer eines jungen Mannes.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_005">
