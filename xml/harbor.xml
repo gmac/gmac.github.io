@@ -2795,7 +2795,7 @@
                   <de><![CDATA[Ja, Da bin ich mir sicher!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0158">
-                  <en><![CDATA[Don’t be down my friend, Lady Luck will smile on you soon!]]></en>
+                  <en><![CDATA[Don’t be down, my friend. Lady Luck will smile on you soon!]]></en>
                   <de><![CDATA[Lassen Sie den Kopf nicht hängen, mein Freund. Die Glücksfee wird bald auch Sie küssen!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0159">
@@ -2807,8 +2807,8 @@
                   <de><![CDATA[Vielleicht später.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0161">
-                  <en><![CDATA[No thank you, my friend. I’ve learned not to gamble against the great Nigel Trelawney! He is too clever a gambler, si!]]></en>
-                  <de><![CDATA[Nein, danke, mein Freund. Ich habe gelernt, nicht gegen den großen Nigel Trelawney zu spielen! Als Zocker ist er zu gerissen, si!]]></de>
+                  <en><![CDATA[No thank you, friend. I’ve learned not to gamble against the great Nigel Trelawney! He is too clever a gambler, si!]]></en>
+                  <de><![CDATA[Nein, danke, Freund. Ich habe gelernt, nicht gegen den großen Nigel Trelawney zu spielen! Als Zocker ist er zu gerissen, si!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2857,7 +2857,7 @@
                   <de><![CDATA[Ich habe diese Engelstatuette aus Chrom ... öh, SILBER ...]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0163">
-                  <en><![CDATA[Oh, this is a wonderful statuette, si! I would be most eager to have a statue like that!]]></en>
+                  <en><![CDATA[Oh, this is a wonderful trinket, si! I would be most eager to have this statue!]]></en>
                   <de><![CDATA[Oh, das ist eine wundervolle Statuette, si! Ich möchte unbedingt eine solche Statue haben!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0164">
@@ -2912,7 +2912,7 @@
                   <de><![CDATA[Lassen wir die Würfel rollen! Rien ne va plus!]]></de>
                 </dia>
                 <dia puppet="juego" frame="2speak" sound="voice/harbor_voice.swf:harbor0174">
-                  <en><![CDATA[I lost!? How is that possible!?]]></en>
+                  <en><![CDATA[I lost!? How is this possible!?]]></en>
                   <de><![CDATA[Ich habe verloren!? Wie ist das möglich!?]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0175">
@@ -2928,11 +2928,11 @@
                   <de><![CDATA[Wissen Sie was? Sie können meine Engelsstatuette behalten ... vielleicht bringt sie Glück! Ich bin lediglich an diesem Siegelring interessiert.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0178">
-                  <en><![CDATA[Thank you very much! Please take the ring!]]></en>
-                  <de><![CDATA[Vielen, vielen Dank! Bitte nehmen Sie den Ring!]]></de>
+                  <en><![CDATA[Ah, thank you my friend! Please take the ring!]]></en>
+                  <de><![CDATA[Ah, danke mein Freund! Bitte nehmen Sie den Ring!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0179">
-                  <en><![CDATA[I will never forget this day ... the day I lost to Nigel Trelawney! This statuette is very pretty, si!]]></en>
+                  <en><![CDATA[I will never forget this day ... the day I lost to Nigel Trelawney! This statue is very pretty, si!]]></en>
                   <de><![CDATA[Ich werde diesen Tag niemals vergessen ... der Tag, an dem ich gegen Nigel Trelawney verlor! Diese Statuette ist sehr schön, si!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="speak5" sound="voice/harbor_voice.swf:harbor0180">
@@ -3006,8 +3006,8 @@
                   <de><![CDATA[Ein anderer Schatz? Wie zum Beispiel?]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0187">
-                  <en><![CDATA[Well my friend, I am particularly fond of figurines and things that sparkle and shine.]]></en>
-                  <de><![CDATA[Nun, mein Freund. Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen.]]></de>
+                  <en><![CDATA[I am particularly fond of figurines, and of things that sparkle and shine, si!]]></en>
+                  <de><![CDATA[Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen, si!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0188">
                   <en><![CDATA[I see ...]]></en>
@@ -3044,8 +3044,8 @@
                   <de><![CDATA[Wie wäre es mit dieser Flasche Whiskey?]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0191">
-                  <en><![CDATA[No thank you, my friend. As a general rule, I stick to rum.]]></en>
-                  <de><![CDATA[Nein, danke, mein Freund. Eine allgemeine Regel lautet, dass ich mich auf Rum beschränke.]]></de>
+                  <en><![CDATA[No thank you, friend. As a general rule, I stick to rum.]]></en>
+                  <de><![CDATA[Nein, danke, Freund. Eine allgemeine Regel lautet, dass ich mich auf Rum beschränke.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -6086,8 +6086,8 @@
                   <de><![CDATA[Die habe ich bei unserem letzten Aufenthalt in Port-au-Prince gewonnen. An dem Tag war mir Fortuna wirklich hold!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0452">
-                  <en><![CDATA[These might be yours soon IF you were to try your luck, si!]]></en>
-                  <de><![CDATA[Sie könnten bald Dir gehören, WENN du dein Glück versuchst, si!]]></de>
+                  <en><![CDATA[These might be yours soon ... IF you were to try your luck, si!]]></en>
+                  <de><![CDATA[Sie könnten bald Dir gehören ... WENN du dein Glück versuchst, si!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -6168,8 +6168,8 @@
                   <de><![CDATA[Ich wette, dass der Kompass nicht einmal den Typen da drinnen gehört hat ... die haben ihn einfach aus Wavetamers Büro genommen und verwettet.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0458">
-                  <en><![CDATA[The castle man said that sooner or later he’d take my dice away! He is not a good loser ... no sir.]]></en>
-                  <de><![CDATA[Der Mann vom Schloss sagte, dass er mir meine Würfel früher oder später abnehmen will! Er ist kein guter Verlierer ... nein, Sir.]]></de>
+                  <en><![CDATA[The Castle man said that&mdash;sooner or later&mdash;he’d take my dice away! He is not a good loser ... no.]]></en>
+                  <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -6246,7 +6246,7 @@
                   <de><![CDATA[Dann ist heute dein Glückstag, si!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0463">
-                  <en><![CDATA[For this ring can be yours if you manage to beat me at a game of dice!]]></en>
+                  <en><![CDATA[For this ring can be yours ... IF you can beat me at a game of dice!]]></en>
                   <de><![CDATA[Denn dieser Ring kann dir gehören, wenn du es schaffst, mich in einem Würfelspiel zu schlagen!]]></de>
                 </dia>
               </dialog>
@@ -6328,8 +6328,8 @@
                   <de><![CDATA[Dann ist heute Ihr Glückstag, si!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0470">
-                  <en><![CDATA[For this ring can be yours if you join in for a little game of dice!]]></en>
-                  <de><![CDATA[Denn dieser Ring kann Ihnen gehören, wenn Sie für ein kleines Würfelspiel bereit sind!]]></de>
+                  <en><![CDATA[For this ring can be yours ... IF you can beat me at a game of dice!]]></en>
+                  <de><![CDATA[Denn dieser Ring kann dir gehören, wenn du es schaffst, mich in einem Würfelspiel zu schlagen!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -6399,8 +6399,8 @@
                   <de><![CDATA[Ich wette, dass der Kompass nicht einmal ihnen gehörte ... sie haben ihn einfach aus Wavetamers Büro gestohlen.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0476">
-                  <en><![CDATA[The Castle man said sooner or later he’d take my dice away! He is not a good loser ... no sir.]]></en>
-                  <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein, Sir.]]></de>
+                  <en><![CDATA[The Castle man said that&mdash;sooner or later&mdash;he’d take my dice away! He is not a good loser ... no.]]></en>
+                  <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -6466,8 +6466,8 @@
                   <de><![CDATA[Ich wette, dass der Kompass nicht einmal ihnen gehörte ... sie haben ihn einfach aus Wavetamers Büro gestohlen.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0481">
-                  <en><![CDATA[The Castle man said sooner or later he’d take my dice away! He is not a good loser ... no sir.]]></en>
-                  <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein, Sir.]]></de>
+                  <en><![CDATA[The Castle man said that&mdash;sooner or later&mdash;he’d take my dice away! He is not a good loser ... no.]]></en>
+                  <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -8215,8 +8215,8 @@
               <de><![CDATA[Ein anderer Schatz? Wie zum Beispiel?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0742">
-              <en><![CDATA[Well my friend, I am particularly fond of figurines or things that sparkle and shine.]]></en>
-              <de><![CDATA[Nun, mein Freund. Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen.]]></de>
+              <en><![CDATA[I am particularly fond of figurines, and of things that sparkle and shine, si!]]></en>
+              <de><![CDATA[Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen, si!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0743">
               <en><![CDATA[I see ...]]></en>
@@ -8238,7 +8238,7 @@
               <de><![CDATA[Ich habe diese Engelstatuette aus Chrom ... äh, SILBER...]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0745">
-              <en><![CDATA[Oh, this is a wonderful statuette, si! I would be most eager to have a statue like that!]]></en>
+              <en><![CDATA[Oh, this is a wonderful trinket, si! I would be most eager to have this statue!]]></en>
               <de><![CDATA[Oh, das ist eine wundervolle Statuette, si! Ich möchte unbedingt eine solche Statue haben!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0746">
@@ -8359,7 +8359,7 @@
               <de><![CDATA[Was kann ich als Wetteinsatz setzen?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0760">
-              <en><![CDATA[I am not a picky gambler, I’m not. I’ll accept gold coins or any other treasures that I deem of value.]]></en>
+              <en><![CDATA[I am not a picky gambler, no. I’ll accept gold coins or any other treasures that I deem of value.]]></en>
               <de><![CDATA[Ich bin sicherlich kein wählerischer Spieler. Ich akzeptiere sowohl Goldmünzen als auch jegliche anderen Schätze, die ich als wertvoll erachte.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0761">
@@ -8367,8 +8367,8 @@
               <de><![CDATA[Andere Schätze? Wie zum Beispiel?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0762">
-              <en><![CDATA[Well my friend, I am particularly fond of figurines and things that sparkle and shine.]]></en>
-              <de><![CDATA[Nun, mein Freund. Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen.]]></de>
+              <en><![CDATA[I am particularly fond of figurines, and of things that sparkle and shine, si!]]></en>
+              <de><![CDATA[Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen, si!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0763">
               <en><![CDATA[I see ...]]></en>
@@ -8390,7 +8390,7 @@
               <de><![CDATA[Was sagten Sie, könnte ich als Wetteinsatz setzen?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0765">
-              <en><![CDATA[I am not a picky gambler, I’m not. I’ll accept gold coins or any other treasures that I deem of value.]]></en>
+              <en><![CDATA[I am not a picky gambler, no. I’ll accept gold coins or any other treasures that I deem of value.]]></en>
               <de><![CDATA[Ich bin sicherlich kein wählerischer Spieler. Ich akzeptiere sowohl Goldmünzen als auch jegliche anderen Schätze, die ich als wertvoll erachte.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0766">
@@ -8398,8 +8398,8 @@
               <de><![CDATA[Andere Schätze? Wie zum Beispiel?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0767">
-              <en><![CDATA[Well my friend, I am particularly fond of figurines and things that sparkle and shine.]]></en>
-              <de><![CDATA[Nun, mein Freund. Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen.]]></de>
+              <en><![CDATA[I am particularly fond of figurines, and of things that sparkle and shine, si!]]></en>
+              <de><![CDATA[Ich bin besonders auf Figurinen und Dinge versessen, die glitzern und glänzen, si!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0768">
               <en><![CDATA[I see ...]]></en>
@@ -8421,11 +8421,11 @@
               <de><![CDATA[Nun ... Ich habe meine Meinung geändert. Ich werde nicht spielen!]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0770">
-              <en><![CDATA[No gambling? That is very sad!]]></en>
-              <de><![CDATA[Kein Spiel? Das ist wirklich schade!]]></de>
+              <en><![CDATA[No gambling? That is very sad, si!]]></en>
+              <de><![CDATA[Kein Spiel? Das ist wirklich schade, si!]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0771">
-              <en><![CDATA[If you need some money just talk to Captain Amayi. She’ll pay generously for food supplies ... fish preferred!]]></en>
+              <en><![CDATA[If you need some money, just talk to Captain Amayi. She’ll pay generously for food supplies ... fish preferred!]]></en>
               <de><![CDATA[Sollten Sie Geld benötigen, sprechen Sie mit Captain Amayi. Sie wird Sie großzügig für Lebensmittelvorräte entlohnen ... bevorzugt Fisch!]]></de>
             </dia>
           </dialog>
@@ -8465,8 +8465,8 @@
               <de><![CDATA[Sicher! Spielen wir!]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0736">
-              <en><![CDATA[Okay! But now I have to ask, what is your stake? What, my friend, are you willing to put on Juego Jacobo’s table?]]></en>
-              <de><![CDATA[Okay! Doch nun muss ich Sie fragen, was Sie als Einsatz bieten. Was, mein Freund, sind Sie gewillt, auf Juego Jacobos Tisch zu legen?]]></de>
+              <en><![CDATA[Okay! But now I have to ask: what is your stake? What, my friend, are you willing to put on Juego Jacobo’s table?]]></en>
+              <de><![CDATA[Okay! Doch nun muss ich Sie fragen: was Sie als Einsatz bieten. Was, mein Freund, sind Sie gewillt, auf Juego Jacobos Tisch zu legen?]]></de>
             </dia>
           </dialog>
           <script>
@@ -8484,16 +8484,16 @@
               <de><![CDATA[Erzählen Sie mir mehr über die Regeln.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0773">
-              <en><![CDATA[There is only one rule, my friend! If I DON’T get snake eyes, then YOU win.]]></en>
-              <de><![CDATA[Es gibt nur eine Regel, mein Freund! Wenn ich KEIN Einser-Pasch werfe, dann gewinnen SIE.]]></de>
+              <en><![CDATA[There is only one rule, my friend: if I DON’T get snake eyes, then you win!]]></en>
+              <de><![CDATA[Es gibt nur eine Regel, mein Freund: wenn ich KEIN Einser-Pasch werfe, dann gewinnen sie!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0774">
               <en><![CDATA[Hey, that sounds pretty good to me!]]></en>
               <de><![CDATA[Hey, das hört sich ziemlich gut an!]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0775">
-              <en><![CDATA[Si, my friend. But I have to warn you, I am a professional gambler and feared in many ports for my hands are much faster than the average eye, eh?]]></en>
-              <de><![CDATA[Si, mein Freund. Doch ich muss Sie warnen. Ich bin ein professioneller Spieler und in vielen Häfen gefürchtet, da meine Hände schneller sind als das durchschnittliche Auge, si.]]></de>
+              <en><![CDATA[Yes my friend, but I have to warn you: I am a professional gambler, and am feared in many ports ... for my hands are much faster than the average eye, eh?]]></en>
+              <de><![CDATA[Ja, mein Freund, doch ich muss Sie warnen: Ich bin ein professioneller Spieler, und in vielen Häfen gefürchtet, da meine Hände schneller sind als das durchschnittliche Auge, si.]]></de>
             </dia>
           </dialog>
           <script>
@@ -8513,31 +8513,31 @@
               <de><![CDATA[Der Ring auf dem Tisch kommt mir irgendwie bekannt vor ...]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0726">
-              <en><![CDATA[It is a ring of great value my friend! It is a ring that came into my possession only recently and by pure chance!]]></en>
-              <de><![CDATA[Das ist ein Ring von sehr großem Wert, mein Freund! Dieser Ring gelangte erst kürzlich und durch reinen Zufall in meinen Besitz!]]></de>
+              <en><![CDATA[It is a ring of great value my friend! It is a ring that came into my possession only recently, and by pure chance!]]></en>
+              <de><![CDATA[Das ist ein Ring von sehr großem Wert, mein Freund! Dieser Ring gelangte erst kürzlich, und durch reinen Zufall in meinen Besitz!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0727">
               <en><![CDATA[So you found it today?]]></en>
               <de><![CDATA[Sie haben ihn also heute erst gefunden?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0728">
-              <en><![CDATA[Si! This valuable seal ring was found by me on the far end of the docks near a vessel called Sea Cucumber.]]></en>
-              <de><![CDATA[Si! Ich fand diesen wertvollen Siegelring auf der anderen Seite der Docks in der Nähe des Schiffs namens Seegurke.]]></de>
+              <en><![CDATA[Si! This valuable ring was found by me at the far end of the docks, near the vessel called “Sea Cucumber”.]]></en>
+              <de><![CDATA[Si! Ich fand diesen wertvollen Siegelring auf der anderen Seite der Docks in der Nähe des Schiffs namens “Seegurke”.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0729">
-              <en><![CDATA[Yes, an item of great value but yet ... connected with a story of tragedy!]]></en>
+              <en><![CDATA[Yes, an item of great value, but yet ... connected with a story of tragedy!]]></en>
               <de><![CDATA[Ja, ein Gegenstand von großem Wert, und dennoch ... mit einer Tragödie verknüpft!]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0730">
-              <en><![CDATA[I saw an old man on the docks dropping it when he was arrested by the Castle.]]></en>
-              <de><![CDATA[Ich sah, wie ihn ein alter Mann auf den Docks fallen ließ, als er von den Schlosswachen verhaftet wurde.]]></de>
+              <en><![CDATA[I saw an old man on the docks drop it when he was arrested by the Castle, si!]]></en>
+              <de><![CDATA[Ich sah, wie ihn ein alter Mann auf den Docks fallen ließ, als er von den Schlosswachen verhaftet wurde, si!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0731">
               <en><![CDATA[That was Dr. Coppelius! This is one of the insignia rings I am searching for ... could you give me the ring? I will return it to its rightful owner.]]></en>
               <de><![CDATA[Das war Dr. Coppelius! Dies ist einer der Insignienringe, nach denen ich suche ... könnten Sie mir den Ring überlassen? Ich werde ihn seinem rechtmäßigen Besitzer überbringen.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0732">
-              <en><![CDATA[Give it to you? Well, let’s make it a bit more interesting! Let’s play for it!]]></en>
+              <en><![CDATA[Give it to you? Well, let’s make it a bit more interesting! Let us play for it!]]></en>
               <de><![CDATA[Ihn Ihnen überlassen? Nun, wir wollen die Sache ein wenig interessanter gestalten! Lassen Sie uns darum spielen!]]></de>
             </dia>
           </dialog>
@@ -8556,8 +8556,8 @@
               <de><![CDATA[Ich will immernoch diesen Ring haben! Spielen wir!]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0777">
-              <en><![CDATA[Sure if you insist ... you do insist, don’t you?]]></en>
-              <de><![CDATA[Sicher, wenn Sie darauf bestehen... Sie bestehen doch darauf, nicht wahr?]]></de>
+              <en><![CDATA[Sure, if you insist ... you do insist, si?]]></en>
+              <de><![CDATA[Sicher, wenn Sie darauf bestehen... Sie bestehen doch darauf, si?]]></de>
             </dia>
           </dialog>
           <script>
@@ -8591,8 +8591,8 @@
               <de><![CDATA[Okay, Juego Jacobo.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0783">
-              <en><![CDATA[So we are friends, eh? That is good, Nigel. A pleasure, si.]]></en>
-              <de><![CDATA[Also sind wir nun Freunde, was? Das ist gut, Nigel. Sehr erfreut, si.]]></de>
+              <en><![CDATA[So we are friends, eh? That is good, Mr. Nigel. A pleasure, si.]]></en>
+              <de><![CDATA[Also sind wir nun Freunde, was? Das ist gut, Herr Nigel. Sehr erfreut, si.]]></de>
             </dia>
           </dialog>
           <script>
@@ -8626,8 +8626,8 @@
               <de><![CDATA[Okay, Juego Jacobo.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0789">
-              <en><![CDATA[So we are friends, eh? That is good, Nigel. A pleasure, si.]]></en>
-              <de><![CDATA[Also sind wir nun Freunde, was? Das ist gut, Nigel. Sehr erfreut, si.]]></de>
+              <en><![CDATA[So we are friends, eh? That is good, Mr. Nigel. A pleasure, si.]]></en>
+              <de><![CDATA[Also sind wir nun Freunde, was? Das ist gut, Herr Nigel. Sehr erfreut, si.]]></de>
             </dia>
           </dialog>
           <script>
