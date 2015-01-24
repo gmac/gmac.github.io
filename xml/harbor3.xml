@@ -1731,11 +1731,11 @@
                   <de><![CDATA[Ihre gezinkten Würfel, meinen Sie?]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30083">
-                  <en><![CDATA[I do not know the meaning of this word &#8222;weighted&#8220;, but yes ... the castle men stole my dice. ]]></en>
-                  <de><![CDATA[Ich verstehe nicht, was dieses Wort &#8222;gezinkt&#8220; heißt, aber ja ... die Leute vom Schloss haben meine Würfel geklaut.]]></de>
+                  <en><![CDATA[I do not know the meaning of this word, &#8222;weighted&#8220;, but yes ... the castle men stole my dice.]]></en>
+                  <de><![CDATA[Ich verstehe nicht, was dieses Wort, &#8222;gezinkt&#8220; heißt, aber ja ... die Leute vom Schloss haben meine Würfel geklaut.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30084">
-                  <en><![CDATA[If you bring them back to me I would be willing to reward you with these colorful crystal tiki heads, that I won from a sailor who brought them from deep within the Caribbean.]]></en>
+                  <en><![CDATA[If you bring them back to me, I will reward you with these colorful crystal tiki heads ... I won them from a sailor who found them deep within the Caribbean.]]></en>
                   <de><![CDATA[Wenn Sie sie mir zurückbringen, schenke ich Ihnen diese bunten Kristall-Tikiköpfe, die ich beim Spiel mit einem Seemann gewonnen habe, der sie aus den Tiefen der Karibik mitgebracht hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="hspeak" sound="voice/harbor3_voice.swf:harbor30085">
@@ -1783,28 +1783,28 @@
               </title>
               <dialog>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30088">
-                  <en><![CDATA[Mi dice!! You got them back from those stupid castle guards ...]]></en>
-                  <de><![CDATA[Meine Würfel!! Sie haben sie von diesen vermalledeiten Schlosswachen zurückgeholt ...]]></de>
+                  <en><![CDATA[My lucky dice! You got them back from those stupid castle guards, si!]]></en>
+                  <de><![CDATA[Meine glückliche Würfel! Sie haben sie von diesen vermalledeiten Schlosswachen zurückgeholt, si!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30089">
-                  <en><![CDATA[Gracias, Nathan! If only I knew how to repay you ...]]></en>
-                  <de><![CDATA[Gracias, Nathan! Wenn ich nur wüsste, wie ich Ihnen das vergelten kann ...]]></de>
+                  <en><![CDATA[Thank you, friend! If only I knew how to repay you ...]]></en>
+                  <de><![CDATA[Danke, Freund! Wenn ich nur wüsste, wie ich Ihnen das vergelten kann ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30090">
                   <en><![CDATA[How about you give me those crystal tiki heads, as you promised.]]></en>
                   <de><![CDATA[Wie wär’s, wenn Sie mir diese Kristall-Tikis geben, wie versprochen?]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30091">
-                  <en><![CDATA[The heads of crystal I promised? I do not understand what that means, my friend?]]></en>
-                  <de><![CDATA[Die Kristalltikis, die ich Ihnen versprochen habe? Ich verstehe nicht, was das heißt, mein Freund?]]></de>
+                  <en><![CDATA[The heads of crystal I promised? I do not understand what this means, my friend!]]></en>
+                  <de><![CDATA[Die Kristalltikis, die ich Ihnen versprochen habe? Ich verstehe nicht, was das heißt, mein Freund!]]></de>
                 </dia>
                 <dia puppet="amayi" frame="" sound="voice/harbor3_voice.swf:harbor30092">
                   <en><![CDATA[Jacobo, we need to set sail now. Give the young man the reward you promised.]]></en>
                   <de><![CDATA[Jacobo, wir müssen jetzt in See stechen. Gib dem jungen Mann schon seine Belohnung.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30093">
-                  <en><![CDATA[Well ... Si! Now I remember ... yes. Take the tiki heads ... but beware ... they might be cursed!]]></en>
-                  <de><![CDATA[Ach ... Si! Jetzt weiß ich wieder ... ja. Nehmen Sie die Tikiköpfe ... aber Vorsicht ... sie könnten verflucht sein!]]></de>
+                  <en><![CDATA[Oh, now I remember, si! Take the tiki heads, but beware ... for they might be cursed!]]></en>
+                  <de><![CDATA[Ach, jetzt weiß ich wieder, si! Nehmen Sie die Tikiköpfe, aber Vorsicht ... sie könnten verflucht sein!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/harbor3_voice.swf:harbor30094">
                   <en><![CDATA[Cursed!? That’s a bit far fetched ...]]></en>

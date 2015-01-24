@@ -8645,11 +8645,11 @@
               <de><![CDATA[Was macht ihr hier? Es scheint, als wärt ihr gestrandet.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0791">
-              <en><![CDATA[Ah, we must be waiting for more than a week now, is that believable, eh? ]]></en>
+              <en><![CDATA[Ah, we must be waiting for more than a week now. That is unbelievable, no?]]></en>
               <de><![CDATA[Ah, wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0792">
-              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait &#8212; and so we waited.]]></en>
+              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait&#8212;and so we waited.]]></en>
               <de><![CDATA[Nachdem wir den Ort hier auf Der Sparrow erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0793">
@@ -8665,15 +8665,15 @@
               <de><![CDATA[Oh nein.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0796">
-              <en><![CDATA[Si, that is what they did.]]></en>
-              <de><![CDATA[Si, das haben sie getan.]]></de>
+              <en><![CDATA[That is what they did, si.]]></en>
+              <de><![CDATA[Das haben sie getan, si.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0797">
-              <en><![CDATA[And next day this man, Lowell Cain, comes up to our ship and says &#8222;You can leave&#8220; and &#8222;Yes, we took your things and we won’t return them&#8220;.]]></en>
+              <en><![CDATA[And next day this man, Lowell Cain, comes to our ship and says, &#8222;You can leave&#8220; and &#8222;Yes, we took your things and we won’t return them&#8220;.]]></en>
               <de><![CDATA[Und am nächsten Tag kommt dieser Mann, Lowell Cain, auf unser Schiff und sagt &#8222;Ihr könnt abreisen&#8220; und &#8222;Ja, wir haben Eure Sachen genommen und werden sie nicht zurückgeben&#8220;.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0798">
-              <en><![CDATA[But leaving we won’t! Captain Amayi is just stubborn enough to stay here and sit it out.]]></en>
+              <en><![CDATA[But leaving we won’t! Captain Amayi is stubborn enough to sit them out.]]></en>
               <de><![CDATA[Doch wir werden nicht abreisen! Captain Amayi ist stur genug, um hier zu bleiben und es auszusitzen.]]></de>
             </dia>
           </dialog>
@@ -8692,11 +8692,11 @@
               <de><![CDATA[Was macht ihr nochmal hier?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0800">
-              <en><![CDATA[Ah, we must be waiting for more than a week now, is that believable, eh? ]]></en>
+              <en><![CDATA[Ah, we must be waiting for more than a week now. That is unbelievable, no?]]></en>
               <de><![CDATA[Ah, wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0801">
-              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait &#8212; and so we waited.]]></en>
+              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait&#8212;and so we waited.]]></en>
               <de><![CDATA[Nachdem wir den Ort hier auf Der Sparrow erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0802">
@@ -8712,15 +8712,15 @@
               <de><![CDATA[Oh nein.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0805">
-              <en><![CDATA[Si, that is what they did.]]></en>
-              <de><![CDATA[Si, das taten sie.]]></de>
+              <en><![CDATA[That is what they did, si.]]></en>
+              <de><![CDATA[Das taten sie, si.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0806">
-              <en><![CDATA[And next day this man, Lowell Cain, comes up to our ship and says &#8222;You can leave&#8220; and &#8222;Yes, we took your things and we won’t return them&#8220;.]]></en>
+              <en><![CDATA[And next day this man, Lowell Cain, comes to our ship and says, &#8222;You can leave&#8220; and &#8222;Yes, we took your things and we won’t return them&#8220;.]]></en>
               <de><![CDATA[Und am nächsten Tag kommt dieser Mann, Lowell Cain, auf unser Schiff und sagt &#8222;Ihr könnt abreisen&#8220; und &#8222;Ja, wir haben Eure Sachen genommen und werden sie nicht zurückgeben&#8220;.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0807">
-              <en><![CDATA[But leaving we won’t! Captain Amayi is just stubborn enough to stay here and sit it out.]]></en>
+              <en><![CDATA[But leaving we won’t! Captain Amayi is stubborn enough to sit them out.]]></en>
               <de><![CDATA[Doch wir werden nicht abreisen! Captain Amayi ist stur genug, um hier zu bleiben und es auszusitzen.]]></de>
             </dia>
           </dialog>
@@ -8739,15 +8739,15 @@
               <de><![CDATA[Wie ist es, ein Seemann zu sein?]]></de>
             </dia>
             <dia puppet="juego" frame="hspeak" sound="voice/harbor_voice.swf:harbor0809">
-              <en><![CDATA[I’ve sailed all my life and haven’t regretted it for a second yet.]]></en>
+              <en><![CDATA[I’ve sailed all my life, and haven’t regretted it for a second yet.]]></en>
               <de><![CDATA[Ich bin mein ganzes Leben lang gesegelt und habe es noch keine Sekunde bereut.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0810">
-              <en><![CDATA[There’s only a few things I like more than sailing and one of them is gambling. That’s why they call me Juego Jacobo, si!]]></en>
+              <en><![CDATA[There’s only a few things I like more than sailing, and one of them is gambling. That’s why they call me Juego Jacobo, si!]]></en>
               <de><![CDATA[Es gibt nur wenige Dinge, die ich noch lieber mache als Segeln, und eines davon ist Spielen. Daher nennen mich alle Juego Jacobo, si!]]></de>
             </dia>
             <dia puppet="juego" frame="hspeak" sound="voice/harbor_voice.swf:harbor0811">
-              <en><![CDATA[The dice are my strong point ... or my weak point when I lose. Hah! Funny, eh?]]></en>
+              <en><![CDATA[The dice are my strong point ... or my weak point when I lose. Hah! Funny, no?]]></en>
               <de><![CDATA[Die Würfel sind meine Stärke ... oder meine Schwäche, wenn ich verliere. Hah! Lustig, was?]]></de>
             </dia>
           </dialog>
@@ -8766,15 +8766,15 @@
               <de><![CDATA[Sie meinen also, dass Sie das Leben als Seemann genießen?]]></de>
             </dia>
             <dia puppet="juego" frame="hspeak" sound="voice/harbor_voice.swf:harbor0813">
-              <en><![CDATA[I’ve sailed all my life and haven’t regretted it for a second yet.]]></en>
+              <en><![CDATA[I’ve sailed all my life, and haven’t regretted it for a second yet.]]></en>
               <de><![CDATA[Ich bin mein ganzes Leben lang gesegelt und habe es noch keine Sekunde bereut.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0814">
-              <en><![CDATA[There’s only a few things I like more than sailing and one of them is gambling. That’s why they call me Juego Jacobo, si!]]></en>
+              <en><![CDATA[There’s only a few things I like more than sailing, and one of them is gambling. That’s why they call me Juego Jacobo, si!]]></en>
               <de><![CDATA[Es gibt nur wenige Dinge, die ich noch lieber mache als Segeln, und eines davon ist Spielen. Daher nennen mich alle Juego Jacobo, si!]]></de>
             </dia>
             <dia puppet="juego" frame="hspeak" sound="voice/harbor_voice.swf:harbor0815">
-              <en><![CDATA[The dice are my strong point ... or my weak point when I lose. Hah! Funny, eh?]]></en>
+              <en><![CDATA[The dice are my strong point ... or my weak point when I lose. Hah! Funny, no?]]></en>
               <de><![CDATA[Die Würfel sind meine Stärke ... oder meine Schwäche, wenn ich verliere. Hah! Lustig, was?]]></de>
             </dia>
           </dialog>
@@ -8912,8 +8912,8 @@
               <de><![CDATA[... doch er ist so stark und schlau wie zwei Männer zusammen.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0837">
-              <en><![CDATA[I haven’t won against him one single time in three weeks. Impressive, si?]]></en>
-              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, si?]]></de>
+              <en><![CDATA[I haven’t beat him gambling one single time in three weeks. Impressive, no?]]></en>
+              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, no?]]></de>
             </dia>
           </dialog>
           <script>
@@ -8955,8 +8955,8 @@
               <de><![CDATA[... doch er ist so stark und schlau wie zwei Männer zusammen.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0845">
-              <en><![CDATA[I haven’t won against him one single time in three weeks. Impressive, si?]]></en>
-              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, si?]]></de>
+              <en><![CDATA[I haven’t beat him gambling one single time in three weeks. Impressive, no?]]></en>
+              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, no?]]></de>
             </dia>
           </dialog>
           <script>
