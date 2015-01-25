@@ -98,10 +98,10 @@ var RecordingsView = Backbone.View.extend({
     this.$('#completed-total').html(completed.toLocaleString());
     this.$('#cost-total').html('$'+cost.toLocaleString());
 
-    completed =  Math.round(completed / total * 100);
-    cast =  Math.round(cast / total * 100);
+    completed =  completed / total * 100;
+    cast =  Math.floor(cast / total * 100);
 
-    this.$('#completed-percent').html('Completed: ' + completed + '%<br>Cast: ' + cast + '%');
+    this.$('#completed-percent').html('Completed: ' + completed.toFixed(1) + '%<br>Cast: ' + cast + '%');
   },
 
   events: {

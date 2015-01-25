@@ -2766,9 +2766,9 @@
                   <en><![CDATA[After all, Juego can’t win ALL the time, can he?]]></en>
                   <de><![CDATA[Letzten Endes kann Juego nicht IMMER gewinnen, oder?]]></de>
                 </dia>
-                <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0151">
-                  <en><![CDATA[Then let the dice roll! Rien ne va plus!]]></en>
-                  <de><![CDATA[Dann lassen wir die Würfel rollen! Rien ne va plus!]]></de>
+                <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0173">
+                  <en><![CDATA[Let the dice roll! Rien ne va plus!]]></en>
+                  <de><![CDATA[Lassen wir die Würfel rollen! Rien ne va plus!]]></de>
                 </dia>
                 <dia puppet="juego" frame="1speak" sound="voice/harbor_voice.swf:harbor0152">
                   <en><![CDATA[Yes! Snake Eyes, I win!]]></en>
@@ -2920,7 +2920,7 @@
                   <de><![CDATA[Die Glücksfee ist eine unnachsichtige Herrin!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="speak5" sound="voice/harbor_voice.swf:harbor0176">
-                  <en><![CDATA[I knew it! His dice are weighted. Oh boy, he looks really down. I shouldn’t tease him ... much.]]></en>
+                  <en><![CDATA[I knew it! His dice are weighted. Oh boy, he really looks down. I shouldn’t tease him ... much.]]></en>
                   <de><![CDATA[Ich wusste es! Seine Würfel sind gezinkt. Oh Mann, er sieht wirklich fertig aus. Ich sollte ihn nicht ärgern ... nicht allzu sehr.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0177">
@@ -8446,8 +8446,8 @@
               <de><![CDATA[Spielen? Nein danke ... das ist nicht mein Fall.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0734">
-              <en><![CDATA[A wise decision, my friend! IF you are not interested in getting rich the easy way ...]]></en>
-              <de><![CDATA[Eine weise Entscheidung, mein Freund! WENN Sie nicht daran interessiert sind, auf einfache Weise ein Vermögen zu machen ...]]></de>
+              <en><![CDATA[A wise decision, my friend ... IF you are not interested in getting rich the easy way!]]></en>
+              <de><![CDATA[Eine weise Entscheidung, mein Freund ... WENN Sie nicht daran interessiert sind, auf einfache Weise ein Vermögen zu machen!]]></de>
             </dia>
           </dialog>
           <script>
@@ -8645,11 +8645,11 @@
               <de><![CDATA[Was macht ihr hier? Es scheint, als wärt ihr gestrandet.]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0791">
-              <en><![CDATA[Ah, we must be waiting for more than a week now. That is unbelievable, no?]]></en>
-              <de><![CDATA[Ah, wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
+              <en><![CDATA[We must be waiting for more than a week now. It is unbelievable, no?]]></en>
+              <de><![CDATA[Wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0792">
-              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait&#8212;and so we waited.]]></en>
+              <en><![CDATA[After we arrived here with The Sparrow, the men told our Captain Amayi to wait&#8212;and so we waited.]]></en>
               <de><![CDATA[Nachdem wir den Ort hier auf Der Sparrow erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0793">
@@ -8691,12 +8691,12 @@
               <en><![CDATA[What again are you doing here?]]></en>
               <de><![CDATA[Was macht ihr nochmal hier?]]></de>
             </dia>
-            <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0800">
-              <en><![CDATA[Ah, we must be waiting for more than a week now. That is unbelievable, no?]]></en>
-              <de><![CDATA[Ah, wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
+            <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0791">
+              <en><![CDATA[We must be waiting for more than a week now. It is unbelievable, no?]]></en>
+              <de><![CDATA[Wir warten hier nun schon seit über einer Woche, ist das zu glauben?]]></de>
             </dia>
-            <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0801">
-              <en><![CDATA[After we arrived here with The Sparrow the men told our Captain Amayi to wait&#8212;and so we waited.]]></en>
+            <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0792">
+              <en><![CDATA[After we arrived here with The Sparrow, the men told our Captain Amayi to wait&#8212;and so we waited.]]></en>
               <de><![CDATA[Nachdem wir den Ort hier auf Der Sparrow erreicht hatten, wiesen die Männer unseren Captain Amayi an, zu warten &#8212; und so warteten wir.]]></de>
             </dia>
             <dia puppet="juego" frame="lspeak" sound="voice/harbor_voice.swf:harbor0802">
