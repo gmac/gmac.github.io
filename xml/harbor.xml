@@ -6168,7 +6168,7 @@
                   <de><![CDATA[Ich wette, dass der Kompass nicht einmal den Typen da drinnen gehört hat ... die haben ihn einfach aus Wavetamers Büro genommen und verwettet.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0458">
-                  <en><![CDATA[The Castle man said that&mdash;sooner or later&mdash;he’d take my dice away! He is not a good loser ... no.]]></en>
+                  <en><![CDATA[The Castle man said that&#8212;sooner or later&#8212;he’d take my dice away! He is not a good loser ... no.]]></en>
                   <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein.]]></de>
                 </dia>
               </dialog>
@@ -6271,7 +6271,7 @@
               </title>
               <dialog>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0464">
-                  <en><![CDATA[I am sorry, friend, but I cannot just give you this ring ... but we can play for it, si!]]></en>
+                  <en><![CDATA[I am sorry, friend, but I cannot just give you the ring ... but we can play for it, si!]]></en>
                   <de><![CDATA[Es tut mir leid, mein Freund. Doch ich kann dir diesen Ring nicht einfach überlassen ... wir können aber gern um ihn spielen, si!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0465">
@@ -6353,7 +6353,7 @@
               </title>
               <dialog>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0471">
-                  <en><![CDATA[I am sorry, friend, but I cannot just give you this ring ... but we can play for it, si!]]></en>
+                  <en><![CDATA[I am sorry, friend, but I cannot just give you the ring ... but we can play for it, si!]]></en>
                   <de><![CDATA[Es tut mir Leid, mein Freund. Doch ich kann Ihnen diesen Ring nicht einfach überlassen ... wir können jedoch um ihn spielen, si!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0472">
@@ -6399,7 +6399,7 @@
                   <de><![CDATA[Ich wette, dass der Kompass nicht einmal ihnen gehörte ... sie haben ihn einfach aus Wavetamers Büro gestohlen.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0476">
-                  <en><![CDATA[The Castle man said that&mdash;sooner or later&mdash;he’d take my dice away! He is not a good loser ... no.]]></en>
+                  <en><![CDATA[The Castle man said that&#8212;sooner or later&#8212;he’d take my dice away! He is not a good loser ... no.]]></en>
                   <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein.]]></de>
                 </dia>
               </dialog>
@@ -6466,7 +6466,7 @@
                   <de><![CDATA[Ich wette, dass der Kompass nicht einmal ihnen gehörte ... sie haben ihn einfach aus Wavetamers Büro gestohlen.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0481">
-                  <en><![CDATA[The Castle man said that&mdash;sooner or later&mdash;he’d take my dice away! He is not a good loser ... no.]]></en>
+                  <en><![CDATA[The Castle man said that&#8212;sooner or later&#8212;he’d take my dice away! He is not a good loser ... no.]]></en>
                   <de><![CDATA[Der Mann aus der Burg sagte, dass er mir meine Würfel früher oder später abnehmen würde! Er ist kein guter Verlierer ... nein.]]></de>
                 </dia>
               </dialog>
