@@ -3410,8 +3410,8 @@
                   <de><![CDATA[Wie dem auch sei, nehmen Sie dieses Notizheft. Es enthält Informationen zu allen neun Gründungsmitgliedern des Smith-Instituts.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0233">
-                  <en><![CDATA[Their insignia ring seals will legally authenticate your father’s will ... hopefully this notebook will help you find those rings. Just come back to me if you have questions!]]></en>
-                  <de><![CDATA[Die Stempel ihrer Insignienringe können das Testament Ihres Vaters beglaubigen ... hoffentlich hilft Ihnen mein Notizbuch dabei, alle Ringe zu finden. Kommen Sie einfach vorbei, wenn Sie Fragen haben!]]></de>
+                  <en><![CDATA[Their insignia ring seals will legally authenticate your father’s will ... hopefully this notebook will help you find those rings. Just come back to me if you have any questions.]]></en>
+                  <de><![CDATA[Die Stempel ihrer Insignienringe können das Testament Ihres Vaters beglaubigen ... hoffentlich hilft Ihnen mein Notizbuch dabei, alle Ringe zu finden. Kommen Sie einfach vorbei, wenn Sie Fragen haben.]]></de>
                 </dia>
               </dialog>
               <script>
