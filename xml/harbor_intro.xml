@@ -1179,7 +1179,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_intro_voice.swf:harbor_intro0061">
                   <en><![CDATA[There’s a windmill over there near the cliff.]]></en>
-                  <de><![CDATA[Da drüben an der Klippe gibt es eine Windmühle.]]></de>
+                  <de><![CDATA[Da drüben an der Klippe ist eine Windmühle.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1720,7 +1720,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_intro_voice.swf:harbor_intro0082">
                   <en><![CDATA[How eerie ... this village feels like it’s being watched by that castle looming overhead.]]></en>
-                  <de><![CDATA[Wie unheimlich ... es scheint als würde man hier unten im Dorf vom Schloss aus beobachtetwerden.]]></de>
+                  <de><![CDATA[Wie unheimlich ... es scheint als würde man hier unten im Dorf vom Schloss aus beobachtet werden.]]></de>
                 </dia>
               </dialog>
               <script>
