@@ -354,7 +354,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/river_voice.swf:river0005">
                   <en><![CDATA[There is a note from the bus company where the timetable should be.]]></en>
-                  <de><![CDATA[Da steckt eine Bekanntmachung des Busunternehmens, wo der Fahrplan sein sollte.]]></de>
+                  <de><![CDATA[Da ist eine Bekanntmachung des Busunternehmens, wo der Fahrplan sein sollte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/river_voice.swf:river0006">
                   <en><![CDATA[It reads: &#8222;After failed negotiations with Northwest Castle over their new road taxes, this bus stop will no longer be serviced by the Brass Fox Bus Company&#8220;]]></en>
@@ -929,7 +929,7 @@
                 </dia>
                 <dia puppet="stig" frame="speak" sound="voice/river_voice.swf:river0045">
                   <en><![CDATA[I hope my grandfather’s insignia ring will bring you luck, too.]]></en>
-                  <de><![CDATA[Ich hoffe, der Insignienring meines Großvaters wird Ihnen auch Glück bringen.]]></de>
+                  <de><![CDATA[Ich hoffe, der Insignienring meines Großvaters wird Dir auch Glück bringen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1629,7 +1629,7 @@
                 </dia>
                 <dia puppet="henry" frame="" sound="voice/river_voice.swf:river0093">
                   <en><![CDATA[It’s the least I could do! See you soon, Nigel!]]></en>
-                  <de><![CDATA[Das ist das Mindeste was ich tun konnte! Bis später, Nigel!]]></de>
+                  <de><![CDATA[Das ist das Mindeste, was ich tun konnte! Bis später, Nigel!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/river_voice.swf:river0094">
                   <en><![CDATA[You can never have enough friends with zeppelins.]]></en>
