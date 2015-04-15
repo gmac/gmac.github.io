@@ -2575,7 +2575,7 @@
             </dia>
             <dia puppet="slappy" frame="hspeak" sound="voice/mill_voice.swf:mill0210">
               <en><![CDATA[It’s the least I can do for you, Nigel.]]></en>
-              <de><![CDATA[Das ist doch das Mindeste, das ich für dich tun kann, Nigel.]]></de>
+              <de><![CDATA[Das ist doch das Mindeste, was ich für dich tun kann, Nigel.]]></de>
             </dia>
           </dialog>
           <script>
