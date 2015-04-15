@@ -70,7 +70,7 @@
                 </dia>
                 <dia puppet="vincent" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_003">
                   <en><![CDATA[What makes you tick?]]></en>
-                  <de><![CDATA[Was dich im Innersten bewegt?]]></de>
+                  <de><![CDATA[Was bewegt dich im Innersten?]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_004">
                   <en><![CDATA[The next day, another young man's <br>adventure will begin.]]></en>
@@ -94,11 +94,11 @@
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_009">
                   <en><![CDATA[However, the shadow of a nearby Castle has fallen over this small town and its inhabitants.]]></en>
-                  <de><![CDATA[Doch, dass der Schatten eines nahe gelegenen Schlosses über der Stadt und ihren Einwohnern liegt.]]></de>
+                  <de><![CDATA[Jedoch ist der Schatten eines nahe gelegenen Schlosses über der Stadt und ihren Einwohnern gefallen.]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_010">
                   <en><![CDATA[Little does Nigel expect that his quest may bring hope to Ravenhollow, and shape the fate of a kidnapped girl ...]]></en>
-                  <de><![CDATA[Noch ahnt Nigel nicht, dass das Schicksal eines entführten Mädchens und der ganzen Stadt in seinen Händen liegt ...]]></de>
+                  <de><![CDATA[Noch ahnt Nigel nicht, dass seine Suche Hoffung nach Racenhollow bringen soll und das Schicksal eines entführten Mädchens in seinen Händen liegt ...]]></de>
                 </dia>
                 <dia puppet="narrator" frame="" sound="lib/cutscene_intro_voice.swf:cutscene_intro_011">
                   <en><![CDATA[Or, that along his path adventure awaits him.]]></en>
