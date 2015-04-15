@@ -748,7 +748,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0040">
                   <en><![CDATA[I have to stop them from taking Nigel up to the Castle.]]></en>
-                  <de><![CDATA[Ich muss einen Weg finden, um sie davon abzuhalten, auch Nigel hoch zum Schloss.]]></de>
+                  <de><![CDATA[Ich muss einen Weg finden, um sie davon abzuhalten, Nigel hoch zum Schloss zu bringen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -868,7 +868,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0050">
                   <en><![CDATA[I can’t let Cain and his henchman arrest Nigel. I have to get that photograph from him!]]></en>
-                  <de><![CDATA[Ich kann nicht zulassen, dass Cain und seine Handlanger Nigel verhaften. Ich muss das Bild seines Vaters zurück in die Zukunft bringen!]]></de>
+                  <de><![CDATA[Ich kann nicht zulassen, dass Cain und seine Handlanger Nigel verhaften. Ich muss das Bild seines Vaters zurückbringen!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -905,7 +905,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_riftwindow_voice.swf:boathouse3_riftwindow0051">
                   <en><![CDATA[Shooting at the man I’m trying to talk to doesn’t seem like the best way to start a conversation.]]></en>
-                  <de><![CDATA[Auf den Mann zu schießen, mit dem ich sprechen will, ist wohl nicht der beste Weg, um ein Gespräch zu beginnen.]]></de>
+                  <de><![CDATA[Auf den Mann zu schießen, mit dem ich sprechen will, ist wohl nicht der beste Weg, ein Gespräch zu beginnen.]]></de>
                 </dia>
               </dialog>
               <script>
