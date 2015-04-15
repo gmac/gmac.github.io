@@ -1477,7 +1477,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cellar3_voice.swf:cellar30053">
                   <en><![CDATA[Wow, just one of these casks could supply an entire sommelier convention.]]></en>
-                  <de><![CDATA[Wow, nur eines dieser Fässer eine ganze Sommelier Konvention liefern könnte.]]></de>
+                  <de><![CDATA[Wow, nur eines dieser Fässer könnte eine ganze Sommeliermesse beliefern.]]></de>
                 </dia>
               </dialog>
               <script>
