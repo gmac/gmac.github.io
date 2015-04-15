@@ -2413,7 +2413,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse_voice.swf:boathouse0094">
                   <en><![CDATA[If I want to make this rowboat seaworthy again I will have to find a way to patch up the hole in the side.]]></en>
-                  <de><![CDATA[Wenn ich dieses Ruderboot wieder seetüchtig machen will, muss ich einen Weg zu finden, das Loch in der Seite zu flicken.]]></de>
+                  <de><![CDATA[Wenn ich dieses Ruderboot wieder seetüchtig machen will, muss ich einen Weg finden, das Loch in der Seite zu flicken.]]></de>
                 </dia>
               </dialog>
               <script>
