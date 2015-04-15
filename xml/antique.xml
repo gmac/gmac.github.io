@@ -2403,7 +2403,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0143">
                   <en><![CDATA[These coins are quite valuable ... especially if you’re interested in local history. They were issued by the Castle in 1767.]]></en>
-                  <de><![CDATA[Diese Münzen sind sehr wertvoll ... besonders wenn man sich für die Geschichte dieser Gegend interessiert. Sie wurden 1767 vom Schloss produziert.]]></de>
+                  <de><![CDATA[Diese Münzen sind sehr wertvoll ... besonders wenn man sich für die Geschichte dieser Gegend interessiert. Sie wurden 1767 vom Schloss herausgegeben.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0144">
                   <en><![CDATA[Back in those days, all smaller baronies did their own coin minting.]]></en>
@@ -2490,7 +2490,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0153">
                   <en><![CDATA[The Duchess of Sommerstand handcrafted ten of these blue vases on her one-hundredth birthday in 1887 ... she gave them as gifts to her most loyal servants.]]></en>
-                  <de><![CDATA[Die Herzögin von Sommerstand hat an ihrem hundertsten Geburtstag 1887 zehn dieser blauen Vasen angefertigt ... sie waren Geschenke für ihre treuesten Diener. ]]></de>
+                  <de><![CDATA[Die Herzogin von Sommerstand hat an ihrem hundertsten Geburtstag 1887 zehn dieser blauen Vasen angefertigt ... sie waren Geschenke für ihre treuesten Diener. ]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0154">
                   <en><![CDATA[Due to their hideous appearance, these vases changed hands quickly and many were lost. This is one of the last three Sommerstand vases.]]></en>
@@ -2687,7 +2687,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0166">
                   <en><![CDATA[Wonderful pieces! The clockmaker who sold them to me, Mr. Moore, was in tears when he parted with this pair of pocket watches.]]></en>
-                  <de><![CDATA[Das sind wunderschöne Stücke. Herr Moore, der Uhrmacher, der sie mir verkauft hat, hatte Tränen in den Augen, als er sich von ihnen trennen musste.]]></de>
+                  <de><![CDATA[Das sind wunderschöne Stücke. Herr Moore, der Uhrmacher, der sie mir verkauft hat, hatte Tränen in den Augen, als er sich von ihnen trennte.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0167">
                   <en><![CDATA[Poor man. He’s almost gone bankrupt with the Castle driving customers from Ravenhollow.]]></en>
@@ -2993,7 +2993,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0195">
                   <en><![CDATA[Yes, it’s a 19th century uniform of the honorable Northwest Castle guard.]]></en>
-                  <de><![CDATA[Ja, das ist die 19. Jahrhundert Uniform eines ehrenhaften Wachmanns vom Schloss Nordwest.]]></de>
+                  <de><![CDATA[Ja, das ist eine Uniform eines ehrenhaften Wachmanns vom Schloss Nordwest aus dem 19. Jahrhunderts.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0196">
                   <en><![CDATA[So, shouldn’t Lowell Cain’s men wear these kind of ...]]></en>
@@ -3141,7 +3141,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0221">
                   <en><![CDATA[I would personally enjoy flinging them into the sea ... but that is neither good for the environment, nor for business.]]></en>
-                  <de><![CDATA[Ich persönlich würde sie liebend gerne im Meer versenken, aber das hilft weder mir noch der Umwelt.]]></de>
+                  <de><![CDATA[Ich persönlich würde sie liebend gerne im Meer versenken, aber das hilft weder dem Geschäft noch der Umwelt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3277,7 +3277,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0201">
                   <en><![CDATA[Really? I thought that was a pretty clever remark I just made up.]]></en>
-                  <de><![CDATA[Wirklich? Und ich dachte schön, die Anmerkung wäre ziemlich clever gewesen.]]></de>
+                  <de><![CDATA[Wirklich? Und ich dachte schon, die Anmerkung wäre ziemlich clever gewesen.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0202">
                   <en><![CDATA[When you have time, I can tell you all about this diamond ring and its remarkable history.]]></en>
@@ -3563,7 +3563,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0246">
                   <en><![CDATA[No, actually I think I will be better off without owning any unicorn-related media.]]></en>
-                  <de><![CDATA[Nein, ich denke ich bin besser ohne ein Gemälde von einem Einhorn dran.]]></de>
+                  <de><![CDATA[Nein, ich denke, ich bin besser ohne ein Gemälde von einem Einhorn dran.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3904,7 +3904,7 @@
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0270">
               <en><![CDATA[I have a handful of almost-dry old coins that I pulled from the drain of that turtle fountain down the street.]]></en>
-              <de><![CDATA[Ich habe eine Handvoll fast trockener alter Münzen, die ich aus dem Schildkrötenbrunnen in der Parallelstraße gefischt habe.]]></de>
+              <de><![CDATA[Ich habe eine Handvoll fast trockener alter Münzen, die ich aus dem Schildkrötenbrunnen in der Nähe gefischt habe.]]></de>
             </dia>
             <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0271">
               <en><![CDATA[Well, at least that’s real money.]]></en>
@@ -4054,7 +4054,7 @@
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0306">
               <en><![CDATA[Timothy Caro was heartbroken, so he sold the ring. Now 150 years later, it has found its way into my shop.]]></en>
-              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. Jetzt 150 Jahre später, es hat seinen Weg zu meinem Geschäft gefunden.]]></de>
+              <de><![CDATA[Timothy Caros Herz war gebrochen und so verkaufte er den Ring. Jetzt 150 Jahre später hat er seinen Weg zu meinem Geschäft gefunden.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0325">
               <en><![CDATA[Timothy Caro never married. Instead, his love for Lilly held dear and true to the day that she died.]]></en>
@@ -4408,7 +4408,7 @@
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0367">
               <en><![CDATA[While I remember Von Sternberg building all sorts of hidden compartments, I can’t find any secret latches that open them.]]></en>
-              <de><![CDATA[Auch wenn ich mich daran erinnere, wie Von Sternberg viele Geheimfächer eingebaut hat, kann ich die Riegel nicht finden, um sie zu öffnen.]]></de>
+              <de><![CDATA[Auch wenn ich mich daran erinnere, wie Von Sternberg viele Geheimfächer eingebaut hat, kann ich keinen Geheimriegel finden, um sie zu öffnen.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0369">
               <en><![CDATA[How intriguing.]]></en>
@@ -4461,16 +4461,16 @@
         <topic key="t5" id="other" enabled="1" hold="0" expose="other_stuff,other_papers,friendship" go="0">
           <title>
             <en><![CDATA[What other inventory do you have from the members of the Smith Institute?]]></en>
-            <de><![CDATA[Welche weiteren Gegenstände haben Sie noch von den Mitgliedern des Smith-Instituts?]]></de>
+            <de><![CDATA[Welche weitere Gegenstände haben Sie noch von den Mitgliedern des Smith-Instituts?]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0377">
               <en><![CDATA[What other inventory do you have from the members of the Smith Institute?]]></en>
-              <de><![CDATA[Welche weiteren Gegenstände haben Sie noch von den Mitgliedern des Smith-Instituts?]]></de>
+              <de><![CDATA[Welche weitere Gegenstände haben Sie noch von den Mitgliedern des Smith-Instituts?]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0378">
               <en><![CDATA[Odds and ends ... almost all of it came from Professor Von Sternberg’s estate. I bought him out for a song as he was leaving Ravenhollow.]]></en>
-              <de><![CDATA[Kleinkram ... beinahe alles ist aus Professor Von Sternbergs Besitz. Ich habe ihm das Meiste für nen Appel und n Ei abgekauft, als er Ravenhollow verließ.]]></de>
+              <de><![CDATA[Kleinkram ... beinahe alles ist aus Professor Von Sternbergs Besitz. Ich habe ihm das meiste für nen Appel und n Ei abgekauft, als er Ravenhollow verließ.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0379">
               <en><![CDATA[Unfortunately, my Von Sternberg inventory was greatly reduced when the Castle raided my shop looking for his old scientific possessions.]]></en>
@@ -4513,7 +4513,7 @@
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0386">
               <en><![CDATA[The only things they left behind were an old table, a bird cage, and a magnificent wooden model that Von Sternberg built of Northwest Castle.]]></en>
-              <de><![CDATA[Die einzigen Gegenstände, die sie zurückgelassen haben, waren ein alter Tisch, ein Vogelkäfig und ein prächtiges, hölzernes Modell vom Schloss, das Von Sternberg angefertigt hat.]]></de>
+              <de><![CDATA[Die einzigen Gegenstände, die sie zurückgelassen haben, waren ein alter Tisch, ein Vogelkäfig und ein prächtiges hölzernes Modell vom Schloss, das Von Sternberg angefertigt hat.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0387">
               <en><![CDATA[Oh, and they missed most of Von Sternberg’s old paperwork ... probably because it’s filed away in a cryptic order within my archives.]]></en>
@@ -4563,7 +4563,7 @@
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0393">
               <en><![CDATA[I do indeed! Franz is a very dear friend of mine, and the only member of the Smith Institute that I ever really got a chance to know.]]></en>
-              <de><![CDATA[Aber selbstverständlich! Franz ist ein guter, alter Freund von mir und leider das einzige Mitglied des Smith-Instituts, dass ich jemals genauer kennengelernt habe.]]></de>
+              <de><![CDATA[Aber selbstverständlich! Franz ist ein guter, alter Freund von mir und leider das einzige Mitglied des Smith-Instituts, das ich jemals genauer kennengelernt habe.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0394">
               <en><![CDATA[While I don’t know any details, I know there was a terrible accident at the Smith Institute that left Franz weakened and confined to a wheelchair.]]></en>
@@ -4751,7 +4751,7 @@
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0420">
               <en><![CDATA[I’d like to have some specimens of the Ravenhollow fauna to present at the next congress of the Nature Friends Society.]]></en>
-              <de><![CDATA[Ich würde gerne ein paar Exemplare von Ravenhollows Fauna auf dem nächsten Kongress der Gesellschaft der Freunde der Natur präsentieren.]]></de>
+              <de><![CDATA[Ich würde gerne ein paar Exemplare von Ravenhollows Fauna auf dem nächsten Kongress der Gesellschaft der Naturfreunde präsentieren.]]></de>
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0411">
               <en><![CDATA[Could you help me out by collecting a few specimens?]]></en>
@@ -4812,7 +4812,7 @@
             </dia>
             <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0420">
               <en><![CDATA[I’d like to have some specimens of the Ravenhollow fauna to present at the next congress of the Nature Friends Society.]]></en>
-              <de><![CDATA[Ich würde gerne ein paar Exemplare von Ravenhollows Fauna auf dem nächsten Kongress der Gesellschaft der Freunde der Natur präsentieren.]]></de>
+              <de><![CDATA[Ich würde gerne ein paar Exemplare von Ravenhollows Fauna auf dem nächsten Kongress der Gesellschaft der Naturfreunde präsentieren.]]></de>
             </dia>
             <dia puppet="caro" frame="hspeak" sound="voice/antique_voice.swf:antique0421">
               <en><![CDATA[You may need some kind of net to catch the specimens ... it would be difficult to coax them directly into the specimen jars.]]></en>
@@ -4898,7 +4898,7 @@
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0429">
               <en><![CDATA[Nothing happens.]]></en>
-              <de><![CDATA[Nichts passiert.]]></de>
+              <de><![CDATA[Es passiert nichts.]]></de>
             </dia>
           </dialog>
           <script>
