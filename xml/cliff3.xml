@@ -489,7 +489,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/cliff3_voice.swf:cliff30013">
                   <en><![CDATA[It’s somehow discouraging to see how hard that duck tries, but in the end goes nowhere.]]></en>
-                  <de><![CDATA[Es ist irgendwie entmutigend zu sehen, wie sich die Ente bemüht und letztendlich keinenn Schritt vorwärts kommt.]]></de>
+                  <de><![CDATA[Es ist irgendwie entmutigend zu sehen, wie sich die Ente bemüht und letztendlich keinen Schritt vorwärts kommt.]]></de>
                 </dia>
               </dialog>
               <script>
