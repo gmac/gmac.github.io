@@ -415,7 +415,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30006">
                   <en><![CDATA[No. I don’t need a disgusting bowl of partly-chewed cat food.]]></en>
-                  <de><![CDATA[Nein. Ich habe kein ekelhaft Schüssel teilweise gekaut Katzenfutter benötigen.]]></de>
+                  <de><![CDATA[Nein. Ich brauche keine ekelhafte Schüssel mit teilweise gekautem Katzenfutter.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -856,7 +856,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30026">
                   <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine carving knives?]]></en>
-                  <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de>
+                  <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht dieses schöne Schnitzmesser ausleihen?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30027">
                   <en><![CDATA[Ahh! Just leave them... me... us... ALONE!!]]></en>
@@ -915,7 +915,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30029">
                   <en><![CDATA[Mr. Mandelbaum, do you think I could borrow these fine carving knives?]]></en>
-                  <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht diese schönen Schnitzmesser ausleihen?]]></de>
+                  <de><![CDATA[Herr Mandelbaum, könnte ich mir vielleicht dieses schöne Schnitzmesser ausleihen?]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30030">
                   <en><![CDATA[Well, I don’t normally lend out my tools. Nothing personal, but I find that I generally don’t see them returned.]]></en>
@@ -1431,7 +1431,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mask3_voice.swf:mask30068">
                   <en><![CDATA[Well to be honest, I’ve been admiring those fine carving knives over there. That set of three looks useful.]]></en>
-                  <de><![CDATA[Also, ehrlich gesagt gefallen mir Ihre schönen Schnitzmesser da drüben sehr gut. Das Set aus drei sieht nützlich.]]></de>
+                  <de><![CDATA[Also, ehrlich gesagt gefallen mir Ihre schönen Schnitzmesser da drüben sehr gut. Das Dreierset sieht nützlich.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask3_voice.swf:mask30069">
                   <en><![CDATA[Those old things? But of course! Goodness knows that I have more than enough knives to facilitate my work.]]></en>
