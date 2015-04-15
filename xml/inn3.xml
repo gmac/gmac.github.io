@@ -606,7 +606,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30021">
                   <en><![CDATA[No. I shouldn’t loot the place.]]></en>
-                  <de><![CDATA[Nein. Ich den Ort plündern sollte nicht.]]></de>
+                  <de><![CDATA[Nein. Ich sollte den Ort nicht plündern.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1069,7 +1069,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30043">
                   <en><![CDATA[The torches are already saturated with oil.]]></en>
-                  <de><![CDATA[Diese Fackeln sind bereits mit einer mit Öl gesättigt.]]></de>
+                  <de><![CDATA[Diese Fackeln sind bereits mit Öl gesättigt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1276,7 +1276,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/inn3_voice.swf:inn30054">
                   <en><![CDATA[No. I wouldn’t want to diminish the warmth that it gives to this room.]]></en>
-                  <de><![CDATA[No. ich will die romantische Stimmung nicht verderben.]]></de>
+                  <de><![CDATA[No. ich will die romantische Stimmung in diesem Zimmer nicht verderben.]]></de>
                 </dia>
               </dialog>
               <script>
