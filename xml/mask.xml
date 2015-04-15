@@ -520,7 +520,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0012">
                   <en><![CDATA[I really don’t know anything about mask carving. I wouldn’t even know where to start.]]></en>
-                  <de><![CDATA[Ich weiß wirklich gar nichts übers Maskenschnitzen. Ich wüsste nicht einmal, wie ich anfangen sollte.]]></de>
+                  <de><![CDATA[Ich weiß wirklich gar nichts übers Maskenschnitzen. Ich wüsste nicht einmal, wo ich anfangen sollte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -948,7 +948,7 @@
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0049">
                   <en><![CDATA[If you are interested in this sort of history then you should visit Stephan Caro’s Antique Store. He’s Timothy Caro’s great-great-and-so-on-grandnephew.]]></en>
-                  <de><![CDATA[Wenn Sie an dieser Art von Geschichte interessiert sind, dann sollten Sie Stephan Caros Antiquitätenladen aufauchen. Er ist Timothy Caros Ur-Ur-und-so-weiter-Großneffe.]]></de>
+                  <de><![CDATA[Wenn Sie an dieser Art von Geschichte interessiert sind, dann sollten Sie Stephan Caros Antiquitätenladen aufsuchen. Er ist Timothy Caros Ur-Ur-und-so-weiter-Großneffe.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0050">
                   <en><![CDATA[He has a small archive on the history of Ravenhollow in the back of his store.]]></en>
@@ -1154,7 +1154,7 @@
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0073">
                   <en><![CDATA[Once the clock hands are brought into a specific position, they will activate the mechanism they are supposed to be unlocking.]]></en>
-                  <de><![CDATA[Sobald die Zeiger in eine bestimmte Position gebracht werden, aktivieren sie den Mechanismus, der wahrscheilich etwas entriegelt.]]></de>
+                  <de><![CDATA[Sobald die Zeiger in eine bestimmte Position gebracht werden, aktivieren sie den Mechanismus, der wahrscheinlich etwas entriegelt.]]></de>
                 </dia>
                 <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0074">
                   <en><![CDATA[... but only the man who designed the mechanism would know what the right time would be.]]></en>
@@ -1565,7 +1565,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0103">
                   <en><![CDATA[Look how he’s enjoying himself. Cute.]]></en>
-                  <de><![CDATA[Sie nur, wie viel Spaß er hat. Niedlich.]]></de>
+                  <de><![CDATA[Sieh nur, wie viel Spaß er hat. Niedlich.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2098,7 +2098,7 @@
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0181">
               <en><![CDATA[Just go ahead and find a good design. Go ahead and find YOUR mask.]]></en>
-              <de><![CDATA[Gehen Sie einfach los und suchen Sie sich eine gute Vorlage. Finden Sie IHRE Maske.]]></de>
+              <de><![CDATA[Gehen Sie einfach los und suchen Sie sich eines gutes Design aus. Finden Sie IHRE Maske.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0182">
               <en><![CDATA[Okay ... thanks, I guess!]]></en>
@@ -2152,7 +2152,7 @@
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0189">
               <en><![CDATA[Just go ahead and find a good design. Go ahead and find YOUR mask.]]></en>
-              <de><![CDATA[Gehen Sie einfach los und suchen Sie sich eine gute Vorlage. Finden Sie IHRE Maske.]]></de>
+              <de><![CDATA[Gehen Sie einfach los und suchen Sie sich eine gutes Design aus. Finden Sie IHRE Maske.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0190">
               <en><![CDATA[Okay ... thanks, I guess!]]></en>
@@ -2350,7 +2350,7 @@
             </dia>
             <dia puppet="mandelbaum" frame="" sound="voice/mask_voice.swf:mask0192">
               <en><![CDATA[Just go ahead and find a good design and draw it for me so I can carve a mask for you. Go ahead and find YOUR mask.]]></en>
-              <de><![CDATA[Suchen Sie sich einfach eine gute Vorlage und zeichnen Sie sie für mich, damit ich eine Maske für Sie schnitzen kann. Finden Sie IHRE Maske.]]></de>
+              <de><![CDATA[Suchen Sie sich einfach ein gutes Design aus und zeichnen Sie sie für mich, damit ich eine Maske für Sie schnitzen kann. Finden Sie IHRE Maske.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0193">
               <en><![CDATA[I’ll try.]]></en>
@@ -2451,7 +2451,7 @@
             </dia>
             <dia puppet="mandelbaum" frame="hspeak" sound="voice/mask_voice.swf:mask0209">
               <en><![CDATA[Unfortunately I missed the end of that program, so I never knew what happened in the end and the question kept spinning in my mind ...]]></en>
-              <de><![CDATA[Leider verpasste ich das Ende der Sendung, sodass ich nie herausfand, was am Ende passierte, und die Frage geistert seitdem in meinem Kopf herum ...]]></de>
+              <de><![CDATA[Leider verpasste ich das Ende der Sendung, so dass ich nie herausfand, was am Ende passierte, und die Frage geistert seitdem in meinem Kopf herum ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/mask_voice.swf:mask0210">
               <en><![CDATA[Can’t wait to see what &#8222;The Man Who Returned&#8220; looks like in the end.]]></en>
