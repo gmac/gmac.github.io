@@ -182,7 +182,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/docks_voice.swf:docks0000">
                   <en><![CDATA[That is McManus’ boat ... the motor needs to be fixed.]]></en>
-                  <de><![CDATA[Das ist das Boot von McManus ... der Motor ist kaputt.]]></de>
+                  <de><![CDATA[Das ist das Boot von McManus ... der Motor muss repariert werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -702,7 +702,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/docks_voice.swf:docks0021">
                   <en><![CDATA[Great, I have the patch ... but it broke my fancy letter opener.]]></en>
-                  <de><![CDATA[Toll, ich habs geschafft ... aber mein Brieföffner ist kaputt gegangen.]]></de>
+                  <de><![CDATA[Toll, ich habs geschafft ... aber mein toller Brieföffner ist kaputt gegangen.]]></de>
                 </dia>
               </dialog>
               <script>
