@@ -186,7 +186,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0003">
                   <en><![CDATA[I think I’ll wait and take a hot bath at home when this is over.]]></en>
-                  <de><![CDATA[Trotzdem wäre mir ein heißes Bad zu Hause recht, wenn das hier vorbei ist.]]></de>
+                  <de><![CDATA[Ich glaub, ich warte und nehme zuhaus ein heißes Bad, wenn das hier vorbei ist.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -541,7 +541,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0016">
                   <en><![CDATA[Okay. The edge is sharp, and there's no one here to help if I cut my hand ...]]></en>
-                  <de><![CDATA[Okay. Ohne einen Arzt, der anschließend meine Blutvergiftung behandelt, könnte das eine sehr schlechte Idee sein ...]]></de>
+                  <de><![CDATA[Okay. Das ist eine scharfe Kante und hier ist keiner, der mir hilft, wenn ich mich schneide...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0017">
                   <en><![CDATA[But a girl’s got to do, what a girl’s got to do.]]></en>
@@ -726,7 +726,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_rift_voice.swf:boathouse3_rift0026">
                   <en><![CDATA[Unfortunately this chest is bolted with a sturdy lock.]]></en>
-                  <de><![CDATA[Dummerweise ist diese Kiste mit einem ziemlich stabil aussehenden Schloss verriegelt.]]></de>
+                  <de><![CDATA[Dummerweise ist diese Kiste mit einem ziemlich stabilen Schloss verriegelt.]]></de>
                 </dia>
               </dialog>
               <script>
