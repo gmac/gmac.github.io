@@ -204,7 +204,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0003">
                   <en><![CDATA[The back area of the antique shop seems to be closed to customers.]]></en>
-                  <de><![CDATA[Der hintere Bereich des Antiquitätenladens scheint für Kunden gesperrt.]]></de>
+                  <de><![CDATA[Der hintere Bereich des Antiquitätenladens scheint für Kunden gesperrt zu sein.]]></de>
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0004">
                   <en><![CDATA[In the back there is the Ravenhollow history archive that I maintain.]]></en>
@@ -546,7 +546,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/antique_voice.swf:antique0017">
                   <en><![CDATA[I knew plaid would come back in style.]]></en>
-                  <de><![CDATA[Ich hab mir schon gedacht, dass Caros wieder modern werden.]]></de>
+                  <de><![CDATA[Ich hab mir schon gedacht, dass Karos wieder modern werden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -653,11 +653,11 @@
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0034">
                   <en><![CDATA[This isn’t the rare Lonely Locust ... you’ve found its evil twin ... the blossom-devouring Lotus Locust.]]></en>
-                  <de><![CDATA[Sie haben nicht die seltenen Einsiedlerheuschrecke gefangen ... Sie haben mir seinen bösen Zwillingsbruder gebracht, den blütenfressenden Lotus-Heuschreck.]]></de>
+                  <de><![CDATA[Sie haben nicht die seltenen Einsiedlerheuschrecke gefangen ... Sie haben seinen bösen Zwillingsbruder gefunden, die blütenfressenden Lotus-Heuschrecke.]]></de>
                 </dia>
                 <dia puppet="caro" frame="" sound="voice/antique_voice.swf:antique0035">
                   <en><![CDATA[Please ... set it free as far away from here as possible. These locusts devour foliage blossoms, then leave the rest of the plant to wither and die.]]></en>
-                  <de><![CDATA[Bitte ... setzen Sie ihn soweit wie möglich entfernt von hier aus. Diese Heuschrecken fressen nur die Blüten und der Rest der Pflanze verkümmert innerhalb und sterben.]]></de>
+                  <de><![CDATA[Bitte ... setzen Sie sien soweit wie möglich entfernt von hier aus. Diese Heuschrecken fressen nur die Blüten und der Rest der Pflanze verkümmert und stirbt.]]></de>
                 </dia>
                 <dia puppet="caro" frame="lspeak" sound="voice/antique_voice.swf:antique0036">
                   <en><![CDATA[Do my lovely yard a favor and take that vile insect away!]]></en>
@@ -768,7 +768,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0046">
                   <en><![CDATA[Remember, at night this rare creature prefers to sleep in dark and windy corners.]]></en>
-                  <de><![CDATA[Denken Sie dran, Nachts schläft dieses seltene Reptil in dunklen und windigen Ecken.]]></de>
+                  <de><![CDATA[Denken Sie dran, nachts schläft dieses seltene Reptil in dunklen und windigen Ecken.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -787,7 +787,7 @@
                 </dia>
                 <dia puppet="caro" frame="speak2" sound="voice/antique_voice.swf:antique0048">
                   <en><![CDATA[Remember, Red Brigadier butterflies are attracted by white blossoms.]]></en>
-                  <de><![CDATA[Vergessen Sie nicht, Der Rote Brigadier-Schmetterling wird von weißen Blüten angelockt.]]></de>
+                  <de><![CDATA[Vergessen Sie nicht, der Rote Brigadier-Schmetterling wird von weißen Blüten angelockt.]]></de>
                 </dia>
               </dialog>
               <script>
