@@ -1085,7 +1085,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0031">
                   <en><![CDATA[With what? I’ll need some kind of jumper to connect the two ports.]]></en>
-                  <de><![CDATA[Womit? Ich brauche irgendeine Überbrückung um die beiden Leitungsenden zu verbinden.]]></de>
+                  <de><![CDATA[Womit? Ich brauche irgendeine Überbrückung, um die beiden Leitungsenden zu verbinden.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1908,7 +1908,7 @@
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0098">
                   <en><![CDATA[You’ll have to find where the grid is damaged, and then fix the short.]]></en>
-                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist, und das Problem beheben.]]></de>
+                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist und das Problem beheben.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0103">
                   <en><![CDATA[After that, you should be able to manage the station's power flow within the control booth.]]></en>
@@ -1967,7 +1967,7 @@
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0098">
                   <en><![CDATA[You’ll have to find where the grid is damaged, and then fix the short.]]></en>
-                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist, und das Problem beheben.]]></de>
+                  <de><![CDATA[Du musst herausfinden, warum der Strom ausgefallen ist und das Problem beheben.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="" sound="voice/mtstation_voice.swf:mtstation0103">
                   <en><![CDATA[After that, you should be able to manage the station's power flow within the control booth.]]></en>
@@ -2459,7 +2459,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0130">
                   <en><![CDATA[Let’s hope they liked noodles.]]></en>
-                  <de><![CDATA[Scheint so, als ob sie Nudeln mochten.]]></de>
+                  <de><![CDATA[Hoffentlich haben sie Nudeln gemochtet.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2520,7 +2520,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtstation_voice.swf:mtstation0130">
                   <en><![CDATA[Let’s hope they liked noodles.]]></en>
-                  <de><![CDATA[Scheint so, als ob sie Nudeln mochten.]]></de>
+                  <de><![CDATA[Hoffentlich haben sie Nudeln gemochtet.]]></de>
                 </dia>
               </dialog>
               <script>
