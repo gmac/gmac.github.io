@@ -171,7 +171,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0006">
                   <en><![CDATA[It’s a fallen tile from one of the collapsed walkways.]]></en>
-                  <de><![CDATA[Es ist eine heruntergestürzte Platte von einem dieser eingestürzten Laufstege.]]></de>
+                  <de><![CDATA[Es ist eine heruntergestürzte Platte von einem dieser eingestürzten Gehwege.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0007">
                   <en><![CDATA[I’ve now thawed the tile out of the ice.]]></en>
@@ -200,7 +200,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0008">
                   <en><![CDATA[You never know when you’ll need a spare walkway tile.]]></en>
-                  <de><![CDATA[Man kann nie wissen, wann man eine extra Laufstegplatte braucht.]]></de>
+                  <de><![CDATA[Man kann nie wissen, wann man eine extra Gehwegfliese braucht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -232,7 +232,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtplateau_voice.swf:mtplateau0009">
                   <en><![CDATA[There’s an impression of that walkway tile left in the snow.]]></en>
-                  <de><![CDATA[Es gibt einen Eindruck von diesem Gehweg Fliesen in der Schnee.]]></de>
+                  <de><![CDATA[Da ist ein Abdruck der Gehwegfliese im Schnee.]]></de>
                 </dia>
               </dialog>
               <script>
