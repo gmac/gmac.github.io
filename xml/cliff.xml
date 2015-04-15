@@ -1545,7 +1545,7 @@
             </dia>
             <dia puppet="exit_mill" frame="" sound="voice/cliff_voice.swf:cliff0065">
               <en><![CDATA[No, you may not you zealot!]]></en>
-              <de><![CDATA[Nein, dürfen Sie nicht sie Eiferer!]]></de>
+              <de><![CDATA[Nein, dürfen Sie nicht, Sie Eiferer!]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/cliff_voice.swf:cliff0066">
               <en><![CDATA[What a rude man ...]]></en>
