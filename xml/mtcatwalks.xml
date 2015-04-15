@@ -544,11 +544,11 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0013">
                   <en><![CDATA[The second attractor’s power has been diverted to the station.]]></en>
-                  <de><![CDATA[Der Strom des zweiten Kollektors wrd jetzt zur Bahnstation umgeleitet.]]></de>
+                  <de><![CDATA[Der Strom des zweiten Kollektors wrd jetzt zur Station umgeleitet.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0014">
                   <en><![CDATA[Now I just need to drain all the power in the station so that there’s nothing left for the Rift.]]></en>
-                  <de><![CDATA[Alles was ich jetzt noch tun muss, ist von der Bahnstation aus, den ganzen Strom zu verbrauchen, damit nichts mehr für den Riss übrig ist.]]></de>
+                  <de><![CDATA[Alles was ich jetzt noch tun muss, ist von der Station aus den ganzen Strom zu verbrauchen, damit nichts mehr für den Riss übrig ist.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -790,7 +790,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/mtcatwalks_voice.swf:mtcatwalks0019">
                   <en><![CDATA[It’s the other attractor tower. I need to get over to it so I can redirect its power flow into the station.]]></en>
-                  <de><![CDATA[Es ist der andere Kollektorturm. Ich muss zu ihm rüber, damit ich den Strom zur Bahn umleiten kann.]]></de>
+                  <de><![CDATA[Es ist der andere Kollektorturm. Ich muss zu ihm rüber, damit ich den Strom zur Station umleiten kann.]]></de>
                 </dia>
               </dialog>
               <script>
