@@ -333,7 +333,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30003">
                   <en><![CDATA[I’m not going to walk along the rail tracks ... the train will win if I run into it.]]></en>
-                  <de><![CDATA[Ich werde nicht die Gleise entlang laufen ... wie der Zug auch aussieht, wenn er kommt, wird es hier nicht genug Platz für uns beide geben.]]></de>
+                  <de><![CDATA[Ich werde nicht an den Gleisen entlang laufen ... wie der Zug auch aussieht, wenn er kommt, wird es hier nicht genug Platz für uns beide geben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1090,7 +1090,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30013">
                   <en><![CDATA[Now he and Coppelius want to get their hands on Nigel’s photograph, because they think it has the new code written on it.]]></en>
-                  <de><![CDATA[Jetzt wollen er und Coppelius Nigels Foto in die Finger kriegen, weil sie denken, es den neuen Code auf der es geschrieben hat.]]></de>
+                  <de><![CDATA[Jetzt wollen er und Coppelius Nigels Foto in die Finger kriegen, weil sie denken, der neuen Code steht drauf geschrieben.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1402,7 +1402,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/catwalk3_voice.swf:catwalk30053">
                   <en><![CDATA[I just hope we arrive in time ...]]></en>
-                  <de><![CDATA[Ich hoffe nur, wir sind noch rechtzeitig ...]]></de>
+                  <de><![CDATA[Ich hoffe nur, wir kommen rechtzeitig an...]]></de>
                 </dia>
               </dialog>
               <script>
