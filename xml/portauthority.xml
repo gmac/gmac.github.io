@@ -911,7 +911,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/portauthority_voice.swf:portauthority0049">
                   <en><![CDATA[Smashing Wavetamer’s ship in a bottle would not be a good way to thank him for his help getting in here!]]></en>
-                  <de><![CDATA[Es wäre keine nette Art, sich für Wavetamers Hilfe, hier reinzukommen, zu bedanken, indem ich sein Buddelschiff zerschlage!]]></de>
+                  <de><![CDATA[Es wäre keine nette Art, sich für Wavetamers Hilfe hier reinzukommen, zu bedanken, indem ich sein Buddelschiff zerschlage!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2530,7 +2530,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/portauthority_voice.swf:portauthority0124">
                   <en><![CDATA[Besides, I don’t think my current lifestyle would allow me to take care of another living creature.]]></en>
-                  <de><![CDATA[Außerdem glaube ich nicht, dass mein derzeitiger Lebensstil es mir erlaubt, mich um noch ein Lebewesen zu kümmern.]]></de>
+                  <de><![CDATA[Außerdem glaube ich nicht, dass mein derzeitiger Lebensstil es mir erlaubt, mich um noch ein weiteres Lebewesen zu kümmern.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3290,7 +3290,7 @@
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0221">
               <en><![CDATA[Yeah, we’ll be sure to thank him.]]></en>
-              <de><![CDATA[Ja, wir sind sicher, ihm zu danken sein.]]></de>
+              <de><![CDATA[Ja, wir werden ihm sicherlich danken.]]></de>
             </dia>
           </dialog>
           <script>
@@ -3321,7 +3321,7 @@
             </dia>
             <dia puppet="rat" frame="" sound="voice/portauthority_voice.swf:portauthority0221">
               <en><![CDATA[Yeah, we’ll be sure to thank him.]]></en>
-              <de><![CDATA[Ja, wir sind sicher, ihm zu danken sein.]]></de>
+              <de><![CDATA[Ja, wir werden ihm sicherlich danken.]]></de>
             </dia>
           </dialog>
           <script>
