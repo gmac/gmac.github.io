@@ -1261,7 +1261,7 @@
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0065">
                   <en><![CDATA[The key should unlock the gate to his old quarry, and the poem describes opening the passage, I think.]]></en>
-                  <de><![CDATA[Der Schlüssel sollte das Tor zu seinem alten Steinbruch zu entriegeln, und das Gedicht erklärt Öffnen des Durchgangs.]]></de>
+                  <de><![CDATA[Der Schlüssel sollte das Tor zu seinem alten Steinbruch zu entriegeln, und das Gedicht erklärt das Öffnen des Durchgangs.]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0066">
                   <en><![CDATA[Then hope is not lost ... Nigel, you have to find that secret entrance into the Castle, and then ask the Baron for help.]]></en>
@@ -1293,7 +1293,7 @@
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/inn_voice.swf:inn0073">
                   <en><![CDATA[Remember, the key I gave you will unlock the gate to Timothy Caro’s workplace in the woods. The poem might help you find the secret passage into the Castle.]]></en>
-                  <de><![CDATA[Merken, der Schlüssel, den ich Ihnen gegeben habe, öffnet Timothy Caros Steinbruch in den Wäldern. Das Gedicht hilft Ihnen vielleicht bei der Suche nach dem geheimen Eingang in das Schloss.]]></de>
+                  <de><![CDATA[Denken Sie daran, dass der Schlüssel, den ich Ihnen gegeben habe, Timothy Caros Steinbruch in den Wäldern öffnet. Das Gedicht hilft Ihnen vielleicht bei der Suche nach dem geheimen Eingang in das Schloss.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0074">
                   <en><![CDATA[Understood!]]></en>
@@ -1382,7 +1382,7 @@
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0081">
                   <en><![CDATA[Use the information Mr. Caro gave you to sneak into Northwest Castle. You have to contact the Baron ... this whole charade must end tonight!]]></en>
-                  <de><![CDATA[Versuchen Sie sich mit den Informationen, die Sie von Herrn Caro erhalten haben, ins Schloss Nordwest zu schleichen. Sie müssen den Baron finden ... diese ganze Scharade muss noch heute enden!]]></de>
+                  <de><![CDATA[Verwenden Sie die Informationen, die Sie von Herrn Caro erhalten haben, um ins Schloss Nordwest zu schleichen. Sie müssen mit dem Baron in Kontakt treten ... diese ganze Scharade muss noch heute Abend enden!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0082">
                   <en><![CDATA[Mr. Lionstone? About my father’s estate ...]]></en>
@@ -1394,7 +1394,7 @@
                 </dia>
                 <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0084">
                   <en><![CDATA[Tomorrow I will provide you with the necessary documents, and then we can discuss the legal details.]]></en>
-                  <de><![CDATA[Morgen werde ich Ihnen alle Informationen und Dokumente liefern können, die Sie brauchen. Dann können wir über die rechtlichen Details sprechen.]]></de>
+                  <de><![CDATA[Morgen werde ich Ihnen alle Informationen und Dokumente liefern, die Sie brauchen. Dann können wir über die rechtlichen Details sprechen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0085">
                   <en><![CDATA[And what am I supposed to do till tomorrow?]]></en>
@@ -1410,7 +1410,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0088">
                   <en><![CDATA[On that sack of hay you mean? I guess that is better than nothing, thanks.]]></en>
-                  <de><![CDATA[Sie meinem auf dem Heusack? Ich schätze, das ist besser als nichts. Danke.]]></de>
+                  <de><![CDATA[Sie meinen auf dem Heusack? Ich schätze, das ist besser als nichts. Danke.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1842,7 +1842,7 @@
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0108">
                   <en><![CDATA[He said that if Bruno could ride a unicycle, then he could also pay for his own drinks. Turned out he was right ...]]></en>
-                  <de><![CDATA[Er sagte, wenn Bruno auf einem Einrad fahren kann, dann sollte er auch selber für seine Drinks bezahlen können.  Wie sich herausstellte, war das richtig ...]]></de>
+                  <de><![CDATA[Er sagte, wenn Bruno auf einem Einrad fahren kann, dann sollte er auch selber für seine Drinks bezahlen können.  Wie sich herausstellte war das richtig ...]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0109">
                   <en><![CDATA[After the bear finally fell asleep, we found a fifty dollar note in the pocket of the bear’s vest.]]></en>
@@ -2020,7 +2020,7 @@
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0118">
                   <en><![CDATA[That’s Gustave Goodsoup ... we met at a bar-tending conference decades ago. Last I heard, he was taking over his family’s restaurant and hotel.]]></en>
-                  <de><![CDATA[Das ist Gustav Meistersuppe ... wir haben uns vor vielen Jahren auf einer Barkeeper-Konferenz kennengelernt. Das Letzte, was ich von ihm gehört habe, war, dass er ein Familienrestaurant und –hotel übernommen hatte.]]></de>
+                  <de><![CDATA[Das ist Gustav Meistersuppe ... wir haben uns vor vielen Jahren auf einer Barkeeper-Konferenz kennengelernt. Das letzte, was ich von ihm gehört habe, war, dass er ein Familienrestaurant und –hotel übernommen hatte.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2132,7 +2132,7 @@
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0123">
                   <en><![CDATA[In the painting, Verne is protecting the tragically misunderstood Skippy from the citizens of Ravenhollow, who were about to hunt and kill the shark.]]></en>
-                  <de><![CDATA[In dem Bild beschützt Verne den missverstandenen Skippy vor den Bürgern von Ravenhollow, die den Hai jagten und töten wollten.]]></de>
+                  <de><![CDATA[In dem Bild beschützt Verne den missverstandenen Skippy vor den Bürgern von Ravenhollow, die den Hai jagen und töten wollten.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0124">
                   <en><![CDATA[Skippy, the shark!? ... did he survive?]]></en>
@@ -2140,7 +2140,7 @@
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0125">
                   <en><![CDATA[Oh, yes! Skippy became everyone’s friend and died much later of old age ... you can still see his jawbone above the archway leading to the docks.]]></en>
-                  <de><![CDATA[Oh, ja! Skippy wurde jedermanns Freund hier und starb viele Jahre später eines natürlichen Todes ... man kann immer noch seinen Kiefer über dem Torbogen auf der Anklagebank.]]></de>
+                  <de><![CDATA[Oh, ja! Skippy wurde jedermanns Freund hier und starb viele Jahre später eines natürlichen Todes ... man kann seinen Kiefer über dem Torbogen des Anlegestegs sehen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2318,7 +2318,7 @@
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0135">
                   <en><![CDATA[Actually it’s medicinal alcohol ... but it has the same pleasant aftertaste as Vodka.]]></en>
-                  <de><![CDATA[Das ist eigentlich medizinischer Alkohol ... aber es hat die gleichen angenehmen Nachgeschmack wie Vodka hat.]]></de>
+                  <de><![CDATA[Das ist eigentlich medizinischer Alkohol ... aber es hat den gleichen angenehmen Nachgeschmack wie Vodka.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0136">
                   <en><![CDATA[Yikes ...]]></en>
@@ -2388,11 +2388,11 @@
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0141">
                   <en><![CDATA[Try being a lawyer in Ravenhollow these days! Not a stroll in the park, I tell you ...]]></en>
-                  <de><![CDATA[Anwälte haben es zur Zeit nicht leicht in Ravenhollow! Das ist kein Spaziergang, ich sag es Ihnen ...]]></de>
+                  <de><![CDATA[Anwälte haben es zur Zeit nicht leicht in Ravenhollow! Es ist nicht leicht, ich sag es Ihnen ...]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0142">
                   <en><![CDATA[... not a stroll at all.]]></en>
-                  <de><![CDATA[... wirklich kein Spaziergang.]]></de>
+                  <de><![CDATA[... wirklich nicht leicht.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3853,7 +3853,7 @@
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0303">
               <en><![CDATA[Oh, I’m afraid he wasn’t very close with anyone around here, was he?]]></en>
-              <de><![CDATA[Oh, ich befürchte er hatte nicht viele Freunde hier, nicht wahr?]]></de>
+              <de><![CDATA[Oh, ich befürchte, er hatte nicht viele Freunde hier, nicht wahr?]]></de>
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0304">
               <en><![CDATA[Those scientists spent most of their time in the Institute, and once that was closed, I hear most of them left Ravenhollow. While your father stayed around, I rarely saw him.]]></en>
@@ -4308,7 +4308,7 @@
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0429">
               <en><![CDATA[I mean, “hey, friend” ... we all know what that means. A friend is someone who remembers your birthday. Sometimes at least.]]></en>
-              <de><![CDATA[Ich meine, “hey, ein Freund” ... wir alle wissen, was das bedeutet. Ein “Freund” ist jemand, der sich an deinen Geburtstag erinnert. Zumindest manchmal.]]></de>
+              <de><![CDATA[Ich meine, “hey, ein Freund” ... wir alle wissen, was das bedeutet. Ein “Freund” ist jemand, der sich an Deinen Geburtstag erinnert. Zumindest manchmal.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0430">
               <en><![CDATA[... but “ship”? Why “ship”? What’s a “friend-ship”? None of my friends are ships! Friendship is a strange thing, don’t you think?]]></en>
@@ -4361,7 +4361,7 @@
             </dia>
             <dia puppet="webb" frame="" sound="voice/inn_voice.swf:inn0436">
               <en><![CDATA[If you’re not a paying customer, then I’m not bound by the barkeeper’s oath to listen to you.]]></en>
-              <de><![CDATA[Wenn Sie kein zahlender Kunde sind, dann bin ich nicht an den Eid der Barkeeper gebunden, um Ihnen zuzuhören.]]></de>
+              <de><![CDATA[Wenn Sie kein zahlender Kunde sind, dann bin ich nicht an den Eid der Barkeeper gebunden, Ihnen zuzuhören.]]></de>
             </dia>
           </dialog>
           <script>
@@ -5653,7 +5653,7 @@
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0546">
               <en><![CDATA[There is no use in asking for the help of Mr Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
-              <de><![CDATA[Es ist sinnlos, Herrn Lionstone oder eine andere, ähnlich bemitleidenswerte Kreatur, die hier Unterschlupf und die berauschende Wirkung billigsten Alkohols sucht, um Hilfe zu bitten.]]></de>
+              <de><![CDATA[Es ist sinnlos, Herrn Lionstone oder eine andere ähnlich bemitleidenswerte Kreatur, die hier Unterschlupf und die berauschende Wirkung billigsten Alkohols sucht, um Hilfe zu bitten.]]></de>
             </dia>
           </dialog>
           <script>
