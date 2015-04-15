@@ -1401,7 +1401,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/campfire_voice.swf:campfire0066">
                   <en><![CDATA[The fire is out ... I wonder where the two entertainers are that had been camping out here.]]></en>
-                  <de><![CDATA[Das Lagerfeuer ist ausgebrannt ... Wo wohl die beiden fahrenden Künstler sind, die hier gelagert haben?]]></de>
+                  <de><![CDATA[Das Lagerfeuer ist ausgebrannt ... Wo wohl die beiden Künstler sind, die hier gelagert haben?]]></de>
                 </dia>
               </dialog>
               <script>
