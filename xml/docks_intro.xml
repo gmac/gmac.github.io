@@ -511,7 +511,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="lspeak4" sound="voice/docks_intro_voice.swf:docks_intro0013">
                   <en><![CDATA[...  they are useless and offensive to the senses, if you ask me.]]></en>
-                  <de><![CDATA[... Meiner Meinung nach sind sie sind nutzlos und eine Beleidigung für die Sinne.]]></de>
+                  <de><![CDATA[... Meiner Meinung nach sind sie nutzlos und eine Beleidigung für die Sinne.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1109,16 +1109,16 @@
         <topic key="t8" id="dad2" enabled="0" hold="1" expose="" go="0">
           <title>
             <en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en>
-            <de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de>
+            <de><![CDATA[Wollen Sie damit sagen, dass Sie nichts vom Tod meines Vaters wussten?]]></de>
           </title>
           <dialog>
             <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0058">
               <en><![CDATA[So, you are saying you didn’t know about my father’s death?]]></en>
-              <de><![CDATA[Wollen Sie damit sagen, dass sie nichts vom Tod meines Vaters wussten?]]></de>
+              <de><![CDATA[Wollen Sie damit sagen, dass Sie nichts vom Tod meines Vaters wussten?]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0047">
               <en><![CDATA[I haven’t been to Ravenhollow in recent years, nor have I heard from any of my old colleagues until recently.]]></en>
-              <de><![CDATA[Ich war in den letzten Jahren nicht in Ravenhollow. Und von den anderen Kollegen habe ich auch bis vor Kurzem nichts mehr gehört.]]></de>
+              <de><![CDATA[Ich war in den letzten Jahren nicht in Ravenhollow. Und von den anderen Kollegen habe ich auch bis vor kurzem nichts mehr gehört.]]></de>
             </dia>
             <dia puppet="coppelius" frame="" sound="voice/docks_intro_voice.swf:docks_intro0045">
               <en><![CDATA[No. After an incident at the Smith Institute five years ago, my colleagues and I decided to cease our researches and close the Institute.]]></en>
@@ -1173,7 +1173,7 @@
             </dia>
             <dia puppet="cain" frame="" sound="voice/docks_intro_voice.swf:docks_intro0070">
               <en><![CDATA[None of you gentlemen carry permission by the Castle to enter this town or to linger around the docks, but still that’s exactly what I find you doing. Why is that?]]></en>
-              <de><![CDATA[Keiner der Herren hat eine Genehmigung des Schlosses, diese Stadt zu betreten oder an den Docks herumzulungern. Doch genau das tun Sie gerade. Wie erklären Sie sich das?]]></de>
+              <de><![CDATA[Keiner der Herren hat Genehmigung des Schlosses, diese Stadt zu betreten oder an den Docks herumzulungern. Doch genau das tun Sie gerade. Wie erklären Sie sich das?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/docks_intro_voice.swf:docks_intro0071">
               <en><![CDATA[Who wants to know that?]]></en>
@@ -1505,7 +1505,7 @@
             </dia>
             <dia puppet="cain" frame="pointspeak3" sound="voice/docks_intro_voice.swf:docks_intro0127">
               <en><![CDATA[On behalf of the Castle I again request you to accompany me. I suggest that you do not resist arrest, doctor.]]></en>
-              <de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehlen Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de>
+              <de><![CDATA[Im Namen des Schlosses fordere ich Sie nochmals auf, mir zu folgen. Ich empfehle Ihnen, sich der Verhaftung nicht zu widersetzen, Doktor.]]></de>
             </dia>
           </dialog>
           <script>
