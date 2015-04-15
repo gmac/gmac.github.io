@@ -1690,7 +1690,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/baron_voice.swf:baron0096">
                   <en><![CDATA[At least this ivy looks pretty healthy.]]></en>
-                  <de><![CDATA[Zumindest dieser Efeu sieht ziemlich gesund aus.]]></de>
+                  <de><![CDATA[Zumindest dieses Efeu sieht ziemlich gesund aus.]]></de>
                 </dia>
               </dialog>
               <script>
