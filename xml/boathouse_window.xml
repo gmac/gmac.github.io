@@ -454,7 +454,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse_window_voice.swf:boathouse_window0014">
                   <en><![CDATA[Unfortunately though, I have a terrible throwing arm. The fish would probably just land on the roof.]]></en>
-                  <de><![CDATA[Leider aber habe ich einen  schreckliche Wurfarm. Der Fisch würde wahrscheinlich nur auf dem Dach landen.]]></de>
+                  <de><![CDATA[Leider aber habe ich einen schreckliche Wurfarm. Der Fisch würde wahrscheinlich nur auf dem Dach landen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -653,7 +653,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse_window_voice.swf:boathouse_window0028">
                   <en><![CDATA[I’m too far away for him to hear me, let alone for me to touch him.]]></en>
-                  <de><![CDATA[Ich bin zu weit weg, als dass er mich hören, geschweige denn, ich ihn berühren kann.]]></de>
+                  <de><![CDATA[Ich bin zu weit weg, als dass er mich hören kann, geschweige denn, ich ihn berühren kann.]]></de>
                 </dia>
               </dialog>
               <script>
