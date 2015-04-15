@@ -1465,7 +1465,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor3_voice.swf:harbor30063">
                   <en><![CDATA[I, on the other hand, have crafted my own fishing rod before.]]></en>
-                  <de><![CDATA[Ich hingegen habe schon mal eine Angel selbst gebastelt.]]></de>
+                  <de><![CDATA[Ich hingegen habe schon mal selbst eine Angel gebastelt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1784,7 +1784,7 @@
               <dialog>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30088">
                   <en><![CDATA[My lucky dice! You got them back from those stupid castle guards, si!]]></en>
-                  <de><![CDATA[Meine glückliche Würfel! Sie haben sie von diesen vermalledeiten Schlosswachen zurückgeholt, si!]]></de>
+                  <de><![CDATA[Meine glücklichen Würfel! Sie haben sie von diesen vermalledeiten Schlosswachen zurückgeholt, si!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor3_voice.swf:harbor30089">
                   <en><![CDATA[Thank you, friend! If only I knew how to repay you ...]]></en>
