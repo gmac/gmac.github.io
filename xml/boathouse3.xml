@@ -162,7 +162,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30001">
                   <en><![CDATA[While I DO need a bath after that crate of fish, I’m not bothered enough by my own smell to jump into that cold water.]]></en>
-                  <de><![CDATA[Ich brauche nach dieser Kiste Fisch zwar ein Bad, aber mein eigener Geruch stört mich nicht so sehr, als dass ich in dieses kalte, trübe Wasser springen würde.]]></de>
+                  <de><![CDATA[Ich brauche nach dieser Kiste Fisch wirklich ein Bad, aber mein eigener Geruch stört mich nicht so sehr, als dass ich in dieses kalte, trübe Wasser springen würde.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -781,7 +781,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/boathouse3_voice.swf:boathouse30021">
                   <en><![CDATA[I’m clumsy enough that I have a personal rule against tampering with electrically-charged devices.]]></en>
-                  <de><![CDATA[Ich bin ungeschickt genug, um eine persönliche Regel gegen das Manipulieren von elektrisch geladenen Geräte zu haben.]]></de>
+                  <de><![CDATA[Ich bin ungeschickt genug, um eine persönliche Regel gegen das Manipulieren von elektrisch geladenen Geräten zu haben.]]></de>
                 </dia>
               </dialog>
               <script>
