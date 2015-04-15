@@ -1489,7 +1489,7 @@
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0011">
                   <en><![CDATA[Prepare the vibrator plates ...]]></en>
-                  <de><![CDATA[Vibrationsplatten bereit machen ...]]></de>
+                  <de><![CDATA[Vibrationsplatten bereitmachen ...]]></de>
                 </dia>
                 <dia puppet="vincent" frame="" sound="voice/mtlab_voice.swf:mtlab0012">
                   <en><![CDATA[Very good! Now, use the next three insignia rings to initialize the Apparatus charge sequence.]]></en>
@@ -1706,7 +1706,7 @@
                 </dia>
                 <dia puppet="nora" frame="" sound="voice/mtlab_voice.swf:mtlab0057">
                   <en><![CDATA[Nigel is safe, and Vincent’s plan to alter our past has failed. We did it!]]></en>
-                  <de><![CDATA[Nigel ist gerettet, und Vincents Plan, unsere Vergangenheit zu ändern, ist fehlgeschlagen. Wir haben es geschafft!]]></de>
+                  <de><![CDATA[Nigel ist sicher und Vincents Plan, unsere Vergangenheit zu ändern, ist fehlgeschlagen. Wir haben es geschafft!]]></de>
                 </dia>
                 <dia puppet="nigel" frame="" sound="voice/mtlab_voice.swf:mtlab0058">
                   <en><![CDATA[I just wish I hadn’t been the damsel in distress ...]]></en>
@@ -1730,7 +1730,7 @@
                 </dia>
                 <dia puppet="slappyanthony" frame="sspeak" sound="voice/mtlab_voice.swf:mtlab0063">
                   <en><![CDATA[There’s someone you should meet.]]></en>
-                  <de><![CDATA[Hier ist jemand, den du kennenlernen solltest.]]></de>
+                  <de><![CDATA[Hier ist jemand, den Du kennenlernen solltest.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="" sound="voice/mtlab_voice.swf:mtlab0064">
                   <en><![CDATA[The picture has changed again ...]]></en>
