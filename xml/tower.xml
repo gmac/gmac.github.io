@@ -792,7 +792,7 @@
                 </dia>
                 <dia puppet="vincent" frame="lspeak2" sound="voice/tower_voice.swf:tower0030">
                   <en><![CDATA[But your arrogance fails to recall that your source of power here in Ravenhollow comes from that which I gave you.]]></en>
-                  <de><![CDATA[Aber in Ihrer Arroganz vergessen Sie, dass der Quell Ihrer Macht über Ravenhollow die Erfindung ist, die ICH Ihnen gab.]]></de>
+                  <de><![CDATA[Aber in Ihrer Arroganz vergessen Sie, dass die Quelle Ihrer Macht über Ravenhollow die Erfindung ist, die ICH Ihnen gab.]]></de>
                 </dia>
                 <dia puppet="cain" frame="pointspeak" sound="voice/tower_voice.swf:tower0031">
                   <en><![CDATA[Yes, your hypnosis device was quite helpful; but you clearly still overrate your role here, Goodchild. You still need me to put your colleagues’ inventions to use.]]></en>
