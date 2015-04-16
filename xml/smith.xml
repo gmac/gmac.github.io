@@ -2971,7 +2971,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/smith_voice.swf:smith0084">
                   <en><![CDATA[It’s just a beam of light ... I can’t take it with me.]]></en>
-                  <de><![CDATA[Es ist nur ein Lichtstrahl ... Ich kann ihn nicht nehmen.]]></de>
+                  <de><![CDATA[Es ist nur ein Lichtstrahl ... Ich kann ihn nicht mitnehmen.]]></de>
                 </dia>
               </dialog>
               <script>
