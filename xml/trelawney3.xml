@@ -472,7 +472,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney3_voice.swf:trelawney30001">
                   <en><![CDATA[By the time I get back, I may find new lifeforms in my sink.]]></en>
-                  <de><![CDATA[Ich kann neue Lebensformen in meinem Waschbecken zu finden, wenn ich zurück bin.]]></de>
+                  <de><![CDATA[Ich kann neue Lebensformen in meinem Waschbecken finden, wenn ich zurück bin.]]></de>
                 </dia>
               </dialog>
               <script>
