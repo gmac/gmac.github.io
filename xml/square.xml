@@ -363,7 +363,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square_voice.swf:square0001">
                   <en><![CDATA[But why is it round?]]></en>
-                  <de><![CDATA[Aber warum ist es rund?]]></de>
+                  <de><![CDATA[Aber warum ist er rund?]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1809,7 +1809,7 @@
             </dia>
             <dia puppet="MB_Caro" frame="" sound="voice/square_voice.swf:square0095">
               <en><![CDATA[I wish I could be young again. I’d surely put an eye on you ...]]></en>
-              <de><![CDATA[Ich wünschte, ich könnte nochmal jung sein. Dann würde ich sicherlich ein Auge auf Sie werfen ...]]></de>
+              <de><![CDATA[Ich wünschte, ich könnte nochmal jung sein. Dann würde ich sicherlich ein Auge auf sie werfen ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="lspeak" sound="voice/square_voice.swf:square0096">
               <en><![CDATA[Erm ... That’s very kind of you to say ...]]></en>
