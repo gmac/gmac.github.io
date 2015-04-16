@@ -280,7 +280,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30005">
                   <en><![CDATA[Looks like someone is surprised that his misdeeds lead to a bad end ...]]></en>
-                  <de><![CDATA[Sieht aus wie jemand ist überrascht, dass seine Missetaten führen zu einem schlechten Ende ...]]></de>
+                  <de><![CDATA[Sieht aus als ist jemand überrascht, dass seine Missetaten zu einem schlechten Ende führten ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -422,7 +422,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30017">
                   <en><![CDATA[It looks like Mrs. Caro is helping to take charge of this situation.]]></en>
-                  <de><![CDATA[Es sieht aus wie Frau Caro hilft, Führung in dieser Situation zu nehmen.]]></de>
+                  <de><![CDATA[Es sieht aus, als wenn Frau Caro hilft, die Führung in dieser Situation zu übernehmen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -453,7 +453,7 @@
                 </dia>
                 <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30022">
                   <en><![CDATA[Lowell Cain was clearly not following the Baron’s orders. His whole set of laws and restrictions were a web of lies, and were clearly illegal to begin with.]]></en>
-                  <de><![CDATA[Lowell Cain war eindeutig nicht vom Baron beauftragt. Seine ganzen Gesetze und Beschränkungen waren ein Netz aus Lügen, und sie waren eindeutig von Anfang an illegal.]]></de>
+                  <de><![CDATA[Lowell Cain befolgt eindeutig nicht die Befelhe des Barons. Seine ganzen Gesetze und Beschränkungen waren ein Netz aus Lügen, und sie waren eindeutig von Anfang an illegal.]]></de>
                 </dia>
                 <dia puppet="mbcaro" frame="" sound="voice/tower3_voice.swf:tower30023">
                   <en><![CDATA[Lionstone will be organizing an election. If you ask me Sir Wavetamer should run for mayor.]]></en>
@@ -1046,7 +1046,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30053">
                   <en><![CDATA[Hey, I actually remember that one from Latin class ... “Bad beginnings lead to bad endings.”]]></en>
-                  <de><![CDATA[Hey, habe ich eigentlich daran erinnern, dass einer aus dem Latein-Kurse ... “Bad Anfänge führen zu schlechten Enden.”]]></de>
+                  <de><![CDATA[Hey, habe ich eigentlich daran erinnern, dass einer aus dem Latein-Kurse ... “Schlechte Anfänge führen zu schlechten Enden.”]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/tower3_voice.swf:tower30053">
                   <en><![CDATA[How fitting.]]></en>
