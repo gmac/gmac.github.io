@@ -1903,7 +1903,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30106">
                   <en><![CDATA[Mr. Caro has a reason to celebrate ... he can finally attend his Nature Friends Society congress.]]></en>
-                  <de><![CDATA[Herr Caro hat Grund zum Feiern ... er kann endlich wieder an den Treffen seiner Gesellschaft der Freunde der Natur teilnehmen.]]></de>
+                  <de><![CDATA[Herr Caro hat Grund zum Feiern ... er kann endlich wieder an den Treffen seiner Gesellschaft der Naturfreunde teilnehmen.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -2142,7 +2142,7 @@
             </dia>
             <dia puppet="juggler" frame="" sound="voice/square3_voice.swf:square30133">
               <en><![CDATA[Why yes! A man named Lionstone passed by our camp this morning and invited us to reopen our cart.]]></en>
-              <de><![CDATA[Ja! Ein Mann namens Lionstone kam heute Morgen an unserem Lager vorbei und lud uns ein, unseren Wagen zu öffnen.]]></de>
+              <de><![CDATA[Ja! Ein Mann namens Lionstone kam heute morgen an unserem Lager vorbei und lud uns ein, unseren Wagen zu öffnen.]]></de>
             </dia>
             <dia puppet="juggler" frame="" sound="voice/square3_voice.swf:square30134">
               <en><![CDATA[So tonight we celebrate the decline of the Northwest Restoration!]]></en>
