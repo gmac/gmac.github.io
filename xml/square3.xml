@@ -465,7 +465,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30007">
                   <en><![CDATA[The Ravenhollow Inn. It looks like a fine place for a quiet drink.]]></en>
-                  <de><![CDATA[Das Wirtshaus von Ravenhollow.Sieht aus wie ein guter Ort für einen Drink.]]></de>
+                  <de><![CDATA[Das Wirtshaus von Ravenhollow. Sieht aus wie ein guter Ort für einen Drink.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -857,11 +857,11 @@
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/square3_voice.swf:square30018">
                   <en><![CDATA[Lionstone is organizing an election. Wavetamer and some others already went up to the Castle.]]></en>
-                  <de><![CDATA[Lionstone organisiert Wahlen. Wavetamer und einige andere sind schon hoch zum Schloss gegangen.]]></de>
+                  <de><![CDATA[Lionstone organisiert eine Wahl. Wavetamer und einige andere sind schon hoch zum Schloss gegangen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/square3_voice.swf:square30019">
                   <en><![CDATA[Mr. Lionstone is organizing an election?]]></en>
-                  <de><![CDATA[Herr Lionstone organisiert Wahlen?]]></de>
+                  <de><![CDATA[Herr Lionstone organisiert eine Wahl?]]></de>
                 </dia>
                 <dia puppet="webb" frame="" sound="voice/square3_voice.swf:square30020">
                   <en><![CDATA[The old guy is just as energetic as in the old days. He believes that with a proper mayor in office, Ravenhollow won’t be falling victim to the likes of Lowell Cain in the future.]]></en>
