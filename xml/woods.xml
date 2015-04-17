@@ -468,7 +468,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods_voice.swf:woods0006">
                   <en><![CDATA[With these thorny roses covering the gate I won’t be able to open it.]]></en>
-                  <de><![CDATA[Solange diese dornigen Rosen weg sind, komme ich nicht an das Tor ran.]]></de>
+                  <de><![CDATA[Solange diese dornigen Rosen im Weg sind, komme ich nicht an das Tor ran.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1421,7 +1421,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/woods_voice.swf:woods0039">
                   <en><![CDATA[Look at that. There was another star plate hidden underneath the rose ornament.]]></en>
-                  <de><![CDATA[Na sowas. Unter dem Rosenornament war noch eine Platte mit Stern versteckt.]]></de>
+                  <de><![CDATA[Na sowas. Unter dem Rosenornament war noch eine Platte mit einem Stern versteckt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1466,7 +1466,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/woods_voice.swf:woods0043">
                   <en><![CDATA[Look at that. There was another star plate hidden underneath the rose ornament.]]></en>
-                  <de><![CDATA[Na sowas. Unter dem Rosenornament war noch eine Platte mit Stern versteckt.]]></de>
+                  <de><![CDATA[Na sowas. Unter dem Rosenornament war noch eine Platte mit einem Stern versteckt.]]></de>
                 </dia>
               </dialog>
               <script>
