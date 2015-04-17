@@ -34,7 +34,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0718">
             <en><![CDATA[It’s not all that interesting.]]></en>
-            <de><![CDATA[Auch ein genauer Blick macht dies nicht interessanter.]]></de>
+            <de><![CDATA[Es ist gar nicht so interessant.]]></de>
           </dia>
         </dialog>
         <script>
@@ -128,7 +128,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0730">
             <en><![CDATA[It’s not all that interesting.]]></en>
-            <de><![CDATA[Na, so interessant ist das wirklich nicht.]]></de>
+            <de><![CDATA[Es ist gar nicht so interessant.]]></de>
           </dia>
         </dialog>
         <script>
@@ -864,7 +864,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0113">
             <en><![CDATA[I’ve finally traveled through time like one of the science fiction heros that I read about, but who is my companion...?]]></en>
-            <de><![CDATA[Endlich bin ich ein Zeitreisender wie die Leute in meinen Science-Fiction-Magazinen, und wer begleitet mich...?]]></de>
+            <de><![CDATA[Endlich bin ich ein Zeitreisender wie die Leute in meinen Science-Fiction-Magazinen, aber wer begleitet mich...?]]></de>
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0114">
             <en><![CDATA[A dead fish.]]></en>
@@ -3415,7 +3415,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0275">
             <en><![CDATA[I should stop carrying around dead fish.]]></en>
-            <de><![CDATA[Ich sollte aufhören, tote Fisch mit mir rumzutragen.]]></de>
+            <de><![CDATA[Ich sollte aufhören, tote Fische mit mir rumzutragen.]]></de>
           </dia>
         </dialog>
         <script>
