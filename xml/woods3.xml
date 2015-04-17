@@ -1422,7 +1422,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30047">
-                  <en><![CDATA[No. This waistcoat is a bit restrictive for climing trees.]]></en>
+                  <en><![CDATA[No. This waistcoat is a bit restrictive for climbing trees.]]></en>
                   <de><![CDATA[Nein. Diese Weste ist ein wenig einschränkend, um Bäume zu klettern.]]></de>
                 </dia>
               </dialog>
