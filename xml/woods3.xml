@@ -745,7 +745,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
                   <en><![CDATA[It’s already recessed.]]></en>
-                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
+                  <de><![CDATA[Es wurde bereits gedrückt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -854,7 +854,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
                   <en><![CDATA[It’s already recessed.]]></en>
-                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
+                  <de><![CDATA[Es wurde bereits gedrückt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -959,7 +959,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
                   <en><![CDATA[It’s already recessed.]]></en>
-                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
+                  <de><![CDATA[Es wurde bereits gedrückt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1064,7 +1064,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
                   <en><![CDATA[It’s already recessed.]]></en>
-                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
+                  <de><![CDATA[Es wurde bereits gedrückt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1169,7 +1169,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30022">
                   <en><![CDATA[It’s already recessed.]]></en>
-                  <de><![CDATA[Es wurde bereits gedrückt wurde.]]></de>
+                  <de><![CDATA[Es wurde bereits gedrückt.]]></de>
                 </dia>
               </dialog>
               <script>
@@ -1423,7 +1423,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/woods3_voice.swf:woods30047">
                   <en><![CDATA[No. This waistcoat is a bit restrictive for climing trees.]]></en>
-                  <de><![CDATA[Nein. Schränkt diese Weste climing Bäumen.]]></de>
+                  <de><![CDATA[Nein. Diese Weste ist ein wenig einschränkend, um Bäume zu klettern.]]></de>
                 </dia>
               </dialog>
               <script>
