@@ -506,7 +506,7 @@
                 </dia>
                 <dia puppet="stephan" frame="" sound="voice/yard_voice.swf:yard0014">
                   <en><![CDATA[Dr. LeMue-LaFayette told me that you found the statue and asked him to bring it to me.]]></en>
-                  <de><![CDATA[Dr. LeMue LaFayette sagte mir, dass Sie die Statue gefunden haben und sieh ihn baten, sie mir zu bringen.]]></de>
+                  <de><![CDATA[Dr. LeMue LaFayette sagte mir, dass Sie die Statue gefunden haben und Sie ihn baten, sie mir zu bringen.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/yard_voice.swf:yard0015">
                   <en><![CDATA[Well, I could not have done it without his help.]]></en>
