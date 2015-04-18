@@ -16,7 +16,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0403">
                   <en><![CDATA[He seems to be documenting how much fish the fishermen caught today ...]]></en>
-                  <de><![CDATA[Er scheint zu dokumentieren, wie viel Fisch die Fischer heute gefangen haben ...]]></de>
+                  <de><![CDATA[Er scheint zu dokumentieren, wie viel Fische die Fischer heute gefangen haben ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -566,7 +566,7 @@
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0444">
                   <en><![CDATA[I’m actually trying to focus this telescope. The lenses are loose so I can barely make out what I’m looking at.]]></en>
-                  <de><![CDATA[Ich versuche nur, dieses Teleskop zu fokussieren. Die Linsen sind so lose, dass ich kaum erkennen kann, was ich überhaupt betrachte.]]></de>
+                  <de><![CDATA[Ich versuche nur, dieses Teleskop zu fokusieren. Die Linsen sind so lose, dass ich kaum erkennen kann, was ich überhaupt betrachte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0445">
                   <en><![CDATA[If that telescope is broken then you should probably refrain from using it ... it might be bad for your eyes.]]></en>
@@ -2619,7 +2619,7 @@
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0679">
               <en><![CDATA[The lenses are so loose that I can barely make it focus anymore.]]></en>
-              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokussieren kann.]]></de>
+              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokusieren kann.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0680">
               <en><![CDATA[Well if it’s that useless, then why not get rid of it? Or better yet, give it to me! I’m sure I could find a use for it.]]></en>
@@ -2667,7 +2667,7 @@
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0688">
               <en><![CDATA[The lenses are so loose that I can barely make it focus anymore.]]></en>
-              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokussieren kann.]]></de>
+              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokusieren kann.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0685">
               <en><![CDATA[I would gladly trade this telescope for a map that would guide The Sparrow safely into Malabo.]]></en>
@@ -3583,7 +3583,7 @@
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0837">
               <en><![CDATA[I haven’t beat him gambling one single time in three weeks. Impressive, no?]]></en>
-              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, no?]]></de>
+              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, gel?]]></de>
             </dia>
           </dialog>
           <script>
@@ -3626,7 +3626,7 @@
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0845">
               <en><![CDATA[I haven’t beat him gambling one single time in three weeks. Impressive, no?]]></en>
-              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, no?]]></de>
+              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, gel?]]></de>
             </dia>
           </dialog>
           <script>
