@@ -2796,7 +2796,7 @@
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0158">
                   <en><![CDATA[Don’t be down, my friend. Lady Luck will smile on you soon!]]></en>
-                  <de><![CDATA[Lassen Sie den Kopf nicht hängen, mein Freund. Die Glücksfee wird bald auch Sie küssen!]]></de>
+                  <de><![CDATA[Lassen Sie den Kopf nicht hängen, mein Freund. Die Glücksfee wird Sie auch bald küssen!]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0159">
                   <en><![CDATA[So let’s play again some time, si?]]></en>
@@ -2909,7 +2909,7 @@
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0173">
                   <en><![CDATA[Let the dice roll! Rien ne va plus!]]></en>
-                  <de><![CDATA[Lassen wir die Würfel rollen! Rien ne va plus!]]></de>
+                  <de><![CDATA[Lassen wir die Würfel rollen! Nichts geht mehr! Rien ne va plus!]]></de>
                 </dia>
                 <dia puppet="juego" frame="2speak" sound="voice/harbor_voice.swf:harbor0174">
                   <en><![CDATA[I lost!? How is this possible!?]]></en>
@@ -3347,7 +3347,7 @@
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0221">
                   <en><![CDATA[Well, it seems we have a common adversary then.]]></en>
-                  <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Prolem.]]></de>
+                  <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Problem.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0222">
                   <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free Kingdom of Malabo.]]></en>
@@ -4026,7 +4026,7 @@
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0292">
                   <en><![CDATA[Well, it seems we have a common adversary then.]]></en>
-                  <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Prolem.]]></de>
+                  <de><![CDATA[Nun, sieht so aus, als hätten wir ein gemeinsames Problem.]]></de>
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0293">
                   <en><![CDATA[I am Captain Moni Amayi, official trading representative of the free Kingdom of Malabo.]]></en>
@@ -4566,7 +4566,7 @@
                 </dia>
                 <dia puppet="lars" frame="" sound="voice/harbor_voice.swf:harbor0320">
                   <en><![CDATA[Here, please take this fishing leader in trade! It’s not much, but it’s the best a fisherman can offer.]]></en>
-                  <de><![CDATA[Hier, bitte nehmen Sie im Gegenzug diese Angelschnur mit Vorfach! Es ist nicht viel, doch es ist das Beste, was ein Angler wie ich anzubieten hat.]]></de>
+                  <de><![CDATA[Hier, bitte nehmen Sie im Gegenzug diese Angelschnur! Es ist nicht viel, doch es ist das Beste, was ein Angler wie ich anzubieten hat.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0321">
                   <en><![CDATA[Thanks! I’ll put it to good use.]]></en>
@@ -4762,7 +4762,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0371">
                   <en><![CDATA[What do you mean, they did “something” to the sailor?]]></en>
-                  <de><![CDATA[Was meinen Sie mit sie stellten “irgendetwas” mit dem Seemann an?]]></de>
+                  <de><![CDATA[Was meinen Sie damit, sie stellten “irgendetwas” mit dem Seemann an?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0372">
                   <en><![CDATA[Well, one of the castle guards held a strange flashing light in front of him. It made a peculiar buzzing noise, like a vile beetle.]]></en>
@@ -4882,7 +4882,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0371">
                   <en><![CDATA[What do you mean, they did “something” to the sailor?]]></en>
-                  <de><![CDATA[Was meinen Sie mit sie stellten “irgendetwas” mit dem Seemann an?]]></de>
+                  <de><![CDATA[Was meinen Sie damit, sie stellten “irgendetwas” mit dem Seemann an?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0372">
                   <en><![CDATA[Well, one of the castle guards held a strange flashing light in front of him. It made a peculiar buzzing noise, like a vile beetle.]]></en>
@@ -5039,7 +5039,7 @@
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0369">
                   <en><![CDATA[Your acting talent probably saved you from getting arrested, like that old man you were talking to.]]></en>
-                  <de><![CDATA[Ihr Schauspieltalent bewahrte Sie vermutlich davor, verhaftet zu werden, wie dieser alte Mann, mit dem Sie gesprochen habenen.]]></de>
+                  <de><![CDATA[Ihr Schauspieltalent bewahrte Sie vermutlich davor, verhaftet zu werden, wie dieser alte Mann, mit dem Sie gesprochen haben.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="lspeak" sound="voice/harbor_voice.swf:harbor0370">
                   <en><![CDATA[I’m sure they took the old man to the Castle. And they did ... something ... to the sailor.]]></en>
@@ -5047,7 +5047,7 @@
                 </dia>
                 <dia puppet="_avatar" frame="lspeak" sound="voice/harbor_voice.swf:harbor0371">
                   <en><![CDATA[What do you mean, they did “something” to the sailor?]]></en>
-                  <de><![CDATA[Was meinen Sie mit sie stellten “irgendetwas” mit dem Seemann an?]]></de>
+                  <de><![CDATA[Was meinen Sie damit, sie stellten “irgendetwas” mit dem Seemann an?]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0372">
                   <en><![CDATA[Well, one of the castle guards held a strange flashing light in front of him. It made a peculiar buzzing noise, like a vile beetle.]]></en>
@@ -5228,7 +5228,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0391">
                   <en><![CDATA[Look what I found in that storage chest in Boathouse Eight ...]]></en>
-                  <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
+                  <de><![CDATA[Sehen Sie, was ich in dieser Truhe im Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0392">
                   <en><![CDATA[Pretzeljax? What a find!]]></en>
@@ -5259,7 +5259,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0395">
                   <en><![CDATA[Look what I found in that storage chest in Boathouse Eight ...]]></en>
-                  <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
+                  <de><![CDATA[Sehen Sie, was ich in dieser Truhe im Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0396">
                   <en><![CDATA[Pretzeljax? What a find!]]></en>
@@ -5290,7 +5290,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0399">
                   <en><![CDATA[Look what I found in that storage chest in Boathouse Eight ...]]></en>
-                  <de><![CDATA[Sehen Sie, was ich in dieser Truhe in Bootshaus Acht gefunden habe ...]]></de>
+                  <de><![CDATA[Sehen Sie, was ich in dieser Truhe im Bootshaus Acht gefunden habe ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0400">
                   <en><![CDATA[That must be Captain Amayi’s ship log ...]]></en>
@@ -5346,7 +5346,7 @@
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0403">
                   <en><![CDATA[He seems to be documenting how much fish the fishermen caught today ...]]></en>
-                  <de><![CDATA[Er scheint zu dokumentieren, wie viel Fisch die Fischer heute gefangen haben ...]]></de>
+                  <de><![CDATA[Er scheint zu dokumentieren, wie viel Fische die Fischer heute gefangen haben ...]]></de>
                 </dia>
               </dialog>
               <script>
@@ -5896,7 +5896,7 @@
                 </dia>
                 <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0444">
                   <en><![CDATA[I’m actually trying to focus this telescope. The lenses are loose so I can barely make out what I’m looking at.]]></en>
-                  <de><![CDATA[Ich versuche nur, dieses Teleskop zu fokussieren. Die Linsen sind so lose, dass ich kaum erkennen kann, was ich überhaupt betrachte.]]></de>
+                  <de><![CDATA[Ich versuche nur, dieses Teleskop zu fokusieren. Die Linsen sind so lose, dass ich kaum erkennen kann, was ich überhaupt betrachte.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0445">
                   <en><![CDATA[If that telescope is broken then you should probably refrain from using it ... it might be bad for your eyes.]]></en>
@@ -7949,7 +7949,7 @@
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0679">
               <en><![CDATA[The lenses are so loose that I can barely make it focus anymore.]]></en>
-              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokussieren kann.]]></de>
+              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokusieren kann.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/harbor_voice.swf:harbor0680">
               <en><![CDATA[Well if it’s that useless, then why not get rid of it? Or better yet, give it to me! I’m sure I could find a use for it.]]></en>
@@ -7997,7 +7997,7 @@
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0688">
               <en><![CDATA[The lenses are so loose that I can barely make it focus anymore.]]></en>
-              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokussieren kann.]]></de>
+              <de><![CDATA[Die Linsen sind so lose, dass ich es kaum noch fokusieren kann.]]></de>
             </dia>
             <dia puppet="amayi2" frame="" sound="voice/harbor_voice.swf:harbor0685">
               <en><![CDATA[I would gladly trade this telescope for a map that would guide The Sparrow safely into Malabo.]]></en>
@@ -8913,7 +8913,7 @@
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0837">
               <en><![CDATA[I haven’t beat him gambling one single time in three weeks. Impressive, no?]]></en>
-              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, no?]]></de>
+              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, gel?]]></de>
             </dia>
           </dialog>
           <script>
@@ -8956,7 +8956,7 @@
             </dia>
             <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0845">
               <en><![CDATA[I haven’t beat him gambling one single time in three weeks. Impressive, no?]]></en>
-              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, no?]]></de>
+              <de><![CDATA[Ich habe in drei Wochen noch kein einziges Mal gegen ihn gewonnen. Beeindruckend, gel?]]></de>
             </dia>
           </dialog>
           <script>

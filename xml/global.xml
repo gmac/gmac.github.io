@@ -34,7 +34,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0718">
             <en><![CDATA[It’s not all that interesting.]]></en>
-            <de><![CDATA[Auch ein genauer Blick macht dies nicht interessanter.]]></de>
+            <de><![CDATA[Es ist gar nicht so interessant.]]></de>
           </dia>
         </dialog>
         <script>
@@ -128,7 +128,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0730">
             <en><![CDATA[It’s not all that interesting.]]></en>
-            <de><![CDATA[Na, so interessant ist das wirklich nicht.]]></de>
+            <de><![CDATA[Es ist gar nicht so interessant.]]></de>
           </dia>
         </dialog>
         <script>
@@ -864,7 +864,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0113">
             <en><![CDATA[I’ve finally traveled through time like one of the science fiction heros that I read about, but who is my companion...?]]></en>
-            <de><![CDATA[Endlich bin ich ein Zeitreisender wie die Leute in meinen Science-Fiction-Magazinen, und wer begleitet mich...?]]></de>
+            <de><![CDATA[Endlich bin ich ein Zeitreisender wie die Leute in meinen Science-Fiction-Magazinen, aber wer begleitet mich...?]]></de>
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0114">
             <en><![CDATA[A dead fish.]]></en>
@@ -3415,7 +3415,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0275">
             <en><![CDATA[I should stop carrying around dead fish.]]></en>
-            <de><![CDATA[Ich sollte aufhören, tote Fisch mit mir rumzutragen.]]></de>
+            <de><![CDATA[Ich sollte aufhören, tote Fische mit mir rumzutragen.]]></de>
           </dia>
         </dialog>
         <script>
@@ -5988,7 +5988,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0422">
             <en><![CDATA[I wonder if anyone outside Ravenhollow ever knew what was happening here.]]></en>
-            <de><![CDATA[Ich frage mich, ob irgendjemand außerhalb von Ravenhollow jemals erfahren wird, was hier geschieht.]]></de>
+            <de><![CDATA[Ich frage mich, ob irgendjemand außerhalb von Ravenhollow jemals erfahren wird, was hier geschah.]]></de>
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0423">
             <en><![CDATA[At least it looks like the paper is being delivered again, that’s a good sign.]]></en>
@@ -6812,7 +6812,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0472">
             <en><![CDATA[The plug components are still in good condition, though the cable is useless.]]></en>
-            <de><![CDATA[Die Steckerkomponenten sind noch in gutem Zustand, das Kabel nutzlos ist.]]></de>
+            <de><![CDATA[Die Steckerkomponenten sind noch in gutem Zustand, aber das Kabel ist nutzlos.]]></de>
           </dia>
         </dialog>
         <script>
@@ -7394,7 +7394,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0509">
             <en><![CDATA[I wonder if Dr. Coppelius is in the Castle right now?]]></en>
-            <de><![CDATA[Ich frage mich, ob Dr. Coppelius sich jetzt im im befindet?]]></de>
+            <de><![CDATA[Ich frage mich, ob Dr. Coppelius sich jetzt im Schloss befindet?]]></de>
           </dia>
         </dialog>
         <script>
@@ -10645,7 +10645,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0686">
             <en><![CDATA[There are lots of trinkets attached to it ... and Professor Zygmunt’s insignia ring!]]></en>
-            <de><![CDATA[Da ist ein Haufen Zeug daran befestigt. Und Prof. Zygmunts Siegelring!]]></de>
+            <de><![CDATA[Da ist ein Haufen Zeug daran befestigt... und Prof. Zygmunts Siegelring!]]></de>
           </dia>
         </dialog>
         <script>
@@ -10897,7 +10897,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0700">
             <en><![CDATA[I should try to find the lawyer who signed this will ... I think the signature reads “Lionstone”. Maybe someone can tell me where to find him?]]></en>
-            <de><![CDATA[Ich sollte versuchen, den Anwalt zu finden, der hier zusammen mit meinem Vater unterzeichnet jat. Ich glaube, dass da “Lionstone” steht. Vielleicht kann mir jemand sagen, wo ich diesen Mann finde.]]></de>
+            <de><![CDATA[Ich sollte versuchen, den Anwalt zu finden, der hier zusammen mit meinem Vater unterzeichnet hat. Ich glaube, dass da “Lionstone” steht. Vielleicht kann mir jemand sagen, wo ich diesen Mann finde.]]></de>
           </dia>
         </dialog>
         <script>
@@ -11496,7 +11496,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0018">
             <en><![CDATA[No. Even Mr. Boots’ favorite bowl cannot make this gross fish look appealing.]]></en>
-            <de><![CDATA[Nein. Dass dieser brutto Fisch selbst in Mr. Boots Lieblingsschüssel ansprechend aussehen würde.]]></de>
+            <de><![CDATA[Nein. Nicht einmal Herr Boots Lieblingsschüssel kann diesen ekeligen Fisch ansprechend aussehen lassen.]]></de>
           </dia>
         </dialog>
         <script>
@@ -11560,7 +11560,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0025">
             <en><![CDATA[Okay, I’ve attached the plug connectors to the insulated handle bar.]]></en>
-            <de><![CDATA[Okay, ich habe die Steckverbindungen an den isolierten Griffstange befestigt.]]></de>
+            <de><![CDATA[Okay, ich habe die Steckverbindungen an der isolierten Griffstange befestigt.]]></de>
           </dia>
         </dialog>
         <script>
@@ -11579,7 +11579,7 @@
         <dialog>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0026">
             <en><![CDATA[Good idea, but the torch wicks must be soaked in lamp oil before they can be lit.]]></en>
-            <de><![CDATA[Gute idee, doch dass die Fackeldochte mit Lampenöl getränkt werden müssen, bevor man sie entzünden kann.]]></de>
+            <de><![CDATA[Gute Idee, doch die Fackeldochte müssen mit Lampenöl getränkt werden, bevor man sie anzünden kann.]]></de>
           </dia>
         </dialog>
         <script>
@@ -11889,7 +11889,7 @@
           </dia>
           <dia puppet="_avatar" frame="" sound="voice/global_voice.swf:global0048">
             <en><![CDATA[... but remember: with great slingshot power, comes great slingshot responsibility.]]></en>
-            <de><![CDATA[... doch denke daran: Mit der Macht der Steinschleuder, kommt die Steinschleuder Verantwortung.]]></de>
+            <de><![CDATA[... doch denke daran: Mit der Macht der Steinschleuder kommt grosse Steinschleuder-Verantwortung.]]></de>
           </dia>
         </dialog>
         <script>
