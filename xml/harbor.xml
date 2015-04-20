@@ -2904,12 +2904,12 @@
                   <de><![CDATA[Sehr gut! Stellen Sie sie auf den Tisch!]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="speak5" sound="voice/harbor_voice.swf:harbor0172">
-                  <en><![CDATA[Let’s see what my magnetized statuette does to Juego’s &#8222;lucky&#8220; dice.]]></en>
-                  <de><![CDATA[Mal sehen, was meine magnetisierte Statue mit Juegos &#8222;Glückswürfeln&#8220; anstellt.]]></de>
+                  <en><![CDATA[Let’s see what my magnetized statuette does to Juego’s “lucky” dice.]]></en>
+                  <de><![CDATA[Mal sehen, was meine magnetisierte Statue mit Juegos “Glückswürfeln” anstellt.]]></de>
                 </dia>
                 <dia puppet="juego" frame="" sound="voice/harbor_voice.swf:harbor0173">
                   <en><![CDATA[Let the dice roll! Rien ne va plus!]]></en>
-                  <de><![CDATA[Lassen wir die Würfel rollen! Nichts geht mehr! Rien ne va plus!]]></de>
+                  <de><![CDATA[Lassen wir die Würfel rollen! Rien ne va plus!]]></de>
                 </dia>
                 <dia puppet="juego" frame="2speak" sound="voice/harbor_voice.swf:harbor0174">
                   <en><![CDATA[I lost!? How is this possible!?]]></en>
