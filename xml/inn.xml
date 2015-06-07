@@ -1659,8 +1659,8 @@
                   <de><![CDATA[Lionstone ... bitte, dass wissen Sie doch nicht.  Wir ...]]></de>
                 </dia>
                 <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0097">
-                  <en><![CDATA[... should stay out of trouble and shut up&mdash;right, Webb? And YOU are wondering why I drink too much?!]]></en>
-                  <de><![CDATA[... sollten uns da raushalten und still sein&mdash;ja, Webb? Und SIE fragen sich, warum ich zu viel trinke?!]]></de>
+                  <en><![CDATA[... should stay out of trouble and shut up&#8212;right, Webb? And YOU are wondering why I drink too much?!]]></en>
+                  <de><![CDATA[... sollten uns da raushalten und still sein&#8212;ja, Webb? Und SIE fragen sich, warum ich zu viel trinke?!]]></de>
                 </dia>
               </dialog>
               <script>
@@ -3821,8 +3821,8 @@
               <de><![CDATA[... und nach sechs Monaten hatte ich keine andere Wahl, als ihn für tot erklären zu lassen und sein Testament zu öffnen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0298">
-              <en><![CDATA[He wanted you&mdash;his son&mdash;to be his sole heir. He had included a photograph and a ring that I was supposed to send to you. Do you have them?]]></en>
-              <de><![CDATA[Er machte Sie&mdash;seinen Sohn&mdash;zum Alleinerben. In seinem Testament waren ein Foto und ein Ring, die ich Ihnen schicken sollte. Haben Sie das noch?]]></de>
+              <en><![CDATA[He wanted you&#8212;his son&#8212;to be his sole heir. He had included a photograph and a ring that I was supposed to send to you. Do you have them?]]></en>
+              <de><![CDATA[Er machte Sie&#8212;seinen Sohn&#8212;zum Alleinerben. In seinem Testament waren ein Foto und ein Ring, die ich Ihnen schicken sollte. Haben Sie das noch?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0299">
               <en><![CDATA[The ring, yes. But I lost the photograph to this girl down in the boathouse who ...]]></en>
@@ -3884,8 +3884,8 @@
               <de><![CDATA[... und nach sechs Monaten hatte ich keine andere Wahl, als ihn für tot erklären zu lassen und sein Testament zu öffnen.]]></de>
             </dia>
             <dia puppet="lionstone" frame="" sound="voice/inn_voice.swf:inn0298">
-              <en><![CDATA[He wanted you&mdash;his son&mdash;to be his sole heir. He had included a photograph and a ring that I was supposed to send to you. Do you have them?]]></en>
-              <de><![CDATA[Er machte Sie&mdash;seinen Sohn&mdash;zum Alleinerben. In seinem Testament waren ein Foto und ein Ring, die ich Ihnen schicken sollte. Haben Sie das noch?]]></de>
+              <en><![CDATA[He wanted you&#8212;his son&#8212;to be his sole heir. He had included a photograph and a ring that I was supposed to send to you. Do you have them?]]></en>
+              <de><![CDATA[Er machte Sie&#8212;seinen Sohn&#8212;zum Alleinerben. In seinem Testament waren ein Foto und ein Ring, die ich Ihnen schicken sollte. Haben Sie das noch?]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0312">
               <en><![CDATA[The ring, yes. But I lost the photograph to this girl down in the boathouse who ...]]></en>
@@ -5225,7 +5225,7 @@
               <de><![CDATA[Und es ist unvorstellbar zu erwarten, dass er sich jemals mit einem so erbärmlichen Subjekt wie Ihnen unterhalten würde.]]></de>
             </dia>
             <dia puppet="cain" frame="pointspeak" sound="voice/inn_voice.swf:inn0552">
-              <en><![CDATA[I can only give you the advice to leave Ravenhollow and give up this folly quest that you’ve bestowed upon yourself.]]></en>
+              <en><![CDATA[I can only give you the advice to leave Ravenhollow, and give up this folly quest that you’ve bestowed upon yourself.]]></en>
               <de><![CDATA[Ich kann Ihnen nur den Rat geben, Ravenhollow zu verlassen und diese törichte Suche aufzugeben, in die Sie sich verrannt haben.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0553">
@@ -5364,7 +5364,7 @@
               <de><![CDATA[Und es ist unvorstellbar zu erwarten, dass er sich jemals mit einem so erbärmlichen Subjekt wie Ihnen unterhalten würde.]]></de>
             </dia>
             <dia puppet="cain" frame="pointspeak" sound="voice/inn_voice.swf:inn0575">
-              <en><![CDATA[I can only give you the advice to leave Ravenhollow and give up this folly quest that you’ve bestowed upon yourself.]]></en>
+              <en><![CDATA[I can only give you the advice to leave Ravenhollow, and give up this folly quest that you’ve bestowed upon yourself.]]></en>
               <de><![CDATA[Ich kann Ihnen nur den Rat geben, Ravenhollow zu verlassen und diese törichte Suche aufzugeben, in die Sie sich verrannt haben.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0576">
@@ -5503,7 +5503,7 @@
               <de><![CDATA[Und es ist unvorstellbar zu erwarten, dass er sich jemals mit einem so erbärmlichen Subjekt wie Ihnen unterhalten würde.]]></de>
             </dia>
             <dia puppet="cain" frame="pointspeak" sound="voice/inn_voice.swf:inn0598">
-              <en><![CDATA[I can only give you the advice to leave Ravenhollow and give up this folly quest that you’ve bestowed upon yourself.]]></en>
+              <en><![CDATA[I can only give you the advice to leave Ravenhollow, and give up this folly quest that you’ve bestowed upon yourself.]]></en>
               <de><![CDATA[Ich kann Ihnen nur den Rat geben, Ravenhollow zu verlassen und diese törichte Suche aufzugeben, in die Sie sich verrannt haben.]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/inn_voice.swf:inn0599">
@@ -5640,19 +5640,19 @@
               <de><![CDATA[Das ist sehr gut für Herrn Webster und deshalb durfte er auch &#8212; zumindest bis jetzt &#8212; sein Wirtshaus weiterführen, dank der Duldung durch den Baron.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0543">
-              <en><![CDATA[The Castle has supported this place even though at its best it is little more than a gallery of drunken failures like Mr. Lionstone.]]></en>
-              <de><![CDATA[Das Schloss hat diesen Laden geduldet, auch wenn er nicht mehr als eine Galerie armseliger Trunkenbolde wie Herrn Lionstone ist. ]]></de>
+              <en><![CDATA[The Castle has supported this place even though at its best it is little more than a gallery of drunken failures ... like Mr. Lionstone.]]></en>
+              <de><![CDATA[Das Schloss hat diesen Laden geduldet, auch wenn er nicht mehr als eine Galerie armseliger Trunkenbolde wie Herrn Lionstone ist.]]></de>
             </dia>
             <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0544">
               <en><![CDATA[At your service.]]></en>
               <de><![CDATA[Zu Ihren Diensten.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0545">
-              <en><![CDATA[Now, Mr. Trelawney, I have to tell you that a decision about your father’s estate can only be made by the Baron.]]></en>
-              <de><![CDATA[Also, Herr Trelawney, ich muss Ihnen mitteilen, dass eine Entscheidung über den Nachlass Ihres Vaters nur vom Baron getroffen werden kann.]]></de>
+              <en><![CDATA[Now Mr. Trelawney, I have to tell you that a decision about your father’s estate can only be made by the Baron.]]></en>
+              <de><![CDATA[Also Herr Trelawney, ich muss Ihnen mitteilen, dass eine Entscheidung über den Nachlass Ihres Vaters nur vom Baron getroffen werden kann.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0546">
-              <en><![CDATA[There is no use in asking for the help of Mr Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
+              <en><![CDATA[There is no use in asking for the help of Mr. Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
               <de><![CDATA[Es ist sinnlos, Herrn Lionstone oder eine andere ähnlich bemitleidenswerte Kreatur, die hier Unterschlupf und die berauschende Wirkung billigsten Alkohols sucht, um Hilfe zu bitten.]]></de>
             </dia>
           </dialog>
@@ -5685,19 +5685,19 @@
               <de><![CDATA[Das ist sehr gut für Herrn Webster und deshalb durfte er auch &#8212; zumindest bis jetzt &#8212; sein Wirtshaus weiterführen, dank der Duldung durch den Baron.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0620">
-              <en><![CDATA[The Castle has supported this place even though at its best it is little more than a gallery of drunken failures like Mr. Lionstone.]]></en>
-              <de><![CDATA[Das Schloss hat diesen Laden geduldet, auch wenn er nicht mehr als eine Galerie armseliger Trunkenbolde wie Herrn Lionstone ist. ]]></de>
+              <en><![CDATA[The Castle has supported this place even though at its best it is little more than a gallery of drunken failures ... like Mr. Lionstone.]]></en>
+              <de><![CDATA[Das Schloss hat diesen Laden geduldet, auch wenn er nicht mehr als eine Galerie armseliger Trunkenbolde wie Herrn Lionstone ist.]]></de>
             </dia>
             <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0621">
               <en><![CDATA[At your service.]]></en>
               <de><![CDATA[Zu Ihren Diensten.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0622">
-              <en><![CDATA[Now, Mr. Trelawney, I have to tell you that a decision about your father’s estate can only be made by the Baron.]]></en>
-              <de><![CDATA[Also, Herr Trelawney, ich muss Ihnen mitteilen, dass eine Entscheidung zu dem Nachlass Ihres Vaters nur vom Baron getroffen werden kann.]]></de>
+              <en><![CDATA[Now Mr. Trelawney, I have to tell you that a decision about your father’s estate can only be made by the Baron.]]></en>
+              <de><![CDATA[Also Herr Trelawney, ich muss Ihnen mitteilen, dass eine Entscheidung zu dem Nachlass Ihres Vaters nur vom Baron getroffen werden kann.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0623">
-              <en><![CDATA[There is no use in asking for the help of Mr Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
+              <en><![CDATA[There is no use in asking for the help of Mr. Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
               <de><![CDATA[Es ist sinnlos, Herrn Lionstone oder eine andere, ähnlich bemitleidenswerte Kreatur, die hier Unterschlupf und die berauschende Wirkung billigsten Alkohols sucht, um Hilfe zu bitten.]]></de>
             </dia>
           </dialog>
@@ -5730,19 +5730,19 @@
               <de><![CDATA[Das ist sehr gut für Herrn Webster und deshalb durfte er auch &#8212; zumindest bis jetzt &#8212; sein Wirtshaus weiterführen, dank der Duldung durch den Baron.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0628">
-              <en><![CDATA[The Castle has supported this place even though at its best it is little more than a gallery of drunken failures like Mr. Lionstone.]]></en>
-              <de><![CDATA[Das Schloss hat diesen Laden geduldet, auch wenn er nicht mehr als eine Galerie armseliger Trunkenbolde wie Herrn Lionstone ist. ]]></de>
+              <en><![CDATA[The Castle has supported this place even though at its best it is little more than a gallery of drunken failures ... like Mr. Lionstone.]]></en>
+              <de><![CDATA[Das Schloss hat diesen Laden geduldet, auch wenn er nicht mehr als eine Galerie armseliger Trunkenbolde wie Herrn Lionstone ist.]]></de>
             </dia>
             <dia puppet="lionstone" frame="rest" sound="voice/inn_voice.swf:inn0629">
               <en><![CDATA[At your service.]]></en>
               <de><![CDATA[Zu Ihren Diensten.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0630">
-              <en><![CDATA[Now, Mr. Trelawney, I have to tell you that a decision about your father’s estate can only be made by the Baron.]]></en>
-              <de><![CDATA[Also, Herr Trelawney, ich muss Ihnen mitteilen, dass eine Entscheidung über den Nachlass Ihres Vaters nur vom Baron getroffen werden kann.]]></de>
+              <en><![CDATA[Now Mr. Trelawney, I have to tell you that a decision about your father’s estate can only be made by the Baron.]]></en>
+              <de><![CDATA[Also Herr Trelawney, ich muss Ihnen mitteilen, dass eine Entscheidung über den Nachlass Ihres Vaters nur vom Baron getroffen werden kann.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0631">
-              <en><![CDATA[There is no use in asking for the help of Mr Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
+              <en><![CDATA[There is no use in asking for the help of Mr. Lionstone, or any other sorry creature that seeks the warmth of this place and the intoxicating effects of its cheapest liquor.]]></en>
               <de><![CDATA[Es ist sinnlos, Herrn Lionstone oder eine andere, ähnlich bemitleidenswerte Kreatur, die hier Unterschlupf und die berauschende Wirkung billigsten Alkohols sucht, um Hilfe zu bitten.]]></de>
             </dia>
           </dialog>
@@ -5769,11 +5769,11 @@
               <de><![CDATA[Von Herrn Lionstone, ich weiß.]]></de>
             </dia>
             <dia puppet="cain" frame="lspeak" sound="voice/inn_voice.swf:inn0536">
-              <en><![CDATA[I was impressed by his ability to lick a stamp and affix it on an envelope when I reviewed the letter amongst the outgoing post.]]></en>
+              <en><![CDATA[I was impressed by his ability to lick a stamp and affix it on an envelope, when I reviewed the letter amongst the outgoing post.]]></en>
               <de><![CDATA[Als ich den Brief in der Post entdeckte, war ich zugegebenermaßen beeindruckt, dass es ihm gelungen ist, eine Briefmarke zu befeuchten und auf einen Umschlag zu kleben.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0537">
-              <en><![CDATA[Ever since I’ve come to Ravenhollow I’ve found Lionstone’s most remarkable characteristic to be his lack of vision.]]></en>
+              <en><![CDATA[Ever since I’ve come to Ravenhollow, I’ve found Lionstone’s most remarkable characteristic to be his lack of vision.]]></en>
               <de><![CDATA[Seitdem ich hier in Ravenhollow bin, dachte ich, dass Lionstones besondere Charaktereigenschaft sein Mangel an Weitsicht wäre.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0538">
@@ -5804,11 +5804,11 @@
               <de><![CDATA[Von Herrn Lionstone, ich weiß.]]></de>
             </dia>
             <dia puppet="cain" frame="lspeak" sound="voice/inn_voice.swf:inn0634">
-              <en><![CDATA[I was impressed by his ability to lick a stamp and affix it on an envelope when I reviewed the letter amongst the outgoing post.]]></en>
+              <en><![CDATA[I was impressed by his ability to lick a stamp and affix it on an envelope, when I reviewed the letter amongst the outgoing post.]]></en>
               <de><![CDATA[Als ich den Brief in der Post entdeckte, war ich zugegebenermaßen beeindruckt, dass es ihm gelungen ist, eine Briefmarke zu befeuchten und auf einen Umschlag zu kleben.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0635">
-              <en><![CDATA[Ever since I’ve come to Ravenhollow I’ve found Lionstone’s most remarkable characteristic to be his lack of vision.]]></en>
+              <en><![CDATA[Ever since I’ve come to Ravenhollow, I’ve found Lionstone’s most remarkable characteristic to be his lack of vision.]]></en>
               <de><![CDATA[Seitdem ich hier in Ravenhollow bin, dachte ich, dass Lionstones besondere Charaktereigenschaft sein Mangel an Weitsicht wäre.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0636">
@@ -5839,11 +5839,11 @@
               <de><![CDATA[Von Herrn Lionstone, ich weiß.]]></de>
             </dia>
             <dia puppet="cain" frame="lspeak" sound="voice/inn_voice.swf:inn0639">
-              <en><![CDATA[I was impressed by his ability to lick a stamp and affix it on an envelope when I reviewed the letter amongst the outgoing post.]]></en>
+              <en><![CDATA[I was impressed by his ability to lick a stamp and affix it on an envelope, when I reviewed the letter amongst the outgoing post.]]></en>
               <de><![CDATA[Als ich den Brief in der Post entdeckte, war ich zugegebenermaßen beeindruckt, dass es ihm gelungen ist, eine Briefmarke zu befeuchten und auf einen Umschlag zu kleben.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0640">
-              <en><![CDATA[Ever since I’ve come to Ravenhollow I’ve found Lionstone’s most remarkable characteristic to be his lack of vision.]]></en>
+              <en><![CDATA[Ever since I’ve come to Ravenhollow, I’ve found Lionstone’s most remarkable characteristic to be his lack of vision.]]></en>
               <de><![CDATA[Seitdem ich hier in Ravenhollow bin, dachte ich, dass Lionstones besondere Charaktereigenschaft sein Mangel an Weitsicht wäre.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0641">
@@ -5900,11 +5900,11 @@
               <de><![CDATA[Wie wäre es mit dieser Frage: Was haben Sie mit Dr. Coppelius gemacht?]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0532">
-              <en><![CDATA[Dr. Coppelius is enjoying the hospitality of Baron Northwest at the Castle. ]]></en>
+              <en><![CDATA[Dr. Coppelius is enjoying the hospitality of Baron Northwest at the Castle.]]></en>
               <de><![CDATA[Dr. Coppelius genießt auf dem Schloss die Gastfreundschaft von Baron Nordwest.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0533">
-              <en><![CDATA[Now it’s your turn to answer. What are you doing in Ravenhollow Mr. Trelawney? ]]></en>
+              <en><![CDATA[Now it’s your turn to answer. What are you doing in Ravenhollow, Mr. Trelawney?]]></en>
               <de><![CDATA[Und jetzt erwarte ich im Gegenzug eine Antwort von Ihnen. Was machen Sie in Ravenhollow, Herr Trelawney?]]></de>
             </dia>
           </dialog>
@@ -5964,11 +5964,11 @@
               <de><![CDATA[Wie wäre es mit dieser Frage: was haben Sie mit Dr. Coppelius gemacht?]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0650">
-              <en><![CDATA[Dr. Coppelius is enjoying the hospitality of Baron Northwest at the Castle. ]]></en>
+              <en><![CDATA[Dr. Coppelius is enjoying the hospitality of Baron Northwest at the Castle.]]></en>
               <de><![CDATA[Dr. Coppelius genießt die Gastfreundschaft von Baron Nordwest auf dem Schloss.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0651">
-              <en><![CDATA[Now it’s your turn to answer. What are you doing in Ravenhollow Mr. Trelawney? ]]></en>
+              <en><![CDATA[Now it’s your turn to answer. What are you doing in Ravenhollow, Mr. Trelawney?]]></en>
               <de><![CDATA[Und jetzt erwarte ich im Gegenzug eine Antwort von Ihnen. Was machen Sie in Ravenhollow, Herr Trelawney?]]></de>
             </dia>
           </dialog>
@@ -6028,11 +6028,11 @@
               <de><![CDATA[Wie wäre es mit dieser Frage: Was haben Sie mit Dr. Coppelius gemacht?]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0660">
-              <en><![CDATA[Dr. Coppelius is enjoying the hospitality of Baron Northwest at the Castle. ]]></en>
+              <en><![CDATA[Dr. Coppelius is enjoying the hospitality of Baron Northwest at the Castle.]]></en>
               <de><![CDATA[Dr. Coppelius genießt auf dem Schloss die Gastfreundschaft von Baron Nordwest.]]></de>
             </dia>
             <dia puppet="cain" frame="" sound="voice/inn_voice.swf:inn0661">
-              <en><![CDATA[Now it’s your turn to answer. What are you doing in Ravenhollow Mr. Trelawney? ]]></en>
+              <en><![CDATA[Now it’s your turn to answer. What are you doing in Ravenhollow, Mr. Trelawney?]]></en>
               <de><![CDATA[Und jetzt erwarte ich im Gegenzug eine Antwort von Ihnen. Was machen Sie in Ravenhollow, Herr Trelawney?]]></de>
             </dia>
           </dialog>

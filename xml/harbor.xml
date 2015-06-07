@@ -5094,7 +5094,7 @@
                   <de><![CDATA[Ah, die salzige See und der raue Wind waren einfach wundervoll, nicht wahr? Wie die Zeit vergeht ... es ist bereits Nacht!]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0376">
-                  <en><![CDATA[Each time of day is different, and has its own charms.<br> Why, I’ll often pass the time just to feel bright sunlight or cool night air ...]]></en>
+                  <en><![CDATA[Each time of day is different, and has its own charms. Why, I’ll often pass the time just to feel bright sunlight or cool night air ...]]></en>
                   <de><![CDATA[Jede Tageszeit ist anders und hat ihren eigenen Charme. Manchmal kann ich es nicht abwarten, das grelle Sonnenlicht oder die Nachtluft zu genießen. Daher versuche ich, mir die Zeit bis dahin zu vertreiben ...]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0377">
@@ -5126,7 +5126,7 @@
                   <de><![CDATA[In der Nacht sollten Ihnen die Schlossbeamten nicht zu viele Schwierigkeiten machen.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0384">
-                  <en><![CDATA[I hid a spare key to the boathouse chest in that Ship-in-a-Bottle next to my desk.]]></en>
+                  <en><![CDATA[I hid a spare key to the boathouse chest in that ship-in-a-bottle next to my desk.]]></en>
                   <de><![CDATA[Ich habe den Ersatzschlüssel für die Bootshaustruhe im Buddelschiff neben meinem Schreibtisch versteckt.]]></de>
                 </dia>
                 <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0385">
@@ -6799,7 +6799,7 @@
               <de><![CDATA[In der Nacht sollten Ihnen die Schlossbeamten nicht zu viele Schwierigkeiten machen.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0384">
-              <en><![CDATA[I hid a spare key to the boathouse chest in that Ship-in-a-Bottle next to my desk.]]></en>
+              <en><![CDATA[I hid a spare key to the boathouse chest in that ship-in-a-bottle next to my desk.]]></en>
               <de><![CDATA[Ich habe den Ersatzschlüssel für die Bootshaustruhe im Buddelschiff neben meinem Schreibtisch versteckt.]]></de>
             </dia>
             <dia puppet="wavetamer" frame="" sound="voice/harbor_voice.swf:harbor0521">
