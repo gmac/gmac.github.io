@@ -3442,8 +3442,8 @@
               <de><![CDATA[Sehen wir uns das aktuelle Dia nochmal an ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/smith_voice.swf:smith0140">
-              <en><![CDATA[&#8222;Sebastian Zygmunt and Steven LeMue LaFayette find Von Sternberg in pain&#8220;]]></en>
-              <de><![CDATA[&#8222;Sebastian Zygmunt und Steven LeMue LaFayette finden Von Sternberg verletzt vor&#8220;]]></de>
+              <en><![CDATA[&#8222;Sebastian Zygmunt and Steven LeMue-LaFayette find Von Sternberg in pain&#8220;]]></en>
+              <de><![CDATA[&#8222;Sebastian Zygmunt und Steven LeMue-LaFayette finden Von Sternberg verletzt vor&#8220;]]></de>
             </dia>
             <dia puppet="_avatar" frame="hspeak" sound="voice/smith_voice.swf:smith0141">
               <en><![CDATA[Gosh, I wonder what happened ...]]></en>
@@ -3526,8 +3526,8 @@
               <de><![CDATA[Sehen wir uns das nächste Dia an ...]]></de>
             </dia>
             <dia puppet="_avatar" frame="" sound="voice/smith_voice.swf:smith0105">
-              <en><![CDATA[&#8222;Sebastian Zygmunt and Steven LeMue LaFayette find Von Sternberg in pain&#8220;]]></en>
-              <de><![CDATA[&#8222;Sebastian Zygmunt und Steven LeMue LaFayette finden Von Sternberg verletzt vor&#8220;]]></de>
+              <en><![CDATA[&#8222;Sebastian Zygmunt and Steven LeMue-LaFayette find Von Sternberg in pain&#8220;]]></en>
+              <de><![CDATA[&#8222;Sebastian Zygmunt und Steven LeMue-LaFayette finden Von Sternberg verletzt vor&#8220;]]></de>
             </dia>
             <dia puppet="_avatar" frame="hspeak" sound="voice/smith_voice.swf:smith0106">
               <en><![CDATA[Gosh, I wonder what happened ...]]></en>

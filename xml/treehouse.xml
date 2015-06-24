@@ -381,6 +381,7 @@
                 <method call="controls" enabled="1" />
                 <dialogue playList="0,1,2,3" />
                 <layerState target="_current:_avatar:main" turnView="5" />
+                <wait ms="400" />
                 <dialogue playList="4" />
               </script>
             </action>

@@ -1404,6 +1404,7 @@
                     <logic>
                       <if eval="[nighttime] NE 1">
                         <dialogue playList="12" />
+                        <wait ms="400" />
                         <puppet target="hammock" callAction="3" />
                       </if>
                       <else>

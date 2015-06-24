@@ -1420,7 +1420,7 @@
                   <de><![CDATA[Ich bin zwar kein Rundfunktechniker, aber ich schätze die Situation so ein ...]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney_voice.swf:trelawney0032">
-                  <en><![CDATA[Judging by the sparks flying from that broken radio bulb I guess I will have to replace the bulb to make the radio work.]]></en>
+                  <en><![CDATA[Judging by the sparks flying from that broken radio tube, I guess I will have to replace the tube to make the radio work.]]></en>
                   <de><![CDATA[Den Funken nach, die aus dem kaputten Funkgerät fliegen, würde ich vermuten, dass ich die Glühbirne auswechseln muss, damit es wieder funktioniert. ]]></de>
                 </dia>
               </dialog>
@@ -1444,7 +1444,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney_voice.swf:trelawney0033">
-                  <en><![CDATA[I will replace the broken bulb with the one I got from Webb.]]></en>
+                  <en><![CDATA[I will replace the broken tube with the one I got from Webb.]]></en>
                   <de><![CDATA[Ich werde die kaputte Röhre gegen die austauschen, die ich von Webb bekommen habe.]]></de>
                 </dia>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney_voice.swf:trelawney0034">
@@ -2157,7 +2157,7 @@
               </title>
               <dialog>
                 <dia puppet="_avatar" frame="" sound="voice/trelawney_voice.swf:trelawney0085">
-                  <en><![CDATA[I will remove the broken bulb when I have a new one to replace it with.]]></en>
+                  <en><![CDATA[I will remove the broken tube when I have a new one to replace it with.]]></en>
                   <de><![CDATA[Ich werde die kaputte Röhre rausschrauben, wenn ich eine neue als Ersatz habe.]]></de>
                 </dia>
               </dialog>
