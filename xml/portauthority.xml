@@ -1990,6 +1990,7 @@
                 <layer target="_current:globe" state="malabo" />
                 <layerSprite target="_avatar" animFrame="reach_in" waitForComplete="1" />
                 <dialogue play="*" />
+                <wait ms="400" />
                 <method call="controls" enabled="1" />
                 <puppet target="globe" callItemAction="kettle3" />
               </script>

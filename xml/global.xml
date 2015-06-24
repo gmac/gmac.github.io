@@ -3099,10 +3099,13 @@
         </dialog>
         <script>
           <dialogue playList="0" />
+          <wait ms="400" />
           <inventory replace="envelope:envelope2" />
           <dialogue playList="1" />
+          <wait ms="400" />
           <inventory add="slides" />
           <dialogue playList="2" />
+          <wait ms="400" />
           <inventory target="rings" add="ring_smith" />
           <flash stageEvent="updateRings" />
           <dialogue playList="3" />

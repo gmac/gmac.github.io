@@ -782,6 +782,7 @@
                 <inventory display="hide" />
                 <wait seconds="1" />
                 <dialogue playList="11,12,13" />
+                <wait ms="400" />
                 <puppetTween target="_avatar" type="turn" to="view:5" />
                 <dialogue playList="14" />
                 <wait seconds="1" />
