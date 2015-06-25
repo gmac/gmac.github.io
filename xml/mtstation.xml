@@ -159,6 +159,7 @@
       </logic>
       <logic>
         <if eval="[mtstation_visited] NE 1">
+          <inventory remove="shirt2,lighthouse_key" />
           <cache field="mtstation_visited" value="1" />
           <method call="controls" enabled="0" cursor="1" />
           <ui load="ui_acttitle" display="hide" tween="0" />
