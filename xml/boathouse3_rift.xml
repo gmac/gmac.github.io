@@ -1669,6 +1669,7 @@
                   <layerState target="_current:_avatar:main" turnView="4" />
                   <puppetTween target="nigel" type="move" to="position:join_docks" waitForComplete="1" />
                   <dialogue playList="14,15" />
+                  <wait ms="400" />
                   <layerState target="_current:nigel:main" turnView="6" />
                   <dialogue playList="16" />
                   <puppetTween target="nigel" type="move" to="position:shroom" waitForComplete="1" />
@@ -1725,6 +1726,7 @@
                   <puppetTween target="nigel" type="move" to="position:nigel_nora" waitForComplete="1" />
                   <layerState target="_current:nigel:main" turnView="6" />
                   <dialogue playList="35,36" />
+                  <wait ms="400" />
                   <layerState target="_current:nigel:main" turnView="5" />
                   <dialogue playList="37,38" />
                 </sequence>

@@ -2689,6 +2689,7 @@
                   <layerSprite target="train" animFrame="closing" waitForComplete="1" />
                   <layer target="_current:train" state="there" />
                   <dialogue playList="4" />
+                  <wait ms="400" />
                   <layerState target="_current:_avatar:main" turnView="6" />
                   <dialogue playList="5" />
                   <puppetTween target="nora" type="move" to="position:nora1" waitForComplete="1" />

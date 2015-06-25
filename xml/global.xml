@@ -11548,8 +11548,10 @@
           <cursor item="" />
           <dialogue playBatch="1" />
           <inventory replace="power_connector1:power_connector2" />
+          <wait ms="400" />
           <dialogue playBatch="2" />
           <inventory remove="handlebar" replace="power_connector2:power_connector3" />
+          <wait ms="400" />
           <dialogue play="*" />
         </script>
       </action>

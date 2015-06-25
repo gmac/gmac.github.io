@@ -1131,7 +1131,7 @@
                   <de><![CDATA[Deshalb haben wir ein viel größeres blitzbetriebenes Gerät auf dem Mount Misery gebaut. Vincent wird versuchen, dort einen Riss zu erschaffen und der wird viel mehr Potenzial haben.]]></de>
                 </dia>
                 <dia puppet="coppelius" frame="speak4" sound="voice/swamp3_voice.swf:swamp30072">
-                  <en><![CDATA[Still, this prototype should allow us to go back just far enough to retrieve that photograph from Nigel Trelawney ... on the day he met Nathan and I on the Ravenhollow docks.]]></en>
+                  <en><![CDATA[Still, this prototype should allow us to go back just far enough to retrieve that photograph from Nigel Trelawney ... on the day he met Nathan and me on the Ravenhollow docks.]]></en>
                   <de><![CDATA[Dennoch sollte dieser Prototyp uns erlauben, so weit zu reisen, dass wir das Foto von Nigel Trelawney bekommen ... an dem Tag, an dem er Nathan und mich an den Docks von Ravenhollow traf.]]></de>
                 </dia>
                 <dia puppet="slappy" frame="speak6" sound="voice/swamp3_voice.swf:swamp30070">
@@ -1531,6 +1531,7 @@
                 <cache field="TRA_lookat" add="tiki prisms" />
                 <scriptParse><![CDATA[<scriptCall room="riftBuild" status="%*{renderCacheList:TRA_status,1,_}*%"/>]]></scriptParse>
                 <dialogue playList="0,1,2,3,5,6,7,8,9,10" />
+                <wait ms="400" />
                 <logic>
                   <if eval="{countCacheList:TRA_status} EQ 3">
                     <puppet target="coppelius" callAction="3" />
@@ -1586,6 +1587,7 @@
                 <cache field="TRA_lookat" add="foil plates" />
                 <scriptParse><![CDATA[<scriptCall room="riftBuild" status="%*{renderCacheList:TRA_status,1,_}*%"/>]]></scriptParse>
                 <dialogue playList="0,1,2,3,4,5" />
+                <wait ms="400" />
                 <logic>
                   <if eval="{countCacheList:TRA_status} EQ 3">
                     <puppet target="coppelius" callAction="3" />
@@ -1629,6 +1631,7 @@
                 <cache field="TRA_lookat" add="a propeller" />
                 <scriptParse><![CDATA[<scriptCall room="riftBuild" status="%*{renderCacheList:TRA_status,1,_}*%"/>]]></scriptParse>
                 <dialogue playList="0,1,2" />
+                <wait ms="400" />
                 <logic>
                   <if eval="{countCacheList:TRA_status} EQ 3">
                     <puppet target="coppelius" callAction="3" />

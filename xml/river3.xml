@@ -215,7 +215,7 @@
                   <de><![CDATA[Schnell! Tu so, als ob du ihn nicht kennst!]]></de>
                 </dia>
                 <dia puppet="guard" frame="hspeak" sound="voice/river3_voice.swf:river30007">
-                  <en><![CDATA[I don’t know him. I really don’t know him ... ]]></en>
+                  <en><![CDATA[I don’t know him. I really don’t know him ...]]></en>
                   <de><![CDATA[Aber ich kenne ihn nicht. Ich kenne ihn wirklich nicht.]]></de>
                 </dia>
                 <dia puppet="guard" frame="hspeak" sound="voice/river3_voice.swf:river30008">
@@ -256,6 +256,7 @@
                 <dialogue playList="0" />
                 <layerState target="_current:manbreaker:main" turnView="6" />
                 <dialogue playList="1,2,3" />
+                <wait ms="400" />
                 <layerState target="_current:manbreaker:main" turnView="4" />
                 <dialogue playList="4,5,6,7,8,9,10,11" />
                 <puppetTween target="manbreaker" type="move" to="position:join_world" waitForComplete="1" />
@@ -714,7 +715,7 @@
                   <layerSprite target="guard" animFrame="collapse" waitForComplete="1" />
                   <layerSprite target="guard" animFrame="rest3" waitForComplete="0" />
                   <dialogue playList="0,1" />
-                  <wait seconds="5" />
+                  <wait seconds="9" />
                   <logic eval="{hasItem:_current,chest_loot} EQ false">
                     <layer target="_current:strongbox" state="guarded" />
                   </logic>
