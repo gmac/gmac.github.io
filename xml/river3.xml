@@ -715,7 +715,7 @@
                   <layerSprite target="guard" animFrame="collapse" waitForComplete="1" />
                   <layerSprite target="guard" animFrame="rest3" waitForComplete="0" />
                   <dialogue playList="0,1" />
-                  <wait seconds="9" />
+                  <wait seconds="8" />
                   <logic eval="{hasItem:_current,chest_loot} EQ false">
                     <layer target="_current:strongbox" state="guarded" />
                   </logic>
