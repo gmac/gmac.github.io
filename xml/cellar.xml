@@ -158,12 +158,12 @@
                 </dia>
               </dialog>
               <script>
-                <method call="controls" enabled="0" cursor="0" />
+                <method call="controls" enabled="0" />
                 <dialogue playList="0,1" />
                 <wait seconds="2" />
                 <layerState target="_current:_avatar:main" turnView="5" />
                 <dialogue playList="2" />
-                <method call="controls" enabled="1" cursor="1" />
+                <method call="controls" enabled="1" />
               </script>
             </action>
             <action id="act2">
@@ -646,12 +646,12 @@
                 </dia>
               </dialog>
               <script>
-                <method call="controls" enabled="0" cursor="0" />
+                <method call="controls" enabled="0" />
                 <dialogue playList="0" />
                 <layerState target="_current:_avatar:main" turnView="5" />
                 <wait seconds="2" />
                 <dialogue playList="1" />
-                <method call="controls" enabled="1" cursor="1" />
+                <method call="controls" enabled="1" />
               </script>
             </action>
             <action id="act1">

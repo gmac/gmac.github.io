@@ -86,13 +86,13 @@
           <method call="controls" enabled="1" cursor="1" />
         </if>
         <elseif eval="[act3_done] EQ 1">
-          <method call="controls" enabled="0" cursor="0" />
+          <method call="controls" enabled="0" />
           <curtain blackout="0" waitForComplete="1" />
           <puppet target="dia2" callAction="1" />
         </elseif>
         <elseif eval="([boathouserift_visited] NE 1) AND  ([act3_done] NE 1)">
           <cache field="boathouserift_visited" value="1" />
-          <method call="controls" enabled="0" cursor="0" />
+          <method call="controls" enabled="0" />
           <layerSprite target="_avatar" animFrame="gone" waitForComplete="0" />
           <curtain blackout="0" waitForComplete="1" />
           <wait seconds="3" />

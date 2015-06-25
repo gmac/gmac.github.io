@@ -814,26 +814,28 @@
                 </dia>
               </dialog>
               <script>
-                <method call="controls" enabled="0" cursor="0" />
-                <dialogue playList="0" />
-                <sound effect="lib/sound_effects.swf:pock2" waitForComplete="0" />
-                <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
-                <layerSprite target="manbreaker" animFrame="act3rift" waitForComplete="0" />
-                <wait seconds="1" />
-                <dialogue playList="1,2" />
-                <sound effect="lib/sound_effects.swf:pock2" waitForComplete="0" />
-                <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
-                <wait seconds="1" />
-                <layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1" />
-                <sound effect="lib/sound_effects.swf:pock1" waitForComplete="1" />
-                <sound effect="lib/sound_effects.swf:box1" waitForComplete="0" />
-                <layerSprite target="nigel" animFrame="nigel_ko2" waitForComplete="1" />
-                <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
-                <layerSprite target="shroom" animFrame="tag_growl_bark" waitForComplete="1" />
-                <layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1" />
-                <dialogue playList="3,4,5" />
-                <layer target="_current:barrel" visible="1" />
-                <layerSprite target="barrel" animFrame="throw" waitForComplete="1" />
+                <sequence skip="1">
+                  <method call="controls" enabled="0" />
+                  <dialogue playList="0" />
+                  <sound effect="lib/sound_effects.swf:pock2" waitForComplete="0" />
+                  <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+                  <layerSprite target="manbreaker" animFrame="act3rift" waitForComplete="0" />
+                  <wait seconds="1" />
+                  <dialogue playList="1,2" />
+                  <sound effect="lib/sound_effects.swf:pock2" waitForComplete="0" />
+                  <layerSprite target="manbreaker" animFrame="being hit" waitForComplete="1" />
+                  <wait seconds="1" />
+                  <layerSprite target="manbreaker" animFrame="hit_out" waitForComplete="1" />
+                  <sound effect="lib/sound_effects.swf:pock1" waitForComplete="1" />
+                  <sound effect="lib/sound_effects.swf:box1" waitForComplete="0" />
+                  <layerSprite target="nigel" animFrame="nigel_ko2" waitForComplete="1" />
+                  <sound effect="lib/sound_effects.swf:dogBark" waitForComplete="0" />
+                  <layerSprite target="shroom" animFrame="tag_growl_bark" waitForComplete="1" />
+                  <layerSprite target="manbreaker" animFrame="hit_in" waitForComplete="1" />
+                  <dialogue playList="3,4,5" />
+                  <layer target="_current:barrel" visible="1" />
+                  <layerSprite target="barrel" animFrame="throw" waitForComplete="1" />
+                </sequence>
                 <cache field="act3_done" value="1" />
                 <game room="boathouse3_rift:join_docks" />
               </script>

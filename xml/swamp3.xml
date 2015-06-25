@@ -105,7 +105,7 @@
         <if eval="[act3_done] EQ 1">
           <layer target="_current:nora2" state="main" />
           <layer target="_current:nora2" visible="0" />
-          <method call="controls" enabled="0" cursor="0" />
+          <method call="controls" enabled="0" />
           <ui load="ui_photo" display="hide" tween="0" />
           <layerSprite target="TRA" animFrame="TRAreturn_rift" waitForComplete="0" />
           <layer target="_current:nora2" state="TRA2" />
